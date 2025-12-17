@@ -243,39 +243,49 @@ This book argues that:
    - Start at $500/month, scale based on automation metrics
    - Study effects on work, wellbeing, economic activity
 
-6. **Robot Tax Framework**
+6. **Robot Tax Framework (Automation Productivity Tax)**
    - Tax automation productivity gains to fund worker support
    - Revenue-neutral: Offset with reduced payroll taxes for human workers
    - Create incentive structure for human-AI collaboration over replacement
+   - Graduated implementation: 5% → 10% → 15% over 7 years
+   - Small business exemptions (under 100 employees)
 
-7. **Portable Benefits System**
+7. **Data Dividend Tax**
+   - Treat user data as a natural resource citizens own
+   - Require data-extracting companies to pay royalties into National Data Fund
+   - Annual Data Dividend payments to all citizens (Alaska Permanent Fund model)
+   - Tiered rates by data type: behavioral ($2/user/year) → biometric ($15/user/year)
+   - AI Training Data Royalty: 1% of commercial AI revenue to creators
+   - Mandatory dataset disclosure for all commercial AI models
+
+8. **Portable Benefits System**
    - Decouple healthcare, retirement, and training from employment
    - Create individual benefit accounts that follow workers
    - Enable gig economy, entrepreneurship, and career transitions
 
-8. **Regional Economic Transition Zones**
+9. **Regional Economic Transition Zones**
    - Identify areas most vulnerable to automation displacement
    - Targeted investment in infrastructure, education, new industries
    - Relocation assistance for workers in devastated areas
 
 **Long-term Policies (2030+):**
 
-9. **Universal Basic Income Expansion**
-   - Scale UBI to $1,500-2,000/month as automation accelerates
-   - Fund through automation dividend, carbon tax, wealth tax combination
-   - Adjust based on regional cost of living
+10. **Universal Basic Income Expansion**
+    - Scale UBI to $1,500-2,000/month as automation accelerates
+    - Fund through automation dividend, data dividend, carbon tax, wealth tax
+    - Adjust based on regional cost of living
 
-10. **Sovereign Wealth Fund for Citizens**
+11. **Sovereign Wealth Fund for Citizens**
     - Create national fund investing in AI/automation companies
     - Distribute returns as citizen dividend
     - Give every American a stake in technological progress
 
-11. **Work Week Reduction**
+12. **Work Week Reduction**
     - Gradual reduction to 32-hour, then 28-hour standard work weeks
     - Maintain salary levels through productivity gains
     - Spread remaining work across more people
 
-12. **Universal Basic Services**
+13. **Universal Basic Services**
     - Guarantee housing, healthcare, education, transportation, internet
     - Reduce need for cash income
     - Enable human flourishing outside traditional employment

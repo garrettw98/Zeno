@@ -20,6 +20,7 @@ Inspired by Andrew Yang's warnings about automation and universal basic income, 
 
 - `BOOK_FRAMEWORK.md` - Complete book outline with chapter structure, themes, and policy proposals
 - `RESEARCH_NOTES.md` - Current data, statistics, and sourced citations from December 2025
+- `POLICY_DEEP_DIVE.md` - Comprehensive analysis of the Robot Tax and Data Tax framework
 
 ## Core Thesis
 
@@ -32,7 +33,8 @@ This book argues for proactive policy—not reactive crisis management—to ensu
 **The Yin (Protection):**
 - Automation Impact Disclosure
 - Displaced Worker Support
-- Robot Tax Framework
+- Robot Tax Framework (Automation Productivity Tax)
+- Data Dividend Tax (User Data as Natural Resource)
 - Universal Basic Income
 
 **The Yang (Opportunity):**
@@ -40,6 +42,7 @@ This book argues for proactive policy—not reactive crisis management—to ensu
 - Lifelong Learning Accounts
 - Care Economy Investment
 - Automation Dividend Fund
+- AI Training Data Royalties for Creators
 
 ---
 
