@@ -137,12 +137,25 @@ This book argues that:
 - **Biology**: Protein folding solved, synthetic biology, longevity research
 - The Nobel Prize question: When AI makes the discoveries
 
+### Chapter 9: The Blockchain Revolution
+*Trust infrastructure for the post-truth age*
+
+- **The deepfake crisis**: 133 disinformation campaigns in 2024, elections compromised
+- **Blockchain as verification**: Immutable provenance, content authenticity
+- **Current implementations**: Content Authenticity Initiative, Fox Verify, NYT Provenance Project
+- **Decentralized identity**: Self-sovereign identity, Dubai's paperless government
+- **Supply chain authenticity**: Pharmaceuticals, food safety, counterfeit prevention
+- **Blockchain voting**: Estonia's success, security and transparency
+- **Sound money**: Bitcoin as hedge against monetary debasement
+- **The Strategic Bitcoin Reserve**: Trump's March 2025 Executive Order
+- **Lessons from El Salvador**: Why mandates fail, how incentives succeed
+
 ---
 
 ## PART THREE: THE ECONOMIC EARTHQUAKE
 ### Understanding the Magnitude of Change
 
-### Chapter 9: The Job Apocalypse—Real Numbers
+### Chapter 10: The Job Apocalypse—Real Numbers
 *Data-driven projections*
 
 - Historical comparison: Previous industrial revolutions' displacement curves
@@ -153,7 +166,7 @@ This book argues that:
 - The pessimistic case: Structural unemployment, skill mismatches
 - The realistic case: Massive displacement with uneven recovery
 
-### Chapter 10: The Inequality Accelerator
+### Chapter 11: The Inequality Accelerator
 *How automation concentrates wealth*
 
 - Capital vs. labor: The fundamental shift in economic power
@@ -163,7 +176,7 @@ This book argues that:
 - Age dynamics: Older workers face impossible retraining demands
 - The wealth gap projections: What happens when robots work and humans don't
 
-### Chapter 11: The GDP Paradox
+### Chapter 12: The GDP Paradox
 *Growth without prosperity*
 
 - How AI could boost productivity while impoverishing workers
@@ -177,7 +190,7 @@ This book argues that:
 ## PART FOUR: THE POLITICAL RECKONING
 ### Why Our Institutions Are Unprepared
 
-### Chapter 12: The Failure of Incrementalism
+### Chapter 13: The Failure of Incrementalism
 *Why traditional policy responses won't work*
 
 - Job training programs: The retraining myth examined
@@ -186,7 +199,7 @@ This book argues that:
 - The speed mismatch: Legislative cycles vs. technological advancement
 - Regulatory capture: How companies shape their own oversight
 
-### Chapter 13: The Yang Prescription
+### Chapter 14: The Yang Prescription
 *Examining Universal Basic Income*
 
 - Andrew Yang's Freedom Dividend proposal: $1,000/month for every adult
@@ -197,7 +210,7 @@ This book argues that:
 - The criticisms: Work incentives, dignity, dependency
 - Beyond UBI: Universal Basic Services, Negative Income Tax, Job Guarantees
 
-### Chapter 14: The Political Divide on Automation
+### Chapter 15: The Political Divide on Automation
 *How Left and Right see the challenge differently*
 
 - **Conservative perspectives**: Free market adaptation, deregulation, individual responsibility
@@ -212,7 +225,7 @@ This book argues that:
 ## PART FIVE: THE POLICY FRAMEWORK
 ### A Balanced Approach to the Automation Age
 
-### Chapter 15: The Yin—Protecting Against the Downsides
+### Chapter 16: The Yin—Protecting Against the Downsides
 
 **Immediate Policies (2025-2027):**
 
@@ -290,7 +303,7 @@ This book argues that:
     - Reduce need for cash income
     - Enable human flourishing outside traditional employment
 
-### Chapter 16: The Yang—Embracing the Potential
+### Chapter 17: The Yang—Embracing the Potential
 
 **Innovation Acceleration:**
 
@@ -348,12 +361,51 @@ This book argues that:
     - Plan for changing tax base and benefit needs
     - Long-term solvency modeling including automation effects
 
+**Blockchain & Monetary Freedom:**
+
+11. **National Authenticity Infrastructure**
+    - Blockchain-verified provenance for all government communications
+    - Combat deepfakes with immutable verification
+    - Legal evidentiary status for blockchain-verified content
+    - $500 million R&D investment in verification technology
+
+12. **Blockchain Voting Option**
+    - Pilot programs for overseas military and accessibility needs
+    - Federal grants for states implementing blockchain voting
+    - Zero-knowledge proofs for ballot secrecy with verification
+    - Paper backup maintained throughout transition
+
+13. **Self-Sovereign Digital Identity**
+    - Voluntary blockchain-based national digital ID
+    - Citizens control their data, selective disclosure
+    - Integration with government services
+    - Privacy protections—no central surveillance database
+
+14. **Sound Money Transition Framework**
+    - Bitcoin and approved crypto as legal tender (voluntary acceptance)
+    - No capital gains tax on crypto purchases under $10,000
+    - Sound Money Savings Accounts (tax-advantaged Bitcoin holdings)
+    - Strategic Bitcoin Reserve expansion (target: 1 million BTC)
+
+15. **Stablecoin Standards**
+    - 100% reserve requirements for approved stablecoins
+    - American Digital Dollar (ADD)—private, regulated, privacy-preserving
+    - Consumer protections and redemption guarantees
+    - Alternative to surveillance-enabling CBDCs
+
+16. **Gradual Dollar Transition**
+    - Government accepts crypto for taxes and fees
+    - Optional crypto payment for federal benefits
+    - UBI payments available in stablecoin (citizen choice)
+    - 20-year voluntary transition timeline
+    - Dollar remains option—market determines winner
+
 ---
 
 ## PART SIX: THE PATH FORWARD
 ### Making This Happen
 
-### Chapter 17: The Political Strategy
+### Chapter 18: The Political Strategy
 *Building a coalition for change*
 
 - Why automation should be a winning political issue
@@ -364,7 +416,7 @@ This book argues that:
 - Engaging labor unions, business leaders, and technologists
 - The 2028 and 2032 electoral opportunities
 
-### Chapter 18: The Economic Arguments
+### Chapter 19: The Economic Arguments
 *Convincing skeptics*
 
 - Addressing the inflation concern
@@ -374,7 +426,7 @@ This book argues that:
 - The investment case: How proactive policy creates better outcomes
 - International competitiveness: How other nations are preparing
 
-### Chapter 19: The Moral Case
+### Chapter 20: The Moral Case
 *Why this matters beyond economics*
 
 - Human dignity in the age of machines
@@ -384,7 +436,7 @@ This book argues that:
 - The global perspective: Developed vs. developing nation impacts
 - Our responsibility to future generations
 
-### Chapter 20: A Vision for 2040
+### Chapter 21: A Vision for 2040
 *The future we could build*
 
 **The Optimistic Scenario:**
