@@ -326,7 +326,7 @@ This worldview will generate:
 
 ### Planned
 - [x] Meaning & purpose document (post-automation flourishing)
-- [ ] Opposition analysis document
+- [x] Opposition analysis document
 - [ ] Historical foundation document
 - [ ] Book chapters (prose)
 - [ ] Stories and case studies
