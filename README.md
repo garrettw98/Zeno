@@ -329,7 +329,7 @@ This worldview will generate:
 - [x] Opposition analysis document
 - [x] Historical foundation document
 - [ ] Book chapters (prose)
-- [ ] Stories and case studies
+- [x] Stories and case studies
 - [ ] Social media content templates
 - [ ] Model legislation drafts
 - [ ] Campaign materials
