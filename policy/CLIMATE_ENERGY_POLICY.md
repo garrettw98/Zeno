@@ -11,10 +11,14 @@ Climate change is real. The response must be equally real—not virtue signaling
 
 **The Zeno Energy Framework:**
 - **Solar and Wind:** Already cost-competitive, deploy at maximum speed
+- **Geothermal:** Enhanced Geothermal Systems unlock 24/7 clean baseload everywhere
 - **Nuclear Fission:** Small Modular Reactors as baseload backbone
 - **Nuclear Fusion:** Aggressive investment for commercial deployment by 2035
+- **Hydrogen Economy:** Green hydrogen for industry and long-duration storage
 - **AI Grid Optimization:** Intelligent systems to maximize efficiency
+- **Autonomous Transportation:** Self-driving EVs and automated transit
 - **Carbon Pricing:** Market mechanisms to accelerate transition
+- **Smart Consumption Policy:** Fair pricing that drives efficiency
 - **No Degrowth:** Reject anti-human policies that restrict prosperity
 
 ---
@@ -122,6 +126,66 @@ Renewable intermittency is solvable through storage. Current technologies:
 | 2030 | 250 GW |
 | 2035 | 500 GW |
 | 2040 | 1,000 GW |
+
+### Geothermal Energy: The Everywhere Baseload
+
+Traditional geothermal is limited to volcanic regions. **Enhanced Geothermal Systems (EGS)** change everything—drilling deep enough, clean baseload power is available *anywhere on Earth*.
+
+**Current Status (2025):**
+- EGS technology proven at DOE's FORGE facility in Utah
+- Fervo Energy's Cape Station: 500 MW project, world's largest EGS
+- 20 of 24 Phase I wells drilled, 100 MW coming online 2026
+- Capital costs: $6,000/kW (near DOE's $5,000/kW target—a decade early)
+- Princeton study: EGS could be third most significant clean energy behind solar/wind
+
+**Why Geothermal Wins:**
+
+| Advantage | Explanation |
+|-----------|-------------|
+| **24/7 Baseload** | No intermittency, no storage needed |
+| **Location Independence** | At depth, heat is everywhere |
+| **Small Footprint** | Minimal land use per MW |
+| **Long Lifespan** | 30-50 year plant life |
+| **Oil & Gas Synergy** | Leverages existing drilling expertise and workforce |
+
+**Technology Breakthroughs:**
+- Horizontal drilling and multi-stage hydraulic fracturing (adapted from oil/gas)
+- Plasma and laser-assisted drilling reducing costs
+- Superhot rock EGS (>375°C) could provide 63 TW globally—8x current world generation
+
+**Policy Framework: The American Geothermal Acceleration Act**
+
+**Pillar 1: Research & Development**
+| Program | Annual Funding |
+|---------|---------------|
+| DOE FORGE expansion | $500 million |
+| Superhot rock R&D | $300 million |
+| Drilling technology innovation | $200 million |
+| University research grants | $100 million |
+| **Total** | **$1.1 billion/year** |
+
+**Pillar 2: Deployment Incentives**
+- Production Tax Credit: $25/MWh for first 15 years
+- Investment Tax Credit: 30% of capital costs
+- Accelerated permitting: 18 months maximum
+- Federal land access for geothermal exploration
+
+**Pillar 3: Workforce Transition**
+- Oil & gas worker retraining programs
+- Drilling contractor incentives for geothermal projects
+- Geothermal engineering curriculum at 15 universities
+
+**Deployment Targets:**
+
+| Year | EGS Capacity |
+|------|-------------|
+| 2030 | 10 GW |
+| 2035 | 50 GW |
+| 2040 | 150 GW |
+| 2050 | 300 GW |
+
+**The Oil & Gas Bridge:**
+EGS represents a unique opportunity to transition fossil fuel workers and companies to clean energy. Same skills, same equipment, different fuel source. This is not about destroying the oil industry—it's about evolving it.
 
 ---
 
@@ -282,7 +346,97 @@ A single fusion plant could power a city of 1 million indefinitely using fuel fr
 
 ---
 
-## Part V: AI-Optimized Energy Systems
+## Part V: The Hydrogen Economy
+
+### Why Hydrogen Matters
+
+Some sectors cannot be electrified directly. Heavy industry, long-haul shipping, aviation, and seasonal energy storage require a chemical energy carrier. **Green hydrogen**—produced from renewable electricity—is the answer.
+
+**Applications:**
+| Sector | Hydrogen Role |
+|--------|--------------|
+| **Steel Production** | Replace coal in blast furnaces |
+| **Ammonia/Fertilizer** | Clean feedstock (currently 2% of global emissions) |
+| **Shipping** | Fuel for ocean vessels |
+| **Aviation** | Synthetic fuels, direct hydrogen aircraft |
+| **Long-Duration Storage** | Seasonal grid storage (weeks/months) |
+| **Heavy Trucking** | Fuel cell vehicles for long-haul |
+
+### Current Status (2025)
+
+**Global Infrastructure:**
+- Germany: €24B loan for 9,040 km hydrogen pipeline network
+- European Hydrogen Backbone: 33 operators building pan-European network
+- ~5,000 km hydrogen pipelines already operating globally
+- U.S. Regional Hydrogen Hubs: 7 hubs funded under Infrastructure Act
+
+**Cost Reality:**
+| Hydrogen Type | Cost ($/kg) | CO2 Intensity |
+|---------------|-------------|---------------|
+| Gray (natural gas) | $1.00-3.00 | High |
+| Blue (gas + CCS) | $2.00-4.00 | Medium |
+| Green (electrolysis) | $4.00-12.00 | Zero |
+| **Target (2035)** | **$1.00-2.00** | Zero |
+
+The cost gap is the challenge. Green hydrogen must reach cost parity with gray hydrogen to scale.
+
+**U.S. Policy Developments:**
+- IRA clean hydrogen production tax credit finalized (early 2025)
+- Hydrogen Interagency Task Force established
+- $1.7B approved for 6 Industrial Demonstration Programme projects
+
+### Hydrogen Policy Framework
+
+**The American Hydrogen Leadership Act**
+
+**Pillar 1: Production Incentives**
+
+| Hydrogen Type | Tax Credit (per kg) | Duration |
+|---------------|---------------------|----------|
+| Green (100% clean) | $3.00 | 10 years |
+| Low-carbon (<4 kg CO2/kg H2) | $1.00 | 10 years |
+| Gray | $0 | — |
+
+**Pillar 2: Infrastructure Development**
+- $20B federal investment in hydrogen pipeline network
+- Hydrogen hub expansion: 15 regional hubs by 2035
+- Blending standards: Allow hydrogen blending in natural gas pipelines
+- Storage facility development: Salt caverns, depleted wells
+
+**Pillar 3: Demand Creation**
+- Federal procurement mandate: 25% green hydrogen for federal industrial contracts by 2030
+- Steel/cement decarbonization requirements driving hydrogen demand
+- Sustainable aviation fuel mandates requiring green hydrogen feedstock
+- Tax credits for hydrogen fuel cell vehicles (heavy duty)
+
+**Pillar 4: Research & Development**
+
+| Program | Annual Funding |
+|---------|---------------|
+| Electrolyzer efficiency R&D | $500 million |
+| Hydrogen storage technology | $300 million |
+| Fuel cell advancement | $300 million |
+| Pipeline materials research | $200 million |
+| **Total** | **$1.3 billion/year** |
+
+**Deployment Targets:**
+
+| Year | Green H2 Production | Infrastructure |
+|------|---------------------|----------------|
+| 2030 | 10 million tons/year | 5,000 km pipelines |
+| 2035 | 25 million tons/year | 15,000 km pipelines |
+| 2040 | 50 million tons/year | 30,000 km pipelines |
+| 2050 | 100 million tons/year | National network |
+
+**Cost Trajectory:**
+- 2025: $4-6/kg (current green hydrogen)
+- 2030: $2-3/kg (with incentives and scale)
+- 2035: $1-2/kg (cost parity with gray)
+- 2040: <$1/kg (cheaper than fossil alternatives)
+
+---
+
+## Part VI: AI-Optimized Energy Systems
 
 ### The Intelligent Grid
 
@@ -337,9 +491,64 @@ AI data centers are driving massive energy demand growth. Policy must ensure:
 - Carbon accounting for AI operations
 - Net-positive AI requirement: AI systems must demonstrably reduce more emissions than they cause
 
+### Data Center Energy Policy
+
+The AI revolution is creating unprecedented electricity demand. This is manageable—but requires deliberate policy.
+
+**Current Reality (2025):**
+- U.S. data centers consumed 183 TWh in 2024 (4%+ of total U.S. electricity)
+- Global data center consumption: ~415 TWh (1.5% of global electricity)
+- Projected to double to 945 TWh globally by 2030
+- AI-optimized data centers: electricity use quadrupling by 2030
+- PJM market: Data centers caused $9.3B capacity price increase (2025-26)
+- Average residential bills rising $16-18/month in data center regions
+
+**The Challenge:**
+- RAND estimates AI data centers need 68 GW by 2027 (close to California's entire capacity)
+- Carnegie Mellon: Data centers could raise average U.S. electricity bills 8% by 2030
+- In high-demand markets (Northern Virginia): Bills could rise 25%+
+
+**Policy Framework: The Responsible AI Energy Act**
+
+**Pillar 1: Clean Energy Requirements**
+
+| Requirement | Timeline |
+|-------------|----------|
+| New data centers: 50% clean energy | 2027 |
+| New data centers: 80% clean energy | 2030 |
+| New data centers: 100% clean energy | 2035 |
+| Existing data centers: 100% clean energy | 2040 |
+
+**Pillar 2: Efficiency Standards**
+- Power Usage Effectiveness (PUE) standards: Maximum 1.3 by 2027, 1.2 by 2030
+- Water Usage Effectiveness (WUE) standards for cooling
+- Hardware efficiency requirements (compute per watt)
+- Waste heat recovery requirements for large facilities
+
+**Pillar 3: Siting & Grid Impact**
+- Data center siting analysis required before permitting
+- Grid impact fees for facilities above 50 MW
+- Priority siting near clean energy sources
+- Co-location with renewable/nuclear generation incentivized
+
+**Pillar 4: Transparency**
+- Annual energy consumption reporting (mandatory)
+- Carbon footprint disclosure
+- Real-time grid impact data sharing
+- Public dashboard tracking data center energy use
+
+**Pillar 5: Consumer Protection**
+- Prevent electricity rate increases from being passed solely to residential customers
+- Data centers must pay grid upgrade costs they necessitate
+- Regional electricity price impact caps
+- Low-income customer protection from rate spikes
+
+**The Trade-Off:**
+AI will consume massive energy. But AI also enables efficiency gains that can offset this consumption. The goal is ensuring AI is powered cleanly and that residential customers don't bear disproportionate costs.
+
 ---
 
-## Part VI: Carbon Pricing
+## Part VII: Carbon Pricing
 
 ### The Economic Case for Carbon Pricing
 
@@ -410,32 +619,283 @@ The carbon dividend provides additional household income while driving decarboni
 
 ---
 
-## Part VII: Sector-Specific Policies
+## Part VIII: Energy Consumption & Pricing Policy
 
-### Transportation Electrification
+### The Rate Structure Challenge
 
-**Current Status:**
-- EVs: 18% of new car sales globally (2024)
-- U.S. EV sales: ~10% of new vehicles
+**Current Reality (December 2025):**
+- Average U.S. residential rate: 18.07¢/kWh (up 7.4% year-over-year)
+- Average U.S. commercial rate: 14.06¢/kWh
+- Highest residential: Hawaii at 42.49¢/kWh
+- Lowest residential: Nevada at 11.95¢/kWh
+- California residential average: 35.3¢/kWh (post-October 2025 increase)
+
+**The Inequity:**
+Residential customers often pay *more* per kWh than commercial customers, despite having less bargaining power and smaller consumption. This is backwards—bulk purchasers get discounts while families bear higher costs.
+
+### Tiered Rate Structures
+
+**Current Model:**
+Most utilities use tiered rates where price increases as usage increases:
+- Tier 1 (baseline): Lowest rate per kWh
+- Tier 2 (above baseline): Higher rate
+- Tier 3+ : Progressively higher rates
+
+**Problems with Current Tiered Rates:**
+- Punishes families with medical equipment, EVs, or electric heating
+- Doesn't distinguish between wasteful and productive usage
+- Can discourage beneficial electrification (heat pumps, EVs)
+
+### Time-of-Use (TOU) Pricing
+
+**Current Model:**
+Electricity costs vary by time of day:
+- Off-peak (night): Lowest rates
+- Mid-peak: Medium rates
+- On-peak (afternoon/evening): Highest rates
+
+California requires TOU for all commercial, industrial, and agricultural customers. Residential customers can opt in.
+
+**Benefits:**
+- Shifts demand to when supply is abundant (midday solar)
+- Reduces need for peaking plants
+- Rewards flexible consumers
+
+**Problems:**
+- Can harm those who can't shift usage (elderly, disabled, shift workers)
+- Complexity confuses consumers
+- Not all utilities offer meaningful rate differentials
+
+### Policy Framework: The Fair Energy Pricing Act
+
+**Principle 1: Progressive Pricing**
+Energy is a necessity. Basic needs should be affordable; excessive consumption should pay true costs.
+
+**Pillar 1: Lifeline Rate Protection**
+
+| Component | Design |
+|-----------|--------|
+| **Lifeline Tier** | First 500 kWh/month at cost (no profit margin) |
+| **Eligibility** | All residential customers |
+| **Low-income enhancement** | Additional discount for households below 200% poverty |
+| **Medical baseline** | Additional low-cost allocation for medical equipment |
+
+**Pillar 2: Beneficial Electrification Rates**
+
+| Usage Type | Treatment |
+|------------|-----------|
+| EV charging | Discounted off-peak rates |
+| Heat pump usage | Discounted winter rates |
+| Home battery storage | Favorable discharge rates |
+| Solar self-consumption | No fees on self-generated power |
+
+**Pillar 3: Commercial vs. Residential Equity**
+
+| Reform | Mechanism |
+|--------|-----------|
+| **Rate Parity** | Commercial rates cannot be more than 20% below residential |
+| **Large User Fees** | Customers >1 MW pay grid infrastructure surcharge |
+| **Cross-subsidization limits** | Prevent residential customers subsidizing industrial rates |
+| **Data center accountability** | Tech companies pay full grid upgrade costs |
+
+**Pillar 4: Time-of-Use Reform**
+
+| Reform | Purpose |
+|--------|---------|
+| **True cost pricing** | Peak rates reflect actual marginal costs |
+| **Super off-peak** | Very low rates during solar surplus (midday) |
+| **Hardship exemption** | Fixed-rate option for those who can't shift usage |
+| **Smart technology incentives** | Rebates for automated demand response equipment |
+
+### Demand-Side Management
+
+**Residential Efficiency Programs:**
+
+| Program | Investment | Goal |
+|---------|-----------|------|
+| Home energy audits | $2B | 5 million audits/year |
+| Weatherization assistance | $5B/year | 500,000 homes/year |
+| Appliance rebates | $3B/year | Accelerate efficient appliance adoption |
+| Smart thermostat rebates | $1B | 20 million installations by 2030 |
+
+**Commercial & Industrial:**
+
+| Program | Requirement |
+|---------|-------------|
+| Energy audits | Mandatory for buildings >50,000 sq ft |
+| Efficiency standards | Maximum energy use per square foot by building type |
+| Demand response | Large users must offer load flexibility |
+| Building energy disclosure | Public benchmarking for commercial buildings |
+
+### Rate Structure Targets
+
+| Metric | Current | 2030 Target |
+|--------|---------|-------------|
+| Residential/commercial rate gap | ~30% | <20% |
+| Households in lifeline tier | ~10% | 100% eligible |
+| Peak/off-peak price ratio | 2x | 4x (stronger signal) |
+| Demand response participation | ~5% | 30% |
+
+### Consumer Protection
+
+**Price Volatility Protection:**
+- Annual rate increase caps (inflation + grid investment)
+- Emergency rate relief during extreme weather
+- Prohibition on disconnection during heat waves/cold snaps
+
+**Transparency Requirements:**
+- Itemized bills showing true cost components
+- Real-time usage access via app/portal
+- Price comparison tools for rate plan selection
+- Clear disclosure of data center/industrial impact on rates
+
+**Billing Modernization:**
+- Monthly budget billing options
+- Real-time pricing alerts
+- Automated optimization for smart devices
+- Prepaid options for budget-conscious customers
+
+---
+
+## Part IX: Sector-Specific Policies
+
+### Transportation Revolution
+
+Transportation represents ~29% of U.S. greenhouse gas emissions—the largest sector. The solution combines electrification, autonomous vehicles, and smart infrastructure.
+
+#### Electric Vehicle Policy
+
+**Current Status (2025):**
+- Global EV sales: 18% of new cars (2024)
+- U.S. EV sales: ~10% of new vehicles, 23% in California
 - Charging infrastructure: 180,000+ public chargers in U.S.
 - Battery costs: Fallen 90% since 2010
+- 150+ EV models available in U.S. market
 
-**Policy Framework:**
+**The Federal-State Conflict:**
+California's Advanced Clean Cars II regulation required 35% ZEV sales by 2026, ramping to 100% by 2035. In June 2025, the Trump administration and Congress revoked California's Clean Air Act waiver, blocking these mandates. California and 10 states have filed lawsuits.
 
-| Component | Mechanism |
-|-----------|-----------|
-| **EV Purchase Incentives** | $7,500 tax credit (income-capped) |
-| **Charging Infrastructure** | $50B federal investment over 10 years |
-| **Fleet Electrification** | Federal vehicle purchases 100% EV by 2030 |
-| **Heavy Duty Vehicles** | R&D support for electric trucks, hydrogen fuel cells |
-| **Aviation** | Sustainable aviation fuel mandates, electric aircraft R&D |
+**The Zeno Position: Incentives Over Mandates**
 
-**ICE Phase-Out Timeline:**
-| Year | Policy |
-|------|--------|
-| 2030 | 50% of new vehicle sales zero-emission |
-| 2035 | 100% of new passenger vehicles zero-emission |
-| 2040 | 100% of new commercial vehicles zero-emission |
+The Zeno approach favors market-based incentives over hard mandates:
+
+| Approach | Zeno Position |
+|----------|---------------|
+| **Mandates** | Avoid—creates backlash, market distortions |
+| **Tax Credits** | Support—let consumers choose |
+| **Carbon Pricing** | Primary mechanism—makes EVs economically rational |
+| **Infrastructure** | Heavy investment—remove range anxiety |
+
+**Policy Framework: The American EV Acceleration Act**
+
+**Pillar 1: Consumer Incentives**
+
+| Incentive | Amount | Eligibility |
+|-----------|--------|-------------|
+| New EV purchase credit | $7,500 | Income cap $150K individual, $300K joint |
+| Used EV purchase credit | $4,000 | Income cap $75K individual, $150K joint |
+| Home charger installation | $1,000 | All taxpayers |
+| E-bike credit | $1,500 | Income cap $75K individual |
+
+**Pillar 2: Charging Infrastructure**
+
+| Investment | Amount | Timeline |
+|------------|--------|----------|
+| Highway fast-charging network | $20B | 2025-2035 |
+| Urban charging (apartments, workplaces) | $15B | 2025-2035 |
+| Rural charging expansion | $10B | 2025-2035 |
+| Grid upgrades for EV load | $15B | 2025-2035 |
+| **Total** | **$60B** | 10 years |
+
+**Targets:**
+- 500,000 public chargers by 2030 (from 180,000)
+- Fast charger every 50 miles on interstate highways
+- Charging available at 50% of apartment complexes by 2030
+
+**Pillar 3: Fleet Electrification**
+- Federal vehicle purchases: 100% ZEV by 2030
+- Postal Service: Complete electrification by 2030
+- School buses: 50% electric by 2030, 100% by 2035
+- Transit buses: 100% ZEV by 2035
+
+**Pillar 4: Heavy-Duty Vehicles**
+- Class 8 trucks: Hydrogen fuel cell and battery electric R&D
+- Tax credits for zero-emission trucks: $40,000 per vehicle
+- Truck stop hydrogen/charging infrastructure: $10B investment
+- Port electrification requirements
+
+**ZEV Adoption Targets (Incentive-Driven, Not Mandated):**
+
+| Year | Target (New Sales) | Mechanism |
+|------|-------------------|-----------|
+| 2027 | 30% | Incentives + carbon price |
+| 2030 | 50% | Incentives + carbon price |
+| 2035 | 80% | Market economics |
+| 2040 | 95%+ | EVs cheaper than ICE |
+
+#### Autonomous Vehicle Infrastructure
+
+**Current Status (2025):**
+- Waymo: 2,500 robotaxis, 450,000+ rides/week, operating in 26 markets
+- Waymo expansion: Detroit, Las Vegas, San Diego launched; Miami, Denver, Seattle planned for 2026
+- Zoox (Amazon): Free rides in Las Vegas and San Francisco
+- Tesla: Robotaxi service launched in Austin/SF (with safety supervisors)
+- Cruise (GM): Withdrawn from robotaxi market, focusing on driver-assist
+- Public sentiment: 66% fearful, 25% uncertain about AVs (AAA survey)
+
+**Why Autonomous Vehicles Matter for Climate:**
+
+| Benefit | Impact |
+|---------|--------|
+| **Increased EV adoption** | Robotaxis are almost exclusively electric |
+| **Reduced car ownership** | Fewer vehicles manufactured overall |
+| **Optimized routing** | AI reduces miles traveled, congestion |
+| **Platooning** | Truck convoys reduce fuel consumption 10-15% |
+| **Parking reduction** | Less urban land for parking, more for green space |
+| **Accessibility** | Mobility for elderly, disabled without car ownership |
+
+**Policy Framework: The Autonomous Vehicle Infrastructure Act**
+
+**Pillar 1: Federal Safety Standards**
+- National AV safety framework (preempting state patchwork)
+- Performance-based standards, not prescriptive technology mandates
+- Mandatory safety data reporting
+- Cybersecurity requirements for connected vehicles
+
+**Pillar 2: Infrastructure Investment**
+
+| Component | Investment | Purpose |
+|-----------|-----------|---------|
+| V2X communication infrastructure | $5B | Vehicle-to-everything connectivity |
+| Smart traffic signals | $10B | AI-optimized traffic flow |
+| HD mapping infrastructure | $3B | Precise road mapping for AVs |
+| AV testing corridors | $2B | Designated testing zones |
+| **Total** | **$20B** | Over 10 years |
+
+**Pillar 3: Robotaxi Integration**
+- Permit streamlining for robotaxi operators meeting safety standards
+- Integration with public transit (first/last mile connections)
+- Accessibility requirements (wheelchair-accessible vehicles)
+- Labor transition programs for displaced drivers
+
+**Pillar 4: Autonomous Freight**
+- Interstate autonomous trucking corridors
+- Platooning standards and infrastructure
+- Rest area upgrades for autonomous trucks
+- Intermodal facility automation support
+
+**Deployment Expectations:**
+
+| Year | Milestone |
+|------|-----------|
+| 2027 | Robotaxis operating in 50+ U.S. cities |
+| 2030 | 10% of urban rides in robotaxis |
+| 2035 | Autonomous trucks on major freight corridors |
+| 2040 | 50% of new vehicles have Level 4+ autonomy |
+| 2050 | Human driving becomes optional for most trips |
+
+**The Transportation Transformation:**
+By 2040, the typical American may not own a car. They'll summon an autonomous electric vehicle on demand, paying per-ride costs lower than car ownership. Parking lots become parks. Garages become housing. Traffic deaths plummet. And transportation emissions approach zero.
 
 ### Industrial Decarbonization
 
@@ -485,7 +945,7 @@ Agriculture represents ~10% of U.S. emissions plus significant land use impacts.
 
 ---
 
-## Part VIII: Climate Adaptation & Resilience
+## Part X: Climate Adaptation & Resilience
 
 ### The Reality of Unavoidable Warming
 
@@ -530,7 +990,7 @@ Even with aggressive mitigation, some warming is locked in. Climate adaptation i
 
 ---
 
-## Part IX: International Climate Leadership
+## Part XI: International Climate Leadership
 
 ### Global Context
 
@@ -574,7 +1034,7 @@ Climate change is a global problem requiring global solutions. U.S. leadership�
 
 ---
 
-## Part X: Implementation & Governance
+## Part XII: Implementation & Governance
 
 ### Federal Organization
 
@@ -632,7 +1092,7 @@ Required annual report to Congress with:
 
 ---
 
-## Part XI: Integration with Zeno Framework
+## Part XIII: Integration with Zeno Framework
 
 ### Connection to Core Pillars
 
@@ -726,8 +1186,44 @@ The Zeno energy platform is pro-growth, pro-technology, and pro-human. It's the 
 - [Climate Action Tracker: USA](https://climateactiontracker.org/countries/usa/)
 - [U.S. Climate Alliance](https://usclimatealliance.org/press-releases/alliance-2035-target-dec-2024/)
 
+### Geothermal Energy
+- [Princeton Engineering: Enhanced Geothermal Systems](https://engineering.princeton.edu/news/2025/07/07/enhanced-geothermal-systems-underground-tech-surfaces-serious-clean-energy-contender)
+- [Berkeley Lab: EGS Promise](https://newscenter.lbl.gov/2025/04/10/enhanced-geothermal-systems-a-promising-source-of-round-the-clock-energy/)
+- [CATF: 50 Years of EGS Progress](https://www.catf.us/2025/09/fifty-years-of-technological-progress-bring-enhanced-geothermal-systems-to-the-cusp-of-large-scale-deployment-finds-new-catf-report/)
+- [DOE: Enhanced Geothermal Systems](https://www.energy.gov/eere/geothermal/enhanced-geothermal-systems)
+
+### Hydrogen Economy
+- [IEA: Global Hydrogen Review 2025](https://www.iea.org/reports/global-hydrogen-review-2025)
+- [DOE: National Hydrogen Strategy](https://www.hydrogen.energy.gov/library/roadmaps-vision/clean-hydrogen-strategy-roadmap)
+- [Carbon Credits: Hydrogen in 2025](https://carboncredits.com/hydrogen-in-2025-the-journey-through-progress-pitfalls-and-policy-shifts/)
+- [EU: Hydrogen Policy](https://energy.ec.europa.eu/topics/eus-energy-system/hydrogen_en)
+
+### Autonomous Vehicles
+- [CNBC: Robotaxis in 2025](https://www.cnbc.com/2025/12/16/waymo-amazon-zoox-tesla-robotaxi-expansion.html)
+- [TechCrunch: Waymo Expansion](https://techcrunch.com/2025/11/03/waymos-robotaxi-expansion-accelerates-with-3-new-cities/)
+- [Autofleet: AV Market 2025](https://autofleet.io/resource/state-of-autonomous-vehicles-2025s-av-push-toward-a-driverless-future)
+- [Carbon Credits: Waymo 2,500 Robotaxis](https://carboncredits.com/waymo-hits-2500-robotaxi-in-u-s-the-future-of-driverless-rides/)
+
+### EV Mandates & Policy
+- [CalMatters: California EV Mandate Revoked](https://calmatters.org/environment/2025/05/california-electric-car-mandate-senate-revoke-waiver/)
+- [NPR: Senate Revokes California Emissions Rules](https://www.npr.org/2025/05/22/nx-s1-5387729/senate-california-ev-air-pollution-waiver-revoked)
+- [CARB: Zero-Emission Vehicle Program](https://ww2.arb.ca.gov/our-work/programs/zero-emission-vehicle-program/about)
+- [Seyfarth: Trump Rescinds California Waivers](https://www.seyfarth.com/news-insights/trump-rescinds-californias-emission-waivers-what-it-means-for-the-future-of-ev-mandates.html)
+
+### Data Center Energy
+- [Pew Research: Data Center Energy Use](https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/)
+- [IEA: AI Energy Demand](https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai)
+- [DOE: Data Center Electricity Demand](https://www.energy.gov/articles/doe-releases-new-report-evaluating-increase-electricity-demand-data-centers)
+- [RAND: AI Power Requirements](https://www.rand.org/pubs/research_reports/RRA3572-1.html)
+
+### Energy Pricing
+- [CPUC: Electric Rates](https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/electric-rates)
+- [EIA: Electric Power Monthly](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a/)
+- [PowerWizard: Electricity Rates by State](https://www.powerwizard.com/electricity-rates/)
+- [SCE: Tiered Rate Plan](https://www.sce.com/save-money/rates-financing/residential-rate-plans/tiered-rate-plan)
+
 ---
 
-*Document version: 1.0*
+*Document version: 2.0*
 *Last updated: December 2025*
 *Part of the Zeno Policy Framework*

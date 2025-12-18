@@ -111,11 +111,16 @@ We face three converging crises that demand revolutionary response:
 | Policy | Document | Status |
 |--------|----------|--------|
 | Renewable Energy Acceleration | `CLIMATE_ENERGY_POLICY.md` | Complete |
+| Geothermal (Enhanced Geothermal Systems) | `CLIMATE_ENERGY_POLICY.md` | Complete |
 | Nuclear Fission Renaissance (SMRs) | `CLIMATE_ENERGY_POLICY.md` | Complete |
 | Nuclear Fusion Investment | `CLIMATE_ENERGY_POLICY.md` | Complete |
+| Hydrogen Economy | `CLIMATE_ENERGY_POLICY.md` | Complete |
 | AI Grid Optimization | `CLIMATE_ENERGY_POLICY.md` | Complete |
+| Data Center Energy Policy | `CLIMATE_ENERGY_POLICY.md` | Complete |
 | Carbon Fee and Dividend | `CLIMATE_ENERGY_POLICY.md` | Complete |
-| Transportation Electrification | `CLIMATE_ENERGY_POLICY.md` | Complete |
+| Energy Consumption & Pricing | `CLIMATE_ENERGY_POLICY.md` | Complete |
+| EV Policy & Incentives | `CLIMATE_ENERGY_POLICY.md` | Complete |
+| Autonomous Vehicle Infrastructure | `CLIMATE_ENERGY_POLICY.md` | Complete |
 | Climate Adaptation & Resilience | `CLIMATE_ENERGY_POLICY.md` | Complete |
 
 ### PILLAR VII: Additional Policy Areas
@@ -292,7 +297,7 @@ This worldview will generate:
 | `BLOCKCHAIN_POLICY.md` | Sound money & truth infrastructure | 700+ |
 | `AI_GOVERNANCE.md` | The Algorithmic Republic | 800+ |
 | `HUMAN_CAPITAL_POLICY.md` | Healthcare & Education framework | 700+ |
-| `CLIMATE_ENERGY_POLICY.md` | Climate, Renewables, Nuclear, Carbon Pricing | 800+ |
+| `CLIMATE_ENERGY_POLICY.md` | Climate, Renewables, Nuclear, Transportation, Pricing | 1200+ |
 | `RESEARCH_NOTES.md` | Current data with sources | 300+ |
 | `BOOK_FRAMEWORK.md` | 26-chapter book outline | 500+ |
 
