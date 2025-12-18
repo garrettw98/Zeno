@@ -590,7 +590,285 @@ Climate change is a national security threat—not in the future, but now.
 
 ---
 
-## Part XI: Veterans & Servicemembers
+## Part XI: Middle East Strategy
+
+### A Region in Transformation
+
+**Current State (2025):**
+- Iran's nuclear and ballistic missile programs significantly degraded
+- Assad regime overthrown in Syria
+- Hezbollah substantially weakened
+- Abraham Accords: Progress stalled over Palestinian issue
+- Saudi Arabia seeking expanded U.S. security guarantee
+- Regional actors diversifying security relationships
+
+**U.S. Strategic Interests:**
+- Prevent nuclear proliferation (Iran)
+- Counterterrorism
+- Energy security (less critical but still relevant)
+- Israeli security
+- Regional stability
+- Counter Iranian influence
+
+### Policy Framework: Middle East Rebalancing
+
+**Pillar 1: Iran Containment**
+
+| Element | Approach |
+|---------|----------|
+| Nuclear program | Maximum pressure for verifiable limits |
+| Ballistic missiles | Export controls, interdiction |
+| Proxy networks | Targeted pressure, partner capacity |
+| Regime change | Not objective; deterrence focus |
+| Diplomacy | Open to negotiations with conditions |
+
+**Pillar 2: Partner Security Architecture**
+
+| Partner | Commitment |
+|---------|-----------|
+| Israel | Ironclad defense commitment; qualitative military edge |
+| Saudi Arabia | Enhanced security partnership; conditional on reform |
+| UAE | Defense cooperation continuation |
+| Qatar | Security guarantee maintenance |
+| Jordan | Continued support; stability priority |
+| Egypt | Security cooperation; human rights engagement |
+
+**Pillar 3: Force Posture Optimization**
+
+| Adjustment | Rationale |
+|------------|-----------|
+| Reduce ground forces | Limited utility for great power competition |
+| Maintain air/naval presence | Power projection capability |
+| Missile defense | Protect partners from Iranian threats |
+| Special operations | Counterterrorism capacity |
+| Over-the-horizon | Reduce footprint, maintain capability |
+
+**Pillar 4: Palestinian Question**
+
+| Principle | Approach |
+|-----------|----------|
+| Two-state solution | Support in principle |
+| Gaza reconstruction | Arab partner lead with U.S. support |
+| Humanitarian access | Ensure during conflicts |
+| Normalization | Pursue without conditioning on Palestinian issue |
+| Settlement expansion | Private pressure on Israel |
+
+**Pillar 5: Regional Integration**
+
+| Initiative | Support |
+|------------|---------|
+| Abraham Accords expansion | Active diplomacy |
+| Economic integration | Trade facilitation |
+| Infrastructure investment | Alternative to China's BRI |
+| Water/climate cooperation | Technical assistance |
+
+---
+
+## Part XII: Economic Statecraft
+
+### Sanctions as Strategic Tool
+
+**Current Scale:**
+- 6,700+ entities under Russia-related sanctions (September 2025)
+- 28% of all Consolidated Screening List
+- Secondary sanctions: Effective against Chinese oil purchases
+- China purchases of Russian oil: Down 9.1% after January 2025 sanctions
+
+**Effectiveness:**
+- Sanctions not silver bullet, but impose real costs
+- Russia war effort more expensive, supply chains disrupted
+- Chinese state-owned enterprises curbing purchases
+- But: China facilitates 90% of critical dual-use imports to Russia
+
+**Limitations:**
+- Evasion networks adapt
+- Third-country transshipment
+- Enforcement resources insufficient
+- Economic cost to U.S. and allies
+- May accelerate de-dollarization efforts
+
+### Policy Framework: Strategic Economic Warfare
+
+**Pillar 1: Sanctions Modernization**
+
+| Reform | Implementation |
+|--------|---------------|
+| OFAC resources | Triple staffing and budget |
+| Enforcement | Enhanced penalties for violations |
+| Intelligence integration | Real-time sanctions evasion tracking |
+| Allied coordination | Synchronized sanctions regimes |
+| Secondary sanctions | Consistent, predictable application |
+
+**Pillar 2: Export Controls**
+
+| Area | Approach |
+|------|----------|
+| Semiconductor equipment | Maintain tight controls |
+| AI chips | Expand to cover emerging technologies |
+| Quantum technology | Strict controls |
+| Dual-use items | End-use verification |
+| Ally coordination | Multilateral control regimes |
+
+**Pillar 3: Investment Screening**
+
+| Program | Enhancement |
+|---------|-------------|
+| CFIUS | Expanded scope, faster review |
+| Outbound investment | New review mechanism for China |
+| Critical infrastructure | Enhanced protection |
+| Technology transfer | University research controls |
+
+**Pillar 4: Financial Warfare**
+
+| Tool | Application |
+|------|-------------|
+| SWIFT access | Reserved for extreme cases |
+| Correspondent banking | Targeted restrictions |
+| Cryptocurrency | Enhanced AML/sanctions compliance |
+| Central bank reserves | Freeze/seize with legal authority |
+
+**Pillar 5: Positive Economic Tools**
+
+| Tool | Purpose |
+|------|---------|
+| Development finance (DFC) | Alternative to China financing |
+| Trade preferences | Reward aligned behavior |
+| Technology sharing | With trusted allies |
+| Infrastructure investment | Quality alternative to BRI |
+
+**Economic Statecraft Targets:**
+
+| Metric | Current | 2030 |
+|--------|---------|------|
+| Sanctions evasion detection rate | 50% | 80% |
+| Enforcement actions | 300/year | 1,000/year |
+| Allied coordination score | Moderate | High |
+| Critical supply chain dependencies | Many | Reduced |
+
+---
+
+## Part XIII: Africa & Latin America
+
+### Strategic Competition Beyond Core Alliances
+
+**Africa:**
+- China's economic presence expanding rapidly
+- Russia's Wagner/Africa Corps activities
+- Counterterrorism challenges (Sahel)
+- Resource competition (critical minerals)
+- Growing population and markets
+
+**Latin America:**
+- China trade and investment growing
+- Democratic backsliding in some countries
+- Migration pressures
+- Drug trafficking
+- Economic instability
+
+### Policy Framework: Western Hemisphere & Africa Strategy
+
+**Pillar 1: Latin America Priorities**
+
+| Priority | Approach |
+|----------|----------|
+| Economic partnership | Trade agreements, investment |
+| Migration cooperation | Address root causes |
+| Counter-narcotics | Treatment focus + interdiction |
+| Democracy support | Civil society, free press |
+| China competition | Offer quality alternative |
+
+**Investment:** $10 billion annual development/security assistance
+
+**Pillar 2: Africa Engagement**
+
+| Priority | Approach |
+|----------|----------|
+| Economic partnership | Trade, not just aid |
+| Critical minerals | Partnership agreements |
+| Counterterrorism | Partner capacity building |
+| Infrastructure | DFC investment alternative to BRI |
+| Governance | Support anti-corruption |
+
+**Investment:** $15 billion annual engagement (economic + security)
+
+**Pillar 3: Counter-China Competition**
+
+| Element | Implementation |
+|---------|---------------|
+| Quality infrastructure | Higher standards than BRI |
+| Debt transparency | Counter debt-trap practices |
+| Values-based engagement | Labor, environmental standards |
+| Technology | Digital infrastructure support |
+| Security | Training and equipment |
+
+---
+
+## Part XIV: Intelligence Community Modernization
+
+### Adapting to New Threats
+
+**Current Challenges:**
+- Great power competition requires different tradecraft
+- AI/cyber threats evolving faster than capabilities
+- Open source intelligence underutilized
+- Bureaucratic stovepipes persist
+- Talent competition with private sector
+
+### Policy Framework: Intelligence Transformation Act
+
+**Pillar 1: AI Integration**
+
+| Application | Investment |
+|-------------|-----------|
+| Collection processing | Automated analysis of massive datasets |
+| Pattern recognition | AI-assisted threat detection |
+| Language translation | Real-time multilingual capability |
+| Imagery analysis | Automated satellite/drone analysis |
+| Cyber threat analysis | AI-enhanced detection |
+
+**Investment:** $10 billion over 5 years
+
+**Pillar 2: Open Source Revolution**
+
+| Reform | Implementation |
+|--------|---------------|
+| OSINT center | Dedicated open source analysis center |
+| Social media monitoring | Systematic with privacy protections |
+| Commercial satellite | Integrated into collection |
+| Academic partnerships | Unclassified analysis collaboration |
+| Public-private sharing | Cleared contractor integration |
+
+**Pillar 3: Workforce Modernization**
+
+| Area | Reform |
+|------|--------|
+| Compensation | Competitive with tech sector |
+| Clearance process | Streamlined timeline |
+| Diversity | Enhanced recruitment |
+| Contractors | Better integration |
+| Retention | Improved career paths |
+
+**Pillar 4: Counter-Intelligence Enhancement**
+
+| Threat | Response |
+|--------|----------|
+| Foreign intelligence services | Enhanced detection |
+| Insider threat | AI-assisted monitoring |
+| Cyber espionage | Hardened systems |
+| Influence operations | Detection and attribution |
+
+**Pillar 5: Oversight Strengthening**
+
+| Mechanism | Enhancement |
+|-----------|-------------|
+| Congressional oversight | Classified briefing expansion |
+| Inspector General | Enhanced independence |
+| Privacy protections | Clear domestic collection rules |
+| Whistleblower protection | Secure channels |
+
+---
+
+## Part XV: Veterans & Servicemembers
 
 ### Honoring Service
 
@@ -719,6 +997,19 @@ Leadership isn't just about power. It's about what you do with it.
 - [Capitol Tech: AI Cybersecurity Trends 2025](https://www.captechu.edu/blog/ai-driven-cybersecurity-trends-2025)
 - [CSIS: Significant Cyber Incidents](https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents)
 - [Carnegie: Critical Infrastructure Cybersecurity](https://carnegieendowment.org/posts/2025/07/safeguarding-critical-infrastructure-key-challenges-in-global-cybersecurity)
+
+### Middle East
+- [MEI: US Policy Middle East Q3 2025](https://www.mei.edu/publications/us-policy-middle-east-third-quarter-2025-report-card)
+- [Foreign Affairs: New Path to Middle East Security](https://www.foreignaffairs.com/middle-east/new-path-middle-east-security)
+- [FPRI: Emergent US Middle East Order](https://www.fpri.org/article/2025/07/an-emergent-us-favored-regional-order-in-the-middle-east-and-its-challenges/)
+- [Hoover Institution: Middle East 2025](https://www.hoover.org/research/american-and-middle-east-2025-old-challenges-broken-myths-new-opportunities)
+
+### Economic Statecraft & Sanctions
+- [USCC: China's Facilitation of Sanctions Evasion](https://www.uscc.gov/research/chinas-facilitation-sanctions-and-export-control-evasion)
+- [FDD: How Sanctions Can Outpace Russia's Evasion](https://www.fdd.org/analysis/2025/12/09/winning-the-race-of-the-red-queen-how-u-s-sanctions-can-outpace-russias-evasion/)
+- [Atlantic Council: Russian Economy 2025](https://www.atlanticcouncil.org/content-series/russia-tomorrow/the-russian-economy-in-2025-between-stagnation-and-militarization/)
+- [PIIE: Can Sanctions Change Policy](https://www.piie.com/events/2025/can-sanctions-change-countrys-policy-case-china-and-russia)
+- [OFAC: Sanctions Programs](https://ofac.treasury.gov/sanctions-programs-and-country-information)
 
 ---
 

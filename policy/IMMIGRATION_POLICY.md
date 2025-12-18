@@ -579,6 +579,355 @@ Immigration policy shouldn't end at entry. Successful integration benefits every
 
 ---
 
+## Part XIII: AI in Immigration Processing
+
+### The Modernization Opportunity
+
+**Current AI Deployment:**
+- 105 active AI use cases across DHS immigration agencies
+- CBP: 59 AI applications
+- ICE: 23 AI applications
+- USCIS: 18 AI applications
+- ImmigrationOS (Palantir): $30 million contract
+
+**December 2025: USCIS Vetting Center**
+- Centralized enhanced vetting of all immigration applications
+- State-of-the-art AI technology
+- Classified and unclassified screening capabilities
+- Headquarters in Atlanta
+
+**Current Backlogs:**
+- 4.3+ million pending applications
+- Average wait times: Months to years
+- Paper-based processes persist
+- Inconsistent adjudication
+
+### Policy Framework: Responsible AI Immigration Act
+
+**Pillar 1: Processing Efficiency**
+
+| Application | Benefit | Safeguard |
+|-------------|---------|-----------|
+| Document verification | Instant authentication | Human review of rejections |
+| Data entry automation | Reduce clerical backlog | Accuracy audits |
+| Scheduling optimization | Reduce wait times | Flexibility for applicants |
+| Status notifications | Real-time updates | Multiple channels |
+| Translation services | Multilingual access | Human verification available |
+
+**Pillar 2: Fraud Detection with Safeguards**
+
+| Tool | Application | Required Safeguard |
+|------|-------------|-------------------|
+| Pattern recognition | Identify suspicious applications | Human review before denial |
+| Document analysis | Detect forgeries | Appeal process |
+| Background databases | Cross-reference records | Error correction mechanism |
+| Interview analysis | Consistency assessment | Prohibition on emotion detection |
+
+**Pillar 3: Bias Prevention**
+
+| Requirement | Standard |
+|-------------|----------|
+| Disparate impact testing | Annual audit by protected class |
+| Training data review | Ensure representative, unbiased data |
+| Outcome analysis | Track denial rates by nationality, ethnicity |
+| Third-party audits | Independent bias assessments |
+| Transparency | Public reporting of AI use and outcomes |
+
+**Pillar 4: Due Process Protections**
+
+| Protection | Requirement |
+|------------|-------------|
+| Human decision-maker | Final adverse decisions by humans |
+| Explainability | Applicants entitled to reasons for AI flags |
+| Right to challenge | Process to contest AI assessments |
+| No black boxes | Decision factors disclosed |
+| Oversight | Congressional reporting on AI use |
+
+**Pillar 5: Prohibited AI Uses**
+
+| Prohibition | Rationale |
+|-------------|-----------|
+| Automated denials | Due process requires human judgment |
+| Predictive deportation | Pre-crime assessment unconstitutional |
+| Emotion/demeanor analysis | Unreliable, biased technology |
+| Social media surveillance (sole basis) | First Amendment concerns |
+| Algorithmic detention decisions | Liberty requires human judgment |
+
+**AI Modernization Targets:**
+
+| Metric | Current | 2030 | 2040 |
+|--------|---------|------|------|
+| Average processing time | 12+ months | 6 months | 3 months |
+| Application backlog | 4.3 million | 1 million | Under 500,000 |
+| Error rate | Unknown | <5% | <2% |
+| Bias disparity | Unmeasured | Measured, <10% variance | <5% variance |
+
+---
+
+## Part XIV: Detention Reform
+
+### The Detention Crisis
+
+**Current State (November 2025):**
+- ICE detention population: 65,735 people
+- 73.6% have no criminal conviction
+- Many convicted only of traffic violations
+- 10+ deaths in ICE custody in 2025
+- Reports of overcrowding, unsanitary conditions, inadequate food
+
+**The Conditions Crisis:**
+- "35 men sharing one toilet, sleeping head-to-toe on concrete floors"
+- "Only a cup of rice a day or rotting food"
+- "Medications withheld, necessary medical care denied"
+- Overcrowding exceeding institutional capacity
+
+**The Cost:**
+- Average detention cost: $150-$250/day per person
+- FY2025 detention budget: $3.4 billion
+- Proposed increase: $45 billion for new detention centers (265% increase)
+- Alternatives to detention: $5-$17/day per person
+
+**Alternatives to Detention (ATD):**
+- Currently monitoring: 182,009 people
+- 99% court appearance rate with case management
+- 95%+ appearance rate with legal representation
+- Far cheaper than detention
+- More humane outcomes
+
+### Policy Framework: Detention Reform and Alternatives Act
+
+**Pillar 1: Presumption of Release**
+
+| Population | Default | Exception |
+|------------|---------|-----------|
+| Asylum seekers | Release with monitoring | Specific flight/danger finding |
+| Families with children | Never detained | None |
+| Pregnant women | Never detained | None |
+| Elderly (65+) | Release with monitoring | Specific flight/danger finding |
+| Medical conditions | Release with monitoring | None |
+| LGBTQ+ individuals | Community placement | Vulnerability assessment |
+
+**Pillar 2: Custody Determination Standards**
+
+| Factor | Weight |
+|--------|--------|
+| Flight risk (actual evidence) | Primary |
+| Community ties (family, employment) | Significant mitigating |
+| Criminal history (violent only) | Relevant |
+| Length of U.S. presence | Mitigating |
+| Asylum/protection claim | Strong mitigating |
+
+**Pillar 3: Alternatives to Detention Expansion**
+
+| Program | Current | Proposed |
+|---------|---------|----------|
+| Case management (community-based) | Limited | Universal for released individuals |
+| Legal orientation | Limited | Required for all |
+| Legal representation | 37% have counsel | Right to counsel |
+| Appearance reminders | Basic | AI-enhanced, multilingual |
+| Check-in requirements | In-person | Remote options |
+
+**Pillar 4: Conditions Standards**
+
+| Standard | Requirement |
+|----------|-------------|
+| Medical care | 24-hour access to healthcare, mental health |
+| Solitary confinement | Prohibited except for safety (24-hour limit) |
+| Legal access | Daily access to counsel, confidential calls |
+| Communication | Free calls to family, video visitation |
+| Food | Nutritionally adequate, culturally appropriate |
+| Recreation | Daily outdoor access |
+| Oversight | Monthly independent inspections |
+
+**Pillar 5: Private Detention Phase-Out**
+
+| Timeline | Requirement |
+|----------|-------------|
+| Year 1 | No new private detention contracts |
+| Year 2 | Reduce private detention 25% |
+| Year 3 | Reduce private detention 50% |
+| Year 5 | Complete phase-out of private facilities |
+
+**Pillar 6: Family Unity**
+
+| Requirement | Standard |
+|-------------|----------|
+| Family detention | Eliminated (community placement instead) |
+| Family separation | Prohibited except for safety of child |
+| Parent-child communication | Daily when separated for any reason |
+| Reunification | Within 24 hours of release of either party |
+
+**Detention Reform Targets:**
+
+| Metric | Current | 2030 | 2040 |
+|--------|---------|------|------|
+| Average daily detention population | 65,000+ | 25,000 | 10,000 |
+| Non-violent detainees | 73% | 30% | 10% |
+| Deaths in custody | 10+/year | <3/year | 0 |
+| Average length of detention | 45 days | 20 days | 10 days |
+| ATD participants | 182,000 | 300,000 | 400,000 |
+| Court appearance rate | 75% (detention) | 95% (ATD) | 98% |
+
+---
+
+## Part XV: Immigration Courts
+
+### The Due Process Crisis
+
+**Current State:**
+- Immigration court backlog: 3.7+ million cases
+- Average wait for hearing: 4+ years
+- 600 immigration judges (need 1,200+)
+- No right to appointed counsel
+- Part of DOJ (not independent)
+
+**The Problem:**
+- Judges have 1,500+ cases each
+- Rushed hearings, inadequate review
+- Vast outcome disparities by judge
+- Asylum grant rates vary from 10% to 90% by judge
+- Political pressure on judges
+
+### Policy Framework: Immigration Court Reform Act
+
+**Pillar 1: Independent Immigration Courts**
+
+| Current | Proposed |
+|---------|----------|
+| Part of DOJ (executive branch) | Independent Article I court |
+| Judges appointed by AG | Judges appointed by court with Senate confirmation |
+| No fixed terms | 15-year terms with removal protections |
+| Subject to DOJ quotas | Performance standards set by court |
+| Politically influenced | Insulated from political pressure |
+
+**Pillar 2: Capacity Investment**
+
+| Component | Current | Proposed |
+|-----------|---------|----------|
+| Immigration judges | 600 | 1,500 |
+| Law clerks | Limited | 2 per judge |
+| Interpreters | Contracted | In-house, all languages |
+| Courtrooms | Insufficient | Double current capacity |
+| Technology | Outdated | Modern case management |
+
+**Pillar 3: Right to Counsel**
+
+| Population | Current | Proposed |
+|------------|---------|----------|
+| Detained immigrants | No right | Appointed counsel |
+| Unaccompanied children | Sometimes | Always |
+| Asylum seekers | No right | Appointed counsel |
+| Other removal proceedings | No right | Legal orientation + pro bono access |
+
+**Investment:** $1 billion/year for counsel program
+
+**Evidence:**
+- Represented asylum seekers: 5x more likely to win
+- 99% appearance rate when represented
+- Cases resolved faster with counsel
+
+**Pillar 4: Procedural Protections**
+
+| Protection | Standard |
+|------------|----------|
+| Hearing timeline | Within 6 months of filing |
+| Continuance rights | Reasonable requests granted |
+| Evidence submission | 30 days before hearing |
+| Expert witnesses | Permitted and funded for indigent |
+| Video hearings | Only with consent |
+
+**Pillar 5: Appeals Reform**
+
+| Level | Timeline |
+|-------|----------|
+| BIA appeal | Decision within 6 months |
+| Circuit court review | Preserved, expedited |
+| Reconsideration motions | 90 days to file |
+| Newly discovered evidence | Clear process for reopening |
+
+**Immigration Court Targets:**
+
+| Metric | Current | 2030 | 2040 |
+|--------|---------|------|------|
+| Case backlog | 3.7 million | 1 million | Under 500,000 |
+| Average wait for hearing | 4+ years | 1 year | 6 months |
+| Representation rate | 37% | 70% | 95% |
+| Judge caseload | 1,500+ | 700 | 500 |
+| Asylum grant rate variance | 10-90% | Within 20% | Within 10% |
+
+---
+
+## Part XVI: Economic Impact Analysis
+
+### Immigration and the Economy
+
+**Fiscal Impact:**
+- Immigrants pay $500 billion+ in taxes annually
+- Long-run fiscal impact: Positive for most immigrants
+- First-generation costs (education, services) offset by second-generation contributions
+- High-skilled immigrants: Strongly positive fiscal impact
+
+**Labor Market:**
+- Immigrants fill critical shortages (healthcare, STEM, agriculture)
+- Complement rather than substitute for native workers
+- Increase innovation and entrepreneurship
+- Wage effects: Minimal for native workers (0-2% for low-skilled)
+
+**Innovation:**
+- 55% of U.S. billion-dollar startups have immigrant founder
+- 25% of U.S. patents filed by immigrants
+- 35% of U.S. Nobel laureates are foreign-born
+- Immigrants overrepresented in STEM fields
+
+### Policy Framework: Immigration Economic Integration
+
+**Pillar 1: Skills Recognition**
+
+| Barrier | Solution |
+|---------|----------|
+| Foreign credentials not recognized | Federal credential evaluation system |
+| State licensing barriers | Interstate compact for immigrant professionals |
+| Experience discounted | Portfolio-based assessment |
+| Language barriers | Professional English programs |
+
+**Pillar 2: Entrepreneurship Support**
+
+| Program | Investment |
+|---------|-----------|
+| Immigrant entrepreneur grants | $500 million/year |
+| Small business technical assistance | Multilingual, culturally competent |
+| Access to capital | CRA credit for immigrant-focused lending |
+| Mentorship networks | Connect to business communities |
+
+**Pillar 3: Labor Market Protections**
+
+| Protection | Mechanism |
+|------------|-----------|
+| Prevailing wage enforcement | Department of Labor audits |
+| Anti-exploitation | Whistleblower protections for workers |
+| Wage theft prevention | Enhanced penalties, worker recovery |
+| Safety standards | OSHA enforcement regardless of status |
+
+**Pillar 4: Local Economic Development**
+
+| Initiative | Support |
+|------------|---------|
+| Immigrant integration grants | $2 billion to states/localities |
+| Rural immigrant attraction | Incentives for settlement in underserved areas |
+| Community development | CDFI support for immigrant communities |
+| Research | Track economic impact by locality |
+
+**Economic Integration Targets:**
+
+| Metric | Current | 2030 | 2040 |
+|--------|---------|------|------|
+| Credential recognition rate | 25% | 60% | 85% |
+| Immigrant business formation rate | 1.5x native | Maintain | Maintain |
+| Wage parity (skilled immigrants) | 85% | 95% | 100% |
+| Labor force participation | 66% | 70% | 72% |
+
+---
+
 ## Part XII: Integration with Zeno Framework
 
 ### Connection to Core Pillars
@@ -634,6 +983,21 @@ The current system serves no one. Reform serves everyone.
 - [National Immigration Forum: Dignity Act 2025](https://forumtogether.org/article/the-dignity-act-of-2025-bill-summary/)
 - [USAHello: 2025 Immigration Changes](https://usahello.org/2025-immigration-policies/)
 - [CFR: Future of Immigration Policy](https://www.cfr.org/event/transition-2025-series-future-immigration-policy-and-border-security-united-states)
+
+### AI in Immigration
+- [DHS AI Use Case Inventory: USCIS](https://www.dhs.gov/ai/use-case-inventory/uscis)
+- [American Immigration Council: Invisible Gatekeepers](https://www.americanimmigrationcouncil.org/blog/invisible-gatekeepers-dhs-growing-use-of-ai-in-immigration-decisions/)
+- [FedScoop: USCIS Automating Pre-Processing](https://fedscoop.com/uscis-automating-immigration-pre-processing/)
+- [CNN: AI in Immigration Enforcement](https://www.cnn.com/2025/09/22/politics/artificial-intelligence-immigration-enforcement)
+- [USCIS: Vetting Center Announcement](https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-establishes-new-center-to-strengthen-immigration-screening)
+
+### Detention Reform
+- [AILA: Immigration Detention Issues](https://www.aila.org/featured-issue-immigration-detention-and-alternatives-to-detention)
+- [American Immigration Council: Alternatives to Detention](https://www.americanimmigrationcouncil.org/report/alternatives-immigration-detention-overview/)
+- [American Immigration Council: Mass Deportation Funding 2025](https://www.americanimmigrationcouncil.org/press-release/congress-approves-unprecedented-funding-mass-detention-deportation-2025/)
+- [TRAC Reports: Immigration Detention Quick Facts](https://tracreports.org/immigration/quickfacts/)
+- [Rep. Jayapal: Dignity for Detained Immigrants Act](https://jayapal.house.gov/2025/12/03/jayapal-smith-introduce-legislation-to-end-inhumane-immigration-detention-conditions/)
+- [Immigrant Justice: Detention Reform](https://immigrantjustice.org/issues/detention-and-enforcement/)
 
 ---
 

@@ -563,7 +563,317 @@ AI is increasingly used in criminal justice—risk assessment, predictive polici
 
 ---
 
-## Part XI: Implementation & Funding
+## Part XI: Wrongful Convictions & Exoneration
+
+### The Scope of Injustice
+
+**Current State:**
+- 2,624+ people exonerated since 1989
+- 367 DNA exonerations
+- 254 Innocence Project DNA exonerations
+- 65,600+ letters from incarcerated people seeking help
+- 99% of wrongful convictions involve male defendants
+- 70% involve minorities (61% Black, 8% Latino)
+
+**Contributing Factors:**
+- Mistaken eyewitness identification (36% of Indiana wrongful convictions)
+- Invalid/misapplied forensic science (50% of DNA exonerations)
+- False confessions
+- Informants who lied
+- Government/prosecutor misconduct
+
+**The Hidden Problem:**
+- Estimated 2-10% of all convictions may be wrongful
+- Many innocent people accept plea bargains
+- DNA only applicable in small fraction of cases
+- Most wrongful convictions never discovered
+
+### Policy Framework: The Innocence Protection Act
+
+**Pillar 1: Post-Conviction DNA Testing**
+
+| Requirement | Standard |
+|-------------|----------|
+| Right to testing | All convicted persons with colorable innocence claim |
+| Evidence preservation | Mandatory 20+ years for all biological evidence |
+| Lab standards | Accredited labs, blind testing protocols |
+| State funding | Full funding for testing requests |
+
+**Pillar 2: Eyewitness Identification Reform**
+
+| Reform | Standard |
+|--------|----------|
+| Blind administration | Officers don't know suspect's identity |
+| Sequential presentation | One photo/person at a time |
+| Confidence statement | Recorded at time of identification |
+| Video recording | All identification procedures recorded |
+| Instructions | Witnesses told perpetrator may not be present |
+
+**Pillar 3: Interrogation Reform**
+
+| Reform | Standard |
+|--------|----------|
+| Recording | All interrogations video recorded |
+| Youth protections | Parent/attorney present; time limits |
+| False evidence prohibition | Cannot lie about DNA/forensic evidence |
+| Training | De-escalation, non-coercive techniques required |
+
+**Pillar 4: Conviction Integrity Units**
+
+| Requirement | Standard |
+|-------------|----------|
+| Mandatory establishment | All DA offices over 100,000 population |
+| Independence | Reports to chief prosecutor, separate from trial units |
+| Resources | Dedicated investigators, attorneys |
+| Transparency | Annual public reporting |
+| Federal support | DOJ grants for CIU establishment |
+
+**Pillar 5: Compensation for the Wrongfully Convicted**
+
+| Standard | Requirement |
+|----------|-------------|
+| Minimum compensation | $70,000 per year of wrongful imprisonment |
+| No exclusions | Prior convictions cannot bar compensation |
+| Filing window | 2+ years after exoneration |
+| Services | Job training, housing assistance, healthcare |
+| Immediate support | $25,000 upon release |
+| All states covered | Federal compensation if state lacks law |
+
+**Currently:** 14 states have no compensation law; 40 states have inadequate laws
+
+**Wrongful Conviction Targets:**
+
+| Metric | Current | 2030 | 2040 |
+|--------|---------|------|------|
+| Conviction integrity units | 75 | 200 | All major jurisdictions |
+| DNA exonerations (annual) | ~30 | 50 | Declining (fewer wrongful convictions) |
+| Compensation coverage | 36 states | 50 states | Universal |
+| Average compensation | $20,000/year | $70,000/year | $100,000/year |
+
+---
+
+## Part XII: Fines, Fees & Debt-Based Punishment
+
+### The Criminalization of Poverty
+
+**Current State:**
+- 1 in 3 Americans owed court fines/fees in the past decade
+- $27+ billion in outstanding fines and fees debt
+- 11 million people with suspended licenses for unpaid fines
+- 68% of people with court debt missed work for court dates
+- 19% report court debt impacted employment
+
+**The Debt Trap:**
+1. Person receives fine they cannot pay
+2. Late fees, interest added
+3. Driver's license suspended
+4. Person drives anyway (needs to work)
+5. Arrested for driving on suspended license
+6. More fines, possible incarceration
+7. Cycle repeats
+
+**Racial Disparities:**
+- People of color more likely to experience poverty
+- More likely to be stopped by police
+- More likely to be ticketed for same violations
+- Less able to pay, more likely to face consequences
+
+### Policy Framework: The End Poverty Penalties Act
+
+**Pillar 1: Ability to Pay**
+
+| Requirement | Standard |
+|-------------|----------|
+| Mandatory assessment | Court must assess ability to pay before imposing fines |
+| Sliding scale | Fines proportional to income |
+| Waiver authority | Full waiver for those below 150% FPL |
+| Payment plans | Interest-free, affordable installments |
+| Community service | Alternative to payment, not in addition |
+
+**Pillar 2: End Debt-Based License Suspensions**
+
+| Reform | Standard |
+|--------|----------|
+| Prohibition | No license suspension for failure to pay |
+| Reinstatement | Automatic, no fees |
+| Retroactive | Clear existing suspensions |
+| Alternative consequences | Payment plans, not driving restrictions |
+
+**Progress:** 25 states + DC have ended/curbed debt-based suspensions since 2018
+
+**Pillar 3: Fee Abolition**
+
+| Fee Type | Action |
+|----------|--------|
+| Public defender fees | Abolish |
+| Jail booking fees | Abolish |
+| Supervision fees | Abolish |
+| Electronic monitoring fees | Abolish |
+| Interest on fines | Abolish |
+| Collections fees | Regulate, cap at 15% |
+
+**Pillar 4: Incarceration Prohibition**
+
+| Standard | Requirement |
+|----------|-------------|
+| No jail for inability to pay | Constitutional requirement enforced |
+| Willfulness finding | Required before any debt-based incarceration |
+| Counsel for contempt | Right to attorney before jailing |
+| Purge amounts | Must be actually achievable |
+
+**Pillar 5: Revenue Reform**
+
+| Reform | Mechanism |
+|--------|-----------|
+| Budget separation | Court funding not tied to fine revenue |
+| State funding | General fund support for courts |
+| Transparency | Public reporting of fine/fee revenue |
+| Audit requirements | Regular audits of fine collection practices |
+
+**Fines and Fees Reform Targets:**
+
+| Metric | Current | 2030 | 2040 |
+|--------|---------|------|------|
+| States with debt-based license suspension | 25 | 10 | 0 |
+| Outstanding court debt | $27 billion | $10 billion | $5 billion |
+| People jailed for inability to pay | Thousands | Hundreds | Zero |
+| Public defender fee states | Many | Few | Zero |
+
+---
+
+## Part XIII: Prosecutorial Reform
+
+### The Most Powerful Actor
+
+Prosecutors have more power over criminal justice outcomes than any other actor—more than police, judges, or legislators. Yet they face little accountability.
+
+**Current Issues:**
+- Unchecked discretion in charging
+- Plea bargain coercion
+- Brady violations (withholding evidence)
+- Racial disparities in charging
+- Conviction focus over justice focus
+
+### Policy Framework: The Prosecutorial Accountability Act
+
+**Pillar 1: Transparency Requirements**
+
+| Requirement | Standard |
+|-------------|----------|
+| Data collection | Charging, plea, sentencing by race/offense |
+| Public reporting | Annual reports on outcomes |
+| Declination tracking | Why cases weren't charged |
+| Conviction integrity | Public reporting on overturned convictions |
+
+**Pillar 2: Charging Guidelines**
+
+| Standard | Requirement |
+|----------|-------------|
+| Written policies | Public charging guidelines |
+| Individualized assessment | No blanket maximum charging |
+| Proportionality | Charges proportional to conduct |
+| Diversion first | Presumption of diversion for eligible cases |
+
+**Pillar 3: Plea Bargain Reform**
+
+| Reform | Standard |
+|--------|----------|
+| Open file discovery | Defense gets all evidence before plea decision |
+| Time for deliberation | Minimum 72 hours for felony pleas |
+| Judicial oversight | Judge reviews voluntariness |
+| No trial penalty | Cannot punish exercise of trial right |
+
+**Pillar 4: Brady Enforcement**
+
+| Requirement | Standard |
+|-------------|----------|
+| Automatic disclosure | All favorable evidence, no request needed |
+| Certification | Prosecutor certifies compliance |
+| Sanctions | Meaningful penalties for violations |
+| Pattern monitoring | Track violations by prosecutor |
+
+**Pillar 5: Community-Oriented Prosecution**
+
+| Practice | Implementation |
+|----------|---------------|
+| Diversion programs | Mandatory for first-time non-violent offenses |
+| Restorative justice | Offered in appropriate cases |
+| Community input | Regular community advisory boards |
+| Victim engagement | Victim preferences considered |
+
+---
+
+## Part XIV: Capital Punishment
+
+### The Death Penalty in America
+
+**Current State:**
+- 27 states retain death penalty (23 active)
+- Federal government: Executions resumed then paused
+- Death row population: ~2,300 people
+- 2024 executions: Lowest in three decades
+- States with moratoriums: Growing
+
+**The Problems:**
+- Racial disparities: Death penalty more likely when victim is white
+- Wrongful convictions: 190+ death row exonerations since 1973
+- Geographic arbitrariness: Depends on county, not crime
+- Ineffective deterrence: No evidence death penalty deters murder
+- Cost: Death penalty cases cost 3-10x more than life imprisonment
+
+### Policy Framework: The Death Penalty Reform Act
+
+**Pillar 1: Federal Level**
+
+| Action | Rationale |
+|--------|-----------|
+| Federal moratorium | Pending comprehensive review |
+| No federal executions | Risk of executing innocent too high |
+| Life without parole | Effective alternative |
+| Clemency review | All federal death sentences reviewed |
+
+**Pillar 2: State Incentives**
+
+| Incentive | Mechanism |
+|-----------|-----------|
+| Justice grants | Enhanced funding for states without death penalty |
+| Clemency support | Federal support for commutation reviews |
+| Study funding | Research on wrongful convictions |
+| Alternatives support | Funding for victim services, closure programs |
+
+**Pillar 3: If Death Penalty Retained**
+
+| Safeguard | Requirement |
+|-----------|-------------|
+| Eligibility narrowing | Only most aggravated murders |
+| Jury unanimity | Required for death sentence |
+| Intellectual disability | Absolute exemption |
+| Mental illness | Severe mental illness exemption |
+| Age limits | No execution for crimes under 21 |
+| Enhanced review | Automatic, expedited appeals |
+| DNA testing | Mandatory pre-execution DNA review |
+
+**Pillar 4: Victim Services**
+
+| Service | Standard |
+|---------|----------|
+| Counseling | Free, ongoing for all homicide survivors |
+| Financial support | Compensation for therapy, lost income |
+| Closure programs | Restorative options, information access |
+| No re-traumatization | Minimize appeals process burden |
+
+**Death Penalty Trends:**
+
+| Metric | 2000 | 2024 | 2040 Goal |
+|--------|------|------|-----------|
+| States with death penalty | 38 | 27 | <15 |
+| Annual executions | 85 | <20 | 0 |
+| Death row population | 3,600 | 2,300 | <500 |
+| Exonerations | 85 total | 190+ total | None needed |
+
+---
+
+## Part XV: Implementation & Funding
 
 ### Federal Leadership
 
@@ -658,6 +968,18 @@ The choice isn't between public safety and justice reform. The choice is between
 - [ScienceDirect: Body Cameras and Use of Force](https://www.sciencedirect.com/science/article/pii/S0047272725001227)
 - [ACLU: Body Camera Recommendations](https://www.aclu.org/news/privacy-technology/were-updating-our-police-body-camera)
 - [Congress.gov: Police CAMERA Act 2025](https://www.congress.gov/bill/119th-congress/house-bill/1188/text)
+
+### Wrongful Convictions
+- [Innocence Project: Exonerations Data](https://innocenceproject.org/exonerations-data/)
+- [Innocence Project: 2025 Policy Wins](https://innocenceproject.org/news/the-breakthrough-policy-wins-we-secured-that-shaped-2025/)
+- [NIJ: Wrongful Convictions and DNA Exonerations](https://nij.ojp.gov/topics/articles/wrongful-convictions-and-dna-exonerations-understanding-role-forensic-science)
+- [Innocence Project: Policy Reform](https://innocenceproject.org/policy/)
+
+### Fines and Fees
+- [NCSL: Road to Reform on License Suspensions](https://www.ncsl.org/civil-and-criminal-justice/road-to-reform-state-approaches-to-addressing-debt-based-drivers-license-suspensions)
+- [Fines and Fees Justice Center: Decade of Reform](https://finesandfeesjusticecenter.org/2025/03/31/bipartisanship-at-work-a-decade-of-fines-and-fees-reform/)
+- [Fines and Fees Justice Center: 2024 Legislative Roundup](https://finesandfeesjusticecenter.org/2025/02/03/2024-legislative-roundup-fines-and-fees-reform-around-the-country/)
+- [Free to Drive Campaign](https://finesandfeesjusticecenter.org/campaigns/national-drivers-license-suspension-campaign-free-to-drive/)
 
 ---
 

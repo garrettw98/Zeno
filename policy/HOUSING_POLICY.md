@@ -510,6 +510,380 @@ Housing must be resilient to climate change—wildfire, flood, heat, hurricanes.
 
 ---
 
+## Part XIII: Public Housing Modernization
+
+### The Capital Crisis
+
+**Current State:**
+- Cost to repair U.S. public housing: $26 billion (2010) → $169 billion (2025)
+- 1 million public housing units nationwide
+- Average age of public housing: 50+ years
+- Many developments uninhabitable without major renovation
+
+**The Problem:**
+- Congress chronically underfunds public housing capital
+- PHAs can't access private capital under traditional public housing rules
+- Properties deteriorate; units lost to demolition
+- Waiting lists grow (years-long in many cities)
+
+### Policy Framework: Public Housing Revitalization Act
+
+**Pillar 1: RAD Expansion and Improvement**
+
+The Rental Assistance Demonstration (RAD) converts public housing to Section 8, enabling private financing:
+
+| Element | Current | Proposed |
+|---------|---------|----------|
+| Unit cap | 455,000 | Eliminate cap |
+| Resident protections | Strong | Maintain and strengthen |
+| Right to return | Guaranteed | Codify in law |
+| Choice mobility | After 1 year | After 1 year |
+| Rent protections | 30% of income | Maintain |
+
+**Pillar 2: Choice Neighborhoods Expansion**
+
+| Investment | Current | Proposed |
+|------------|---------|----------|
+| Annual appropriation | $350 million | $2 billion |
+| Developments per year | 5-10 | 30-50 |
+| Focus | Distressed developments | All severely distressed |
+| Integration | Mixed-income replacement | Mixed-income with 1:1 replacement |
+
+**Pillar 3: Public Housing Operating Funds**
+
+| Program | Current | Proposed |
+|---------|---------|----------|
+| Operating fund proration | 85-90% | 100% funding |
+| Capital fund | $3 billion | $10 billion |
+| Energy efficiency | Limited | Comprehensive retrofit program |
+| Staffing | Underfunded | Full funding for management |
+
+**Pillar 4: Social Housing Development Corporation**
+
+New federal entity to develop permanently affordable housing:
+- Mixed-income developments on public land
+- Not subject to public housing rules
+- Revenue from higher-income units subsidizes affordable
+- Vienna/Singapore models adapted for U.S.
+- Resident governance and ownership pathways
+
+**Modernization Targets:**
+
+| Metric | Current | 2030 | 2040 |
+|--------|---------|------|------|
+| Units in good condition | 60% | 85% | 98% |
+| Energy efficiency (avg) | Poor | Moderate | High |
+| Waiting list (average) | 2+ years | 1 year | 6 months |
+| Units lost to demolition (annual) | 10,000 | 5,000 | Net positive |
+
+---
+
+## Part XIV: Manufactured Housing Reform
+
+### The Overlooked Affordable Housing
+
+**Current State:**
+- 8.4+ million manufactured housing units nationwide
+- Largest source of unsubsidized affordable housing
+- Average cost: $86.62/sq ft (vs. $165.94 for site-built)
+- 1,500 sq ft home: $118,980 cheaper than site-built
+- Growing 10%+ year-over-year production
+
+**The Barriers:**
+- Outdated HUD Code (not updated meaningfully in 30+ years until 2025)
+- Local zoning excludes manufactured homes
+- Financing disadvantages (chattel loans, higher rates)
+- Land ownership issues (lot rent vulnerability)
+- Stigma ("mobile home" perception)
+
+### Policy Framework: Manufactured Housing Modernization Act
+
+**Pillar 1: HUD Code Modernization**
+
+The September 2025 HUD Code update is a major step. Build on it:
+
+| Reform | Status | Expansion |
+|--------|--------|-----------|
+| Multi-family manufactured | Newly allowed (duplex-fourplex) | Encourage adoption |
+| Permanent chassis requirement | Eliminated in ROAD to Housing Act | Full implementation |
+| Energy standards | Updated | Align with site-built efficiency |
+| Design flexibility | Improved | Allow varied architectural styles |
+| Foundation standards | Updated | Enable permanent foundation financing |
+
+**Pillar 2: Zoning Parity**
+
+| Reform | Mechanism |
+|--------|-----------|
+| Federal preemption | Localities cannot exclude HUD Code homes from residential zones |
+| Appearance standards | Limited to objective criteria (no "doesn't look like" exclusions) |
+| Foundation requirements | Cannot mandate specific foundation types |
+| CDBG/HOME conditions | Zoning parity required for federal housing funds |
+
+**Pillar 3: Financing Reform**
+
+| Current Problem | Solution |
+|-----------------|----------|
+| Chattel loans (personal property) | FHA Title I modernization for manufactured homes |
+| Higher interest rates | GSE (Fannie/Freddie) manufactured housing programs |
+| Shorter loan terms | 30-year mortgages when home on permanent foundation |
+| Limited lenders | CRA credit for manufactured housing lending |
+| Down payment barriers | First-time buyer programs include manufactured |
+
+**Pillar 4: Land Security**
+
+| Program | Investment |
+|---------|-----------|
+| Resident-owned communities (ROCs) | $500 million loan fund |
+| Community land trust partnerships | Technical assistance and land acquisition |
+| Lot rent protections | Just cause eviction, rent increase limits in subsidized parks |
+| Park preservation | Right of first refusal for residents when parks sold |
+| Infrastructure investment | Water, sewer, road improvements in manufactured housing communities |
+
+**Model: ROC USA**
+- 300+ resident-owned manufactured housing communities
+- 22,000+ households own their communities
+- Below-market lot rents, community governance
+- Zero community closures when resident-owned
+
+**Production Targets:**
+
+| Metric | Current | 2030 | 2040 |
+|--------|---------|------|------|
+| Annual production | 100,000 | 200,000 | 300,000 |
+| Zoning parity (% of localities) | 20% | 60% | 90% |
+| Resident-owned communities | 300 | 1,000 | 3,000 |
+| Average financing rate gap (vs. site-built) | 1.5% | 0.5% | 0% |
+
+---
+
+## Part XV: Fair Housing & AI
+
+### The Digital Discrimination Threat
+
+**Current State:**
+- 32,321 housing discrimination complaints filed in 2024 (near record)
+- AI-powered tenant screening now ubiquitous
+- Algorithmic advertising targets/excludes by protected class
+- Automated valuation models may perpetuate redlining
+- Enforcement capacity gutted in 2025
+
+**The AI Threat:**
+- Tenant screening algorithms reject based on proxies for race
+- Criminal background checks have disparate impact
+- Credit scoring reflects historical discrimination
+- Advertising algorithms enable digital steering
+- Pricing algorithms may engage in rent discrimination
+
+**The Enforcement Crisis (2025):**
+- HUD Office of Fair Housing and Equal Opportunity: 1/3 staff remaining
+- Fair Housing Initiatives Program: Zeroed out
+- 78 critical fair housing grants terminated
+- State/local enforcement left without federal support
+
+### Policy Framework: Fair Housing in the Digital Age Act
+
+**Pillar 1: AI Transparency Requirements**
+
+| Requirement | Application |
+|-------------|-------------|
+| Algorithm disclosure | Landlords must disclose use of AI in screening |
+| Adverse action notice | Specific reasons for AI-based denials |
+| Audit requirements | Annual disparate impact testing |
+| Data documentation | Retain training data and model versions |
+| Third-party liability | Screening companies liable for discriminatory algorithms |
+
+**Pillar 2: Prohibited Practices**
+
+| Practice | Prohibition |
+|----------|-------------|
+| Protected class proxies | Cannot use zip code, name, or other proxies for race |
+| Criminal history | Individualized assessment required; blanket bans prohibited |
+| Credit score thresholds | Must consider context; alternative credit allowed |
+| Advertising targeting | Cannot exclude protected classes from housing ads |
+| Algorithmic steering | Cannot direct protected classes to/from neighborhoods |
+
+**Pillar 3: Enforcement Restoration**
+
+| Program | Investment |
+|---------|-----------|
+| HUD FHEO staffing | Restore to pre-2025 levels + 25% increase |
+| Fair Housing Initiatives Program | $100 million annually |
+| Fair housing organizations | Multi-year grants for stability |
+| Testing programs | Expand AI discrimination testing |
+| Legal assistance | Fair housing legal aid expansion |
+
+**Pillar 4: Proactive Compliance**
+
+| Requirement | Standard |
+|-------------|----------|
+| Pre-deployment testing | AI tools tested for disparate impact before use |
+| Ongoing monitoring | Quarterly analysis of screening outcomes by protected class |
+| Less discriminatory alternatives | Must adopt if equally effective |
+| Human review | Right to human review of AI decisions |
+| Remediation | Correction of identified discrimination within 90 days |
+
+**Pillar 5: Algorithmic Accountability Board**
+
+- Federal body to certify housing AI systems
+- Safe harbor for certified systems
+- Public database of approved/rejected algorithms
+- Regular audits of certified systems
+- Research on fair housing AI best practices
+
+**Enforcement Targets:**
+
+| Metric | Current | 2030 | 2040 |
+|--------|---------|------|------|
+| Complaints resolved (annual) | 5,000 | 15,000 | 25,000 |
+| AI systems certified fair | 0 | 50% | 90% |
+| Disparate impact in screening | 30%+ | 15% | 5% |
+| FHEO staffing | Depleted | Full | Enhanced |
+
+---
+
+## Part XVI: Senior Housing
+
+### The Aging Imperative
+
+**Demographics:**
+- Adults 65+: 56 million (2020) → 80 million (2035)
+- By 2034: More seniors than children for first time
+- 1 in 3 older adults income below 200% FPL ($29,160/year)
+- 90% want to age in place
+- Only 4% of homes have basic accessibility features
+
+**The Shortage:**
+- Section 202 (senior housing): 400,000 units; 10-year waiting lists
+- LIHTC senior set-aside: Varies by state
+- Accessible housing: Severe shortage
+- Affordable assisted living: Nearly nonexistent
+
+**The Accessibility Gap:**
+- No-step entry: Rare
+- Single-floor living: Limited
+- Wide doorways (wheelchair): Uncommon
+- Grab bars/accessible bathrooms: Retrofit needed
+
+### Policy Framework: Senior Housing Security Act
+
+**Pillar 1: Section 202 Expansion**
+
+| Element | Current | Proposed |
+|---------|---------|----------|
+| Annual funding | $900 million | $3 billion |
+| New construction | Nearly halted | 20,000 units/year |
+| Preservation | Underfunded | Full funding |
+| Services coordination | Limited | On-site service coordinators |
+| Income targeting | Very low-income | Maintain |
+
+**Pillar 2: Aging in Place Infrastructure**
+
+| Program | Investment |
+|---------|-----------|
+| HUD Home Modification Program | $15 million → $500 million |
+| Accessibility retrofits | Grants/low-interest loans for modifications |
+| Visitability standards | New housing built to visitability standards |
+| Technology | Smart home, fall detection, medication management |
+| Community-based services | HCBS funding integration with housing |
+
+**Pillar 3: Accessible Housing Production**
+
+| Requirement | Standard |
+|-------------|----------|
+| LIHTC senior set-aside | 15% of state allocation for senior housing |
+| Accessibility beyond ADA | 20% of LIHTC units fully accessible (vs. 5% current) |
+| Visitability | All new federally-funded housing visitable |
+| Universal design | Tax credits for universal design features |
+| Retrofit assistance | Homeowner grants for accessibility modifications |
+
+**Pillar 4: Senior Housing Integration**
+
+| Integration | Approach |
+|-------------|----------|
+| Housing + services | On-site service coordination in senior housing |
+| Healthcare | Telehealth infrastructure in senior housing |
+| Transportation | Transit access/shuttles for senior developments |
+| Community | Intergenerational housing models |
+| Technology | Digital literacy and connectivity |
+
+**Pillar 5: Assisted Living Affordability**
+
+| Program | Mechanism |
+|---------|-----------|
+| Medicaid coverage | Expand Medicaid HCBS to cover assisted living |
+| Affordable assisted living | LIHTC + Medicaid waivers combined |
+| Quality standards | Minimum staffing, care standards |
+| Resident protections | Eviction protections, aging in place rights |
+
+**Senior Housing Targets:**
+
+| Metric | Current | 2030 | 2040 |
+|--------|---------|------|------|
+| Section 202 units | 400,000 | 600,000 | 800,000 |
+| Homes with accessibility features | 4% | 15% | 30% |
+| Senior housing waiting list | 10+ years | 5 years | 2 years |
+| Seniors housing cost-burdened | 55% | 40% | 25% |
+| Nursing home alternatives | Limited | Widespread | Universal |
+
+---
+
+## Part XVII: AI in Housing Administration
+
+### The Opportunity
+
+AI can revolutionize housing administration—making programs more efficient, reducing wait times, and improving fairness.
+
+### Policy Framework: AI Housing Administration Act
+
+**Pillar 1: Waitlist Optimization**
+
+| Application | Benefit |
+|-------------|---------|
+| Dynamic prioritization | Match housing to need in real-time |
+| Preference matching | Connect households to appropriate units |
+| Fraud detection | Identify application inconsistencies |
+| Outcome tracking | Learn what placements succeed |
+
+**Pillar 2: Inspection Automation**
+
+| Application | Benefit |
+|-------------|---------|
+| Predictive maintenance | Identify problems before failure |
+| Photo analysis | Preliminary inspection via images |
+| Risk scoring | Focus inspections on highest-risk properties |
+| Efficiency | Reduce inspection backlogs |
+
+**Pillar 3: Subsidy Calculation**
+
+| Application | Benefit |
+|-------------|---------|
+| Income verification | Real-time verification via data matching |
+| Rent calculation | Automated, accurate rent portions |
+| Recertification | Streamlined annual recertification |
+| Error reduction | Reduce over/underpayments |
+
+**Pillar 4: Fair Housing Analysis**
+
+| Application | Benefit |
+|-------------|---------|
+| Pattern detection | Identify discrimination patterns across applications |
+| Outcome analysis | Track housing outcomes by protected class |
+| Steering detection | Identify patterns suggesting steering |
+| Audit automation | Automated fair housing audits |
+
+**Safeguards:**
+
+| Requirement | Standard |
+|-------------|----------|
+| Transparency | All AI decisions explainable |
+| Human review | Right to human review of adverse decisions |
+| Bias testing | Regular disparate impact analysis |
+| Audit trail | Complete record of AI decisions |
+| Override authority | Housing staff can override AI recommendations |
+| Privacy | Data minimization, purpose limitation |
+
+---
+
 ## Part XII: Integration with Zeno Framework
 
 ### Connection to Core Pillars
@@ -571,6 +945,30 @@ The evidence is clear: places that build housing have more affordable housing. P
 ### Homelessness
 - [Stateline: Federal Rules and Homelessness](https://stateline.org/2025/12/05/with-homelessness-rising-new-federal-rules-could-benefit-states-with-tougher-approaches/)
 - [Coalition for the Homeless: Housing Is the Solution 2025](https://www.coalitionforthehomeless.org/housing-is-the-solution-2025-recommendations/)
+
+### Public Housing & RAD
+- [HUD: Rental Assistance Demonstration](https://www.hud.gov/RAD)
+- [Local Housing Solutions: RAD Program](https://www.localhousingsolutions.org/housing-policy-library/the-rental-assistance-demonstration-rad/)
+- [NHLP: RAD Resources](https://www.nhlp.org/resources/rental-assistance-demonstration-rad/)
+- [NYCHA RAD Fact Sheet](https://www.nyc.gov/assets/nycha/downloads/pdf/rad-fact-sheet.pdf)
+
+### Manufactured Housing
+- [HousingWire: HUD Code Updates 2025](https://www.housingwire.com/articles/hud-issues-extensive-update-to-manufactured-housing-safety-standards/)
+- [Bipartisan Policy Center: ROAD to Housing Act 2025](https://bipartisanpolicy.org/explainer/whats-in-the-road-to-housing-act-of-2025/)
+- [ROC USA: HUD Reforms](https://rocusa.org/blog/hud-reforms-to-manufactured-housing-policy-could-unlock-more-affordable-homes/)
+- [Eye on Housing: Manufactured Homes Supply](https://eyeonhousing.org/2025/04/manufactured-homes-an-alternative-means-of-housing-supply/)
+
+### Fair Housing & AI
+- [Daily Journal: Algorithmic Bias in Tenant Screening](https://www.dailyjournal.com/article/387067-how-algorithmic-bias-keeps-renters-out-and-puts-fair-housing-to-the-test)
+- [HUD: Fair Housing Act Guidance on AI (2024)](https://archives.hud.gov/news/2024/pr24-098.cfm)
+- [NFHA: Tech Equity Initiative](https://nationalfairhousing.org/issue/tech-equity-initiative/)
+- [NFHA: 2025 Fair Housing Trends Report](https://nationalfairhousing.org/new-fair-housing-trends-report-finds-pervasive-discrimination-as-federal-government-rolls-back-civil-rights/)
+
+### Senior Housing
+- [NLIHC: Section 202 Housing for the Elderly](https://nlihc.org/sites/default/files/AG-2025/4-113_Section-202-Housing-for-the-Elderly.pdf)
+- [Urban Institute: Aging in Place Housing Needs](https://housingmatters.urban.org/articles/how-meet-housing-needs-older-adults-aging-place)
+- [Local Housing Solutions: Senior Housing Needs](https://www.localhousingsolutions.org/policy-objectives/meeting-the-housing-and-services-needs-of-older-adults-and-people-with-disabilities/)
+- [LeadingAge NY: LIHTC Testimony 2025](https://leadingageny.org/sites/leadingageny/assets/LeadingAge-NY-Testimony-on-2025-LIHTC-SLIHC-Notice-of-Proposed-Rulemaking.pdf)
 
 ---
 
