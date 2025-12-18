@@ -402,10 +402,62 @@ This book argues that:
 
 ---
 
-## PART SIX: THE PATH FORWARD
+## PART SIX: THE ALGORITHMIC REPUBLIC
+### Open Source AI Governance for Human-Centered Capitalism
+
+### Chapter 18: The Corruption Crisis
+*Why human administration must end*
+
+- **The scale**: $2.6 trillion lost to global corruption annually
+- **The pattern**: Discretion enables corruption, opacity hides it
+- **Why reforms fail**: More oversight = more bureaucracy, capture persists
+- **The AI alternative**: Cannot be bribed, perfectly consistent, fully transparent
+- **Albania's AI Minister**: Diella appointed September 2025 for corruption-free procurement
+- **The principle**: Remove the corrupt human from the equation
+
+### Chapter 19: Human-Centered Capitalism as Operating System
+*What AI optimizes for*
+
+- **Andrew Yang's framework**: Humans more important than money, markets serve values
+- **Beyond GDP**: Health, economic security, freedom, environment, cohesion, opportunity
+- **The Human-Centered Constitution**: Five laws governing all government AI
+- **Inviolable constraints**: Do no harm, maximize flourishing, preserve agency, maintain transparency, serve all equally
+- **The measurement**: Annual Human-Centered GDP alongside traditional metrics
+
+### Chapter 20: The Open Source Mandate
+*Why government AI must be fully transparent*
+
+- **O-SAIF's argument** (February 2025): Open source ensures auditability, security, no capture
+- **The prohibition**: No closed-source AI for government administrative decisions
+- **The National AI Repository**: Public code, version control, community contributions
+- **Security through transparency**: Many eyes find vulnerabilities, rapid response
+- **Data sovereignty**: Citizens own their data, encryption by default, access logging
+
+### Chapter 21: The Algorithmic Government
+*AI administration with democratic oversight*
+
+- **What AI can administer**: Tax, benefits, licensing, procurement, regulatory compliance
+- **What humans must retain**: Legislation, constitutional interpretation, war/peace, pardons, policy priorities
+- **The AI Policy Council**: Translates democratic mandates into AI optimization targets
+- **The escalation framework**: When AI must defer to human judgment
+- **The transition**: Augmentation → Automation with oversight → Full administration
+
+### Chapter 22: Global Convergence
+*From national to international to federated global governance*
+
+- **Shared challenges require shared solutions**: Climate, pandemic, AI safety, nuclear
+- **Phase 1**: Bilateral AI governance treaties with allies
+- **Phase 2**: Regional integration and harmonization
+- **Phase 3**: Great power coordination on mutual extinction risks
+- **Phase 4**: Federated global governance (not world government—subsidiarity principle)
+- **The Global AI Constitution**: Universal principles all participating nations accept
+
+---
+
+## PART SEVEN: THE PATH FORWARD
 ### Making This Happen
 
-### Chapter 18: The Political Strategy
+### Chapter 23: The Political Strategy
 *Building a coalition for change*
 
 - Why automation should be a winning political issue
@@ -416,7 +468,7 @@ This book argues that:
 - Engaging labor unions, business leaders, and technologists
 - The 2028 and 2032 electoral opportunities
 
-### Chapter 19: The Economic Arguments
+### Chapter 24: The Economic Arguments
 *Convincing skeptics*
 
 - Addressing the inflation concern
@@ -426,7 +478,7 @@ This book argues that:
 - The investment case: How proactive policy creates better outcomes
 - International competitiveness: How other nations are preparing
 
-### Chapter 20: The Moral Case
+### Chapter 25: The Moral Case
 *Why this matters beyond economics*
 
 - Human dignity in the age of machines
@@ -436,7 +488,7 @@ This book argues that:
 - The global perspective: Developed vs. developing nation impacts
 - Our responsibility to future generations
 
-### Chapter 21: A Vision for 2040
+### Chapter 26: A Vision for 2050
 *The future we could build*
 
 **The Optimistic Scenario:**
@@ -447,6 +499,11 @@ This book argues that:
 - Scientific breakthroughs extend and improve human life
 - Education is personalized and lifelong
 - Work is a choice, not a requirement for survival
+- **Open source AI administers government without corruption**
+- **Human-centered metrics guide all policy optimization**
+- **Federated global governance addresses shared challenges**
+- **Sound money protects citizens from monetary debasement**
+- **Blockchain verifies truth in a post-deepfake world**
 
 **The Pessimistic Scenario (if we fail to act):**
 - Mass unemployment and social unrest
@@ -455,6 +512,11 @@ This book argues that:
 - Environmental collapse accelerated by unconstrained growth
 - Loss of human purpose and meaning
 - Two-tier society: The owners and the obsolete
+- **Corrupt AI serves elites, not citizens**
+- **Surveillance states enabled by closed-source systems**
+- **Global coordination fails; existential risks unaddressed**
+- **Fiat currency collapse without crypto alternative**
+- **Truth becomes impossible to verify**
 
 **The Choice is Ours:**
 - This is not deterministic—policy choices matter

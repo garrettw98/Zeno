@@ -18,10 +18,11 @@ Inspired by Andrew Yang's warnings about automation and universal basic income, 
 
 ## Repository Contents
 
-- `BOOK_FRAMEWORK.md` - Complete 21-chapter book outline with themes and policy proposals
+- `BOOK_FRAMEWORK.md` - Complete 26-chapter book outline across 7 parts
 - `RESEARCH_NOTES.md` - Current data, statistics, and sourced citations from December 2025
 - `POLICY_DEEP_DIVE.md` - Comprehensive analysis of the Robot Tax and Data Tax framework
 - `BLOCKCHAIN_POLICY.md` - Authenticity infrastructure and sound money transition framework
+- `AI_GOVERNANCE.md` - The Algorithmic Republic: Open source AI governance for human-centered capitalism
 
 ## Core Thesis
 
@@ -48,6 +49,13 @@ This book argues for proactive policy—not reactive crisis management—to ensu
 - Sound Money Transition (Blockchain/Crypto)
 - Self-Sovereign Digital Identity
 - Blockchain Voting Infrastructure
+
+**The Revolution (Part Six: The Algorithmic Republic):**
+- Open Source AI Governance (all government AI publicly auditable)
+- Human-Centered Capitalism as AI Operating System
+- AI Administration with Democratic Oversight
+- Corruption Elimination by Design
+- Global Convergence toward Federated Governance
 
 ---
 
