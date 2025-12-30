@@ -183,6 +183,75 @@ The APT creates a sustainable economy where consumers (workers) can afford produ
 ## PART II: THE DATA DIVIDEND TAX
 ### Making Users Shareholders in the Data Economy
 
+
+### 2.0 Data Labor Rights: The Foundation (VERSION 2.5)
+
+**The Paradigm Shift:**
+
+Version 2.5 introduces a fundamental reframing: **Data is not a byproduct of life. Data is labor.**
+
+When you scroll through a feed, you are training algorithms. When you speak to a voice assistant, you are improving speech recognition. When you take photos, you are teaching computer vision. When you write messages, you are refining language models.
+
+This is work. It has economic value. It deserves compensation.
+
+**From Data Ownership to Data Labor Rights:**
+
+| Old Frame (V2.0-2.4) | New Frame (V2.5) | Implication |
+|----------------------|------------------|-------------|
+| Citizens "own" their data | Citizens perform **data labor** | Not passive assets, but active work |
+| Companies "extract" data | Companies employ **unpaid data workers** | The relationship is exploitative |
+| Data Dividend is a "royalty" | Data Dividend is **back wages** | Moral urgency of compensation |
+| Opt-out rights | **Labor rights** including collective bargaining | Stronger legal framework |
+
+**The Data Labor Framework:**
+
+1. **Recognition of Data Work:**
+   - Every interaction that generates training data is a form of labor
+   - Citizens are not just "users"—they are **Data Workers**
+   - Platforms are not just services—they are **Data Employers**
+
+2. **Compensation Mechanisms:**
+
+   **Option A: Licensing Model (Individual)**
+   - Citizens license their data contributions directly
+   - Platforms pay per-interaction fees
+   - Similar to stock photo licensing
+
+   **Option B: Collective Bargaining (Union Model)**
+   - Data Workers form collective bargaining units
+   - Negotiate industry-wide compensation rates
+   - Enforce through coordinated data strikes
+
+   **Option C: Taxation + Dividend (Public Model)** ← *Recommended*
+   - Government collects Data Labor Tax from platforms
+   - Revenue distributed as Citizen's Data Dividend
+   - Simplest to implement, broadest coverage
+
+3. **Data Labor Rights Bill of Rights:**
+
+   - **Right to Compensation:** All data labor must be compensated
+   - **Right to Transparency:** Workers know how their data is used
+   - **Right to Withdrawal:** Workers can remove their data contributions
+   - **Right to Organize:** Workers can form data labor unions
+   - **Right to Audit:** Workers can verify their compensation calculations
+
+**Why This Matters:**
+
+The "data ownership" frame treats citizens as landlords passively collecting rent. The "data labor" frame treats citizens as workers actively creating value.
+
+The labor frame is more accurate and more powerful:
+- It connects to existing labor law and worker protections
+- It creates moral clarity about platform business models
+- It justifies stronger compensation requirements
+- It opens the door to collective action and unionization
+
+**The Commons Crisis:**
+
+Without data labor compensation, the digital commons is shrinking. Creators stop contributing. Artists watermark everything. Writers paywall their work. The shared knowledge base that trains AI is drying up because those who create it are not compensated.
+
+Data Labor Rights solve this by creating sustainable economics for digital contribution.
+
+
 ### 2.1 The Problem Statement
 
 **The Invisible Extraction:**

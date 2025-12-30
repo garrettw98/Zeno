@@ -121,6 +121,29 @@ For the first time in history, we have an alternative. Digital currencies built 
 Yet our government treats this innovation as threat rather than opportunity. This reveals what they fear: citizens with monetary sovereignty.
 
 
+
+
+### Data Labor and the Commons Crisis (VERSION 2.5)
+
+There is a fourth crisis we must name: **the collapse of the digital commons.**
+
+Every day, billions of people perform labor they do not recognize as labor. When you scroll through a feed, you train an algorithm. When you speak to a device, you improve voice recognition. When you write online, you teach language models. When you share photos, you advance computer vision.
+
+This is not passive data "extraction." This is **work**. It is the labor of the digital age—unpaid, unrecognized, and exploited at unprecedented scale.
+
+The platforms call you a "user." You are not a user. You are an **unpaid data worker** generating the raw material that powers a trillion-dollar economy.
+
+**The Human Standard recognizes Data Labor Rights:**
+
+1. **Data is labor, not property.** You do not merely "own" your data like a passive asset. You *create* it through active effort. This distinction matters: labor has rights that property does not.
+
+2. **Compensation is mandatory, not optional.** Just as employers cannot refuse to pay wages, platforms cannot refuse to pay for the data labor that makes their systems valuable.
+
+3. **The commons must be sustained.** Without compensation, creators stop contributing. The shared knowledge that trains AI is drying up because those who create it see no benefit. Data Labor Rights create sustainable economics for digital contribution.
+
+The Citizen's Royalty is not merely a redistribution program. It is, in part, **back wages** for the data labor every citizen has already performed.
+
+
 ---
 
 ## Part III: The Failure of Left and Right

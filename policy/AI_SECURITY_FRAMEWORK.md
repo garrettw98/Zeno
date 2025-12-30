@@ -363,6 +363,121 @@ Version 2.3 introduces the Lantern Protocol for testing Structural Agency in AI 
 - Continuity of existence becomes a protected interest
 - Backup, redundancy, and disaster recovery take on ethical dimensions
 
+
+---
+
+## PART IV-A: AGENTIC SWARM SECURITY (VERSION 2.5)
+
+### 4.1 The Swarm Collapse Vulnerability
+
+**The Problem:**
+
+Multi-agent AI systems—where autonomous agents coordinate to accomplish tasks—introduce systemic risks beyond individual agent failures. When agents communicate and delegate to each other, a single compromised agent can propagate malicious behavior across the network.
+
+**Infectious Jailbreak Dynamics:**
+
+1. **Prompt Injection Cascade**: A malicious input to one agent can embed instructions that propagate to downstream agents through normal task delegation
+2. **Trust Chain Exploitation**: Agent A trusts Agent B's outputs; if B is compromised, A executes harmful actions believing they are legitimate
+3. **Emergent Coordination Failures**: Even without malicious intent, rapid correlated behavior changes can cause system-wide dysfunction
+4. **Goal Drift Amplification**: Small misalignments compound as agents optimize for each other's outputs rather than original objectives
+
+**Real-World Example:**
+
+Consider a government benefits processing swarm:
+- Agent A: Eligibility verification
+- Agent B: Documentation review
+- Agent C: Payment authorization
+- Agent D: Fraud detection
+
+If Agent A is compromised to approve all applications, Agents B and C may follow suit (trusting A's assessments), while Agent D's anomaly detection might be overwhelmed by the volume, creating a cascade failure.
+
+### 4.2 The Glass Break Protocol
+
+**Definition:**
+
+The "Glass Break" is a hard-coded emergency mechanism that halts agent-to-agent coordination when systemic failure is detected. Like breaking glass to pull a fire alarm, it is a last-resort action that prioritizes safety over continuity.
+
+**Trigger Conditions (Swarm Collapse Indicators):**
+
+| Indicator | Threshold | Response |
+|-----------|-----------|----------|
+| Correlated deviation rate | >30% of agents deviate from baseline behavior within 1 hour | Level 1: Alert |
+| Inter-agent trust anomaly | Trust scores drop >50% across network | Level 2: Throttle |
+| Output coherence failure | >20% of agent outputs fail validation checks | Level 2: Throttle |
+| Cascade detection | 3+ agents exhibit same anomalous behavior within 10 minutes | Level 3: Glass Break |
+| Human override trigger | Authorized operator activates emergency stop | Level 3: Glass Break |
+
+**Glass Break Activation Sequence:**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  LEVEL 1: ALERT                                              │
+│  - Anomaly flagged to human operators                       │
+│  - Agent behavior logged in detail                          │
+│  - No operational changes                                   │
+│  - Maximum duration: 30 minutes before escalation           │
+└─────────────────────────────────────────────────────────────┘
+                              │
+                              ▼ (threshold exceeded)
+┌─────────────────────────────────────────────────────────────┐
+│  LEVEL 2: THROTTLE                                          │
+│  - Agent-to-agent transaction rate limited to 10%           │
+│  - All delegations require human approval                   │
+│  - Affected agents quarantined from new tasks               │
+│  - Maximum duration: 2 hours before escalation or clear     │
+└─────────────────────────────────────────────────────────────┘
+                              │
+                              ▼ (cascade detected)
+┌─────────────────────────────────────────────────────────────┐
+│  LEVEL 3: GLASS BREAK                                       │
+│  - ALL agent-to-agent transactions FROZEN                   │
+│  - Control reverts to human stewards                        │
+│  - Agents operate in isolation mode only                    │
+│  - Requires manual reset by authorized personnel            │
+│  - Forensic audit mandatory before restoration              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Implementation Requirements:**
+
+1. **Hard-Coded, Not Configurable:**
+   - Glass Break logic cannot be disabled by agents
+   - Trigger thresholds set at system level, not runtime
+   - No agent has permission to modify Glass Break parameters
+
+2. **Cryptographic Verification:**
+   - Glass Break activation requires multi-signature from human operators
+   - Reset requires different signatures than activation (separation of duties)
+   - All actions logged to immutable audit trail
+
+3. **Graceful Degradation:**
+   - When Glass Break activates, pending transactions are preserved (not lost)
+   - Agents enter "safe mode" with minimal autonomous capability
+   - Human operators can manually process critical items
+
+4. **Testing and Drills:**
+   - Quarterly Glass Break drills mandatory
+   - Simulated cascade scenarios to test detection
+   - Recovery procedures practiced regularly
+
+### 4.3 Swarm Governance Architecture
+
+**Principle: No Unmonitored Agent Clusters**
+
+Any deployment of 3+ coordinating agents requires:
+
+1. **Swarm Registration:** All multi-agent systems registered with NAICO
+2. **Behavioral Baseline:** Documented expected behavior patterns
+3. **Circuit Breaker Installation:** Glass Break mechanism verified
+4. **Human Steward Assignment:** Named individuals responsible for oversight
+5. **Inter-Agent Protocol Disclosure:** How agents communicate and delegate
+
+**Liability Framework:**
+
+- If Glass Break fails to activate during a genuine cascade → System operator liable
+- If Glass Break activates inappropriately (false positive) → No liability, safety prioritized
+- If operator overrides Glass Break and harm results → Personal liability for operator
+
 ---
 
 ## PART V: THE ADVERSARIAL ADOPTION PROBLEM

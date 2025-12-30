@@ -241,4 +241,65 @@ The next five years will determine the answer.
 
 ---
 
+
+
+---
+
+### The Entrepreneurial Society: Beyond Welfare (VERSION 2.5)
+
+The policies described in this book—Citizen's Royalty, automation taxes, human service rights—might suggest a vision of passive dependence. Citizens receiving checks. Government managing decline. A welfare state writ large.
+
+**This is not our vision.**
+
+The Human Standard aims for an **Entrepreneurial Society**, not a welfare state. The Citizen's Royalty provides the floor, but the ceiling is unlimited. The goal is not to make citizens comfortable in dependency, but to make them free for agency.
+
+**The Haier/Nucor Principle:**
+
+Two companies demonstrate what becomes possible when bureaucracy is abolished and human agency is unleashed:
+
+**Haier (Chinese appliance manufacturer):**
+- Eliminated middle management entirely
+- Split 80,000 employees into 4,000+ "micro-enterprises"
+- Each micro-enterprise operates like a small business
+- Teams compete internally and externally
+- Result: World's largest appliance manufacturer, radically innovative
+
+**Nucor (American steel company):**
+- Flattest hierarchy in heavy industry
+- Workers organized into self-managing teams
+- Profit-sharing makes every worker an owner
+- No executive dining rooms or reserved parking
+- Result: Most profitable steel company in America
+
+**The Lesson:**
+
+Bureaucracy does not protect workers—it crushes human agency. The layers of management, the endless approvals, the rigid job descriptions—these are not features of a humane economy. They are the architecture of alienation.
+
+The Human Standard applies this insight to government itself:
+
+1. **The Sovereign Humanity Fund:** Not a passive wealth fund, but an **active investor in citizen enterprise**. The Fund provides:
+   - Micro-investment in citizen-owned businesses
+   - Zero-interest loans for entrepreneurs
+   - Equity stakes in worker-owned cooperatives
+   - Technical assistance and mentorship networks
+
+2. **The Citizen's Royalty as Startup Capital:** The guaranteed income floor means citizens can take risks. You can quit a bad job. You can start a business. You can invest time in learning. The Royalty is not a hammock—it is a **launching pad**.
+
+3. **Regulatory Simplification:** Automation should replace bureaucrats, not workers. AI can handle permits, licenses, and compliance—freeing citizens to create rather than navigate paperwork.
+
+**The Vision:**
+
+In the Entrepreneurial Society:
+- Every citizen has the security to take risks
+- Every neighborhood has citizen-owned enterprises
+- Every worker can become an owner
+- The Sovereign Humanity Fund invests in human potential
+- Government enables rather than manages
+
+We do not want a nation of dependents waiting for checks. We want a nation of entrepreneurs, creators, and owners—supported by a floor that makes risk possible and a fund that makes investment accessible.
+
+The robots can have the bureaucratic jobs. The humans get to build.
+
+
+
 *Next: Chapter 6 - Autonomous Everything*

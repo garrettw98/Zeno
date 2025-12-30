@@ -8,7 +8,7 @@
 
 ---
 
-## VERSION 2.4: The Safety & Purpose Update
+## VERSION 2.5: The Agentic Economy Update
 
 **A post-biological framework with strict human protections. Implements Cognitive Sovereignty, Bonded AI Agency, Metabolic Distinction, and the Vocational Economy.**
 
