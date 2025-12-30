@@ -33,7 +33,7 @@ Not everyone. Three people who:
 - Are politically engaged but unsatisfied with current options
 
 **Message template:**
-> "I found something worth reading. It's a complete framework for making sure AI benefits everyone, not just tech billionaires. Called The Human Standard. Covers automation, UBI, government reform, everything. [LINK] What do you think?"
+> "I found something worth reading. It's a complete framework for making sure AI benefits everyone, not just tech billionaires. Called The Human Standard. Covers automation, Citizen's Royalty, government reform, everything. [LINK] What do you think?"
 
 **Why it matters:** Ideas spread person to person. Three people who share to three more becomes thousands.
 
@@ -83,7 +83,7 @@ Options:
 
 You don't need to explain everything. Pick one aspect that resonates:
 - The automation dividend concept
-- The evidence from UBI pilots
+- The evidence from Citizen's Royalty pilots
 - The sound money argument
 - The deepfake/trust crisis
 - Your personal story of why this matters
@@ -116,7 +116,7 @@ Note what you can offer. When the movement organizes, these skills will be neede
 **Action:** Read one policy document thoroughly. Become conversant in that area.
 
 Pick based on your interests:
-- `ECONOMIC_POLICY.md` — Robot Tax, UBI, Data Dividend
+- `ECONOMIC_POLICY.md` — Robot Tax, Citizen's Royalty, Data Dividend
 - `AI_GOVERNANCE.md` — Algorithmic government, transparency
 - `BLOCKCHAIN_POLICY.md` — Sound money, truth infrastructure
 - `HUMAN_CAPITAL_POLICY.md` — Healthcare, education, care
@@ -136,7 +136,7 @@ Look for:
 - Local tech meetups (AI, blockchain communities)
 - Economic justice organizations
 - Libertarian groups (sound money interest)
-- Progressive groups (UBI interest)
+- Progressive groups (Citizen's Royalty interest)
 - Futurist/transhumanist communities
 - Civic technology organizations
 
@@ -152,7 +152,7 @@ You're not asking them to endorse The Human Standard (yet). You're:
 - Putting automation on their radar
 - Asking what their position is on AI displacement
 - Introducing the concept of automation taxation
-- Requesting they study UBI pilot results
+- Requesting they study Citizen's Royalty pilot results
 
 **Template:**
 > Dear [Representative],
@@ -206,7 +206,7 @@ Watch for:
 - Local businesses implementing AI/automation
 - Workers displaced in your community
 - Companies announcing layoffs citing automation
-- UBI or cash transfer programs in your area/region
+- Citizen's Royalty or cash transfer programs in your area/region
 
 Document with:
 - Dates, names, numbers
@@ -247,7 +247,7 @@ Options:
 - Library presentation
 - Panel discussion with local experts
 - Film screening + discussion (find relevant documentaries)
-- Book club around automation/UBI books
+- Book club around automation/Citizen's Royalty books
 
 **Format:**
 1. Brief introduction to The Human Standard (15 min)
@@ -268,7 +268,7 @@ Options:
 Sources to follow:
 - AI research labs (announcements of new capabilities)
 - Economic policy journals
-- UBI pilot program results
+- Citizen's Royalty pilot program results
 - Labor market data
 - Automation deployment news
 

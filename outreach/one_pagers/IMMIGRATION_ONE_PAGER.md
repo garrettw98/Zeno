@@ -54,17 +54,17 @@
 
 ---
 
-## UBI AND IMMIGRATION
+## Citizen's Royalty AND IMMIGRATION
 
-**UBI is for citizens and permanent residents.**
+**Citizen's Royalty is for citizens and permanent residents.**
 
-| Status | UBI Eligibility |
+| Status | Citizen's Royalty Eligibility |
 |--------|-----------------|
-| Citizens | Full UBI |
-| Permanent Residents (5+ years) | Full UBI |
+| Citizens | Full Citizen's Royalty |
+| Permanent Residents (5+ years) | Full Citizen's Royalty |
 | New Permanent Residents | Phased in over 5 years |
-| Work Visa Holders | No UBI (working) |
-| Undocumented | No UBI |
+| Work Visa Holders | No Citizen's Royalty (working) |
+| Undocumented | No Citizen's Royalty |
 
 This removes the "welfare magnet" concern while maintaining human dignity.
 
@@ -89,10 +89,10 @@ This removes the "welfare magnet" concern while maintaining human dignity.
 ## COMMON OBJECTIONS
 
 **"They took our jobs"**
-Immigrants mostly fill roles Americans dont want or where there are shortages. UBI ensures Americans can negotiate better.
+Immigrants mostly fill roles Americans dont want or where there are shortages. Citizen's Royalty ensures Americans can negotiate better.
 
 **"Theyll just come for benefits"**
-UBI only for citizens and long-term residents. Work visas require employment.
+Citizen's Royalty only for citizens and long-term residents. Work visas require employment.
 
 **"We cant handle more people"**
 Population growth is slowing. Aging population needs workers. Smart immigration is economic necessity.

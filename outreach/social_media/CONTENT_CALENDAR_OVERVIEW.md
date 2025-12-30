@@ -17,7 +17,7 @@
 | Month | Theme | Goal |
 |-------|-------|------|
 | 1 | Foundation | Introduce Zeno, establish credibility, core message |
-| 2 | UBI Deep Dive | Make the case for Universal Basic Income |
+| 2 | Citizen's Royalty Deep Dive | Make the case for Universal Basic Income |
 | 3 | AI and Automation | Connect tech news to policy, build urgency |
 | 4 | Economics and Funding | Address objections, explain how we pay for it |
 | 5 | Broader Vision | Expand to full platform, show coherence |
@@ -77,7 +77,7 @@
 **Primary (always use):**
 - #Zeno
 - #HumanStandard
-- #UBI
+- #Citizen's Royalty
 
 **Secondary (rotate):**
 - #UniversalBasicIncome
@@ -127,7 +127,7 @@
 ## FILE STRUCTURE
 
 - MONTH_1_FOUNDATION.md
-- MONTH_2_UBI.md
+- MONTH_2_Citizen's Royalty.md
 - MONTH_3_AI_AUTOMATION.md
 - MONTH_4_ECONOMICS.md
 - MONTH_5_BROADER_VISION.md

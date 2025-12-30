@@ -39,9 +39,9 @@ Carbon pricing with 100% of revenue returned to citizens as dividends, making it
 
 ## TALKING POINTS
 
-### On UBI
-- "Automation is coming whether we prepare or not. UBI is preparation."
-- "We already have social safety nets. UBI consolidates them into something simpler and more dignified."
+### On Citizen's Royalty
+- "Automation is coming whether we prepare or not. Citizen's Royalty is preparation."
+- "We already have social safety nets. Citizen's Royalty consolidates them into something simpler and more dignified."
 - "The goal isnt to pay people not to work. Its to ensure everyone can negotiate from security, not desperation."
 
 ### On AI Governance
@@ -66,10 +66,10 @@ Carbon pricing with 100% of revenue returned to citizens as dividends, making it
 **Q: Is this left-wing or right-wing?**
 A: Neither. The Human Standard draws from multiple traditions: the libertarian emphasis on freedom and markets, the progressive commitment to equality and public goods, and the conservative respect for stability and community.
 
-**Q: How do you pay for UBI?**
+**Q: How do you pay for Citizen's Royalty?**
 A: Through a diversified tax base: automation productivity tax, value-added tax, carbon fee and dividend, land value tax, and existing program consolidation. Total new revenue needed: $3-4 trillion annually.
 
-**Q: Wont UBI cause inflation?**
+**Q: Wont Citizen's Royalty cause inflation?**
 A: Not significantly. Its funded by taxes (not money printing), phased in gradually, and partially replaces existing transfers. Most inflation concerns apply to unfunded spending.
 
 **Q: Why anonymous authorship?**

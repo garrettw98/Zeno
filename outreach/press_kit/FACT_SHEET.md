@@ -42,7 +42,7 @@
 
 ---
 
-## UBI COSTS AND FUNDING
+## Citizen's Royalty COSTS AND FUNDING
 
 ### Basic Math
 - US adult population: ~258 million
@@ -68,7 +68,7 @@
 
 ---
 
-## UBI PILOT RESULTS
+## Citizen's Royalty PILOT RESULTS
 
 ### Stockton, CA (2019-2021)
 - $500/month to 125 residents
@@ -83,13 +83,13 @@
 - Reduced bureaucratic stress
 
 ### Kenya (GiveDirectly, ongoing)
-- Largest UBI study ever conducted
+- Largest Citizen's Royalty study ever conducted
 - Multi-year payments to 20,000+ people
 - Increased business investment
 - Improved nutrition and education
 
 ### Meta-Analysis Findings
-- UBI does not significantly reduce work
+- Citizen's Royalty does not significantly reduce work
 - Improves mental health outcomes
 - Reduces poverty and food insecurity
 - Children show educational gains

@@ -754,7 +754,7 @@ Response: Human-centered metrics (health, freedom, opportunity) are universal ev
 
 **"World government enables world tyranny"**
 
-Response: This is federated governance, not centralized control. Power remains distributed. The open source mandate ensures transparency. Democratic accountability applies at every level. The alternative—uncoordinated AI development by competing powers—is the greater tyranny risk.
+Response: This is federated governance, not centralized control. Power remains distributed. The tiered transparency framework ensures accountability. Democratic accountability applies at every level. The alternative—uncoordinated AI development by competing powers—is the greater tyranny risk.
 
 ---
 

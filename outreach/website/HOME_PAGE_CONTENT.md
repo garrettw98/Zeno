@@ -46,7 +46,7 @@ The Human Standard Framework
 
 No means-testing. No conditions. A foundation of economic security that gives everyone the freedom to adapt, retrain, and thrive in the changing economy.
 
-[Learn More About UBI]
+[Learn More About Citizen's Royalty]
 
 ### Open Source AI Governance
 **Transparent, Accountable, Human-Controlled**

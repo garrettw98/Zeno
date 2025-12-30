@@ -11,7 +11,7 @@ The Human Standard faces predictable economic objections. This chapter addresses
 
 ### The Inflation Concern
 
-**The objection**: "Giving everyone money will cause prices to rise, wiping out the benefit. UBI is self-defeating."
+**The objection**: "Giving everyone money will cause prices to rise, wiping out the benefit. Citizen's Royalty is self-defeating."
 
 This is the most common concern. It deserves careful response.
 
@@ -19,7 +19,7 @@ This is the most common concern. It deserves careful response.
 
 Inflation occurs when too much money chases too few goods. If the money supply increases without corresponding increase in production, prices rise.
 
-But UBI funded by taxes does not increase the money supply. It redistributes existing money. Dollars move from one pocket (corporations, high earners) to another (citizens). The total quantity of money in circulation does not change.
+But Citizen's Royalty funded by taxes does not increase the money supply. It redistributes existing money. Dollars move from one pocket (corporations, high earners) to another (citizens). The total quantity of money in circulation does not change.
 
 Redistribution can increase demand for certain goods—those purchased more by lower-income people. If supply of those goods is constrained, their prices might rise. But this is localized inflation in specific markets, not general inflation.
 
@@ -27,13 +27,13 @@ Redistribution can increase demand for certain goods—those purchased more by l
 
 The experiments cited earlier—Finland, Stockton, Kenya, Alaska—did not show significant inflation effects. The Alaska Permanent Fund dividend has been paid for forty years without causing Alaska prices to spiral.
 
-COVID stimulus payments increased money supply (unlike tax-funded UBI) yet inflation was driven primarily by supply chain disruptions, not consumer spending. When supply chains recovered, inflation moderated.
+COVID stimulus payments increased money supply (unlike tax-funded Citizen's Royalty) yet inflation was driven primarily by supply chain disruptions, not consumer spending. When supply chains recovered, inflation moderated.
 
 **The response**:
 
-UBI funded by automation taxes is redistributive, not expansionary. It moves money from corporate profits to consumer spending. This may change relative prices (goods consumed by lower-income people may cost more; goods consumed by corporations may cost less) but does not cause general inflation.
+Citizen's Royalty funded by automation taxes is redistributive, not expansionary. It moves money from corporate profits to consumer spending. This may change relative prices (goods consumed by lower-income people may cost more; goods consumed by corporations may cost less) but does not cause general inflation.
 
-Some price pressure in housing and other supply-constrained markets is possible. This argues for complementary policies (housing construction, zoning reform) rather than against UBI itself.
+Some price pressure in housing and other supply-constrained markets is possible. This argues for complementary policies (housing construction, zoning reform) rather than against Citizen's Royalty itself.
 
 ---
 
@@ -43,7 +43,7 @@ Some price pressure in housing and other supply-constrained markets is possible.
 
 **The economic logic**:
 
-Basic economics suggests that if you subsidize leisure (by paying people without requiring work), you get more leisure. The income effect of UBI reduces pressure to work.
+Basic economics suggests that if you subsidize leisure (by paying people without requiring work), you get more leisure. The income effect of Citizen's Royalty reduces pressure to work.
 
 But the effect depends on magnitude. $12,000 per year is not enough to live comfortably. It covers basic necessities, not prosperity. The incentive to earn additional income remains strong.
 
@@ -51,7 +51,7 @@ But the effect depends on magnitude. $12,000 per year is not enough to live comf
 
 The experiments consistently show minimal work reduction:
 
-- Finland: Employment was similar between UBI recipients and control group
+- Finland: Employment was similar between Citizen's Royalty recipients and control group
 - Stockton: Full-time employment increased among recipients
 - Kenya: Recipients invested in businesses and increased economic activity
 - Alaska: Work rates are similar to other states
@@ -62,9 +62,9 @@ The fear of mass idleness is not supported by evidence.
 
 **The deeper response**:
 
-Work serves multiple functions: income, meaning, social connection, structure. UBI provides only income. People continue working for the other benefits.
+Work serves multiple functions: income, meaning, social connection, structure. Citizen's Royalty provides only income. People continue working for the other benefits.
 
-Moreover, the relevant comparison is not "UBI vs. employment" but "UBI vs. unemployment without support." When automation eliminates jobs, the alternative to UBI is not work—it is poverty. UBI provides a floor while people seek new opportunities.
+Moreover, the relevant comparison is not "Citizen's Royalty vs. employment" but "Citizen's Royalty vs. unemployment without support." When automation eliminates jobs, the alternative to Citizen's Royalty is not work—it is poverty. Citizen's Royalty provides a floor while people seek new opportunities.
 
 ---
 
@@ -74,15 +74,15 @@ Moreover, the relevant comparison is not "UBI vs. employment" but "UBI vs. unemp
 
 **The math**:
 
-UBI at $1,000/month for 250 million adults costs $3 trillion annually. This is roughly the current federal budget. The number is daunting.
+A flat UBI at $1,000/month for 250 million adults would cost $3 trillion. The Citizen's Royalty NIT model costs ~60% less annually. This is roughly the current federal budget. The number is daunting.
 
 But consider:
 
-**Existing programs**: We already spend heavily on income support—Social Security ($1.2 trillion), Medicare ($900 billion), Medicaid ($600 billion), and various other programs. UBI does not start from zero; it restructures existing spending.
+**Existing programs**: We already spend heavily on income support—Social Security ($1.2 trillion), Medicare ($900 billion), Medicaid ($600 billion), and various other programs. Citizen's Royalty does not start from zero; it restructures existing spending.
 
-**Economic growth**: UBI stimulates economic activity. Recipients spend money; businesses earn revenue; tax revenue increases. The fiscal feedback partially offsets gross cost.
+**Economic growth**: Citizen's Royalty stimulates economic activity. Recipients spend money; businesses earn revenue; tax revenue increases. The fiscal feedback partially offsets gross cost.
 
-**Cost of alternatives**: What is the cost of not implementing UBI? Mass unemployment generates costs: emergency services, crime, healthcare for stress-related illness, lost tax revenue, political instability. These costs are real though harder to quantify.
+**Cost of alternatives**: What is the cost of not implementing Citizen's Royalty? Mass unemployment generates costs: emergency services, crime, healthcare for stress-related illness, lost tax revenue, political instability. These costs are real though harder to quantify.
 
 **Funding mechanisms**: The Human Standard proposes multiple funding sources:
 
@@ -93,7 +93,7 @@ But consider:
 - Reduction in overlapping programs: $100-300 billion
 - Economic growth effects: $100-200 billion
 
-These are rough estimates. The precise numbers require detailed modeling. But the combination plausibly covers UBI costs.
+These are rough estimates. The precise numbers require detailed modeling. But the combination plausibly covers Citizen's Royalty costs.
 
 **The deeper response**:
 
@@ -101,7 +101,7 @@ These are rough estimates. The precise numbers require detailed modeling. But th
 
 If automation displaces tens of millions of workers, the costs of inaction are enormous. Lost consumption collapses demand. Desperate populations create instability. The human costs are incalculable.
 
-UBI is not spending money we do not have. It is redirecting productivity gains that already exist. The economy is producing more than ever; the question is who benefits.
+Citizen's Royalty is not spending money we do not have. It is redirecting productivity gains that already exist. The economy is producing more than ever; the question is who benefits.
 
 ---
 
@@ -111,19 +111,19 @@ UBI is not spending money we do not have. It is redirecting productivity gains t
 
 **The values argument**:
 
-American culture values work. Earned income carries dignity that unearned income supposedly lacks. UBI might create a permanent underclass living on handouts.
+American culture values work. Earned income carries dignity that unearned income supposedly lacks. Citizen's Royalty might create a permanent underclass living on handouts.
 
 **The counterargument**:
 
-First, UBI is not "something for nothing." The automation dividend reflects citizens' claim on economic gains that their labor and data helped create. The data that trains AI came from people. The productivity that automation captures built on prior human work. UBI is a dividend, not charity.
+First, Citizen's Royalty is not "something for nothing." The automation dividend reflects citizens' claim on economic gains that their labor and data helped create. The data that trains AI came from people. The productivity that automation captures built on prior human work. Citizen's Royalty is a dividend, not charity.
 
-Second, existing wealth concentration is far more "unearned" than UBI. Inherited wealth, capital gains from asset appreciation, rent extraction from market position—these forms of income involve no more labor than UBI.
+Second, existing wealth concentration is far more "unearned" than Citizen's Royalty. Inherited wealth, capital gains from asset appreciation, rent extraction from market position—these forms of income involve no more labor than Citizen's Royalty.
 
-Third, the dependency concern applies more strongly to unemployment. A displaced worker receiving no support is dependent on charity, family, or desperation. UBI provides independence—the ability to meet basic needs while seeking new opportunities.
+Third, the dependency concern applies more strongly to unemployment. A displaced worker receiving no support is dependent on charity, family, or desperation. Citizen's Royalty provides independence—the ability to meet basic needs while seeking new opportunities.
 
 **The evidence**:
 
-The experiments show that recipients do not become dependent. They pursue education, start businesses, care for families, and seek employment. The security that UBI provides enables initiative rather than suppressing it.
+The experiments show that recipients do not become dependent. They pursue education, start businesses, care for families, and seek employment. The security that Citizen's Royalty provides enables initiative rather than suppressing it.
 
 ---
 
@@ -159,7 +159,7 @@ Second, network effects make moving difficult. Google cannot abandon American us
 
 Third, the tax is designed to be modest. $2-15 per user per year is not confiscatory. It is recognition that data has value and that value should be shared.
 
-Fourth, the data dividend funds UBI, which creates consumer demand that benefits tech companies. The tax is not extraction but recycling—value that flows through citizens back to companies via consumer spending.
+Fourth, the data dividend funds Citizen's Royalty, which creates consumer demand that benefits tech companies. The tax is not extraction but recycling—value that flows through citizens back to companies via consumer spending.
 
 ---
 
@@ -218,13 +218,13 @@ The evidence suggests that the cost of inaction far exceeds the cost of action.
 
 The Human Standard is not just spending. It is investment.
 
-**Human capital**: UBI enables education, healthcare, and skill development. Healthier, more skilled people are more productive.
+**Human capital**: Citizen's Royalty enables education, healthcare, and skill development. Healthier, more skilled people are more productive.
 
 **Stability**: Economic security reduces social costs—crime, healthcare, family dissolution. Stable societies are more productive than unstable ones.
 
 **Demand**: Consumer spending drives the economy. Ensuring consumers have money to spend maintains demand that businesses need.
 
-**Innovation**: Entrepreneurs can take risks when basic needs are secure. UBI enables the startup that might become the next great company.
+**Innovation**: Entrepreneurs can take risks when basic needs are secure. Citizen's Royalty enables the startup that might become the next great company.
 
 **Trust**: Transparent algorithmic government and verified content build trust. Trust reduces transaction costs and enables cooperation.
 
@@ -238,10 +238,10 @@ The return on these investments may exceed the cost. The Human Standard pays for
 
 Economic arguments against the Human Standard do not survive scrutiny:
 
-- **Inflation**: Tax-funded UBI is redistributive, not inflationary
+- **Inflation**: Tax-funded Citizen's Royalty is redistributive, not inflationary
 - **Work incentives**: Evidence shows minimal work reduction
 - **Affordability**: Multiple funding sources can cover costs
-- **Dependency**: UBI enables independence, not dependence
+- **Dependency**: Citizen's Royalty enables independence, not dependence
 - **Robot tax**: Modest tax shifts incentives without stopping automation
 - **Data tax**: Compensation for data value users provide
 - **Sound money**: Options, not mandates; stability through stablecoins

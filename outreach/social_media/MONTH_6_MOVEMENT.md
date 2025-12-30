@@ -74,7 +74,7 @@ In every case:
 - Political moment arrived
 - Prepared movement won
 
-UBI seems impossible now. So did everything else that became normal.
+Citizen's Royalty seems impossible now. So did everything else that became normal.
 
 The question isn't possibility. It's whether we do the work."
 
@@ -172,7 +172,7 @@ HOOK: "The most powerful political act: Talking to people."
 BODY: "Not arguing. Talking.
 
 'Hey, have you thought about what happens when AI takes more jobs?'
-'I've been reading about this thing called UBI...'
+'I've been reading about this thing called Citizen's Royalty...'
 'What do you think about how technology is changing the economy?'
 
 You know the ideas now. Six months of content. You can explain them.
@@ -328,7 +328,7 @@ HASHTAGS: #TimeCommitment #Sustainable #Involvement #Realistic
 HOOK: "Eventually, this needs to become law. That means politics."
 
 BODY: "What political engagement looks like:
-- Ask candidates about automation and UBI
+- Ask candidates about automation and Citizen's Royalty
 - Attend town halls with questions prepared
 - Write to your representatives
 - Vote for supportive candidates
@@ -463,7 +463,7 @@ BODY: "FUTURE A: Status quo continues.
 
 FUTURE B: We prepare.
 - Automation's benefits are shared
-- UBI provides security
+- Citizen's Royalty provides security
 - AI serves human purposes
 - You have choices
 - Flourishing is possible
@@ -516,7 +516,7 @@ Already wondering if they'll outlive their savings.
 
 They can't wait for the automation crisis. They're living a crisis now.
 
-UBI helps them immediately. $24,000/year on top of Social Security. Security
+Citizen's Royalty helps them immediately. $24,000/year on top of Social Security. Security
 they can actually feel.
 
 This isn't future policy. It's urgent now. For real people we love."
@@ -538,7 +538,7 @@ BODY: "The job you have now - how secure is it really?
 The savings you have - how long would it last?
 The stress you feel - how much is money?
 
-UBI means:
+Citizen's Royalty means:
 - If you lose your job, you're okay
 - If you want to change careers, you can
 - If you need to care for family, you're covered
@@ -548,7 +548,7 @@ This isn't charity. It's freedom. Your freedom.
 
 Don't pretend this doesn't affect you. It does."
 
-CTA: "Be honest - what would UBI change for YOU?"
+CTA: "Be honest - what would Citizen's Royalty change for YOU?"
 
 HASHTAGS: #YourLife #Security #Freedom #Honest
 ```
@@ -562,7 +562,7 @@ because of their job. Not because of their 'value to the economy.'
 
 Because they're human.
 
-UBI is the economic expression of that belief. Everyone deserves to live.
+Citizen's Royalty is the economic expression of that belief. Everyone deserves to live.
 Everyone deserves security. Everyone deserves dignity.
 
 That's not radical. That's humane.
@@ -574,7 +574,7 @@ Full stop."
 
 CTA: "Do you believe in human dignity?"
 
-HASHTAGS: #Dignity #HumanWorth #Belief #UBI
+HASHTAGS: #Dignity #HumanWorth #Belief #Citizen's Royalty
 ```
 
 ---
@@ -593,7 +593,7 @@ HOOK: "We've been on this journey for six months. Let's take stock."
 
 BODY: "What you've learned:
 - Month 1: The vision and the why
-- Month 2: UBI in depth
+- Month 2: Citizen's Royalty in depth
 - Month 3: AI and automation reality
 - Month 4: Economics and objections
 - Month 5: The complete platform
@@ -671,7 +671,7 @@ HOOK: "Let me tell you what winning looks like."
 BODY: "One day - maybe not soon, but one day - a version of these policies
 will become law.
 
-UBI will pass. AI governance will pass. The economy will restructure around
+Citizen's Royalty will pass. AI governance will pass. The economy will restructure around
 human flourishing.
 
 When that happens, there will be people who remember these early days. Who

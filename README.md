@@ -14,7 +14,7 @@ This repository incorporates **Version 2.0: The Resilience Update**, which addre
 
 | Original | Version 2.0 | Improvement |
 |----------|-------------|-------------|
-| Flat $2k/month UBI | **Citizen's Royalty** (NIT model) | ~60% cost reduction |
+| Flat $2k/month Citizen's Royalty | **Citizen's Royalty** (NIT model) | ~60% cost reduction |
 | 100% Bitcoin Reserve | **Diversified Strategic Reserve** | Reduced volatility |
 | Total Open Source | **Tiered Transparency Framework** | Security + accountability |
 | Deflationary Sound Money | **Purchasing Power Stability** | Prevents consumption collapse |
@@ -68,12 +68,12 @@ Fiat currency has lost 96% of purchasing power since 1913. Central banks serve e
 
 ## The Solution: The Human Standard
 
-**Human-Centered Capitalism** governed by **Open Source AI** funded by **Sound Money**
+**Human-Centered Capitalism** governed by **Tiered AI Transparency** funded by **Purchasing Power Stability**
 
 | Pillar | Principle | Key Policy |
 |--------|-----------|------------|
-| Economic | Automation benefits all | UBI + Automation Tax |
-| Governance | AI administers, humans decide | Open Source AI Mandate |
+| Economic | Automation benefits all | Citizen's Royalty (NIT) + Sovereign Humanity Fund |
+| Governance | AI administers, humans decide | Tiered Transparency Framework |
 | Monetary | Money citizens control | Diversified Strategic Reserve |
 | Truth | Verification for all | Blockchain Infrastructure |
 
@@ -84,7 +84,7 @@ Fiat currency has lost 96% of purchasing power since 1913. Central banks serve e
 1. **Do No Harm** - No policy may directly cause physical harm
 2. **Maximize Flourishing** - Optimize for human wellbeing, not GDP
 3. **Preserve Agency** - Humans retain ultimate control
-4. **Maintain Transparency** - All systems publicly auditable
+4. **Maintain Transparency** - Public verification, secure auditing (Tiered Framework)
 5. **Serve All Equally** - No discrimination or special treatment
 
 ---
@@ -93,9 +93,9 @@ Fiat currency has lost 96% of purchasing power since 1913. Central banks serve e
 
 | Pillar | Key Policies | Document |
 |--------|--------------|----------|
-| Economic Justice | UBI, Automation Tax, Data Tax | policy/ECONOMIC_POLICY.md |
-| AI Governance | Open Source Mandate, NAICO | policy/AI_GOVERNANCE.md |
-| Sound Money | Bitcoin Reserve, Stablecoins | policy/BLOCKCHAIN_POLICY.md |
+| Economic Justice | Citizen's Royalty (NIT), Sovereign Humanity Fund | policy/ECONOMIC_POLICY.md |
+| AI Governance | Tiered Transparency Framework, NAICO | policy/AI_GOVERNANCE.md |
+| Purchasing Power Stability | Diversified Strategic Reserve, Stablecoins | policy/BLOCKCHAIN_POLICY.md |
 | Human Capital | Healthcare, Education, Care | policy/HUMAN_CAPITAL_POLICY.md |
 | Climate and Energy | Renewables, Nuclear, Carbon Tax | policy/CLIMATE_ENERGY_POLICY.md |
 | Criminal Justice | End Mass Incarceration | policy/CRIMINAL_JUSTICE_POLICY.md |
@@ -110,9 +110,9 @@ Fiat currency has lost 96% of purchasing power since 1913. Central banks serve e
 
 | Bill | Purpose |
 |------|---------|
-| Universal Basic Income Act | 2000/month to all adults |
-| Open Source AI Governance Act | Transparency for government AI |
-| Digital Asset Freedom Act | Crypto-friendly framework |
+| Citizen's Royalty Act | Negative Income Tax floor (~$24k/year) |
+| AI Safety & Transparency Act | Tiered transparency for government AI |
+| Strategic Reserve & Monetary Stability Act | Diversified reserve framework |
 | Carbon Fee and Dividend Act | 30-200/ton with dividends |
 | Land Value Tax Act | 2% tax on land value |
 | National AI Oversight Act | Establish NAICO |
@@ -126,8 +126,8 @@ All bills in: policy/model_legislation/
 | Document | Purpose |
 |----------|---------|
 | policy/FISCAL_ARCHITECTURE.md | How taxation works with sound money |
-| policy/AI_SECURITY_FRAMEWORK.md | Open source + security resolved |
-| policy/UBI_FUNDING_RESILIENCE.md | Diversified funding model |
+| policy/AI_SECURITY_FRAMEWORK.md | Tiered transparency + security resolved |
+| policy/Citizen's Royalty_FUNDING_RESILIENCE.md | Diversified funding model |
 | policy/CONTINGENCY_PLANNING.md | Failure modes and backups |
 | policy/LABOR_ECONOMICS.md | Work in automation age |
 | policy/DISTRIBUTIONAL_ANALYSIS.md | Gender, geography, equity |
@@ -153,30 +153,32 @@ The Human Standard transcends left-right divisions:
 
 | Constituency | What We Offer |
 |--------------|---------------|
-| Libertarians | Sound money, reduced bureaucracy |
-| Progressives | UBI, worker protection |
-| Populists | Anti-elite, anti-corruption |
-| Technologists | AI governance, open source |
-| Conservatives | Family support, strong defense |
-| Moderates | Pragmatic, evidence-based |
+| Libertarians | Data property rights, Citizen's Royalty as ownership dividend |
+| Progressives | Citizen's Royalty (NIT), worker protection |
+| Populists | Anti-elite, anti-corruption, data ownership |
+| Technologists | Tiered AI transparency, secure governance |
+| Conservatives | Family support, strong defense, fiscal responsibility |
+| Moderates | Pragmatic, evidence-based, 60% cost reduction |
 
 ---
 
 ## The Vision
 
 ### By 2030
-- Automation taxes funding UBI pilots
-- Open source AI in federal systems
+- Sovereign Humanity Fund operational
+- Citizen's Royalty Phase 1 ($15k floor) nationwide
+- Tiered AI transparency in federal systems
 - NAICO fully operational
 
 ### By 2040
-- Full UBI at 2000/month
+- Citizen's Royalty Phase 3 ($24k floor) eliminates poverty
+- Diversified Strategic Reserve stabilizing purchasing power
 - AI governance preventing corruption
 - International coordination established
 
 ### By 2050
 - Human-centered capitalism as global standard
-- Work as choice, not requirement
+- Work as choice, not survival requirement
 - Truth verifiable through universal infrastructure
 
 ---

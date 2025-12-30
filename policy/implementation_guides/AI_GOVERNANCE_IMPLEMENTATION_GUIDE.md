@@ -28,7 +28,7 @@
 
 ## Executive Summary
 
-This implementation guide provides a comprehensive roadmap for establishing the United States' first democratically accountable AI governance framework. Based on the Open Source AI Governance Act and aligned with The Human Standard philosophy, this guide details the practical steps required to:
+This implementation guide provides a comprehensive roadmap for establishing the United States' first democratically accountable AI governance framework. Based on the Tiered AI Transparency Act and aligned with The Human Standard philosophy, this guide details the practical steps required to:
 
 1. **Establish the National AI Coordination Office (NAICO)** as the central authority for federal AI governance
 2. **Build the National AI Repository** as the public infrastructure for transparent AI development
@@ -2729,7 +2729,7 @@ Civil Society Review (Annual):
 
 ### Appendix A: Legislative Authority
 
-- Open Source AI Governance Act (reference)
+- Tiered AI Transparency Act (reference)
 - Implementing Executive Order (template)
 - OMB Guidance Circular (template)
 - Interagency Agreement Template

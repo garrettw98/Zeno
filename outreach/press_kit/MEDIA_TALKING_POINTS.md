@@ -13,7 +13,7 @@
 
 1. **Technology should serve humanity, not the other way around.**
 2. **Prepare for automation now, or react to crisis later.**
-3. **UBI is not paying people not to work - its ensuring everyone can negotiate from security.**
+3. **Citizen's Royalty is not paying people not to work - its ensuring everyone can negotiate from security.**
 4. **Open source AI isnt about slowing progress - its about keeping humans in control.**
 5. **This isnt left or right - its forward.**
 
@@ -27,7 +27,7 @@
 
 **Key points**:
 - Consolidates and replaces fragmented welfare programs
-- Funded by taxing automation and consumption, not labor
+- Funded by the Sovereign Humanity Fund and consumption, not labor
 - Pilots show people continue working but with more choice
 - Simpler and more dignified than means-testing
 
@@ -37,7 +37,7 @@
 "Universal programs are simpler, cheaper to administer, and politically durable. The wealthy pay far more in taxes than they receive. Net effect is highly progressive."
 
 *"Wont people stop working?"*
-"Every UBI pilot shows this fear is overblown. People with security work differently - more selectively, more meaningfully - but they work. Retirement doesnt destroy the will to contribute."
+"Every Citizen's Royalty pilot shows this fear is overblown. People with security work differently - more selectively, more meaningfully - but they work. Retirement doesnt destroy the will to contribute."
 
 *"How do you pay for it?"*
 "$6 trillion sounds like a lot, but we already spend $4 trillion on federal benefits. We add automation taxes, VAT, carbon fees, and land value taxation. The math works."
@@ -80,7 +80,7 @@
 **Anticipated questions and responses**:
 
 *"Wont this discourage automation?"*
-"No. Companies automate because its more profitable. A 15% tax on gains still leaves 85% of the benefit. And productivity gains flow back through UBI to consumers."
+"No. Companies automate because its more profitable. A 15% tax on gains still leaves 85% of the benefit. And productivity gains flow back through Citizen's Royalty to consumers."
 
 *"How do you measure automation?"*
 "Same way we measure productivity now - output per worker hour. Its not perfect, but neither is any tax. We have detailed methodology."

@@ -18,7 +18,7 @@ Before organizing others, deeply understand The Human Standard:
 **Required Reading:**
 - MANIFESTO.md - Core principles and vision
 - EXECUTIVE_SUMMARY.md - Quick overview
-- UBI_POLICY_FRAMEWORK.md - Key policy details
+- Citizen's Royalty_POLICY_FRAMEWORK.md - Key policy details
 - FAQ.md - Common questions and answers
 
 **Recommended Reading:**
@@ -130,7 +130,7 @@ You will receive:
 - Connect academic ideas to Human Standard
 
 **Film Screenings**
-- Documentaries on automation, UBI, AI
+- Documentaries on automation, Citizen's Royalty, AI
 - Discussion afterward
 
 **Public Lectures**
@@ -161,7 +161,7 @@ You will receive:
 ### Political Engagement
 
 **Voter Education**
-- Candidate forums on automation and UBI
+- Candidate forums on automation and Citizen's Royalty
 - Voter guides on relevant issues
 - Non-partisan issue education
 
@@ -198,7 +198,7 @@ You will receive:
 
 **Hashtags:**
 - #HumanStandard
-- #UBInow
+- #Citizen's Royaltynow
 - #AutomationForAll
 - #TechServesHumanity
 - [Your city or region]

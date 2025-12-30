@@ -86,7 +86,7 @@ Build the intellectual, cultural, and institutional infrastructure for The Human
 - Identify sympathetic legislators at state and federal level
 - Draft model legislation for automation disclosure
 - Begin lobbying for pilot program funding
-- Map existing UBI experiments and learn from them
+- Map existing Citizen's Royalty experiments and learn from them
 
 #### 2026: Expansion
 
@@ -98,7 +98,7 @@ Build the intellectual, cultural, and institutional infrastructure for The Human
 
 **Policy Development:**
 - Refine automation tax methodology with economists
-- Develop detailed UBI implementation plans
+- Develop detailed Citizen's Royalty implementation plans
 - Create blockchain verification technical specifications
 - Publish policy white papers for each pillar
 
@@ -120,7 +120,7 @@ Build the intellectual, cultural, and institutional infrastructure for The Human
 - Candidates running on Human Standard platform
 - Legislative hearings on automation policy
 - First automation disclosure bills introduced
-- State-level UBI pilot proposals
+- State-level Citizen's Royalty pilot proposals
 
 **Media Recognition:**
 - Major media profiles of the movement
@@ -133,7 +133,7 @@ Build the intellectual, cultural, and institutional infrastructure for The Human
 **Election Focus:**
 - Presidential candidates asked about automation policy
 - Congressional candidates with Human Standard positions
-- Ballot initiatives for UBI pilots or automation disclosure
+- Ballot initiatives for Citizen's Royalty pilots or automation disclosure
 - Measure electoral viability of platform
 
 **Infrastructure Scaling:**
@@ -145,7 +145,7 @@ Build the intellectual, cultural, and institutional infrastructure for The Human
 #### 2029-2030: Consolidation
 
 **Proving the Model:**
-- UBI pilots generating data
+- Citizen's Royalty pilots generating data
 - Automation disclosure revealing true displacement rates
 - Purchasing power stability options gaining mainstream adoption
 - AI governance principles entering government procurement
@@ -162,7 +162,7 @@ Build the intellectual, cultural, and institutional infrastructure for The Human
 |--------|--------|
 | Engaged supporters | 1 million |
 | Elected officials on platform | 50+ |
-| States with UBI pilots | 5+ |
+| States with Citizen's Royalty pilots | 5+ |
 | States with automation disclosure | 10+ |
 | Countries with aligned movements | 10+ |
 
@@ -242,7 +242,7 @@ The question will no longer be IF but HOW FAST and HOW DO WE RESPOND.
 
 #### 2035-2040: AI Governance
 
-**Open Source Mandate:**
+**Tiered Transparency Framework:**
 - Federal procurement requires open source AI
 - Audit requirements for government algorithms
 - Appeals processes established
@@ -258,8 +258,8 @@ The question will no longer be IF but HOW FAST and HOW DO WE RESPOND.
 
 | Metric | Target |
 |--------|--------|
-| Adults receiving UBI | 100 million+ |
-| UBI amount | $1,000/month |
+| Adults receiving Citizen's Royalty | 100 million+ |
+| Citizen's Royalty NIT floor | $18,000/year (Phase 2) |
 | Automation tax revenue | $500B/year |
 | Government AI open source | 80%+ |
 | Content with verification | 50%+ |
@@ -282,7 +282,7 @@ Complete the transition to The Human Standard. Achieve the vision of technology 
 - Abundance technically achievable
 
 **Economic State (with Human Standard):**
-- UBI providing genuine economic security
+- Citizen's Royalty providing genuine economic security
 - Automation dividend growing annually
 - Work optional for basic needs
 - Entrepreneurship and creativity flourishing
@@ -295,8 +295,8 @@ Complete the transition to The Human Standard. Achieve the vision of technology 
 
 ### 2040-2045: Abundance Realization
 
-**UBI Expansion:**
-- Payments reach $1,500-2,000/month
+**Citizen's Royalty Expansion:**
+- NIT floor reaches $24,000-30,000/year
 - Regional cost-of-living adjustments
 - Child and elder supplements
 - Full economic security achieved
@@ -338,7 +338,7 @@ Complete the transition to The Human Standard. Achieve the vision of technology 
 
 | Metric | Target |
 |--------|--------|
-| Global UBI coverage | 2 billion+ |
+| Global Citizen's Royalty coverage | 2 billion+ |
 | Work week (standard) | 28-32 hours |
 | Poverty rate | Below 2% |
 | Government corruption index | 90%+ reduction |
@@ -361,7 +361,7 @@ Some milestones must be achieved before others are possible:
 2030-2033: Automation tax implemented, revenue generated
     |
     v
-2033-2037: UBI scaled with automation revenue
+2033-2037: Citizen's Royalty scaled with automation revenue
     |
     v
 2037-2045: Full economic security, work transformation
@@ -371,7 +371,7 @@ Some milestones must be achieved before others are possible:
 ```
 
 **Blockers:**
-- Cannot scale UBI without funding source (need automation tax first)
+- Cannot scale Citizen's Royalty without funding source (need automation tax first)
 - Cannot implement automation tax without measurement (need disclosure first)
 - Cannot achieve political change without cultural shift (need movement first)
 - Cannot build movement without ideas (need framework first)
@@ -398,7 +398,7 @@ We are at the first step. Every subsequent step depends on it.
 
 **Response:**
 - Accelerate Phase 2 dramatically
-- Emergency UBI programs without full infrastructure
+- Emergency Citizen's Royalty programs without full infrastructure
 - Crisis measures for immediate displacement
 - Catch up on infrastructure while providing relief
 
@@ -420,7 +420,7 @@ We are at the first step. Every subsequent step depends on it.
 - Emphasize Human Standard safety provisions
 - Human oversight, transparency, override requirements
 - Position as SOLUTION to tech failures
-- Accelerate open source mandates
+- Accelerate transparency requirements
 
 ---
 
@@ -432,7 +432,7 @@ A person in 2030, if we succeed in Phase 1:
 
 - Has heard of The Human Standard and knows its basic ideas
 - Can vote for candidates who support the platform
-- Lives in a state with UBI pilot program
+- Lives in a state with Citizen's Royalty pilot program
 - Uses verified content systems daily
 - Has sound money savings options
 - Sees automation policy as normal political issue
@@ -570,15 +570,15 @@ Build it well.
 - [ ] 100,000 supporters engaged
 - [ ] First candidates elected
 - [ ] First automation disclosure laws passed
-- [ ] First UBI pilots launched
+- [ ] First Citizen's Royalty pilots launched
 - [ ] International connections established
 - [ ] Sustainable funding achieved
 
 ### Phase 2 (2030-2040)
 - [ ] Federal automation tax implemented
-- [ ] UBI scaled to 100 million recipients
-- [ ] $1,000/month payment level achieved
-- [ ] Government AI open source mandate passed
+- [ ] Citizen's Royalty scaled to 100 million recipients
+- [ ] Phase 2 NIT floor ($18,000/year) achieved
+- [ ] Government AI tiered transparency framework passed
 - [ ] Truth verification infrastructure deployed
 - [ ] Purchasing power stability options mainstream
 - [ ] 32-hour work week standard emerging

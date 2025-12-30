@@ -15,7 +15,7 @@ The answer requires understanding how political change actually occurs, building
 
 Political change follows predictable patterns. Understanding these patterns guides strategy.
 
-**The Overton Window**: Ideas move from unthinkable to radical to acceptable to sensible to popular to policy. Each step takes time. UBI was unthinkable in 2010. Andrew Yang made it radical in 2019. COVID stimulus made it acceptable in 2020. By 2030, it may be sensible. By 2040, it may be policy.
+**The Overton Window**: Ideas move from unthinkable to radical to acceptable to sensible to popular to policy. Each step takes time. Citizen's Royalty was unthinkable in 2010. Andrew Yang made it radical in 2019. COVID stimulus made it acceptable in 2020. By 2030, it may be sensible. By 2040, it may be policy.
 
 The task is to move ideas through this window—not by forcing them but by creating conditions where they seem increasingly normal.
 
@@ -170,8 +170,8 @@ Andrew Yang's 2020 campaign provides both inspiration and lessons.
 - Late start: Yang began with no name recognition, too little time to build
 - Resource constraints: major campaigns vastly outspent him
 - Media dismissal: initial coverage treated him as curiosity, not serious candidate
-- Single-issue perception: broader platform got less attention than UBI
-- Timing: pandemic had not yet demonstrated UBI's value
+- Single-issue perception: broader platform got less attention than Citizen's Royalty
+- Timing: pandemic had not yet demonstrated Citizen's Royalty's value
 
 **Lessons**:
 
@@ -228,13 +228,13 @@ Labor unions are essential allies but complex partners.
 **Union concerns about automation**:
 
 - Unions exist to protect jobs; automation eliminates jobs
-- UBI might reduce pressure for job creation
+- Citizen's Royalty might reduce pressure for job creation
 - Automation taxes might be preferred to job preservation
 - Union power declines with employment
 
 **Responses**:
 
-- UBI strengthens worker power by providing alternatives to bad jobs
+- Citizen's Royalty strengthens worker power by providing alternatives to bad jobs
 - Automation taxes fund transition assistance and retraining
 - The Human Standard does not oppose job preservation where feasible
 - Unions can organize new economy workers, not just traditional sectors
@@ -267,7 +267,7 @@ Business leaders can be allies on automation policy.
 - Automation taxes increase costs
 - Regulations constrain operations
 - Open-source requirements limit IP protection
-- Higher taxes fund UBI
+- Higher taxes fund Citizen's Royalty
 
 **Engagement strategy**:
 

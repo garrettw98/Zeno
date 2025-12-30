@@ -241,7 +241,7 @@
 - Increased spending on healthcare services
 
 **Sources:**
-- [Sam Altman's UBI study finds money can buy happiness](https://www.theregister.com/2024/07/23/sam_altman_basic_income/)
+- [Sam Altman's Citizen's Royalty study finds money can buy happiness](https://www.theregister.com/2024/07/23/sam_altman_basic_income/)
 - [Results of biggest study on guaranteed income programs](https://19thnews.org/2024/07/study-guaranteed-income-program-results/)
 - [NBER: Employment Effects of a Guaranteed Income](https://www.nber.org/papers/w32719)
 
@@ -273,14 +273,14 @@
 **Design:**
 - 23,000 people across 195 villages
 - 12-year longitudinal study (launched 2017)
-- Largest and longest UBI experiment to date
+- Largest and longest Citizen's Royalty experiment to date
 
 **Key Findings:**
 - Much less likely to experience hunger
 - Food consumption increased 10.1%
 - Protein consumption increased 7.4%
 - 17% decrease in probability of depression
-- Strong causal link between UBI and entrepreneurship
+- Strong causal link between Citizen's Royalty and entrepreneurship
 - Safety net allowed higher-risk, higher-return business opportunities
 
 **Children's Impact (Meta-Analysis):**
@@ -308,14 +308,14 @@
 
 1. **Net Jobs:** 78 million net new jobs projected by 2030
 2. **Economic Growth:** $13 trillion potential additional economic activity by 2030
-3. **UBI Works:** German study shows no work reduction; Kenya study shows entrepreneurship boost
+3. **Citizen's Royalty Works:** German study shows no work reduction; Kenya study shows entrepreneurship boost
 4. **Historical Precedent:** 85% of job growth since 1940 from technology-driven creation
 
 ### The Policy Window
 
 1. McKinsey: 375 million workers need career shifts by 2030
 2. We have 4-5 years before humanoid robots reach mass market
-3. UBI experiments show it doesn't destroy work ethic
+3. Citizen's Royalty experiments show it doesn't destroy work ethic
 4. The technology creates wealth that can fund the transition
 
 ---
@@ -324,7 +324,7 @@
 
 > "A day prior to the release of GPT-5, Sam Altman called it 'a significant step along the path to AGI.'"
 
-> "We find no evidence that people love doing nothing." - Prof. Susann Fiedler, German UBI Study
+> "We find no evidence that people love doing nothing." - Prof. Susann Fiedler, German Citizen's Royalty Study
 
 > "Youth unemployment in the technology sector [saw] the steepest increase in over a decade." - Goldman Sachs, 2025
 

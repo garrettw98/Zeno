@@ -506,7 +506,7 @@ Citizens can CHOOSE to receive government payments in crypto:
 ### Phase 3: Accelerated Transition (Years 8-12)
 **"Shift the Default"**
 
-**3.1 UBI in Crypto:**
+**3.1 Citizen's Royalty in Crypto:**
 
 The Universal Basic Income (from automation taxes) paid in citizen's choice:
 - Dollar (traditional)
@@ -768,12 +768,12 @@ Rather than a CBDC (which enables surveillance), create a **government-endorsed 
 
 - Government crypto payments optional
 - Sound Money Savings Accounts available
-- UBI payments in stablecoin option
+- Citizen's Royalty payments in stablecoin option
 - Blockchain voting expands to accommodations, local elections
 
 ### Years 8-12: Accelerated Transition
 
-- UBI defaults to stablecoin
+- Citizen's Royalty defaults to stablecoin
 - Federal Reserve transparency requirements
 - 1 million BTC reserve target
 - Widespread blockchain voting availability

@@ -31,7 +31,7 @@ Automation, AI, and capital flows respect no borders. The Human Standard's polic
 **Policy Spillovers:**
 - One country's lax AI regulation affects others
 - One country's automation tax creates competitive disadvantage
-- One country's UBI attracts or repels migration
+- One country's Citizen's Royalty attracts or repels migration
 - Climate policy requires global action
 
 ### 1.2 The Coordination Dilemma
@@ -269,12 +269,12 @@ Proposed: International AI Governance Agreement
 
 ---
 
-## PART III: MIGRATION AND UBI
+## PART III: MIGRATION AND Citizen's Royalty
 
 ### 3.1 The Migration Challenge
 
 **The Concern:**
-- UBI creates incentive for migration to U.S.
+- Citizen's Royalty creates incentive for migration to U.S.
 - People want to move to highest-benefit countries
 - Could strain system if not managed
 - Political opposition from immigration skeptics
@@ -284,7 +284,7 @@ Proposed: International AI Governance Agreement
 **Eligibility Rules:**
 
 1. **Citizenship Requirement**
-   - UBI for citizens only (initial implementation)
+   - Citizen's Royalty for citizens only (initial implementation)
    - No immediate benefit for immigrants
    - Avoids migration-for-benefits concern
 
@@ -301,7 +301,7 @@ Proposed: International AI Governance Agreement
 
 **Immigration Policy Integration:**
 
-| Immigrant Category | UBI Eligibility | Rationale |
+| Immigrant Category | Citizen's Royalty Eligibility | Rationale |
 |-------------------|-----------------|-----------|
 | Natural-born citizens | Immediate | Birthright |
 | Naturalized citizens | Immediate | Earned citizenship |
@@ -321,7 +321,7 @@ Proposed: International AI Governance Agreement
 
 **Refugee/Asylum:**
 - Maintain humanitarian commitments
-- UBI phase-in for refugees
+- Citizen's Royalty phase-in for refugees
 - International burden sharing
 - Repatriation support when appropriate
 
@@ -498,7 +498,7 @@ Proposed: International AI Governance Agreement
 - Universal global adoption of Human Standard policies
 - China joining democratic AI governance
 - Elimination of all tax havens
-- Fully open borders with UBI portability
+- Fully open borders with Citizen's Royalty portability
 
 ### 6.2 Timeline
 
@@ -538,7 +538,7 @@ If international coordination proves impossible:
    - Protect domestic industry
 
 2. **Focus on Domestic Goals**
-   - UBI still achievable domestically
+   - Citizen's Royalty still achievable domestically
    - AI governance for domestic systems
    - Sound money as national choice
 

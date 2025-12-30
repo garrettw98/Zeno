@@ -59,14 +59,14 @@ If AI and robots can provide unlimited labor, what happens to human work? This d
 
 ## PART II: THE HUMAN STANDARD APPROACH
 
-### 2.1 UBI as Labor Market Foundation
+### 2.1 Citizen's Royalty as Labor Market Foundation
 
 **The Reservation Wage:**
 
-UBI sets a floor below which no one must accept work.
+Citizen's Royalty sets a floor below which no one must accept work.
 
 - **Current:** Workers accept any wage above starvation
-- **With UBI:** Workers accept work only if worth their time
+- **With Citizen's Royalty:** Workers accept work only if worth their time
 - **Effect:** Wage floor rises for undesirable work
 
 **Evidence from Pilots:**
@@ -81,7 +81,7 @@ UBI sets a floor below which no one must accept work.
 - Bargaining power equalizes
 - Quality of work improves
 
-### 2.2 Wage Determination in UBI Economy
+### 2.2 Wage Determination in Citizen's Royalty Economy
 
 **For Automatable Work:**
 
@@ -120,13 +120,13 @@ Wage = max(Reservation Wage + Premium, Robot Cost - Preference)
 ```
 
 Where:
-- Reservation Wage = UBI + value of leisure
+- Reservation Wage = Citizen's Royalty + value of leisure
 - Premium = what employer pays above minimum
 - Robot Cost = total cost of automation
 - Preference = consumer preference for human
 
 **Implications:**
-- UBI raises all wages by raising reservation
+- Citizen's Royalty raises all wages by raising reservation
 - Automation cost sets ceiling for commodity work
 - Human preference creates space above automation cost
 - Premium paid for skill, reliability, humanity
@@ -163,7 +163,7 @@ Licensing remains essential:
 - Education and testing requirements unchanged
 - Continuing education required
 - Malpractice liability remains
-- UBI doesn't change the stakes of professional work
+- Citizen's Royalty doesn't change the stakes of professional work
 
 **For Craft Professions (Trades, Arts, Skilled Work):**
 
@@ -190,7 +190,7 @@ Output-based evaluation:
 - Connection: Relationships with colleagues and clients
 
 **Extrinsic Motivators (Still Exist):**
-- Income above UBI: Higher living standard
+- Income above Citizen's Royalty: Higher living standard
 - Status: Recognition and respect
 - Opportunity: Access to interesting work
 - Legacy: Lasting contribution
@@ -202,7 +202,7 @@ Output-based evaluation:
 - Research on creative professionals
 
 **The Human Standard View:**
-- UBI provides security, not luxury
+- Citizen's Royalty provides security, not luxury
 - Motivation to excel remains strong
 - Freed from survival pressure, quality may increase
 - Passion-driven work often higher quality
@@ -222,7 +222,7 @@ Output-based evaluation:
    - Investors own companies
    - Workers are employees
    - Automation benefits go to owners
-   - UBI redistributes after the fact
+   - Citizen's Royalty redistributes after the fact
 
 2. **Worker Ownership (Cooperatives)**
    - Workers own companies
@@ -245,7 +245,7 @@ Output-based evaluation:
 5. **Mixed Model (Human Standard)**
    - Private ownership of production
    - Taxation captures automation value
-   - UBI distributes benefits broadly
+   - Citizen's Royalty distributes benefits broadly
    - Some public ownership in key areas
 
 ### 4.2 The Human Standard Approach
@@ -267,7 +267,7 @@ Output-based evaluation:
 **We Ensure Broad Benefit:**
 
 - Automation tax captures value at source
-- UBI distributes to all citizens
+- Citizen's Royalty distributes to all citizens
 - No single ownership form mandated
 - Outcomes matter more than structure
 
@@ -306,7 +306,7 @@ Output-based evaluation:
 
 | Need | Response |
 |------|----------|
-| Income during transition | UBI (immediate) |
+| Income during transition | Citizen's Royalty (immediate) |
 | Retraining | Lifelong Learning Accounts |
 | Job search | AI-enhanced matching |
 | Geographic mobility | Moving assistance |
@@ -345,7 +345,7 @@ Output-based evaluation:
 
 **The Human Standard Response:**
 - Don't create new bureaucracy
-- UBI eliminates need for make-work
+- Citizen's Royalty eliminates need for make-work
 - Transition is to meaningful activity, not just new jobs
 - Accept that paid employment may shrink
 - Design society for flourishing beyond work
@@ -354,7 +354,7 @@ Output-based evaluation:
 
 ## PART VI: BEHAVIORAL ECONOMICS
 
-### 6.1 How Does Universal UBI Affect Behavior?
+### 6.1 How Does Universal Citizen's Royalty Affect Behavior?
 
 **Existing Evidence (Limited):**
 
@@ -371,7 +371,7 @@ Output-based evaluation:
 - Short-term gains, long-term unclear
 
 **What We Don't Know:**
-- Universal permanent UBI (never tried)
+- Universal permanent Citizen's Royalty (never tried)
 - Cultural shifts over generations
 - Effects of automation simultaneously
 - International migration effects
@@ -382,7 +382,7 @@ Output-based evaluation:
 - Most people work for more than money
 - Status, purpose, structure, social connection
 - Alaska PFD shows no mass exit from work
-- UBI amount is baseline, not luxury
+- Citizen's Royalty amount is baseline, not luxury
 
 **Hypothesis 2: Work Quality Improves (Medium Confidence)**
 - Bad jobs harder to fill
@@ -485,7 +485,7 @@ Output-based evaluation:
 
 **The Labor Economics of the Future:**
 
-1. **Wages will be determined differently:** UBI sets floor, automation sets ceiling for commodity work, human premium creates space between.
+1. **Wages will be determined differently:** Citizen's Royalty sets floor, automation sets ceiling for commodity work, human premium creates space between.
 
 2. **Standards will be maintained:** Licensing, certification, reputation, and intrinsic motivation preserve quality.
 

@@ -9,7 +9,7 @@
 
 ---
 
-> **VERSION 2.0 UPDATE - MESSAGING ALIGNMENT**: This document has been updated to align with the Version 2.0 policy framework. Key changes: (1) "UBI" replaced with **"Citizen's Royalty"** (Negative Income Tax model); (2) "Sound Money" reframed as **"Purchasing Power Stability"**; (3) Libertarian messaging emphasizes property rights over data; (4) Fiscal math updated to reflect 60% cost reduction from NIT model.
+> **VERSION 2.0 UPDATE - MESSAGING ALIGNMENT**: This document has been updated to align with the Version 2.0 policy framework. Key changes: (1) "Citizen's Royalty" replaced with **"Citizen's Royalty"** (Negative Income Tax model); (2) "Sound Money" reframed as **"Purchasing Power Stability"**; (3) Libertarian messaging emphasizes property rights over data; (4) Fiscal math updated to reflect 60% cost reduction from NIT model.
 
 ---
 
@@ -94,7 +94,7 @@ The fear that people will do nothing is not supported by evidence. It's a story 
 
 Libertarians love sound money, hate government bureaucracy, want individual freedom. We offer Bitcoin-friendly policy and AI that reduces corrupt bureaucrats.
 
-Progressives want worker protection, universal programs, anti-corruption measures. We offer UBI funded by taxing the gains from automation.
+Progressives want worker protection, universal programs, anti-corruption measures. We offer Citizen's Royalty funded by taxing the gains from automation.
 
 Populists are angry at elites extracting wealth while regular people struggle. We're channeling that anger into structural solutions.
 
@@ -129,7 +129,7 @@ We're not anti-technology. We're anti-exploitation. There's a difference."
 
 **Frame as opportunity:**
 
-"Think about what UBI means for entrepreneurship. Right now, most people can't take risks because they're one missed paycheck from disaster. They stay in jobs they hate because they need the health insurance.
+"Think about what Citizen's Royalty means for entrepreneurship. Right now, most people can't take risks because they're one missed paycheck from disaster. They stay in jobs they hate because they need the health insurance.
 
 With basic income, everyone has a floor. That means more people can start businesses, try new ideas, create things. Your customer base expands because people have money to spend. Your talent pool expands because people can afford to work for startups.
 
@@ -236,7 +236,7 @@ Now she can smile.
 
 This is what basic income actually does. Not dependency. Dignity.
 
-#TheHumanStandard #UBI #HumanDignity"
+#TheHumanStandard #Citizen's Royalty #HumanDignity"
 
 ### Facebook (Longer form)
 
@@ -270,7 +270,7 @@ Simple version: "It's a plan for making sure AI and robots benefit everyone, not
 
 ### "Won't people just stop working?"
 
-"The evidence says no. Every UBI experiment shows employment stays the same or goes UP. Stockton, Finland, Kenya—same result. People aren't lazy. They're trapped. Give them a floor, they take risks, start businesses, care for family, contribute to community. The lazy couch potato is a myth."
+"The evidence says no. Every Citizen's Royalty experiment shows employment stays the same or goes UP. Stockton, Finland, Kenya—same result. People aren't lazy. They're trapped. Give them a floor, they take risks, start businesses, care for family, contribute to community. The lazy couch potato is a myth."
 
 ### "How do you pay for it?"
 
@@ -329,7 +329,7 @@ Simple version: "It's a plan for making sure AI and robots benefit everyone, not
 |-------|-----|-------------|
 | "Free money" | Sounds unearned | "Your data dividend" or "Citizen's Royalty" |
 | "Welfare" | Stigmatized | "Citizen's Royalty" or "Negative Income Tax" |
-| "UBI" | Associated with unaffordable flat payments | "Citizen's Royalty" (targeted, affordable) |
+| "Citizen's Royalty" | Associated with unaffordable flat payments | "Citizen's Royalty" (targeted, affordable) |
 | "Redistribute" | Triggers opposition | "Return on your data" or "Your share" |
 | "Government program" | Sounds bureaucratic | "Direct payment through tax system" |
 | "Sound Money" | Can imply harmful deflation | "Purchasing Power Stability" |
@@ -366,13 +366,13 @@ Simple version: "It's a plan for making sure AI and robots benefit everyone, not
 - Deepfakes make truth unverifiable
 
 **THE SOLUTION:**
-- Tax automation → fund automation dividend (UBI)
+- Tax automation → fund automation dividend (Citizen's Royalty)
 - Open source AI in government → transparent, auditable
 - Sound money options → savings that hold value
 - Truth infrastructure → verify what's real
 
 **THE EVIDENCE:**
-- Stockton UBI: employment UP, 1% spent on alcohol
+- Stockton Citizen's Royalty: employment UP, 1% spent on alcohol
 - Finland: happier, less stressed, more trusting
 - Alaska: 40 years of dividends, no dependency
 - Kenya: 48% reduction in infant mortality

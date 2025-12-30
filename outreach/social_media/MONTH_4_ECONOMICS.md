@@ -37,7 +37,7 @@ Income creates spending.
 
 It's a cycle, not a static pool.
 
-UBI doesn't take money out of the economy. It moves money to people who
+Citizen's Royalty doesn't take money out of the economy. It moves money to people who
 will spend it. Consumer spending is 70% of GDP. More spending = more
 economy.
 
@@ -54,11 +54,11 @@ HASHTAGS: #Economics #Circulation #GDP #Spending
 
 **Post 1 - Inflation Deep Dive**
 ```
-HOOK: "Will UBI cause inflation? Let's really break this down."
+HOOK: "Will Citizen's Royalty cause inflation? Let's really break this down."
 
 BODY: "Inflation happens when too much money chases too few goods.
 
-UBI doesn't print new money. It's funded by taxes. Money moves from one
+Citizen's Royalty doesn't print new money. It's funded by taxes. Money moves from one
 pocket to another. Total money supply doesn't change.
 
 Could some prices rise? Maybe at the bottom - lowest rents, lowest wages.
@@ -73,14 +73,14 @@ The theory says no. The evidence says no."
 CTA: "Still worried about inflation? Tell me specifically what concern
 I haven't addressed."
 
-HASHTAGS: #Inflation #Economics #Evidence #UBI
+HASHTAGS: #Inflation #Economics #Evidence #Citizen's Royalty
 ```
 
 **Post 2 - The MMT Question**
 ```
-HOOK: "Can we just print money for UBI? Let me be clear."
+HOOK: "Can we just print money for Citizen's Royalty? Let me be clear."
 
-BODY: "Some people want to fund UBI by printing money. Modern Monetary
+BODY: "Some people want to fund Citizen's Royalty by printing money. Modern Monetary
 Theory (MMT) style.
 
 The Human Standard does NOT propose this.
@@ -104,11 +104,11 @@ HASHTAGS: #MMT #SoundMoney #Funding #Responsible
 
 **Post 1 - Dynamic Scoring**
 ```
-HOOK: "Static analysis lies about UBI cost. Here's why."
+HOOK: "Static analysis lies about Citizen's Royalty cost. Here's why."
 
-BODY: "Static analysis: UBI costs $6 trillion. Stop there.
+BODY: "Static analysis: Citizen's Royalty costs $6 trillion. Stop there.
 
-Dynamic analysis: UBI costs $6 trillion, but...
+Dynamic analysis: Citizen's Royalty costs $6 trillion, but...
 - Recirculates through economy
 - Generates tax revenue on spending
 - Reduces costs (healthcare, crime, homelessness)
@@ -122,7 +122,7 @@ Anyone telling you just the gross number is being misleading."
 
 CTA: "Always ask: What's the NET cost?"
 
-HASHTAGS: #DynamicScoring #Economics #NetCost #UBI
+HASHTAGS: #DynamicScoring #Economics #NetCost #Citizen's Royalty
 ```
 
 **Post 2 - Automation Tax Mechanics**
@@ -208,7 +208,7 @@ HASHTAGS: #Competitiveness #VAT #Trade #BorderAdjustment
 ```
 HOOK: "Let's put the work incentive question to bed once and for all."
 
-BODY: "Will UBI reduce work? Evidence says: barely.
+BODY: "Will Citizen's Royalty reduce work? Evidence says: barely.
 
 The highest estimates show maybe 5% reduction in hours worked. That's
 people cutting back from overtime, taking better care of themselves,
@@ -224,7 +224,7 @@ it?' Yes. Obviously yes."
 
 CTA: "5% less work. Massive gains in wellbeing. Fair trade?"
 
-HASHTAGS: #WorkIncentives #Evidence #TradeOff #UBI
+HASHTAGS: #WorkIncentives #Evidence #TradeOff #Citizen's Royalty
 ```
 
 **Post 2 - Week 13 Recap**
@@ -233,7 +233,7 @@ HOOK: "Week 13 - economic foundations."
 
 BODY: "What we covered:
 - Money circulates, it's not a fixed pie
-- UBI is tax-funded, not printed - no inflation
+- Citizen's Royalty is tax-funded, not printed - no inflation
 - Dynamic scoring shows much lower net cost
 - Automation tax mechanics are workable
 - Border adjustments prevent capital flight
@@ -284,24 +284,24 @@ HASHTAGS: #Conservative #Objections #Answers #Right
 
 **Post 2 - Libertarian Appeal**
 ```
-HOOK: "UBI is the most libertarian welfare possible."
+HOOK: "Citizen's Royalty is the most libertarian welfare possible."
 
 BODY: "Think about it:
 
 Current system: Government decides what you need. Food stamps for food.
 Housing vouchers for housing. Bureaucrats checking if you qualify.
 
-UBI: Here's cash. You decide.
+Citizen's Royalty: Here's cash. You decide.
 
 Current system: Means testing, surveillance, paternalism.
 
-UBI: Universal, unconditional, freedom.
+Citizen's Royalty: Universal, unconditional, freedom.
 
-Milton Friedman supported the negative income tax - basically UBI. Because
+Milton Friedman supported the negative income tax - basically Citizen's Royalty. Because
 he understood: if we're going to have a safety net, cash is the freest
 form.
 
-UBI isn't anti-libertarian. It's the libertarian solution to poverty."
+Citizen's Royalty isn't anti-libertarian. It's the libertarian solution to poverty."
 
 CTA: "Libertarians - does this resonate?"
 
@@ -318,7 +318,7 @@ HOOK: "Now let's address progressive objections."
 
 BODY: "Objection: Cash can't replace services.
 Answer: It doesn't have to replace everything. Healthcare stays public.
-Education stays public. UBI is additional, not replacement for all services.
+Education stays public. Citizen's Royalty is additional, not replacement for all services.
 
 Objection: It's not enough money.
 Answer: $2,000 is a start. We can increase it. Better than current $0.
@@ -335,9 +335,9 @@ CTA: "Progressive friends - what concerns remain?"
 HASHTAGS: #Progressive #Objections #Left #Answers
 ```
 
-**Post 2 - UBI vs Job Guarantee**
+**Post 2 - Citizen's Royalty vs Job Guarantee**
 ```
-HOOK: "Why UBI instead of a job guarantee?"
+HOOK: "Why Citizen's Royalty instead of a job guarantee?"
 
 BODY: "Job guarantee: Government provides a job to anyone who wants one.
 Sounds good. Problems:
@@ -352,14 +352,14 @@ Sounds good. Problems:
 
 5. Disability? Not everyone can work traditional jobs.
 
-UBI: Here's money. If you want to work, work. If you're caring for family,
+Citizen's Royalty: Here's money. If you want to work, work. If you're caring for family,
 that's valued. If you're building something, you can take the risk.
 
 Freedom beats assignment."
 
 CTA: "Would you rather have guaranteed work or guaranteed income?"
 
-HASHTAGS: #JobGuarantee #UBI #Comparison #Choice
+HASHTAGS: #JobGuarantee #Citizen's Royalty #Comparison #Choice
 ```
 
 ---
@@ -368,7 +368,7 @@ HASHTAGS: #JobGuarantee #UBI #Comparison #Choice
 
 **Post 1 - Why Not Just Raise Minimum Wage?**
 ```
-HOOK: "Why not just raise the minimum wage instead of UBI?"
+HOOK: "Why not just raise the minimum wage instead of Citizen's Royalty?"
 
 BODY: "Minimum wage is good. We support it. But it doesn't solve the
 problem.
@@ -381,13 +381,13 @@ problem.
 
 4. Doesn't help during job transitions.
 
-Minimum wage addresses exploitation. UBI addresses existence. We need both.
+Minimum wage addresses exploitation. Citizen's Royalty addresses existence. We need both.
 
-Raise the minimum wage AND implement UBI. They work together."
+Raise the minimum wage AND implement Citizen's Royalty. They work together."
 
 CTA: "Both/and, not either/or."
 
-HASHTAGS: #MinimumWage #UBI #Both #Economics
+HASHTAGS: #MinimumWage #Citizen's Royalty #Both #Economics
 ```
 
 **Post 2 - Why Not Just Expand Current Programs?**
@@ -403,19 +403,19 @@ BODY: "Current programs are a maze:
 
 Even expanded, they have these problems.
 
-UBI is simple:
+Citizen's Royalty is simple:
 - One program
 - Everyone eligible
 - No cliffs
 - No paperwork
 - No stigma
 
-Simplicity matters. People fall through cracks in complex systems. UBI
+Simplicity matters. People fall through cracks in complex systems. Citizen's Royalty
 has no cracks."
 
 CTA: "Have you ever navigated government benefits? How was it?"
 
-HASHTAGS: #Bureaucracy #Simplicity #UBI #CurrentSystem
+HASHTAGS: #Bureaucracy #Simplicity #Citizen's Royalty #CurrentSystem
 ```
 
 ---
@@ -424,7 +424,7 @@ HASHTAGS: #Bureaucracy #Simplicity #UBI #CurrentSystem
 
 **Post 1 - What About People Who Waste It?**
 ```
-HOOK: "What if people waste their UBI on drugs and gambling?"
+HOOK: "What if people waste their Citizen's Royalty on drugs and gambling?"
 
 BODY: "First: The evidence shows this doesn't happen. Spending on 'temptation
 goods' typically decreases with cash transfers. People are more responsible
@@ -480,7 +480,7 @@ HASHTAGS: #WeekFourteen #Objections #AllSides #Recap
 
 **Post 1 - Monday: Making It Real**
 ```
-HOOK: "How does UBI actually get implemented? Let's be practical."
+HOOK: "How does Citizen's Royalty actually get implemented? Let's be practical."
 
 BODY: "Phase 1 (Year 1): $500/month. Test systems. New tax sources begin.
 
@@ -500,7 +500,7 @@ No big bang. Thoughtful transition."
 
 CTA: "Does gradual make sense to you?"
 
-HASHTAGS: #Implementation #PhaseIn #Practical #UBI
+HASHTAGS: #Implementation #PhaseIn #Practical #Citizen's Royalty
 ```
 
 **Post 2 - The Delivery System**
@@ -535,14 +535,14 @@ HOOK: "What happens to people currently on Social Security or disability?"
 
 BODY: "No one loses out. That's non-negotiable.
 
-Social Security recipients: Choose higher of current benefit or UBI.
-Most would choose UBI (higher). Transition is voluntary.
+Social Security recipients: Choose higher of current benefit or Citizen's Royalty.
+Most would choose Citizen's Royalty (higher). Transition is voluntary.
 
-Disability (cash): Replaced by UBI. Same or more money, less paperwork.
+Disability (cash): Replaced by Citizen's Royalty. Same or more money, less paperwork.
 
-Disability (services): Continue. UBI adds cash; services are separate.
+Disability (services): Continue. Citizen's Royalty adds cash; services are separate.
 
-SNAP/Food stamps: Replaced by UBI. Cash is more flexible than food stamps.
+SNAP/Food stamps: Replaced by Citizen's Royalty. Cash is more flexible than food stamps.
 
 Current recipients protected. New system better for everyone."
 
@@ -553,12 +553,12 @@ HASHTAGS: #Transition #SocialSecurity #Disability #Protected
 
 **Post 2 - Administrative Costs**
 ```
-HOOK: "How much would it cost to administer UBI?"
+HOOK: "How much would it cost to administer Citizen's Royalty?"
 
 BODY: "Current welfare programs: 10-30% administrative costs. Means testing
 is expensive. Bureaucracy is expensive.
 
-UBI: Estimated 1-2% administrative costs. No means testing. No caseworkers.
+Citizen's Royalty: Estimated 1-2% administrative costs. No means testing. No caseworkers.
 Just send money.
 
 Social Security: About 1% administrative costs. Proof it works at scale.

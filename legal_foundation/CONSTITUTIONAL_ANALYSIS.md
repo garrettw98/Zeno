@@ -38,17 +38,17 @@ The spending power has been interpreted very broadly since *United States v. But
 3. Direct payments to individuals are constitutional (Social Security, Medicare)
 4. Universality strengthens constitutional position (no discrimination issues)
 
-**Conclusion:** UBI is **clearly constitutional** under the spending power. Direct payments to citizens are well-established.
+**Conclusion:** Citizen's Royalty is **clearly constitutional** under the spending power. Direct payments to citizens are well-established.
 
 ### Potential Challenges
 
-**Challenge 1: "UBI isn't for the general welfare"**
+**Challenge 1: "Citizen's Royalty isn't for the general welfare"**
 
 *Response:* Courts give extreme deference to Congress on general welfare determinations. Social Security, Medicare, and direct stimulus payments have all been upheld. Poverty reduction, economic stability, and transition support are quintessential general welfare purposes.
 
 *Precedent:* *Helvering v. Davis* (1937): "The line must still be drawn between one welfare and another, between particular and general. The discretion belongs to Congress."
 
-**Challenge 2: "UBI creates an entitlement without constitutional authority"**
+**Challenge 2: "Citizen's Royalty creates an entitlement without constitutional authority"**
 
 *Response:* Congress routinely creates entitlement programs (Social Security, Medicare, SNAP). No constitutional barrier exists to creating statutory entitlements. The key is proper funding, which the automation tax provides.
 
@@ -115,7 +115,7 @@ Key characteristics that support constitutionality:
 
 1. **Structure as excise tax** on operations, not ownership
 2. **Uniform rates** with rational classifications
-3. **Clear statutory purpose** (funding UBI, transition support)
+3. **Clear statutory purpose** (funding Citizen's Royalty, transition support)
 4. **Exemptions with rational basis** (small business, R&D, safety)
 
 ---
@@ -327,7 +327,7 @@ This amendment would:
 **Analysis:**
 
 This amendment would:
-- Constitutionalize UBI as a right
+- Constitutionalize Citizen's Royalty as a right
 - Prevent future Congresses from eliminating the program
 - Establish unconditional nature as constitutional principle
 - Join social and economic rights recognized in other democracies
@@ -358,7 +358,7 @@ This amendment would:
 
 | Policy | Why Low Risk |
 |--------|--------------|
-| UBI | Clear spending power authority, popular program |
+| Citizen's Royalty | Clear spending power authority, popular program |
 | Federal AI Governance | Government operations, clear authority |
 | Digital Asset Clarity | Clarifies existing framework, benefits industry |
 | Stablecoin Regulation | Traditional regulatory authority |
@@ -393,7 +393,7 @@ This amendment would:
 
 | Action | Requirement |
 |--------|-------------|
-| UBI program | Appropriation, authorization |
+| Citizen's Royalty program | Appropriation, authorization |
 | Automation tax | Tax legislation |
 | Private sector AI regulation | Commerce legislation |
 | Stablecoin licensing | Financial regulation |
@@ -404,9 +404,9 @@ This amendment would:
 
 ## Conclusion
 
-**The Human Standard is constitutionally sound.** The core policies—UBI, automation tax, AI governance, digital asset framework—all have clear constitutional foundations in the spending power, taxing power, and commerce clause.
+**The Human Standard is constitutionally sound.** The core policies—Citizen's Royalty, automation tax, AI governance, digital asset framework—all have clear constitutional foundations in the spending power, taxing power, and commerce clause.
 
-Legal challenges will occur, but careful drafting and strong factual records should prevail in most cases. The most transformative policies (UBI as right, AI rights) may ultimately warrant constitutional amendments, but these are long-term aspirations beyond the initial implementation.
+Legal challenges will occur, but careful drafting and strong factual records should prevail in most cases. The most transformative policies (Citizen's Royalty as right, AI rights) may ultimately warrant constitutional amendments, but these are long-term aspirations beyond the initial implementation.
 
 **Key takeaway:** Constitutional concerns should not deter implementation. The legal foundations are solid. Political will, not constitutional authority, is the limiting factor.
 

@@ -13,7 +13,7 @@ Transformative policies face opposition. That opposition isn't random—it follo
 
 ---
 
-> **VERSION 2.0 UPDATE - COALITION ALIGNMENT**: This document has been updated to improve political coalition-building. Key changes: (1) "UBI" rebranded as **"Citizen's Royalty"** - framed as a return on public data/infrastructure investment, not welfare; (2) Updated libertarian messaging to emphasize property rights over data; (3) Refined cross-partisan appeal focusing on shared anti-corruption, anti-monopoly values.
+> **VERSION 2.0 UPDATE - COALITION ALIGNMENT**: This document has been updated to improve political coalition-building. Key changes: (1) "Citizen's Royalty" rebranded as **"Citizen's Royalty"** - framed as a return on public data/infrastructure investment, not welfare; (2) Updated libertarian messaging to emphasize property rights over data; (3) Refined cross-partisan appeal focusing on shared anti-corruption, anti-monopoly values.
 
 ---
 
@@ -42,7 +42,7 @@ Transformative policies face opposition. That opposition isn't random—it follo
 
 | Industry | Annual Revenue | Lobbying Spending | Specific Concern |
 |----------|---------------|-------------------|------------------|
-| Big Tech | $1.5 trillion | $100M+ | Data tax, AI governance, open source mandate |
+| Big Tech | $1.5 trillion | $100M+ | Data tax, AI governance, tiered transparency |
 | Finance | $600 billion | $200M+ | Financial transaction tax, wealth tax |
 | Fossil Fuels | $500 billion | $150M+ | Carbon tax |
 | Pharmaceuticals | $600 billion | $100M+ | Healthcare reform |
@@ -56,7 +56,7 @@ Transformative policies face opposition. That opposition isn't random—it follo
 | Industry | Reason for Potential Support |
 |----------|------------------------------|
 | Small Business | Citizen's Royalty creates consumer demand, payroll tax reduction |
-| Retail | UBI creates spending power |
+| Retail | Citizen's Royalty creates spending power |
 | Entertainment | More leisure time, spending capacity |
 | Education/Training | Lifelong learning investment |
 | Healthcare (some) | Universal coverage expands market |
@@ -70,7 +70,7 @@ Transformative policies face opposition. That opposition isn't random—it follo
 |-------------|----------|----------|
 | Chamber of Commerce | Low taxes, deregulation | Oppose taxation, governance |
 | Business Roundtable | Corporate interests | Mixed (some AI concerns) |
-| Heritage Foundation | Conservative ideology | Oppose UBI, taxation |
+| Heritage Foundation | Conservative ideology | Oppose Citizen's Royalty, taxation |
 | Cato Institute | Libertarian ideology | Mixed (like Citizen's Royalty concept, oppose taxes) |
 | FreedomWorks | Anti-tax activism | Oppose taxation |
 | National Association of Manufacturers | Manufacturing costs | Oppose automation tax |
@@ -180,7 +180,7 @@ Transformative policies face opposition. That opposition isn't random—it follo
 
 **Big Tech Will:**
 - Argue data tax is "European-style" anti-tech
-- Claim open source mandate exposes security risks
+- Claim transparency requirements expose security risks
 - Threaten to move operations overseas
 - Fund privacy advocates to oppose data measurement
 - Lobby for narrow definitions of "AI"
@@ -239,7 +239,7 @@ Transformative policies face opposition. That opposition isn't random—it follo
 | Division | Approach |
 |----------|----------|
 | Tech vs. Finance | Tech may prefer AI governance legitimacy |
-| Small vs. Big Business | Small business benefits from UBI demand |
+| Small vs. Big Business | Small business benefits from Citizen's Royalty demand |
 | Domestic vs. Multinational | Domestic firms gain from border adjustments |
 | Old Economy vs. New Economy | New economy more automation-dependent |
 | Shareholders vs. Management | Shareholders may want ESG alignment |
@@ -367,7 +367,7 @@ The Citizen's Royalty is NOT welfare. It is a **property rights dividend**:
 | New Democrat Coalition | 70 | 20 | Innovation frame, competitiveness |
 | Democrats Total | 212 | 50 | Need most |
 | Moderate Republicans | 0 | 15 | Sound money, anti-corruption |
-| Libertarian-leaning | 0 | 10 | UBI replacing bureaucracy |
+| Libertarian-leaning | 0 | 10 | Citizen's Royalty replacing bureaucracy |
 | **Total Potential** | 212 | 75 | 218 achievable |
 
 **Senate Path (Need 60, or 51 for reconciliation):**
@@ -514,7 +514,7 @@ The Citizen's Royalty is NOT welfare. It is a **property rights dividend**:
 
 **From Issue Advocacy to Movement:**
 
-- Not just "we want UBI"
+- Not just "we want Citizen's Royalty"
 - Comprehensive vision for society
 - Identity as member of movement
 - Mutual support network

@@ -86,7 +86,7 @@ The Human Standard is built on evidence, not ideology. This appendix provides ci
 14. Goldsmith, S. (2012). The Alaska Permanent Fund Dividend: A Case Study in Implementation of a Basic Income Guarantee. *Basic Income Studies*, 7(2).
     - Overview: History and implementation details
 
-**Finland UBI Pilot:**
+**Finland Citizen's Royalty Pilot:**
 
 15. Kangas, O., et al. (2019). *The Basic Income Experiment 2017-2018 in Finland: Preliminary Results.* Ministry of Social Affairs and Health, Finland.
     - Finding: No reduction in employment; significant wellbeing improvements
@@ -179,11 +179,11 @@ The Human Standard is built on evidence, not ideology. This appendix provides ci
 ### Macroeconomic Effects
 
 34. Nikiforos, M., et al. (2017). Modeling the Macroeconomic Effects of a Universal Basic Income. Roosevelt Institute.
-    - Macroeconomic simulation of UBI effects
-    - Finding: GDP growth under UBI scenarios
+    - Macroeconomic simulation of Citizen's Royalty effects
+    - Finding: GDP growth under Citizen's Royalty scenarios
 
 35. Hoynes, H. W., & Rothstein, J. (2019). Universal Basic Income in the United States and Advanced Countries. *Annual Review of Economics*, 11, 929-958.
-    - Comprehensive review of UBI economics
+    - Comprehensive review of Citizen's Royalty economics
 
 ### Inequality and Distribution
 
@@ -273,13 +273,13 @@ The Human Standard is built on evidence, not ideology. This appendix provides ci
 55. GDPR. (2016). *General Data Protection Regulation.*
     - EU data protection framework, including algorithmic decision rights
 
-### UBI Experiments Globally
+### Citizen's Royalty Experiments Globally
 
 56. Standing, G. (2017). *Basic Income: And How We Can Make It Happen.* Penguin.
-    - Global overview of UBI pilots
+    - Global overview of Citizen's Royalty pilots
 
 57. Van Parijs, P., & Vanderborght, Y. (2017). *Basic Income: A Radical Proposal for a Free Society and a Sane Economy.* Harvard University Press.
-    - Comprehensive case for UBI
+    - Comprehensive case for Citizen's Royalty
 
 ### Comparative Automation Policy
 
@@ -293,13 +293,13 @@ The Human Standard is built on evidence, not ideology. This appendix provides ci
 
 ## Part 8: Polling and Public Opinion
 
-### UBI Support
+### Citizen's Royalty Support
 
 60. Pew Research Center. (2020). Support for a Guaranteed Basic Income.
-    - Public opinion on UBI
+    - Public opinion on Citizen's Royalty
 
 61. Gallup. (2019). Support for Universal Basic Income.
-    - Trend data on UBI support
+    - Trend data on Citizen's Royalty support
 
 ### Automation Concerns
 

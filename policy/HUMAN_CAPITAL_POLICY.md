@@ -411,8 +411,8 @@ The goal is not AI teachers vs. human teachers. The goal is **every student gett
 - Data Dividend allocation (10%): $5-15 billion/year
 - Existing federal education/training program consolidation
 
-**Interaction with UBI:**
-- UBI provides income floor during retraining
+**Interaction with Citizen's Royalty:**
+- Citizen's Royalty provides income floor during retraining
 - LLA provides education funding
 - Together: True freedom to adapt to changing economy
 
@@ -1199,7 +1199,7 @@ The current system forces impossible choices: bankrupt yourself for care, burden
 > **The goal is not to race against machines, but to build systems where automation benefits workers.**
 
 Retraining is necessary but insufficient. Policy must also:
-- Ensure automation benefits are shared (Robot Tax → UBI)
+- Ensure automation benefits are shared (Robot Tax → Citizen's Royalty)
 - Provide income support during transitions
 - Create pathways to human-centered jobs
 
@@ -1258,9 +1258,9 @@ Retraining is necessary but insufficient. Policy must also:
 - Healthcare continuation during transition
 - Childcare support during training
 
-**Coordination with UBI:**
-- As UBI phases in, transition support becomes less critical
-- UBI provides permanent income floor for continuous learning
+**Coordination with Citizen's Royalty:**
+- As Citizen's Royalty phases in, transition support becomes less critical
+- Citizen's Royalty provides permanent income floor for continuous learning
 
 ### MEDIUM-TERM (2027-2030)
 
@@ -1346,8 +1346,8 @@ Retraining is necessary but insufficient. Policy must also:
 
 | Challenge | Workforce Response | Economic Response |
 |-----------|-------------------|-------------------|
-| Job displacement | Retraining, early warning | Robot Tax, UBI |
-| Income during transition | Transition support | Data Dividend, UBI |
+| Job displacement | Retraining, early warning | Robot Tax, Citizen's Royalty |
+| Income during transition | Transition support | Data Dividend, Citizen's Royalty |
 | Skills becoming obsolete | Continuous learning | Lifelong Learning Accounts |
 | Automation benefits capture | Human-AI collaboration | Automation Productivity Tax |
 | Care worker shortage | Workforce investment | Wage subsidies from automation taxes |
@@ -1355,7 +1355,7 @@ Retraining is necessary but insufficient. Policy must also:
 **The Virtuous Cycle:**
 1. Automation increases productivity
 2. Robot Tax captures portion of gains
-3. Revenue funds UBI, retraining, care work wages
+3. Revenue funds Citizen's Royalty, retraining, care work wages
 4. Workers supported during transitions
 5. Human-centered jobs made viable
 6. Economy serves all, not just capital owners

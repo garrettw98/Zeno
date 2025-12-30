@@ -69,7 +69,7 @@ Success of The Human Standard requires building a broad coalition while neutrali
 **Position on Human Standard**: **Strong Support**
 
 **Why They Support**:
-- UBI provides immediate security
+- Citizen's Royalty provides immediate security
 - Retraining programs offer pathways
 - Automation tax acknowledges their value
 - Policy addresses their specific concerns
@@ -105,12 +105,12 @@ Success of The Human Standard requires building a broad coalition while neutrali
 **Position on Human Standard**: **Support with Conditions**
 
 **Concerns**:
-- UBI might reduce pressure for job creation
+- Citizen's Royalty might reduce pressure for job creation
 - Automation tax might be preferable to job preservation
 - Union power declines with employment
 
 **Why They'll Support**:
-- UBI strengthens worker bargaining power (can refuse bad jobs)
+- Citizen's Royalty strengthens worker bargaining power (can refuse bad jobs)
 - Automation tax acknowledges labor's claim on productivity
 - Transition programs provide member services
 - Human Standard doesn't oppose unions or job preservation
@@ -124,8 +124,8 @@ Success of The Human Standard requires building a broad coalition while neutrali
 | Feature union endorsements prominently | Year 1 | Communications |
 
 **Key Messages**:
-- "UBI gives workers the power to say no to bad jobs."
-- "We support workers organizing for better conditions—UBI helps, not hurts."
+- "Citizen's Royalty gives workers the power to say no to bad jobs."
+- "We support workers organizing for better conditions—Citizen's Royalty helps, not hurts."
 - "The automation dividend belongs to workers who created the wealth."
 
 **Key Contacts**:
@@ -156,7 +156,7 @@ Success of The Human Standard requires building a broad coalition while neutrali
 - Many feel conflicted about building systems that displace workers
 - Want their work to benefit society
 - Open source principles align with tech culture
-- UBI could enable them to pursue passion projects
+- Citizen's Royalty could enable them to pursue passion projects
 
 **Engagement Strategy**:
 | Tactic | Timeline | Responsible |
@@ -195,7 +195,7 @@ Success of The Human Standard requires building a broad coalition while neutrali
 **Position on Human Standard**: **Support**
 
 **Why They Support**:
-- UBI advances economic justice
+- Citizen's Royalty advances economic justice
 - Carbon tax addresses climate
 - AI governance ensures equity
 - Aligns with progressive values
@@ -239,7 +239,7 @@ Success of The Human Standard requires building a broad coalition while neutrali
 
 **Why They Support**:
 - Face automation-transformed job market
-- UBI provides security during transition
+- Citizen's Royalty provides security during transition
 - Climate provisions address existential concern
 - Digital asset policies align with usage
 - Fed up with status quo
@@ -275,7 +275,7 @@ Success of The Human Standard requires building a broad coalition while neutrali
 **Position on Human Standard**: **Generally Supportive**
 
 **Why They Support**:
-- UBI has significant research support
+- Citizen's Royalty has significant research support
 - Policy based on evidence
 - Addresses concerns they've raised about automation
 - Research opportunities
@@ -291,9 +291,9 @@ Success of The Human Standard requires building a broad coalition while neutrali
 **Key Academics**:
 - Daron Acemoglu (MIT) - Automation economist
 - Erik Brynjolfsson (Stanford) - Technology economics
-- Juliana Bidadanure (Stanford) - UBI philosopher
+- Juliana Bidadanure (Stanford) - Citizen's Royalty philosopher
 - Martin Ford - Automation author
-- Andrew Yang - UBI advocate
+- Andrew Yang - Citizen's Royalty advocate
 
 ---
 
@@ -360,7 +360,7 @@ Success of The Human Standard requires building a broad coalition while neutrali
 - Efficient administration
 
 **What They Dislike**:
-- Size of UBI program
+- Size of Citizen's Royalty program
 - Tax increases
 - "Government handouts"
 
@@ -369,7 +369,7 @@ Success of The Human Standard requires building a broad coalition while neutrali
 | Approach | Message |
 |----------|---------|
 | Economic stability | "Consumer demand sustains your business" |
-| Workforce quality | "UBI enables education and training" |
+| Workforce quality | "Citizen's Royalty enables education and training" |
 | Reduced uncertainty | "Predictable policy environment" |
 | Fiscal math | "Funded by automation, not deficits" |
 
@@ -485,7 +485,7 @@ Success of The Human Standard requires building a broad coalition while neutrali
 
 **Benefits**:
 - Lifelong learning accounts create demand
-- UBI enables education participation
+- Citizen's Royalty enables education participation
 - Research funding
 
 **Concerns**:
@@ -527,11 +527,11 @@ Success of The Human Standard requires building a broad coalition while neutrali
 **What They Oppose**:
 - Data dividend tax (directly reduces profits)
 - AI training compensation (increases costs)
-- Open source mandates (competitive concerns)
+- Tiered transparency (competitive concerns)
 - Automation tax (long-term)
 
 **What They Might Accept**:
-- UBI (creates consumer demand)
+- Citizen's Royalty (creates consumer demand)
 - Authenticity infrastructure (reduces liability)
 - Clear regulatory framework (reduces uncertainty)
 
@@ -545,14 +545,14 @@ Success of The Human Standard requires building a broad coalition while neutrali
 
 | Approach | Tactic |
 |----------|--------|
-| Split the coalition | Some tech leaders support UBI (Elon Musk, Sam Altman) |
+| Split the coalition | Some tech leaders support Citizen's Royalty (Elon Musk, Sam Altman) |
 | Consumer demand argument | "Your customers need income to buy your services" |
 | Regulatory certainty | "Clear rules better than uncertainty" |
 | Competitive framing | "Data tax affects all equally" |
 | Public pressure | Expose lobbying, mobilize tech workers |
 
 **Key Contacts**:
-- Individual tech leaders with UBI sympathy
+- Individual tech leaders with Citizen's Royalty sympathy
 - Tech worker advocates
 - Academic critics of tech
 
@@ -674,15 +674,15 @@ These groups are unlikely to be persuaded. Strategy:
 
 | Name | Role | Value | Engagement |
 |------|------|-------|------------|
-| Andrew Yang | Former candidate, UBI champion | Credibility, network | Core partnership |
+| Andrew Yang | Former candidate, Citizen's Royalty champion | Credibility, network | Core partnership |
 | Elon Musk | Tech leader | Visibility, tech credibility | Cultivate endorsement |
-| Sam Altman | OpenAI CEO | AI expertise, UBI supporter | Cultivate endorsement |
+| Sam Altman | OpenAI CEO | AI expertise, Citizen's Royalty supporter | Cultivate endorsement |
 | Mark Cuban | Entrepreneur | Business credibility | Cultivate endorsement |
 | Bernie Sanders | Senator | Progressive base | Engage on policy |
 | Alexandria Ocasio-Cortez | Rep. | Progressive visibility | Engage on policy |
-| Ro Khanna | Rep. | Tech district, UBI supporter | Champion in Congress |
+| Ro Khanna | Rep. | Tech district, Citizen's Royalty supporter | Champion in Congress |
 | Stephanie Kelton | Economist | MMT perspective | Academic engagement |
-| Rutger Bregman | Author | UBI popularizer | International connection |
+| Rutger Bregman | Author | Citizen's Royalty popularizer | International connection |
 
 ### 5.2 Opponents to Monitor
 
@@ -691,7 +691,7 @@ These groups are unlikely to be persuaded. Strategy:
 | Chamber of Commerce | Business lobby | High | Engage moderate members |
 | Heritage Foundation | Conservative think tank | Medium | Counter-messaging |
 | Financial sector lobbyists | K Street | High | Expose and counter |
-| Anti-UBI economists | Academia | Medium | Counter with evidence |
+| Anti-Citizen's Royalty economists | Academia | Medium | Counter with evidence |
 
 ---
 
@@ -742,7 +742,7 @@ These groups are unlikely to be persuaded. Strategy:
 **Approach**: Split and Co-opt
 
 **Tactics**:
-1. **Highlight supportive tech leaders**: Musk, Altman support UBI
+1. **Highlight supportive tech leaders**: Musk, Altman support Citizen's Royalty
 2. **Tech worker pressure**: Internal advocacy campaigns
 3. **Consumer demand argument**: "Your business needs consumer income"
 4. **Regulatory certainty**: "Clear rules better than uncertainty"
@@ -767,7 +767,7 @@ These groups are unlikely to be persuaded. Strategy:
 1. **Efficiency arguments**: Lower admin costs than current welfare
 2. **Freedom arguments**: Cash transfers, individual choice
 3. **Family arguments**: Parents can afford time with children
-4. **Evidence**: UBI studies show no laziness
+4. **Evidence**: Citizen's Royalty studies show no laziness
 5. **Business case**: Consumer demand, workforce development
 
 ---

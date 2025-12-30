@@ -4,7 +4,7 @@
 
 ---
 
-> **VERSION 2.0 NOTE**: This Constitution incorporates the **Resilience Update**: the *Citizen's Royalty* (Negative Income Tax) replaces flat UBI, the *Diversified Strategic Reserve* replaces single-asset backing, *Purchasing Power Stability* replaces deflationary targeting, and the *Tiered Transparency Framework* balances AI accountability with security.
+> **VERSION 2.0 NOTE**: This Constitution incorporates the **Resilience Update**: the *Citizen's Royalty* (Negative Income Tax) replaces flat Citizen's Royalty, the *Diversified Strategic Reserve* replaces single-asset backing, *Purchasing Power Stability* replaces deflationary targeting, and the *Tiered Transparency Framework* balances AI accountability with security.
 
 ---
 
@@ -170,7 +170,7 @@ The Human Standard encompasses comprehensive policy frameworks across ten domain
 Robot Tax, Data Dividend, Universal Basic Income, AI Training Royalties
 
 **Pillar II: AI Governance**
-Open Source Mandate, Algorithmic Administration, Human Oversight, Democratic Steering
+Tiered Transparency Framework, Algorithmic Administration, Human Oversight, Democratic Steering
 
 **Pillar III: Monetary Freedom**
 Purchasing Power Stability Options, Diversified Strategic Reserve, Stablecoin Standards, Anti-CBDC Position

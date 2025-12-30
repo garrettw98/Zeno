@@ -47,11 +47,11 @@ Looking back from 2050, historians identify the key turning points:
 
 **2027**: The Automation Impact Disclosure Act passed, creating the data infrastructure to understand and respond to displacement.
 
-**2029**: UBI pilots expanded to national scope after demonstrating effectiveness without inflation or work disincentive.
+**2029**: Citizen's Royalty pilots expanded to national scope after demonstrating effectiveness without inflation or work disincentive.
 
 **2031**: The first AI Policy Council was confirmed, establishing democratic control over algorithmic government.
 
-**2034**: Full UBI at $1,500/month became law, funded by mature automation and data taxes.
+**2034**: Full Citizen's Royalty at $1,500/month became law, funded by mature automation and data taxes.
 
 **2037**: Open-source AI administration became standard for federal agencies, eliminating corruption in routine functions.
 
@@ -99,7 +99,7 @@ Technology was not made to serve humanity. The choice was never made—or rather
 
 Looking back from this darker 2050, historians identify the failures:
 
-**2025-2030**: Despite warnings, no significant automation policy passed. Industries lobbied successfully against taxes. UBI was dismissed as unaffordable. Disclosure requirements died in committee.
+**2025-2030**: Despite warnings, no significant automation policy passed. Industries lobbied successfully against taxes. Citizen's Royalty was dismissed as unaffordable. Disclosure requirements died in committee.
 
 **2030s**: Mass displacement arrived faster than predicted. The unemployed millions had no support. Political instability grew. Extremist movements gained strength on both left and right.
 

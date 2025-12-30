@@ -11,7 +11,7 @@ But something remarkable happened. The idea caught fire. Yang qualified for the 
 
 Four years later, universal basic income is no longer a fringe concept. Pilot programs have launched across America and around the world. Mayors and governors advocate for it. Academic research has accumulated. The idea that once seemed radical now seems increasingly inevitable.
 
-Andrew Yang was not the first person to propose UBI. But he brought it to the center of American political discourse at exactly the moment automation made it necessary.
+Andrew Yang was not the first person to propose Citizen's Royalty. But he brought it to the center of American political discourse at exactly the moment automation made it necessary.
 
 He was early. But he was not wrong.
 
@@ -31,17 +31,17 @@ Yang's Freedom Dividend proposed $1,000 per month—$12,000 per year—for every
 
 The simplicity is the point. Current social programs are complicated—different eligibility rules, different application processes, different bureaucracies. Many people who qualify for benefits do not receive them because the systems are too difficult to navigate.
 
-UBI eliminates this complexity. If you are a citizen, you get the money. Period.
+Citizen's Royalty eliminates this complexity. If you are a citizen, you get the money. Period.
 
 ---
 
 ### The History of the Idea
 
-UBI is not new. The concept has a long and surprising history across the political spectrum.
+Citizen's Royalty is not new. The concept has a long and surprising history across the political spectrum.
 
 **Thomas Paine**, one of America's founders, proposed in 1797 that every citizen receive a payment from a national fund at age 21, plus annual payments thereafter. This was to compensate for the loss of natural inheritance when land was privatized.
 
-**Milton Friedman**, the conservative economist, advocated for a negative income tax—functionally similar to UBI. He saw it as more efficient than the patchwork of welfare programs, eliminating bureaucracy while providing support.
+**Milton Friedman**, the conservative economist, advocated for a negative income tax—functionally similar to Citizen's Royalty. He saw it as more efficient than the patchwork of welfare programs, eliminating bureaucracy while providing support.
 
 **Martin Luther King Jr.** called for a guaranteed income in his final book: "I am now convinced that the simplest approach will prove to be the most effective—the solution to poverty is to abolish it directly by a guaranteed income."
 
@@ -57,7 +57,7 @@ Universal basic income is not just theory. It has operated successfully in Alask
 
 The Alaska Permanent Fund was established in 1976, investing a portion of oil revenues in a fund whose earnings are distributed annually to every Alaska resident. The dividend varies based on investment returns, ranging from about $1,000 to $2,000 per year per person.
 
-This is not quite UBI—the amount is modest and varies—but it demonstrates key principles:
+This is not quite Citizen's Royalty—the amount is modest and varies—but it demonstrates key principles:
 
 **Universal distribution works**: Every Alaskan receives a check. The logistics are manageable. The system functions.
 
@@ -75,7 +75,7 @@ The Alaska model proves that unconditional cash distribution is administratively
 
 ### The Global Experiments
 
-Beyond Alaska, UBI experiments have proliferated worldwide:
+Beyond Alaska, Citizen's Royalty experiments have proliferated worldwide:
 
 **Finland (2017-2018)**: 2,000 unemployed citizens received €560 monthly with no conditions. Results: recipients were happier, healthier, and more trusting of institutions. Employment effects were minimal—they worked about as much as the control group.
 
@@ -94,7 +94,7 @@ The evidence consistently shows:
 - Wellbeing improves. Mental health, physical health, and life satisfaction increase.
 - The money circulates. Local economies benefit as recipients spend in their communities.
 
-The experiments are limited—small scale, short duration, specific contexts. They do not prove that national UBI would work identically. But they provide strong evidence that the concept is sound.
+The experiments are limited—small scale, short duration, specific contexts. They do not prove that national Citizen's Royalty would work identically. But they provide strong evidence that the concept is sound.
 
 ---
 
@@ -110,21 +110,21 @@ Andrew Yang's Freedom Dividend had specific features worth examining:
 
 **Legal status only**: Citizens and legal permanent residents only. This avoided contentious immigration debates.
 
-The specific numbers and mechanisms are debatable. Different proposals have different structures. But Yang's approach demonstrated that UBI can be designed to be fiscally responsible while achieving its goals.
+The specific numbers and mechanisms are debatable. Different proposals have different structures. But Yang's approach demonstrated that Citizen's Royalty can be designed to be fiscally responsible while achieving its goals.
 
 ---
 
 ### The Economics
 
-Can we afford UBI? The math is daunting but not impossible.
+Can we afford Citizen's Royalty? The math is daunting but not impossible.
 
 **The cost**: 250 million adults × $12,000/year = $3 trillion annually. This is a staggering sum—roughly the entire federal budget.
 
 **The offsets**: Much of this cost is not actually new spending:
 
-- Existing programs (Social Security, SNAP, SSI, etc.) partially offset UBI costs for recipients who opt in to the new system
-- Economic growth from the stimulus effect of UBI generates tax revenue
-- The VAT that funds UBI recovers a portion of distributed funds through taxation
+- Existing programs (Social Security, SNAP, SSI, etc.) partially offset Citizen's Royalty costs for recipients who opt in to the new system
+- Economic growth from the stimulus effect of Citizen's Royalty generates tax revenue
+- The VAT that funds Citizen's Royalty recovers a portion of distributed funds through taxation
 - Reduced costs for poverty-related services (emergency rooms, incarceration, social services) provide savings
 
 **The funding mechanisms**: Various combinations can work:
@@ -138,11 +138,11 @@ Can we afford UBI? The math is daunting but not impossible.
 
 The numbers require careful analysis beyond this chapter's scope. But several points are clear:
 
-First, UBI would represent a massive fiscal undertaking—the largest social program in American history. This is a feature, not a bug. The automation challenge is massive; the response must match.
+First, Citizen's Royalty would represent a massive fiscal undertaking—the largest social program in American history. This is a feature, not a bug. The automation challenge is massive; the response must match.
 
 Second, "can we afford it" is the wrong question. The right question is "can we afford not to?" If automation displaces tens of millions of workers, the costs of not responding—lost consumption, social services, political instability—are also enormous.
 
-Third, UBI is ultimately a redistribution, not a cost. The money does not disappear; it flows from where it accumulates (capital, automation gains) to where it is spent (consumption). The aggregate economy is not impoverished; resources are reallocated.
+Third, Citizen's Royalty is ultimately a redistribution, not a cost. The money does not disappear; it flows from where it accumulates (capital, automation gains) to where it is spent (consumption). The aggregate economy is not impoverished; resources are reallocated.
 
 ---
 
@@ -152,7 +152,7 @@ The most common economic objection: won't giving everyone money just cause price
 
 This concern reflects reasonable intuition but misunderstands the mechanism:
 
-**UBI is not money creation**: Unlike quantitative easing or deficit spending, UBI funded by taxes does not expand the money supply. It moves existing money from one pocket (corporate profits, high earners) to another (citizens). Redistribution is not inherently inflationary.
+**Citizen's Royalty is not money creation**: Unlike quantitative easing or deficit spending, Citizen's Royalty funded by taxes does not expand the money supply. It moves existing money from one pocket (corporate profits, high earners) to another (citizens). Redistribution is not inherently inflationary.
 
 **Supply is not constrained**: Inflation occurs when demand exceeds supply. For most consumer goods, production can scale to meet increased demand. The constraint is usually purchasing power, not productive capacity.
 
@@ -160,7 +160,7 @@ This concern reflects reasonable intuition but misunderstands the mechanism:
 
 **The evidence**: The experiments described above did not show significant inflation effects. The Alaska dividend has not caused Alaska prices to spiral.
 
-Some price increases for scarce goods—housing in supply-constrained markets, for example—might occur. But this argues for complementary policies (housing construction, zoning reform) rather than against UBI itself.
+Some price increases for scarce goods—housing in supply-constrained markets, for example—might occur. But this argues for complementary policies (housing construction, zoning reform) rather than against Citizen's Royalty itself.
 
 ---
 
@@ -178,43 +178,43 @@ The concern is not unreasonable. Economic theory suggests that providing income 
 
 **Some work reduction is good**: If some people reduce work to care for children, pursue education, start businesses, or address health issues, this may be socially beneficial. The concern assumes all work is equally valuable and any reduction is harmful.
 
-**The alternative is worse**: If automation eliminates jobs, the alternative to UBI is not employment—it is unemployment without support. The question is not "UBI vs. work" but "UBI vs. poverty."
+**The alternative is worse**: If automation eliminates jobs, the alternative to Citizen's Royalty is not employment—it is unemployment without support. The question is not "Citizen's Royalty vs. work" but "Citizen's Royalty vs. poverty."
 
 ---
 
-### Beyond UBI: Related Proposals
+### Beyond Citizen's Royalty: Related Proposals
 
-UBI is not the only approach to ensuring income security in the automation age. Related proposals include:
+Citizen's Royalty is not the only approach to ensuring income security in the automation age. Related proposals include:
 
-**Negative Income Tax**: Instead of giving everyone $12,000 and taxing it back from high earners, simply adjust tax brackets so low earners receive payments. Milton Friedman's preferred approach. Mechanically similar to UBI, but implemented through tax code.
+**Negative Income Tax**: Instead of giving everyone $12,000 and taxing it back from high earners, simply adjust tax brackets so low earners receive payments. Milton Friedman's preferred approach. Mechanically similar to Citizen's Royalty, but implemented through tax code.
 
 **Job Guarantee**: The government provides employment for anyone who wants it at a living wage. This preserves the dignity of work while ensuring income. Critics question whether the jobs would be meaningful and whether the program could be administered effectively.
 
 **Universal Basic Services**: Instead of cash, provide services universally—healthcare, education, transportation, housing. This ensures basic needs are met while preserving incentives for cash income.
 
-**Wage subsidies**: Supplement low wages through government payments. Essentially UBI for workers only. The Earned Income Tax Credit is a version of this.
+**Wage subsidies**: Supplement low wages through government payments. Essentially Citizen's Royalty for workers only. The Earned Income Tax Credit is a version of this.
 
 **Shortened work week**: Reduce standard hours to spread available work across more workers. If productivity allows the same output in fewer hours, work less rather than employing fewer people.
 
-These approaches are not mutually exclusive. A comprehensive response to automation might combine elements: UBI as a floor, universal services for basic needs, job guarantees for those who want to work, shortened work weeks to spread employment.
+These approaches are not mutually exclusive. A comprehensive response to automation might combine elements: Citizen's Royalty as a floor, universal services for basic needs, job guarantees for those who want to work, shortened work weeks to spread employment.
 
-The Human Standard centers on UBI but embraces complementary approaches.
+The Human Standard centers on Citizen's Royalty but embraces complementary approaches.
 
 ---
 
 ### The Political Path
 
-Yang's campaign demonstrated that UBI can attract support across traditional political divides. But passing it requires navigating political obstacles:
+Yang's campaign demonstrated that Citizen's Royalty can attract support across traditional political divides. But passing it requires navigating political obstacles:
 
-**Progressive support**: Many progressives support UBI but worry it might replace rather than complement existing programs. They want guarantees that vulnerable populations will not be worse off. The opt-in structure addresses this concern.
+**Progressive support**: Many progressives support Citizen's Royalty but worry it might replace rather than complement existing programs. They want guarantees that vulnerable populations will not be worse off. The opt-in structure addresses this concern.
 
-**Conservative support**: Some conservatives support UBI's simplicity and efficiency but resist the tax increases required. Framing UBI as a replacement for bureaucratic programs, combined with funding from automation rather than income taxes, can expand conservative support.
+**Conservative support**: Some conservatives support Citizen's Royalty's simplicity and efficiency but resist the tax increases required. Framing Citizen's Royalty as a replacement for bureaucratic programs, combined with funding from automation rather than income taxes, can expand conservative support.
 
-**Business support**: Tech executives have shown surprising openness to UBI, recognizing that automation creates the need for it. Their support can be valuable but also creates suspicion that UBI is cover for unaccountable automation.
+**Business support**: Tech executives have shown surprising openness to Citizen's Royalty, recognizing that automation creates the need for it. Their support can be valuable but also creates suspicion that Citizen's Royalty is cover for unaccountable automation.
 
-**Labor support**: Unions have been ambivalent—supporting income security but skeptical of programs that might reduce pressure for job creation. Emphasizing UBI as a floor that strengthens workers' bargaining power can build union support.
+**Labor support**: Unions have been ambivalent—supporting income security but skeptical of programs that might reduce pressure for job creation. Emphasizing Citizen's Royalty as a floor that strengthens workers' bargaining power can build union support.
 
-**General public support**: Polls show increasing support for UBI, especially among young people. The pandemic—which briefly implemented something like UBI through stimulus payments—demonstrated both feasibility and value.
+**General public support**: Polls show increasing support for Citizen's Royalty, especially among young people. The pandemic—which briefly implemented something like Citizen's Royalty through stimulus payments—demonstrated both feasibility and value.
 
 Building a coalition requires meeting different groups' concerns while maintaining the core design: universal, unconditional, cash.
 
@@ -222,13 +222,13 @@ Building a coalition requires meeting different groups' concerns while maintaini
 
 ### The Human Standard Approach
 
-The Human Standard proposes UBI as follows:
+The Human Standard proposes Citizen's Royalty as follows:
 
 **Phase 1 (2025-2027)**: Pilot programs in regions facing acute automation displacement. $500/month to start. Rigorous evaluation of effects.
 
-**Phase 2 (2027-2030)**: Expand to national eligibility with income-based phase-in. Lower income receives full UBI; higher income receives reduced amount.
+**Phase 2 (2027-2030)**: Expand to national eligibility with income-based phase-in. Lower income receives full Citizen's Royalty; higher income receives reduced amount.
 
-**Phase 3 (2030+)**: Full implementation at $1,500-2,000/month as automation accelerates. Funding primarily from automation taxes and data dividends.
+**Phase 3 (2030+)**: Full implementation with NIT floor of $24,000-30,000/year as automation accelerates. Funding primarily from automation taxes and data dividends.
 
 The amounts are adjustable based on research and political feasibility. The key principles are:
 

@@ -59,7 +59,7 @@ If AI is coming regardless, America should lead its development—shaping its di
 
 - Initial distribution: ~$500/year per citizen
 - As automation accelerates: $1,000-2,000/year projected
-- Combined with UBI, provides substantial income floor
+- Combined with Citizen's Royalty, provides substantial income floor
 
 **Why This Matters**: The Automation Dividend makes every American a beneficiary of technological progress. When AI creates wealth, citizens share in it directly.
 
@@ -212,7 +212,7 @@ Even as AI handles more tasks, human capabilities must be developed and valued.
 
 **Risk Reduction**:
 
-- UBI provides baseline during startup phase
+- Citizen's Royalty provides baseline during startup phase
 - Portable benefits eliminate insurance dependency on employment
 - Bankruptcy reform for failed entrepreneurs
 
@@ -363,7 +363,7 @@ The opportunity: let citizens choose their money.
 
 **Optional crypto payment for federal benefits**
 
-**UBI payments available in stablecoin** (citizen choice)
+**Citizen's Royalty payments available in stablecoin** (citizen choice)
 
 **20-year voluntary transition timeline**
 
@@ -409,7 +409,7 @@ This is the full policy framework of The Human Standard:
 
 - See the change (disclosure)
 - Cushion the fall (emergency support)
-- Guarantee the basics (human service rights, UBI, UBS)
+- Guarantee the basics (human service rights, Citizen's Royalty, UBS)
 - Share the gains (automation tax, data dividend, sovereign wealth fund)
 - Distribute the work (work week reduction)
 - Build the future (research, open source, collaboration)

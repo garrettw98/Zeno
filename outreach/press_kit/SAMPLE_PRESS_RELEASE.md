@@ -9,7 +9,7 @@
 
 **New Political Philosophy Proposes Comprehensive Response to Automation Age**
 
-*The Human Standard offers UBI, AI governance, and economic reforms as integrated solution*
+*The Human Standard offers Citizen's Royalty, AI governance, and economic reforms as integrated solution*
 
 [CITY, STATE] - A new political philosophy called "The Human Standard" has been released, offering a comprehensive framework for addressing the economic and social disruptions expected from automation and artificial intelligence.
 
@@ -40,7 +40,7 @@ press@thehumanstandard.org
 
 ### FOR IMMEDIATE RELEASE
 
-**Analysis Shows UBI Could Be Funded Through Diversified Tax Base**
+**Analysis Shows Citizen's Royalty Could Be Funded Through Diversified Tax Base**
 
 *Automation tax, VAT, and land value taxation would cover $6 trillion program cost*
 

@@ -12,9 +12,9 @@ This analysis examines the economic impacts of implementing an Automation Produc
 
 ### Key Findings
 
-1. **Revenue Potential**: The APT could generate $400-800 billion annually by 2035, sufficient to substantially fund UBI
+1. **Revenue Potential**: The APT could generate $400-800 billion annually by 2035, sufficient to substantially fund Citizen's Royalty
 2. **Economic Efficiency**: Properly designed, the tax minimizes economic distortion while capturing windfall automation profits
-3. **Employment Effects**: Combined with UBI and workforce programs, net employment effects are manageable
+3. **Employment Effects**: Combined with Citizen's Royalty and workforce programs, net employment effects are manageable
 4. **Innovation Impact**: With R&D carve-outs, the tax has minimal impact on beneficial automation investment
 5. **Distributional Effects**: The tax significantly improves income distribution and reduces inequality
 
@@ -195,7 +195,7 @@ def project_sector_automation(sector: str, target_year: int = 2045) -> Dict:
 
 ### Core Design Goals
 
-1. **Revenue Adequacy**: Generate sufficient funds for UBI and transition programs
+1. **Revenue Adequacy**: Generate sufficient funds for Citizen's Royalty and transition programs
 2. **Economic Efficiency**: Minimize distortions to beneficial automation decisions
 3. **Administrative Feasibility**: Simple enough for compliance and enforcement
 4. **Political Sustainability**: Fair enough to maintain democratic support
@@ -418,12 +418,12 @@ CGE Model Results (Computable General Equilibrium):
 GDP Impact (vs. No Tax Baseline):
   Year 5:   -0.3% to -0.6%
   Year 10:  -0.2% to -0.4% (adjustment complete)
-  Year 20:  +0.1% to +0.5% (UBI spending effects)
+  Year 20:  +0.1% to +0.5% (Citizen's Royalty spending effects)
 
 Employment Effects:
   Direct automation displacement: -15M to -25M jobs (2025-2045)
   Tax-induced slower automation: +2M to +4M jobs preserved
-  UBI-supported entrepreneurship: +3M to +6M new jobs
+  Citizen's Royalty-supported entrepreneurship: +3M to +6M new jobs
   Transition program placement: +4M to +8M jobs
   Net effect: -6M to -7M (vs. -15M to -25M without policy)
 
@@ -864,10 +864,10 @@ Worker and Labor Market Adjustments:
 Positive Effects:
 ├── Slower displacement allows transition time
 ├── Wage pressure reduced in protected sectors
-├── UBI provides cushion for job changes
+├── Citizen's Royalty provides cushion for job changes
 ├── Training programs receive funding
-├── Entrepreneurship enabled by UBI
-└── Gig work more sustainable with UBI
+├── Entrepreneurship enabled by Citizen's Royalty
+└── Gig work more sustainable with Citizen's Royalty
 
 Negative Effects:
 ├── Some jobs artificially preserved (efficiency loss)
@@ -879,7 +879,7 @@ Negative Effects:
 Net Assessment:
 ├── Employment: Better than unmanaged automation
 ├── Wages: Modestly improved for displaced workers
-├── Mobility: Enhanced by UBI portability
+├── Mobility: Enhanced by Citizen's Royalty portability
 ├── Training: Improved by dedicated funding
 └── Wellbeing: Significantly improved vs. baseline
 ```
@@ -929,28 +929,28 @@ Impact by Income Quintile (2035):
 
 Bottom Quintile (0-20%):
 ├── Automation tax burden: Near zero (pass-through ~$50/year)
-├── UBI benefit: $24,000/year
+├── Citizen's Royalty benefit: $24,000/year
 ├── Net benefit: +$23,950/year
 ├── Income increase: +120%
 └── Effect: Transformative poverty reduction
 
 Second Quintile (20-40%):
 ├── Automation tax burden: ~$200/year (consumer prices)
-├── UBI benefit: $24,000/year
+├── Citizen's Royalty benefit: $24,000/year
 ├── Net benefit: +$23,800/year
 ├── Income increase: +55%
 └── Effect: Major income boost
 
 Middle Quintile (40-60%):
 ├── Automation tax burden: ~$500/year
-├── UBI benefit: $24,000/year
+├── Citizen's Royalty benefit: $24,000/year
 ├── Net benefit: +$23,500/year
 ├── Income increase: +30%
 └── Effect: Significant support
 
 Fourth Quintile (60-80%):
 ├── Automation tax burden: ~$1,200/year
-├── UBI benefit: $24,000/year
+├── Citizen's Royalty benefit: $24,000/year
 ├── Tax phase-out: Begins
 ├── Net benefit: +$15,000-22,000/year
 ├── Income increase: +12-18%
@@ -958,7 +958,7 @@ Fourth Quintile (60-80%):
 
 Top Quintile (80-100%):
 ├── Automation tax burden: ~$3,000/year
-├── UBI benefit: Phased out above threshold
+├── Citizen's Royalty benefit: Phased out above threshold
 ├── Investment returns affected
 ├── Net benefit: +$5,000 to -$20,000/year
 ├── Effect: Modest reduction for top earners
@@ -1036,7 +1036,7 @@ Revenue Growth Trajectory:
 ├── 2055-2075: Steady state (indexed growth)
 └── Risk: Technology disruption could alter trajectory
 
-Expenditure Trajectory (UBI + Programs):
+Expenditure Trajectory (Citizen's Royalty + Programs):
 ├── 2025-2035: Rapid growth (phase-in)
 ├── 2035-2045: Population-indexed growth
 ├── 2045-2075: Stable growth (productivity indexed)
@@ -1148,7 +1148,7 @@ Monte Carlo Simulation (10,000 runs):
 ├── 95th percentile: $720B
 ├── Probability < $400B: 8%
 ├── Probability > $600B: 32%
-└── Probability funds full UBI: 85%
+└── Probability funds full Citizen's Royalty: 85%
 
 Key Risk Factors (Contribution to Variance):
 ├── Automation adoption rate: 35%
@@ -1232,7 +1232,7 @@ Essential Design Elements:
    └── Sunset and reauthorization requirements
 
 5. Revenue Dedication
-   ├── Direct link to UBI funding
+   ├── Direct link to Citizen's Royalty funding
    ├── Portion to transition programs
    ├── Transparent accounting
    └── Trust fund structure

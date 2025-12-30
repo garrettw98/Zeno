@@ -64,7 +64,7 @@ Every existing ideology was developed for an economy of scarcity where human lab
 
 **Why Human Standard Is Different:**
 
-The Human Standard accepts that markets efficiently allocate resources and that private ownership creates useful incentives. The problem isn't capitalism—it's that automation is changing who captures value. Rather than restructure the entire economy, we ensure that automation's gains are shared through taxation and UBI. This preserves the productive benefits of markets while achieving the distributional goals socialism seeks.
+The Human Standard accepts that markets efficiently allocate resources and that private ownership creates useful incentives. The problem isn't capitalism—it's that automation is changing who captures value. Rather than restructure the entire economy, we ensure that automation's gains are shared through taxation and Citizen's Royalty. This preserves the productive benefits of markets while achieving the distributional goals socialism seeks.
 
 ---
 
@@ -97,11 +97,11 @@ The Human Standard accepts that markets efficiently allocate resources and that 
 | Tech regulation | Existing frameworks adapt | New AI-specific governance |
 | Pace of change | Incremental, cautious | Urgent, transformational |
 | Economic model | Managed capitalism | Automation-aware capitalism |
-| UBI | Interesting experiment | Core program |
+| Citizen's Royalty | Interesting experiment | Core program |
 
 **Why Human Standard Is Different:**
 
-Progressive liberalism assumes the economy will continue to create adequate jobs and that traditional safety nets can catch those who fall through. The Human Standard recognizes that automation fundamentally changes this equation. We can't just tweak existing programs—we need a new foundation (UBI) and new governance frameworks (AI accountability) designed for a world where machines do most work.
+Progressive liberalism assumes the economy will continue to create adequate jobs and that traditional safety nets can catch those who fall through. The Human Standard recognizes that automation fundamentally changes this equation. We can't just tweak existing programs—we need a new foundation (Citizen's Royalty) and new governance frameworks (AI accountability) designed for a world where machines do most work.
 
 ---
 
@@ -172,14 +172,14 @@ Conservatives rightly value stable families, meaningful work, and community ties
 | Issue | Libertarianism | Human Standard |
 |-------|---------------|----------------|
 | Threats to freedom | Government primarily | Government AND corporations |
-| UBI | Complicated (some support) | Essential |
+| Citizen's Royalty | Complicated (some support) | Essential |
 | Regulation | Almost always bad | Targeted where needed |
 | Property rights | Near-absolute | Strong but not unlimited |
 | AI governance | Voluntary standards | Democratic accountability |
 
 **Why Human Standard Is Different:**
 
-The Human Standard takes seriously libertarian concerns about government overreach. That's why we prohibit retail CBDCs, protect self-custody rights, and prefer universal programs over bureaucratic means-testing. But true freedom requires resources, not just the absence of government. UBI provides the economic independence that makes freedom meaningful—including the freedom to say no to bad employers and bad deals.
+The Human Standard takes seriously libertarian concerns about government overreach. That's why we prohibit retail CBDCs, protect self-custody rights, and prefer universal programs over bureaucratic means-testing. But true freedom requires resources, not just the absence of government. Citizen's Royalty provides the economic independence that makes freedom meaningful—including the freedom to say no to bad employers and bad deals.
 
 ---
 
@@ -260,19 +260,19 @@ We share techno-pessimists' concerns about what unmanaged automation does to hum
 
 ---
 
-## Comparison with Other UBI Proposals
+## Comparison with Other Citizen's Royalty Proposals
 
 ### Andrew Yang / Forward Party
 
 **Yang's approach:**
-- UBI of $1,000/month ("Freedom Dividend")
+- Citizen's Royalty of $1,000/month ("Freedom Dividend")
 - Value-Added Tax (VAT) as primary funding
 - Human-Centered Capitalism framing
 - Emphasis on automation and AI
 - Forward Party as vehicle
 
 **Human Standard differences:**
-- Higher UBI amount (the Citizen's Royalty (up to $12,000/year under the NIT model) at maturity)
+- Higher Citizen's Royalty amount (the Citizen's Royalty (up to $12,000/year under the NIT model) at maturity)
 - Automation-specific tax rather than VAT
 - Comprehensive AI governance framework (Yang's is less developed)
 - Sound money/crypto policy integration
@@ -302,10 +302,10 @@ We share techno-pessimists' concerns about what unmanaged automation does to hum
 
 ---
 
-### Charles Murray's Conservative UBI
+### Charles Murray's Conservative Citizen's Royalty
 
 **Murray's approach:**
-- UBI replaces all welfare programs including Social Security
+- Citizen's Royalty replaces all welfare programs including Social Security
 - Mandatory health insurance purchase
 - Libertarian framing
 - Limited government goal
@@ -318,7 +318,7 @@ We share techno-pessimists' concerns about what unmanaged automation does to hum
 - Includes child benefit
 - Recognizes need for transition support
 
-**Assessment:** Murray's work proves UBI can have conservative appeal. The Human Standard is more protective of earned benefits and more comprehensive in scope.
+**Assessment:** Murray's work proves Citizen's Royalty can have conservative appeal. The Human Standard is more protective of earned benefits and more comprehensive in scope.
 
 ---
 
@@ -350,7 +350,7 @@ Unlike all prior ideologies, the Human Standard is designed specifically for an 
 
 ### 2. Comprehensive Integration
 
-Most proposals address UBI OR AI governance OR digital assets OR automation policy. The Human Standard integrates all of these into a coherent framework where policies reinforce each other.
+Most proposals address Citizen's Royalty OR AI governance OR digital assets OR automation policy. The Human Standard integrates all of these into a coherent framework where policies reinforce each other.
 
 ### 3. Both Principled and Pragmatic
 
@@ -371,14 +371,14 @@ We don't just describe the destination—we provide detailed roadmaps for gettin
 ### "It's just socialism"
 **Wrong.** Private property stays private. Markets set prices. Companies can still profit. We're redistributing productivity gains, not seizing means of production.
 
-### "It's just libertarianism with UBI"
+### "It's just libertarianism with Citizen's Royalty"
 **Wrong.** We believe in regulation where needed, collective governance of powerful technologies, and responsibilities that accompany property rights.
 
 ### "It's just techno-utopianism"
 **Wrong.** We explicitly recognize technology's dangers and build governance structures to address them. We're cautiously optimistic, not naive.
 
 ### "It's just Yang with extras"
-**Partial truth.** Yang mainstreamed automation concerns and UBI. We build on that foundation with more comprehensive governance, higher benefit levels, and detailed implementation.
+**Partial truth.** Yang mainstreamed automation concerns and Citizen's Royalty. We build on that foundation with more comprehensive governance, higher benefit levels, and detailed implementation.
 
 ### "It's anti-technology"
 **Wrong.** We want technology to flourish—in service of humanity. R&D is exempt from automation taxes. Innovation continues. We're just ensuring everyone benefits.

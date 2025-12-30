@@ -45,23 +45,23 @@ The Automation Productivity Tax is designed to level the playing field, not puni
 
 ---
 
-### "UBI will cause massive inflation. If everyone has more money, prices will just rise."
+### "Citizen's Royalty will cause massive inflation. If everyone has more money, prices will just rise."
 
-**The Short Answer:** UBI is funded by redirecting existing money through taxes, not printing new money. It is redistribution, not inflation.
+**The Short Answer:** Citizen's Royalty is funded by redirecting existing money through taxes, not printing new money. It is redistribution, not inflation.
 
 **The Full Response:**
 
 This concern confuses redistribution with money creation:
 
-1. **Source of funds matters**: Inflation occurs when more money chases the same goods. UBI funded by automation taxes does not create new money. It moves money from corporate profits to consumer pockets.
+1. **Source of funds matters**: Inflation occurs when more money chases the same goods. Citizen's Royalty funded by automation taxes does not create new money. It moves money from corporate profits to consumer pockets.
 
 2. **Velocity effects**: Money in the hands of consumers circulates faster than money in corporate reserves or stock buybacks. This can actually increase economic efficiency.
 
 3. **Supply response**: More consumer spending creates incentive to produce more goods. In a world of automated production, supply can scale without proportional cost increases.
 
-4. **Evidence from pilots**: Alaska Permanent Fund dividend has operated for 40+ years without causing Alaskan inflation. Stockton UBI pilot showed no inflationary effects.
+4. **Evidence from pilots**: Alaska Permanent Fund dividend has operated for 40+ years without causing Alaskan inflation. Stockton Citizen's Royalty pilot showed no inflationary effects.
 
-5. **Housing is the exception**: Yes, UBI without housing policy could inflate rents. That is why The Human Standard includes aggressive housing supply expansion (YIMBY zoning, construction innovation).
+5. **Housing is the exception**: Yes, Citizen's Royalty without housing policy could inflate rents. That is why The Human Standard includes aggressive housing supply expansion (YIMBY zoning, construction innovation).
 
 **The real question:** If redistribution caused inflation, every tax cut for the rich would cause deflation. It does not work that way. Money is money.
 
@@ -92,13 +92,13 @@ The historical pattern is not a law of nature. It describes specific conditions 
 
 ### "We cannot afford universal basic income. The numbers do not work."
 
-**The Short Answer:** We cannot afford NOT to have it. The cost of UBI is less than the cost of mass unemployment, social unrest, and collapsed consumer demand.
+**The Short Answer:** We cannot afford NOT to have it. The cost of Citizen's Royalty is less than the cost of mass unemployment, social unrest, and collapsed consumer demand.
 
 **The Full Response:**
 
 Let us examine the numbers:
 
-1. **Cost of UBI**: One thousand dollars per month times 250 million adults equals 3 trillion dollars per year. Sounds huge.
+1. **Cost of Citizen's Royalty**: One thousand dollars per month times 250 million adults equals 3 trillion dollars per year. Sounds huge.
 
 2. **Existing programs that could consolidate**: Social Security (1.2T), Medicare/Medicaid (1.5T), food stamps, housing assistance, unemployment insurance, disability, etc. Not full replacement, but significant offset.
 
@@ -119,9 +119,9 @@ Let us examine the numbers:
 
 ## Work and Meaning Objections
 
-### "People need to work. UBI will create a nation of lazy people watching TV all day."
+### "People need to work. Citizen's Royalty will create a nation of lazy people watching TV all day."
 
-**The Short Answer:** The evidence says otherwise. Every UBI pilot shows people keep working, start businesses, care for family, pursue education, and contribute to communities.
+**The Short Answer:** The evidence says otherwise. Every Citizen's Royalty pilot shows people keep working, start businesses, care for family, pursue education, and contribute to communities.
 
 **The Full Response:**
 
@@ -133,11 +133,11 @@ This objection reveals more about the objector than about human nature:
    - Kenya: Entrepreneurship increased; local economies grew
    - Alaska: No laziness epidemic in 40 years of dividends
 
-2. **Why people work**: Humans do not work only for survival. We work for purpose, mastery, social connection, status, and additional income. UBI does not eliminate these motivations.
+2. **Why people work**: Humans do not work only for survival. We work for purpose, mastery, social connection, status, and additional income. Citizen's Royalty does not eliminate these motivations.
 
 3. **What laziness actually is**: Most "laziness" is actually depression, burnout, lack of opportunity, or rational response to terrible options. Give people security and watch them flourish.
 
-4. **The caregiving question**: Is a parent raising children "lazy"? Is someone caring for elderly parents "lazy"? UBI recognizes that valuable work exists outside the market.
+4. **The caregiving question**: Is a parent raising children "lazy"? Is someone caring for elderly parents "lazy"? Citizen's Royalty recognizes that valuable work exists outside the market.
 
 5. **Who is really lazy?**: Trust fund kids do not all become couch potatoes. Lottery winners mostly keep working. Retirees volunteer, create, contribute. Humans want to do things.
 
@@ -145,9 +145,9 @@ This objection reveals more about the objector than about human nature:
 
 ---
 
-### "Work provides meaning and dignity. UBI destroys that."
+### "Work provides meaning and dignity. Citizen's Royalty destroys that."
 
-**The Short Answer:** Degrading work does not provide dignity. It destroys it. UBI lets people find meaningful work instead of desperate work.
+**The Short Answer:** Degrading work does not provide dignity. It destroys it. Citizen's Royalty lets people find meaningful work instead of desperate work.
 
 **The Full Response:**
 
@@ -157,11 +157,11 @@ This objection confuses "work" with "employment":
 
 2. **Meaningful work vs. paid employment**: Raising children is meaningful but unpaid. Creating art is meaningful but often unpaid. Community service is meaningful but unpaid. Why is paid employment the only "real" work?
 
-3. **Desperation is not dignity**: Working because you will starve otherwise is not dignified. It is coercion. Dignity requires choice. UBI provides choice.
+3. **Desperation is not dignity**: Working because you will starve otherwise is not dignified. It is coercion. Dignity requires choice. Citizen's Royalty provides choice.
 
 4. **The meaning crisis is already here**: Depression, anxiety, and suicide are epidemic among the employed. Jobs are not providing meaning; they are often destroying it.
 
-5. **Liberation, not elimination**: UBI does not eliminate work. It eliminates desperate work. People will still work but they will have power to demand meaningful work, fair wages, and humane conditions.
+5. **Liberation, not elimination**: Citizen's Royalty does not eliminate work. It eliminates desperate work. People will still work but they will have power to demand meaningful work, fair wages, and humane conditions.
 
 **The real question:** If work is so meaningful, why do employers have to pay people to do it? Why does most of the world count down to weekends and retirement?
 
@@ -203,7 +203,7 @@ This is a serious concern that The Human Standard directly addresses:
 
 2. **Bias is invisible in humans**: When a bureaucrat discriminates, how do you prove it? How do you fix it? Human bias hides behind discretion, and discretion is unauditable.
 
-3. **The open source mandate**: All government AI must be publicly auditable. Researchers, journalists, advocates can examine the code. Bias cannot hide in a system everyone can inspect.
+3. **The tiered transparency framework**: Civilian government AI must be publicly auditable. Researchers, journalists, advocates can examine the code. Bias cannot hide in a system everyone can inspect.
 
 4. **Continuous improvement**: When bias is found, the system updates for everyone simultaneously. No need to retrain thousands of bureaucrats. Fix once, fix everywhere.
 
@@ -296,9 +296,9 @@ Political impossibility is a prediction, not a fact:
 
 2. **Automation will force the issue**: When millions lose jobs to AI in a compressed timeframe, "do nothing" stops being viable. Crisis creates opportunity for ideas that were prepared in advance.
 
-3. **Cross-partisan appeal**: The Human Standard deliberately draws from libertarian (sound money), progressive (UBI), and populist (anti-elite) traditions. The coalition exists; it needs articulation.
+3. **Cross-partisan appeal**: The Human Standard deliberately draws from libertarian (sound money), progressive (Citizen's Royalty), and populist (anti-elite) traditions. The coalition exists; it needs articulation.
 
-4. **State and local experimentation**: Universal programs often start at state level. Alaska has UBI. States can pilot automation taxes. Build proof of concept before federal adoption.
+4. **State and local experimentation**: Universal programs often start at state level. Alaska has Citizen's Royalty. States can pilot automation taxes. Build proof of concept before federal adoption.
 
 5. **Movement before politics**: The Human Standard is building intellectual and cultural foundation first. When the political moment arrives, the ideas will be ready.
 
@@ -345,7 +345,7 @@ Words have meanings:
 
 3. **Markets remain central**: Prices, competition, profit motive, entrepreneurship all continue. We are adjusting the distribution of gains, not eliminating the system that creates them.
 
-4. **The capitalist case**: Consumer capitalism requires consumers with money. If automation eliminates jobs but not consumption needs, capitalism needs a solution. UBI is a capitalist solution to a capitalist problem.
+4. **The capitalist case**: Consumer capitalism requires consumers with money. If automation eliminates jobs but not consumption needs, capitalism needs a solution. Citizen's Royalty is a capitalist solution to a capitalist problem.
 
 5. **Historical parallel**: Social Security, Medicare, and public education were all called "socialist" when proposed. Now they are the baseline. Expanding the baseline is not revolution.
 
@@ -361,11 +361,11 @@ Words have meanings:
 
 The Human Standard is neither left nor right:
 
-1. **Government role**: We support universal programs (UBI, healthcare, education), environmental regulation, consumer protection, and international coordination. This is not small-government libertarianism.
+1. **Government role**: We support universal programs (Citizen's Royalty, healthcare, education), environmental regulation, consumer protection, and international coordination. This is not small-government libertarianism.
 
 2. **What we oppose**: Corrupt bureaucracy, not bureaucracy itself. Black-box algorithms, not algorithms themselves. We want government that works, not government that disappears.
 
-3. **The open source mandate**: This is REGULATION of AI, not deregulation. We require transparency, auditing, and accountability. Libertarians do not typically demand government mandates.
+3. **The tiered transparency framework**: This is REGULATION of AI, not deregulation. We require transparency, auditing, and accountability. Libertarians do not typically demand government mandates.
 
 4. **Sound money is not anarchism**: We propose legal tender status, tax treatment, and government reserves for Bitcoin. This is integration into the existing system, not replacement of it.
 
@@ -409,7 +409,7 @@ The timeline is deliberately long:
 
 1. **Phase 1 (2025-2030)**: Disclosure requirements, pilot programs, build data infrastructure. No massive changes, just preparation.
 
-2. **Phase 2 (2030-2040)**: Gradual implementation of automation taxes, UBI pilots expand, purchasing power stability options become mainstream.
+2. **Phase 2 (2030-2040)**: Gradual implementation of automation taxes, Citizen's Royalty pilots expand, purchasing power stability options become mainstream.
 
 3. **Phase 3 (2040-2055)**: Full implementation as automation reaches peak displacement. Systems built and tested are ready when needed.
 
@@ -429,7 +429,7 @@ The timeline is deliberately long:
 
 International coordination is desirable but not required:
 
-1. **Domestic implementation first**: UBI, AI governance, purchasing power stability options can all be implemented domestically. We do not need China permission to give Americans a dividend.
+1. **Domestic implementation first**: Citizen's Royalty, AI governance, purchasing power stability options can all be implemented domestically. We do not need China permission to give Americans a dividend.
 
 2. **Tax coordination exists**: Corporate minimum taxes, transfer pricing rules, environmental agreements. International tax coordination is difficult but not impossible.
 
@@ -476,7 +476,7 @@ This is a fair philosophical concern:
 
 Uncertainty cuts both ways:
 
-1. **If automation is slower than expected**: We have UBI infrastructure that reduces poverty anyway. We have truth verification that strengthens democracy anyway. We have sound money that protects savers anyway. All valuable regardless.
+1. **If automation is slower than expected**: We have Citizen's Royalty infrastructure that reduces poverty anyway. We have truth verification that strengthens democracy anyway. We have sound money that protects savers anyway. All valuable regardless.
 
 2. **If automation is faster than expected**: We are prepared. We have systems in place. We avoid the mass suffering that would result from being caught unprepared.
 

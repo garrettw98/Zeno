@@ -140,7 +140,7 @@ people?
 'New jobs will appear' - maybe. Eventually. Not immediately.
 'It'll take decades' - maybe. Or maybe it takes five years.
 
-Without UBI, this is a humanitarian crisis. With UBI, it's a transition
+Without Citizen's Royalty, this is a humanitarian crisis. With Citizen's Royalty, it's a transition
 people can survive.
 
 Truck drivers are just the beginning."
@@ -196,12 +196,12 @@ But:
 'New jobs' isn't a solution. It's a hope. And it requires massive
 retraining, relocation, and support.
 
-UBI provides the bridge. It gives people time and security to make the
+Citizen's Royalty provides the bridge. It gives people time and security to make the
 transition. 'New jobs' alone does not."
 
 CTA: "How long could you survive without income while retraining?"
 
-HASHTAGS: #NewJobs #Fallacy #Transition #UBI
+HASHTAGS: #NewJobs #Fallacy #Transition #Citizen's Royalty
 ```
 
 ---
@@ -519,10 +519,10 @@ HASHTAGS: #WeekTen #AIGovernance #Recap #HumanStandard
 
 **Post 1 - Monday: Tech Companies Know**
 ```
-HOOK: "Tech leaders support UBI. Ever wonder why?"
+HOOK: "Tech leaders support Citizen's Royalty. Ever wonder why?"
 
-BODY: "Sam Altman (OpenAI): Funded UBI research
-Elon Musk (Tesla): Says UBI will be necessary
+BODY: "Sam Altman (OpenAI): Funded Citizen's Royalty research
+Elon Musk (Tesla): Says Citizen's Royalty will be necessary
 Marc Andreessen: Has discussed it positively
 Andrew Yang: Ran for president on it
 
@@ -534,9 +534,9 @@ want to prevent backlash against their industry.
 
 Either way - the builders are telling us something. Listen."
 
-CTA: "Why do you think tech leaders support UBI?"
+CTA: "Why do you think tech leaders support Citizen's Royalty?"
 
-HASHTAGS: #TechLeaders #SiliconValley #UBI #Builders
+HASHTAGS: #TechLeaders #SiliconValley #Citizen's Royalty #Builders
 ```
 
 **Post 2 - Tech Workers**
@@ -690,7 +690,7 @@ THE GOVERNANCE:
 - Open source government AI
 
 THE CONNECTION:
-- UBI needed because automation is real
+- Citizen's Royalty needed because automation is real
 - Governance needed because AI is powerful
 - Together they work. Apart they don't.
 

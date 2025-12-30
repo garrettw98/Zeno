@@ -934,7 +934,7 @@ Immigration policy shouldn't end at entry. Successful integration benefits every
 
 | Zeno Pillar | Immigration Integration |
 |-------------|------------------------|
-| **Economic Justice** | Immigrant workers protected by wage floors; contribute to economy funding UBI |
+| **Economic Justice** | Immigrant workers protected by wage floors; contribute to economy funding Citizen's Royalty |
 | **AI Governance** | E-Verify and processing modernized with AI; bias audits |
 | **Human Capital** | Immigrant integration; credential recognition |
 | **Climate & Energy** | Climate migrant pathways |
@@ -946,7 +946,7 @@ As automation displaces workers:
 - High-skilled immigration fills innovation roles
 - Some low-skilled jobs remain (caregiving, agriculture)
 - Integration programs help all workers adapt
-- UBI provides floor for all, regardless of origin
+- Citizen's Royalty provides floor for all, regardless of origin
 
 ---
 

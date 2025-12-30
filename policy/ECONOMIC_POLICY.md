@@ -391,9 +391,9 @@ All revenue from these three sources flows into a single Automation Dividend Fun
 
 ### 3.3 The Citizen's Royalty: A Negative Income Tax Approach
 
-**VERSION 2.0 UPDATE: From Flat UBI to Negative Income Tax (NIT)**
+**VERSION 2.0 UPDATE: From Flat Citizen's Royalty to Negative Income Tax (NIT)**
 
-The original "flat $2,000/month UBI" proposal faced a critical fiscal reality: paying every adult the same amount regardless of income costs approximately $6.2 trillion annually—exceeding the entire federal budget. Version 2.0 adopts the **Negative Income Tax (NIT)** model—rebranded as the **"Citizen's Royalty"**—which achieves the same poverty-elimination goals at roughly **60% lower cost**.
+The original "flat $2,000/month Citizen's Royalty" proposal faced a critical fiscal reality: paying every adult the same amount regardless of income costs approximately $6.2 trillion annually—exceeding the entire federal budget. Version 2.0 adopts the **Negative Income Tax (NIT)** model—rebranded as the **"Citizen's Royalty"**—which achieves the same poverty-elimination goals at roughly **60% lower cost**.
 
 **What is the Citizen's Royalty?**
 
@@ -498,7 +498,7 @@ Instead of just taxing AI companies, the government acquires **equity stakes**:
 | Value Added Tax (10% with exemptions) | $300 billion |
 | **Total for Citizen's Royalty** | **$1.065 trillion** |
 
-*This fully funds the $24,000 floor NIT with surplus for Lifelong Learning Accounts and transition support—at 60% lower cost than flat UBI.*
+*This fully funds the $24,000 floor NIT with surplus for Lifelong Learning Accounts and transition support—at 60% lower cost than flat Citizen's Royalty.*
 ---
 
 ## PART IV: LEGISLATIVE FRAMEWORK
@@ -566,7 +566,7 @@ Instead of just taxing AI companies, the government acquires **equity stakes**:
 *From the Left:*
 - Frame as worker protection
 - Frame as wealth redistribution from capital to labor
-- Emphasize UBI funding
+- Emphasize Citizen's Royalty funding
 - Highlight corporate accountability
 
 *From Populists:*
@@ -614,7 +614,7 @@ Instead of just taxing AI companies, the government acquires **equity stakes**:
 | San Francisco | Proposed | Local ballot measure, did not pass |
 | New York | Proposed | State legislation introduced, pending |
 
-### 5.3 UBI Experiments and Implementation
+### 5.3 Citizen's Royalty Experiments and Implementation
 
 | Location | Program | Amount | Results |
 |----------|---------|--------|---------|
@@ -698,12 +698,12 @@ If the U.S. implements automation taxes alone:
 
 - APT reaches 15%
 - Payroll tax reduction reaches 10%
-- UBI pilot programs in hardest-hit regions
+- Citizen's Royalty pilot programs in hardest-hit regions
 - International coordination negotiations
 
 ### Years 8-10: Maturity
 
-- Full UBI rollout based on pilot results
+- Full Citizen's Royalty rollout based on pilot results
 - Automation Dividend Fund reaches critical mass
 - Continuous adjustment based on automation trends
 - Model adopted internationally
@@ -737,9 +737,9 @@ If the U.S. implements automation taxes alone:
 
 **Response:** We measure productivity constantly. The APT is based on productivity gains above industry baseline—not counting robots. This is measurable, auditable, and similar to existing tax calculations.
 
-### "UBI will make people lazy"
+### "Citizen's Royalty will make people lazy"
 
-**Response:** Every major UBI study contradicts this:
+**Response:** Every major Citizen's Royalty study contradicts this:
 - Germany: No reduction in work hours
 - Kenya: Increased entrepreneurship
 - Finland: Improved wellbeing, no work reduction
@@ -775,10 +775,10 @@ The automation that displaces workers creates the wealth that funds the transiti
 - [Artists Score Major Win in AI Copyright Case - Hollywood Reporter](https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/)
 - [Stability AI Licensing and Artist Compensation - Digital Music News](https://www.digitalmusicnews.com/2025/07/28/stability-ai-licensing-compensation-for-artists/)
 
-### UBI Research
-- [German UBI Study Results - CNN](https://www.cnn.com/2025/04/11/health/germany-universal-basic-income-study-intl-scli-wellness)
-- [Sam Altman UBI Study Results - CBS News](https://www.cbsnews.com/news/sam-altman-universal-basic-income-study-open-research/)
-- [Kenya UBI Findings - NextBillion](https://nextbillion.net/universal-basic-income-early-findings-largest-ubi-experiment-implications-financial-resilience/)
+### Citizen's Royalty Research
+- [German Citizen's Royalty Study Results - CNN](https://www.cnn.com/2025/04/11/health/germany-universal-basic-income-study-intl-scli-wellness)
+- [Sam Altman Citizen's Royalty Study Results - CBS News](https://www.cbsnews.com/news/sam-altman-universal-basic-income-study-open-research/)
+- [Kenya Citizen's Royalty Findings - NextBillion](https://nextbillion.net/universal-basic-income-early-findings-largest-ubi-experiment-implications-financial-resilience/)
 
 ---
 

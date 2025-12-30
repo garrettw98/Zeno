@@ -40,7 +40,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 - Budget reconciliation requires only 51 votes (but limited scope)
 
 **Implications for Human Standard:**
-- UBI funding mechanism → possibly through reconciliation
+- Citizen's Royalty funding mechanism → possibly through reconciliation
 - AI governance → needs 60 votes (regulatory)
 - Tax restructuring → possibly through reconciliation
 - Constitutional amendments → 67 votes Senate, 290 votes House, 38 states
@@ -49,7 +49,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 
 **What Can Pass with 51 Votes:**
 - Tax changes (automation tax, data tax, VAT)
-- Spending changes (UBI funding)
+- Spending changes (Citizen's Royalty funding)
 - Deficit impact provisions
 
 **What Cannot Pass via Reconciliation:**
@@ -69,7 +69,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 
 | Policy | Federal Authority | State Authority | Local Authority |
 |--------|-------------------|-----------------|-----------------|
-| UBI | Yes (spending power) | Limited (funding) | No |
+| Citizen's Royalty | Yes (spending power) | Limited (funding) | No |
 | Automation Tax | Yes (taxing power) | Yes (state tax) | No |
 | AI Governance | Yes (commerce clause) | Yes (state systems) | Yes (local systems) |
 | Blockchain Infrastructure | Yes (commerce) | Yes | No |
@@ -89,7 +89,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 
 **Constitutional Argument:**
 - Congress can spend for "general welfare"
-- UBI is spending program, not mandate
+- Citizen's Royalty is spending program, not mandate
 - No constitutional barrier to direct payments
 
 **Risk Level:** LOW - Strong constitutional foundation
@@ -109,7 +109,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 
 **Risk Level:** LOW-MEDIUM - Depends on structure
 
-#### AI Governance (Open Source Mandate)
+#### AI Governance (Tiered Transparency)
 **Authority:** Commerce Clause; Government Contracts; Administrative Procedure Act
 
 **Precedent:**
@@ -169,7 +169,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 **Possibly Requires Amendment:**
 - Wealth tax (depending on structure and court composition)
 - Fundamental restructuring of federal power
-- Binding future Congresses to UBI commitment
+- Binding future Congresses to Citizen's Royalty commitment
 
 **Amendment Process:**
 1. 2/3 vote in both House and Senate, OR
@@ -187,7 +187,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 **Contents:**
 - Automation Productivity Tax (disclosure phase)
 - Data Dividend Tax (initial implementation)
-- UBI pilot program ($500/month, limited)
+- Citizen's Royalty pilot program ($500/month, limited)
 - NAICO establishment (AI governance office)
 - Automation Observatory (monitoring)
 
@@ -250,7 +250,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 **Contents:**
 - Automation Tax at full rate (15%)
 - Data tax at full rate
-- UBI at full amount (the Citizen's Royalty (up to $12,000/year under the NIT model))
+- Citizen's Royalty at full amount (the Citizen's Royalty (up to $12,000/year under the NIT model))
 - Comprehensive AI governance
 - Wealth tax (if constitutional)
 - Program consolidation
@@ -293,7 +293,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 
 2. **Federal AI Transparency** (Procurement policy)
    - Require AI transparency for federal contractors
-   - Open source mandate for new federal AI systems
+   - Tiered transparency for new federal AI systems
    - Audit requirements for existing systems
 
 3. **Automation Impact Assessment** (NEPA-style)
@@ -389,9 +389,9 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 
 **States Can Implement:**
 
-1. **State UBI Supplements**
+1. **State Citizen's Royalty Supplements**
    - Alaska Permanent Fund model
-   - State-funded supplement to federal UBI
+   - State-funded supplement to federal Citizen's Royalty
    - Fund from state revenue sources
 
 2. **State AI Governance**
@@ -484,7 +484,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 - Begin automation tax disclosure requirement drafting
 
 **Q3-Q4:**
-- Budget proposal with pilot UBI
+- Budget proposal with pilot Citizen's Royalty
 - NAICO fully operational
 - State pilot programs launched (CA, NY, WA)
 - Data tax legislation introduced
@@ -494,7 +494,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 **Q1-Q2:**
 - Automation tax disclosure passes (reconciliation)
 - Data tax passes (reconciliation)
-- UBI pilot funded ($500/month, 1 million recipients)
+- Citizen's Royalty pilot funded ($500/month, 1 million recipients)
 - AI governance regulations proposed
 
 **Q3-Q4:**
@@ -514,7 +514,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 ### Year 5-7 (2029-2032): Full Implementation
 
 - Full automation tax (15%)
-- UBI at the Citizen's Royalty (up to $12,000/year under the NIT model)
+- Citizen's Royalty at the Citizen's Royalty (up to $12,000/year under the NIT model)
 - Program consolidation complete
 - Constitutional amendment introduced
 - Wealth tax attempted (litigation likely)
@@ -557,7 +557,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 - Sound money appeals
 - Reduced bureaucracy appeal
 - Open source = less government control
-- UBI replaces complex programs
+- Citizen's Royalty replaces complex programs
 
 **Moderate Democrats:**
 - Job protection appeals
@@ -566,7 +566,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 - Technology modernization
 
 **Rural Representatives:**
-- Highlight UBI benefit to rural areas
+- Highlight Citizen's Royalty benefit to rural areas
 - Agricultural automation impact
 - Broadband infrastructure connection
 - Energy transition opportunities

@@ -256,7 +256,7 @@ The first 100 days of a Human Standard administration set the trajectory for tra
 **Visible Accomplishments:**
 
 1. **First State Partnerships** (Day 65)
-   - Announce UBI pilot partnership with 2-3 states
+   - Announce Citizen's Royalty pilot partnership with 2-3 states
    - Announce AI governance partnership with progressive states
    - Federal technical assistance flowing
 
@@ -342,7 +342,7 @@ Legislation or actions achievable within 100 days:
 
 ### Medium Feasibility (Partisan but Achievable)
 
-4. **UBI Pilot Authorization Act**
+4. **Citizen's Royalty Pilot Authorization Act**
    - State-based experiments
    - Federal support for willing states
    - Not national mandate
@@ -379,7 +379,7 @@ Legislation or actions achievable within 100 days:
 - Prepare for next Congress
 
 **Specific Actions:**
-- UBI pilots via emergency authority
+- Citizen's Royalty pilots via emergency authority
 - AI governance via procurement power
 - Bitcoin reserve via existing Treasury authority
 - Regulatory clarity via agency guidance
@@ -402,7 +402,7 @@ Legislation or actions achievable within 100 days:
 
 **Opportunity Framing:**
 - "This is exactly why we need economic security"
-- Accelerate UBI pilot as emergency response
+- Accelerate Citizen's Royalty pilot as emergency response
 - Position Human Standard as solution
 
 **Risk Management:**

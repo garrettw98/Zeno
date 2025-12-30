@@ -914,7 +914,7 @@ Prosecutors have more power over criminal justice outcomes than any other actorâ
 
 | Zeno Pillar | Criminal Justice Integration |
 |-------------|------------------------------|
-| **Economic Justice** | UBI reduces poverty-driven crime; employment programs |
+| **Economic Justice** | Citizen's Royalty reduces poverty-driven crime; employment programs |
 | **AI Governance** | Algorithmic accountability in criminal justice AI |
 | **Human Capital** | Education/job training in prisons; workforce reentry |
 | **Truth Infrastructure** | Transparent crime data; body camera footage access |
@@ -922,7 +922,7 @@ Prosecutors have more power over criminal justice outcomes than any other actorâ
 ### The Automation Connection
 
 As automation displaces workers, crime could rise if economic distress increases. The Zeno approach addresses root causes:
-- UBI provides economic floor
+- Citizen's Royalty provides economic floor
 - Lifelong learning enables adaptation
 - Mental health services address despair
 - Criminal justice becomes last resort, not first response

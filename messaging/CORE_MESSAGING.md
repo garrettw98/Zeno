@@ -41,7 +41,7 @@
 >
 > The Human Standard is how we get to the good future. It's built on three pillars:
 >
-> **Pillar One: Economic Security Through Universal Basic Income.** Every adult citizen gets the Citizen's Royalty (up to $12,000/year under the NIT model). Not means-tested. Not bureaucratic hoops. Direct deposit, every month, for everyone. Funded by taxing automation—the same robots and AI systems that are replacing human workers. If a robot does a job a human used to do, the company pays a tax. Simple. Fair.
+> **Pillar One: Economic Security Through Universal Basic Income.** Every adult citizen gets the Citizen's Royalty (up to $12,000/year under the NIT model). Not means-tested. Not bureaucratic hoops. Direct deposit, every month, for everyone. Funded by the Sovereign Humanity Fund—the same robots and AI systems that are replacing human workers. If a robot does a job a human used to do, the company pays a tax. Simple. Fair.
 >
 > **Pillar Two: AI Accountability and Transparency.** Right now, algorithms control huge parts of your life. Whether you get a job. Whether you get a loan. Whether you get out on bail. Whether you see your kids. And you have no idea how those decisions are made. That's insane. Under the Human Standard, any AI system that makes important decisions about people's lives has to be transparent. You have the right to an explanation. You have the right to appeal to a human. And the code has to be open source so the public can verify it's fair.
 >
@@ -123,7 +123,7 @@
 - #RobotsTaxesToo
 - #AutomationDividend
 - #AIForThePeople
-- #UBI
+- #Citizen's Royalty
 - #HumanFirst
 
 ---
@@ -134,7 +134,7 @@
 **Core Message:** Every American deserves economic security, regardless of what happens to their job.
 
 **Key Points:**
-- UBI provides a floor nobody falls below
+- Citizen's Royalty provides a floor nobody falls below
 - Funded by automation taxes—those who benefit from replacing workers contribute
 - Not welfare—a dividend on collective technological progress
 - Enables entrepreneurship, caregiving, education, creativity
@@ -250,13 +250,13 @@
 > "It's a hedge against monetary instability, an asset that can't be debased by printing, and a strategic reserve for the digital age. Other countries are accumulating. We shouldn't fall behind."
 
 **"What about inflation?"**
-> "UBI is funded by taxes, not money printing. And putting money in the hands of people who will spend it locally is less inflationary than QE that pumps up asset prices."
+> "Citizen's Royalty is funded by taxes, not money printing. And putting money in the hands of people who will spend it locally is less inflationary than QE that pumps up asset prices."
 
 ---
 
 ## Sound Bites for Media
 
-### On UBI
+### On Citizen's Royalty
 - "Robots should pay taxes too."
 - "This isn't welfare—it's your share of the automation economy."
 - "We're not giving people fish OR teaching them to fish. We're giving them the economic security to decide for themselves."

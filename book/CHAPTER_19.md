@@ -192,7 +192,7 @@ Human-Centered Capitalism is not socialism. Markets continue operating. Private 
 
 **Constraints**: Markets operate within boundaries set by democratic process. Some activities are prohibited (environmental destruction beyond limits). Some are required (minimum wages, benefits). Some are taxed to fund public goods. Markets are powerful tools; tools serve purposes.
 
-**Distribution**: Market outcomes are not sacred. If markets concentrate wealth in ways that harm human flourishing, redistribution is appropriate. The automation dividend, UBI, and progressive taxation are not punishments for success but mechanisms for ensuring prosperity is shared.
+**Distribution**: Market outcomes are not sacred. If markets concentrate wealth in ways that harm human flourishing, redistribution is appropriate. The automation dividend, Citizen's Royalty, and progressive taxation are not punishments for success but mechanisms for ensuring prosperity is shared.
 
 **Competition**: Markets work when competition works. Monopoly and concentration undermine market benefits. Antitrust enforcement and open-source requirements maintain competitive markets.
 

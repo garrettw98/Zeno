@@ -44,7 +44,7 @@ This guide provides a detailed operational roadmap for implementing the Universa
 - [ ] Commission economic impact studies from CBO, academic institutions
 - [ ] Develop messaging for different constituencies (see MESSAGING.md)
 - [ ] Identify congressional champions in both parties
-- [ ] Coordinate with state-level UBI advocates
+- [ ] Coordinate with state-level Citizen's Royalty advocates
 - [ ] Engage media for coverage of automation displacement stories
 
 **Resources Required**:
@@ -113,7 +113,7 @@ This guide provides a detailed operational roadmap for implementing the Universa
 | Executive Director hired | Board | Month 9 | |
 
 **Board Member Qualifications**:
-- Member 1 (Public): Economist with UBI expertise
+- Member 1 (Public): Economist with Citizen's Royalty expertise
 - Member 2 (Public): Technology/automation expert
 - Ex Officio: Secretary of Treasury (Chair)
 - Ex Officio: Secretary of Labor
@@ -410,7 +410,7 @@ Day +7:  Exception resolution deadline
 **Service Channels**:
 | Channel | Hours | Capacity (Y3) |
 |---------|-------|---------------|
-| Phone (1-800-UBI-HELP) | 24/7 | 500 agents |
+| Phone (1-800-Citizen's Royalty-HELP) | 24/7 | 500 agents |
 | Online chat | 24/7 | 200 agents |
 | Email | 24/7 response | 48-hr target |
 | In-person (SSA offices) | Business hours | 1,000 locations |
@@ -430,12 +430,12 @@ Day +7:  Exception resolution deadline
 #### 3.3.1 Research Design
 
 **Primary Research Questions**:
-1. Does UBI reduce poverty? By how much?
-2. Does UBI affect employment rates and hours worked?
-3. Does UBI improve health outcomes?
-4. Does UBI affect educational attainment?
-5. Does UBI affect family stability and child welfare?
-6. Does UBI increase entrepreneurship?
+1. Does Citizen's Royalty reduce poverty? By how much?
+2. Does Citizen's Royalty affect employment rates and hours worked?
+3. Does Citizen's Royalty improve health outcomes?
+4. Does Citizen's Royalty affect educational attainment?
+5. Does Citizen's Royalty affect family stability and child welfare?
+6. Does Citizen's Royalty increase entrepreneurship?
 7. What are administrative costs per recipient?
 8. What is the fraud rate?
 
@@ -538,17 +538,17 @@ Day +7:  Exception resolution deadline
 **State Benefit Coordination**:
 | State Program | Coordination Approach |
 |---------------|----------------------|
-| SNAP | UBI excluded from income for 5 years |
-| Medicaid | UBI excluded from income permanently |
+| SNAP | Citizen's Royalty excluded from income for 5 years |
+| Medicaid | Citizen's Royalty excluded from income permanently |
 | State cash assistance | State option to offset or stack |
-| Housing assistance | UBI excluded from income |
+| Housing assistance | Citizen's Royalty excluded from income |
 | Child care subsidies | Phased integration |
 
 **Federal Benefit Coordination**:
 | Federal Program | Coordination Approach |
 |-----------------|----------------------|
 | Social Security | No offset, both payable |
-| SSI | UBI excluded from income |
+| SSI | Citizen's Royalty excluded from income |
 | SSDI | No offset, both payable |
 | Unemployment Insurance | Both payable, no offset |
 | VA benefits | No offset, both payable |

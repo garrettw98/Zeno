@@ -1,5 +1,5 @@
 # Universal Basic Income Payment System Architecture
-## The Human Standard: Technical Specifications for National UBI Delivery
+## The Human Standard: Technical Specifications for National Citizen's Royalty Delivery
 
 **Version**: 1.0
 **Last Updated**: 2025
@@ -58,7 +58,7 @@ This document provides comprehensive technical specifications for the Universal 
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                          UBI PAYMENT SYSTEM                                  │
+│                          Citizen's Royalty PAYMENT SYSTEM                                  │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
 │  ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐       │
@@ -141,7 +141,7 @@ Monitoring:
 ### Microservices Architecture
 
 ```
-UBI System Microservices:
+Citizen's Royalty System Microservices:
 
 Enrollment Domain:
 ├── enrollment-portal-api        # Public API for enrollment
@@ -241,7 +241,7 @@ Frontend:
 │   └── Offline capability (PWA)
 ├── Native iOS App
 ├── Native Android App
-└── IVR Phone System (1-800-UBI-ENROLL)
+└── IVR Phone System (1-800-Citizen's Royalty-ENROLL)
 
 Backend:
 ├── API Gateway (Kong)
@@ -264,7 +264,7 @@ Backend:
 ```python
 class EnrollmentWorkflow:
     """
-    State machine for UBI enrollment process
+    State machine for Citizen's Royalty enrollment process
     """
 
     STATES = [
@@ -473,7 +473,7 @@ class Adjustment:
 
 class PaymentCalculationService:
     """
-    Calculate UBI payments for all eligible recipients
+    Calculate Citizen's Royalty payments for all eligible recipients
     """
 
     # Base monthly payment (Year 1 = $500, increasing to $2,000)
@@ -657,7 +657,7 @@ Integration Partners:
 ```python
 class FraudDetectionService:
     """
-    Real-time and batch fraud detection for UBI system
+    Real-time and batch fraud detection for Citizen's Royalty system
     """
 
     RISK_SIGNALS = {
@@ -806,11 +806,11 @@ NACHA File Format:
 
   batch_header:
     service_class_code: "220"  # Credits only
-    company_name: "US TREASURY UBI"
+    company_name: "US TREASURY Citizen's Royalty"
     company_discretionary_data: ""
     company_identification: "Treasury EIN"
     standard_entry_class: "PPD"  # Prearranged Payment
-    company_entry_description: "UBI PAYMENT"
+    company_entry_description: "Citizen's Royalty PAYMENT"
 
   entry_detail:
     transaction_code: "22"  # Credit to checking
@@ -818,7 +818,7 @@ NACHA File Format:
     check_digit: "calculated"
     dfi_account_number: "recipient account"
     amount: "payment amount in cents"
-    individual_id: "recipient UBI ID"
+    individual_id: "recipient Citizen's Royalty ID"
     individual_name: "recipient name"
 
 Settlement:
@@ -902,7 +902,7 @@ func (c *RTPClient) SendPayment(ctx context.Context, payment *RTPPayment) (*RTPR
 // RTP Message Limits
 const (
     MaxRTPAmount = 1_000_000_00 // $1,000,000 in cents (network limit)
-    UBIMaxRTP    = 3_000_00     // $3,000 (our limit for UBI)
+    Citizen's RoyaltyMaxRTP    = 3_000_00     // $3,000 (our limit for Citizen's Royalty)
 )
 ```
 
@@ -932,7 +932,7 @@ Fees (to recipient):
 Limits:
   daily_atm_withdrawal: $1,000
   daily_purchase: $5,000
-  monthly_load: UBI amount only
+  monthly_load: Citizen's Royalty amount only
 
 Card Issuance:
   provider: Treasury-contracted card issuer
@@ -1082,7 +1082,7 @@ Data Classification:
     access: Role-based
 
   Internal:
-    - UBI IDs
+    - Citizen's Royalty IDs
     - Payment status
     - Enrollment status
     encryption: At rest only
@@ -1350,9 +1350,9 @@ Response Procedures:
 ```yaml
 openapi: 3.0.0
 info:
-  title: UBI Citizen Portal API
+  title: Citizen's Royalty Citizen Portal API
   version: 1.0.0
-  description: API for citizens to manage their UBI enrollment and payments
+  description: API for citizens to manage their Citizen's Royalty enrollment and payments
 
 servers:
   - url: https://api.ubi.gov/v1
@@ -1839,7 +1839,7 @@ CREATE TABLE audit_log_2026_01 PARTITION OF audit_log
 **Version**: 1.0
 **Status**: Draft for Review
 **Last Updated**: 2025
-**Owner**: Office of the Chief Technology Officer, UBI Administration
+**Owner**: Office of the Chief Technology Officer, Citizen's Royalty Administration
 **Classification**: Technical Specification - Internal
 
 ---

@@ -12,7 +12,7 @@ The Human Standard cannot be implemented without political power. This roadmap o
 **Phase 1: Ideas** → **Phase 2: Candidates** → **Phase 3: Caucus** → **Phase 4: Majority** → **Phase 5: Governance**
 
 The Human Standard succeeds by:
-1. Shifting the Overton window on automation, UBI, and AI governance
+1. Shifting the Overton window on automation, Citizen's Royalty, and AI governance
 2. Electing candidates who champion these policies
 3. Building a cross-partisan coalition large enough to govern
 4. Implementing policies that demonstrate success
@@ -49,7 +49,7 @@ The Human Standard succeeds by:
 - Build policy expert network
 
 **Coalition:**
-- Engage existing UBI organizations (Economic Security Project, Humanity Forward)
+- Engage existing Citizen's Royalty organizations (Economic Security Project, Humanity Forward)
 - Connect with tech policy groups (EFF, Algorithmic Justice League)
 - Reach out to labor (SEIU, Unite Here, CWA)
 - Engage blockchain/crypto community
@@ -271,7 +271,7 @@ Pass meaningful Human Standard legislation in state legislatures:
 |--------|---------------|-------------|
 | AI Transparency (government systems) | CA, NY, IL, WA, CO | High |
 | Algorithmic Impact Assessments | CA, NY, MA, NJ | High |
-| Pilot UBI Programs | CA, NY, IL | Medium |
+| Pilot Citizen's Royalty Programs | CA, NY, IL | Medium |
 | Automation Impact Studies | MI, PA, OH, WI | Medium |
 | Digital Rights/Self-Custody | WY, TX, FL, NH | Medium |
 
@@ -287,7 +287,7 @@ With 15+ U.S. House members, form the **Congressional Human Standard Caucus**:
 - Build relationships with allied caucuses
 
 **Allied Caucuses:**
-- Congressional Progressive Caucus (overlap on UBI)
+- Congressional Progressive Caucus (overlap on Citizen's Royalty)
 - New Democrat Coalition (overlap on tech policy)
 - Problem Solvers Caucus (bipartisan credentials)
 - Blue Collar Caucus (worker focus)
@@ -339,7 +339,7 @@ The Human Standard coalition crosses traditional partisan lines:
 - Libertarian-leaning Republicans (self-custody, no CBDC)
 - Populist Republicans (anti-corporate, worker focus)
 - Tech-sector Republicans (innovation framing)
-- Rural Republicans (UBI helps rural more than cities)
+- Rural Republicans (Citizen's Royalty helps rural more than cities)
 
 **Coalition Math:**
 A winning coalition could include:
@@ -383,7 +383,7 @@ If major parties resist:
 1. Automation Workforce Transition Act (studies, pilot programs)
 2. AI Transparency in Government Act
 3. Digital Asset Regulatory Framework
-4. UBI Pilot Program Authorization
+4. Citizen's Royalty Pilot Program Authorization
 
 **Year 2:**
 1. Universal Basic Income Act (full program)
@@ -413,12 +413,12 @@ If major parties resist:
 **Year 1 of Administration:**
 - Executive orders on AI governance for federal systems
 - Begin Diversified Strategic Reserve accumulation
-- Establish UBI Administration within Treasury
-- Launch enrollment for initial UBI phase
+- Establish Citizen's Royalty Administration within Treasury
+- Launch enrollment for initial Citizen's Royalty phase
 - Appoint Human Standard leaders to key positions
 
 **Year 2:**
-- First UBI payments ($500/month)
+- First Citizen's Royalty payments ($500/month)
 - AI Transparency requirements effective for federal contractors
 - Automation tax implementation begins
 - Digital asset regulatory framework operational
@@ -430,7 +430,7 @@ If major parties resist:
 - State adoption of model legislation accelerates
 
 **Years 5-8:**
-- UBI reaches full the Citizen's Royalty (up to $12,000/year under the NIT model)
+- Citizen's Royalty reaches full the Citizen's Royalty (up to $12,000/year under the NIT model)
 - Economic effects visible and popular
 - Opposition party forced to accept or expand programs
 - Policies become "third rail" like Social Security
@@ -440,7 +440,7 @@ If major parties resist:
 Making policies stick against future reversal:
 
 **Popular Lock-In:**
-- Direct benefits create constituencies (260 million UBI recipients)
+- Direct benefits create constituencies (260 million Citizen's Royalty recipients)
 - Monthly payments become relied upon
 - Interruption becomes politically impossible
 
@@ -459,7 +459,7 @@ Making policies stick against future reversal:
 - International coordination makes unilateral reversal costly
 
 ### Metrics for Success (Years 8-12)
-- Full UBI operational (the Citizen's Royalty (up to $12,000/year under the NIT model) to all adults)
+- Full Citizen's Royalty operational (the Citizen's Royalty (up to $12,000/year under the NIT model) to all adults)
 - Poverty rate below 4%
 - AI governance framework globally influential
 - Opposition party accepts program legitimacy
@@ -492,7 +492,7 @@ Making policies stick against future reversal:
 - Continue building coalition for next cycle
 
 **Pivot Points:**
-- Economic crisis makes UBI urgent
+- Economic crisis makes Citizen's Royalty urgent
 - Major AI harm incident changes AI governance debate
 - Populist political realignment creates new coalition possibilities
 

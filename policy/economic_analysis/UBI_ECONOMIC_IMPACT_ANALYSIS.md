@@ -10,15 +10,15 @@ This analysis provides detailed economic projections for the Universal Basic Inc
 
 **Key Findings**:
 
-1. **Fully Funded**: The combination of automation taxes, data dividend taxes, carbon pricing, and other mechanisms can fully fund UBI at $1,200/month by Year 10.
+1. **Fully Funded**: The combination of automation taxes, data dividend taxes, carbon pricing, and other mechanisms can fully fund Citizen's Royalty at $1,200/month by Year 10.
 
-2. **Net Economic Positive**: UBI generates $1.30-$1.50 in economic activity for every $1 distributed, driven by high marginal propensity to consume among recipients.
+2. **Net Economic Positive**: Citizen's Royalty generates $1.30-$1.50 in economic activity for every $1 distributed, driven by high marginal propensity to consume among recipients.
 
-3. **Poverty Reduction**: UBI reduces the poverty rate by 60-70%, lifting 25-30 million Americans out of poverty.
+3. **Poverty Reduction**: Citizen's Royalty reduces the poverty rate by 60-70%, lifting 25-30 million Americans out of poverty.
 
 4. **Minimal Work Disincentive**: Based on pilot evidence, employment effects are minimal (-1-2% hours worked), with increased entrepreneurship and education.
 
-5. **Inflation Manageable**: Tax-funded UBI is redistributive, not expansionary, resulting in modest inflation (0.5-1.5% additional annually).
+5. **Inflation Manageable**: Tax-funded Citizen's Royalty is redistributive, not expansionary, resulting in modest inflation (0.5-1.5% additional annually).
 
 6. **Inequality Reduction**: Gini coefficient reduces from 0.39 to 0.32, significant but not dramatic redistribution.
 
@@ -81,7 +81,7 @@ This analysis provides detailed economic projections for the Universal Basic Inc
 | Medicaid | 4.5% |
 | SNAP | 6.0% |
 | TANF | 15-40% |
-| **UBI (projected)** | **0.16%** |
+| **Citizen's Royalty (projected)** | **0.16%** |
 
 ### 1.3 Total Program Cost
 
@@ -154,11 +154,11 @@ This analysis provides detailed economic projections for the Universal Basic Inc
 
 **Model Assumptions**:
 - Carbon tax starts at $50/ton, rises $10/year
-- 25% of carbon tax revenue allocated to UBI
+- 25% of carbon tax revenue allocated to Citizen's Royalty
 - Emissions decline 3% annually due to transition
 
 **Revenue Projection**:
-| Year | Carbon Price | Emissions (GT) | Total Revenue | UBI Allocation |
+| Year | Carbon Price | Emissions (GT) | Total Revenue | Citizen's Royalty Allocation |
 |------|-------------|----------------|---------------|----------------|
 | 5 | $50 | 5.0 | $250B | $63B |
 | 7 | $70 | 4.7 | $329B | $82B |
@@ -201,7 +201,7 @@ This analysis provides detailed economic projections for the Universal Basic Inc
 
 ### 2.6 Existing Program Offsets
 
-Some existing programs can be partially offset by UBI:
+Some existing programs can be partially offset by Citizen's Royalty:
 
 | Program | Current Cost | Offset Potential | Notes |
 |---------|-------------|------------------|-------|
@@ -248,7 +248,7 @@ Some existing programs can be partially offset by UBI:
 ### 3.1 GDP Impact
 
 **Channels**:
-1. **Consumption effect**: Recipients spend most of UBI, increasing aggregate demand
+1. **Consumption effect**: Recipients spend most of Citizen's Royalty, increasing aggregate demand
 2. **Investment effect**: Reduced uncertainty enables business investment
 3. **Productivity effect**: Human capital investment, reduced stress
 4. **Entrepreneurship effect**: Security enables risk-taking
@@ -256,7 +256,7 @@ Some existing programs can be partially offset by UBI:
 
 **Multiplier Analysis**:
 
-| Income Group | Share of UBI | MPC | Multiplier Effect |
+| Income Group | Share of Citizen's Royalty | MPC | Multiplier Effect |
 |--------------|-------------|-----|-------------------|
 | Bottom quintile | 20% | 95% | 1.90 |
 | 2nd quintile | 20% | 85% | 1.70 |
@@ -272,7 +272,7 @@ Some existing programs can be partially offset by UBI:
 
 ### 3.2 Economic Growth Trajectory
 
-| Year | Baseline GDP | UBI Effect | UBI Scenario GDP | Growth Difference |
+| Year | Baseline GDP | Citizen's Royalty Effect | Citizen's Royalty Scenario GDP | Growth Difference |
 |------|-------------|------------|------------------|-------------------|
 | 5 | $26.0T | +2.0% | $26.5T | +0.5T |
 | 7 | $28.0T | +4.5% | $29.3T | +1.3T |
@@ -284,8 +284,8 @@ Some existing programs can be partially offset by UBI:
 
 **Current Consumer Spending**: ~$18T (70% of GDP)
 
-**UBI Effect on Consumption**:
-| Category | Baseline | + UBI Effect | Change |
+**Citizen's Royalty Effect on Consumption**:
+| Category | Baseline | + Citizen's Royalty Effect | Change |
 |----------|----------|--------------|--------|
 | Food | $1.8T | $2.0T | +11% |
 | Housing | $4.0T | $4.3T | +8% |
@@ -307,7 +307,7 @@ Some existing programs can be partially offset by UBI:
 4. Entrepreneurship support → startup investment
 
 **Projected Investment Effect**:
-| Year | Baseline Investment | UBI Effect |
+| Year | Baseline Investment | Citizen's Royalty Effect |
 |------|---------------------|------------|
 | 5 | $4.5T | +3% |
 | 10 | $5.5T | +7% |
@@ -321,8 +321,8 @@ Some existing programs can be partially offset by UBI:
 - Small business survival rate (5 years): 50%
 - Self-employment rate: 10%
 
-**UBI Effect** (based on pilot data):
-| Metric | Baseline | + UBI | Change |
+**Citizen's Royalty Effect** (based on pilot data):
+| Metric | Baseline | + Citizen's Royalty | Change |
 |--------|----------|-------|--------|
 | New business applications | 5.0M | 6.0M | +20% |
 | 5-year survival rate | 50% | 55% | +5pp |
@@ -335,9 +335,9 @@ Some existing programs can be partially offset by UBI:
 
 ### 4.1 Impact by Income Quintile
 
-**Net Effect** (UBI benefit minus taxes paid):
+**Net Effect** (Citizen's Royalty benefit minus taxes paid):
 
-| Quintile | Income Range | UBI Benefit | Net Tax Increase | Net Gain/(Loss) |
+| Quintile | Income Range | Citizen's Royalty Benefit | Net Tax Increase | Net Gain/(Loss) |
 |----------|-------------|-------------|------------------|-----------------|
 | Bottom 20% | <$25K | $14,400 | $500 | +$13,900 |
 | 2nd 20% | $25-50K | $14,400 | $2,000 | +$12,400 |
@@ -356,8 +356,8 @@ Some existing programs can be partially offset by UBI:
 - Elder poverty rate: 10.2%
 - Deep poverty (<50% poverty line): 5.3%
 
-**Post-UBI Poverty** (using SPM methodology):
-| Measure | Pre-UBI | Post-UBI | Reduction |
+**Post-Citizen's Royalty Poverty** (using SPM methodology):
+| Measure | Pre-Citizen's Royalty | Post-Citizen's Royalty | Reduction |
 |---------|---------|----------|-----------|
 | Overall poverty rate | 11.5% | 4.0% | -65% |
 | Child poverty rate | 16.3% | 5.5% | -66% |
@@ -369,18 +369,18 @@ Some existing programs can be partially offset by UBI:
 
 **Gini Coefficient** (0 = perfect equality, 1 = perfect inequality):
 - Current: 0.390
-- Post-UBI: 0.320
+- Post-Citizen's Royalty: 0.320
 - Reduction: 18%
 
 **Palma Ratio** (income of top 10% / bottom 40%):
 - Current: 1.65
-- Post-UBI: 1.25
+- Post-Citizen's Royalty: 1.25
 - Reduction: 24%
 
 ### 4.4 Geographic Distribution
 
 **Net Benefit by Region**:
-| Region | Population | Total UBI | Net Tax | Net Benefit |
+| Region | Population | Total Citizen's Royalty | Net Tax | Net Benefit |
 |--------|------------|-----------|---------|-------------|
 | Northeast | 56M | $806B | $350B | $456B |
 | Midwest | 68M | $979B | $320B | $659B |
@@ -415,7 +415,7 @@ Some existing programs can be partially offset by UBI:
 ### 5.1 Employment Effects
 
 **Theoretical Effects**:
-- **Income effect**: UBI provides income without work → may reduce labor supply
+- **Income effect**: Citizen's Royalty provides income without work → may reduce labor supply
 - **Substitution effect**: Work still increases income → maintains work incentive
 - **Security effect**: Basic needs met → enables better job matching
 - **Entrepreneurship effect**: Safety net enables risk-taking
@@ -477,7 +477,7 @@ Some existing programs can be partially offset by UBI:
 - Household work: 30 billion hours/year
 - Economic value: ~$1.5 trillion/year
 
-**UBI Effect**: Compensates caregivers directly, recognizing care work value
+**Citizen's Royalty Effect**: Compensates caregivers directly, recognizing care work value
 
 ---
 
@@ -486,7 +486,7 @@ Some existing programs can be partially offset by UBI:
 ### 6.1 Inflation Mechanisms
 
 **Demand-Pull Inflation**:
-- UBI increases consumer spending
+- Citizen's Royalty increases consumer spending
 - If supply cannot expand, prices rise
 - Effect concentrated in supply-constrained sectors
 
@@ -496,7 +496,7 @@ Some existing programs can be partially offset by UBI:
 - Higher wages → production cost increases
 
 **Monetary Effects**:
-- Tax-funded UBI is redistributive, not expansionary
+- Tax-funded Citizen's Royalty is redistributive, not expansionary
 - No increase in money supply
 - Fed can adjust monetary policy if needed
 
@@ -516,7 +516,7 @@ Some existing programs can be partially offset by UBI:
 
 **Baseline Inflation**: 2.0% (Fed target)
 
-**UBI Contribution to Inflation**:
+**Citizen's Royalty Contribution to Inflation**:
 
 | Year | Demand Effect | Cost Effect | Net Inflation Impact |
 |------|---------------|-------------|---------------------|
@@ -535,7 +535,7 @@ Some existing programs can be partially offset by UBI:
 **Mitigations**:
 - Regional cost-of-living supplement (high-cost areas)
 - Complementary housing policy (zoning reform, construction)
-- Geographic mobility (UBI enables relocation to lower-cost areas)
+- Geographic mobility (Citizen's Royalty enables relocation to lower-cost areas)
 
 **Projected Housing Effect**:
 | Scenario | Housing Inflation |
@@ -544,9 +544,9 @@ Some existing programs can be partially offset by UBI:
 | With supply expansion | +2-4% |
 | With mobility effect | +1-3% |
 
-### 6.5 Real Value of UBI
+### 6.5 Real Value of Citizen's Royalty
 
-| Year | Nominal UBI | Inflation | Real Value (Y1 dollars) |
+| Year | Nominal Citizen's Royalty | Inflation | Real Value (Y1 dollars) |
 |------|-------------|-----------|------------------------|
 | 5 | $6,000 | 3.0% | $5,580 |
 | 7 | $9,000 | 3.2% | $7,890 |
@@ -613,7 +613,7 @@ Some existing programs can be partially offset by UBI:
 
 **Outcomes**:
 - Revenue: $4.5T by 2040
-- Full UBI funding achieved
+- Full Citizen's Royalty funding achieved
 - Higher benefits possible ($1,500/month)
 
 ### 8.2 Scenario B: Gradual Automation (Base Case)
@@ -647,7 +647,7 @@ Some existing programs can be partially offset by UBI:
 - GDP declines 5-10%
 - Unemployment spikes to 15%
 
-**UBI as Automatic Stabilizer**:
+**Citizen's Royalty as Automatic Stabilizer**:
 - Maintains consumer spending during downturn
 - Prevents downward spiral
 - Speeds recovery
@@ -655,15 +655,15 @@ Some existing programs can be partially offset by UBI:
 **Fiscal Effect**:
 - Short-term deficit spike
 - Faster recovery reduces long-term cost
-- Compared to no UBI: Net fiscal benefit
+- Compared to no Citizen's Royalty: Net fiscal benefit
 
 ---
 
 ## 9. COMPARISON TO ALTERNATIVES
 
-### 9.1 UBI vs. Expanded EITC
+### 9.1 Citizen's Royalty vs. Expanded EITC
 
-| Factor | UBI | Expanded EITC |
+| Factor | Citizen's Royalty | Expanded EITC |
 |--------|-----|---------------|
 | Coverage | Universal | Workers only |
 | Admin cost | 0.2% | 2-3% |
@@ -673,9 +673,9 @@ Some existing programs can be partially offset by UBI:
 | Stigma | None | Some |
 | Simplicity | High | Low |
 
-### 9.2 UBI vs. Jobs Guarantee
+### 9.2 Citizen's Royalty vs. Jobs Guarantee
 
-| Factor | UBI | Jobs Guarantee |
+| Factor | Citizen's Royalty | Jobs Guarantee |
 |--------|-----|----------------|
 | Cost (annual) | $3.1T | $1.5-2.0T |
 | Admin complexity | Low | Very high |
@@ -684,9 +684,9 @@ Some existing programs can be partially offset by UBI:
 | Individual choice | High | Limited |
 | Economic efficiency | Market-based | Government-directed |
 
-### 9.3 UBI vs. Negative Income Tax
+### 9.3 Citizen's Royalty vs. Negative Income Tax
 
-| Factor | UBI | NIT |
+| Factor | Citizen's Royalty | NIT |
 |--------|-----|-----|
 | Universality | Yes | Phased out at higher incomes |
 | Political support | Broader | Narrower |
@@ -694,9 +694,9 @@ Some existing programs can be partially offset by UBI:
 | Work incentive | Neutral | Slightly positive |
 | Cost | Higher | Lower |
 
-### 9.4 UBI vs. Expanded Social Security
+### 9.4 Citizen's Royalty vs. Expanded Social Security
 
-| Factor | UBI | Expanded SS |
+| Factor | Citizen's Royalty | Expanded SS |
 |--------|-----|-------------|
 | Age restriction | Adults 18+ | 62/65+ |
 | Work history requirement | None | Required |

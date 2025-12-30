@@ -50,7 +50,7 @@ Three-pronged approach:
 - Encourages development (building not penalized)
 - Discourages speculation (holding empty land costs money)
 - Cannot be passed to renters (land supply is fixed)
-- Revenue for affordable housing and UBI
+- Revenue for affordable housing and Citizen's Royalty
 
 ### WHO BENEFITS
 - **Renters** - More supply means lower prices

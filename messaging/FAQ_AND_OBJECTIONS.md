@@ -24,7 +24,7 @@
 **Short Answer:** No. Alaska has paid dividends for 40+ years and people still work. the Citizen's Royalty (up to $12,000/year under the NIT model) is enough to survive, not enough to live well. Most people want purpose, not just subsistence.
 
 **Full Answer:**
-This concern assumes people only work for money and would prefer to do nothing. That's not how humans work. Studies of UBI pilots consistently show:
+This concern assumes people only work for money and would prefer to do nothing. That's not how humans work. Studies of Citizen's Royalty pilots consistently show:
 
 - **Alaska Permanent Fund** (40+ years): No measurable reduction in employment
 - **Finland pilot** (2017-2018): No reduction in employment; improved wellbeing
@@ -93,43 +93,43 @@ The the Citizen's Royalty (up to $12,000/year under the NIT model) figure is bas
 
 ---
 
-### Q: What about people who already receive benefits? Does UBI replace them?
+### Q: What about people who already receive benefits? Does Citizen's Royalty replace them?
 
-**Short Answer:** UBI stacks with Social Security, disability, and other earned benefits. It replaces means-tested welfare programs that create poverty traps.
+**Short Answer:** Citizen's Royalty stacks with Social Security, disability, and other earned benefits. It replaces means-tested welfare programs that create poverty traps.
 
 **Full Answer:**
 The Human Standard treats different programs differently:
 
-**UBI Stacks With (No Reduction):**
+**Citizen's Royalty Stacks With (No Reduction):**
 - Social Security retirement benefits (earned)
 - Social Security Disability Insurance (earned)
 - Veterans benefits (earned)
 - Medicare (health insurance, different category)
 - Medicaid (health insurance, preserved)
 
-**UBI Replaces:**
-- SNAP (food stamps) - UBI is more flexible and sufficient
-- TANF (welfare) - UBI exceeds typical TANF payments
-- General assistance programs - Consolidated into UBI
-- Housing vouchers - UBI sufficient for housing; vouchers transition out
+**Citizen's Royalty Replaces:**
+- SNAP (food stamps) - Citizen's Royalty is more flexible and sufficient
+- TANF (welfare) - Citizen's Royalty exceeds typical TANF payments
+- General assistance programs - Consolidated into Citizen's Royalty
+- Housing vouchers - Citizen's Royalty sufficient for housing; vouchers transition out
 
 **Choice Provisions:**
 Recipients of replaced programs can choose the higher of:
 - Their current benefit level (grandfathered), OR
-- The UBI amount
+- The Citizen's Royalty amount
 
-No one loses money during the transition. Over time, as UBI reaches full value, most will prefer UBI's flexibility.
+No one loses money during the transition. Over time, as Citizen's Royalty reaches full value, most will prefer Citizen's Royalty's flexibility.
 
 ---
 
 ### Q: What about children? Do families get more?
 
-**Short Answer:** Parents receive a supplemental child benefit of $300/month per child, in addition to their own UBI.
+**Short Answer:** Parents receive a supplemental child benefit of $300/month per child, in addition to their own Citizen's Royalty.
 
 **Full Answer:**
 The Human Standard includes:
 
-- **Adult UBI**: the Citizen's Royalty (up to $12,000/year under the NIT model) per adult citizen
+- **Adult Citizen's Royalty**: the Citizen's Royalty (up to $12,000/year under the NIT model) per adult citizen
 - **Child Benefit**: $300/month per child (paid to parent/guardian)
 
 So a family with two parents and two children receives:
@@ -141,7 +141,7 @@ The child benefit is structured to:
 - Be paid directly to one custodial parent
 - Split equally in joint custody situations
 - Include verification to prevent fraud
-- Phase out at age 18 when adult UBI begins
+- Phase out at age 18 when adult Citizen's Royalty begins
 
 ---
 
@@ -262,12 +262,12 @@ The Human Standard doesn't require proving specific job displacement for each ro
 **Rationale:**
 1. Individual causation is impossible to prove (would Company X have hired otherwise?)
 2. Economy-wide effects are what matter, not firm-level decisions
-3. Productive automation generates value—some of that value funds UBI
+3. Productive automation generates value—some of that value funds Citizen's Royalty
 4. If automation truly creates more jobs, the economy thrives and the tax is sustainable
 
 **Net Job Creation Scenarios:**
 - If automation creates more jobs than it destroys, the economy grows, tax revenues grow, and the system thrives
-- If automation destroys more jobs than it creates, tax revenues fund UBI for displaced workers
+- If automation destroys more jobs than it creates, tax revenues fund Citizen's Royalty for displaced workers
 - Either way, the policy works
 
 We're not punishing automation—we're ensuring the gains are shared.
@@ -405,7 +405,7 @@ This isn't about political opinions on bias—it's about objective measurement o
 
 ---
 
-### Q: Isn't a "robot tax" funding UBI basically printing money with extra steps?
+### Q: Isn't a "robot tax" funding Citizen's Royalty basically printing money with extra steps?
 
 **Short Answer:** No. The automation tax collects real revenue from real economic activity. It's not money creation—it's redistribution of productivity gains.
 
@@ -426,13 +426,13 @@ There's a fundamental difference between:
 
 The automation tax:
 - Collects revenue from companies benefiting from automation
-- Transfers to citizens as UBI
+- Transfers to citizens as Citizen's Royalty
 - Total money supply unchanged
 - Simply redirects purchasing power
 
 **Why This Matters:**
-- Printing money for UBI would be inflationary (we oppose this)
-- Taxing automation to fund UBI is NOT inflationary—it's redistribution
+- Printing money for Citizen's Royalty would be inflationary (we oppose this)
+- Taxing automation to fund Citizen's Royalty is NOT inflationary—it's redistribution
 - We're taking some of what would go to shareholders and redirecting to citizens
 - Consumer spending may actually reduce inflation vs. QE (asset price inflation)
 
@@ -476,26 +476,26 @@ We allow consideration of wholesale CBDCs (bank-to-bank) with limitations, as th
 
 ## Economic Objections
 
-### Q: Won't UBI cause massive inflation if everyone has more money?
+### Q: Won't Citizen's Royalty cause massive inflation if everyone has more money?
 
-**Short Answer:** UBI is funded by taxes, not money printing. It shifts who spends money, not how much money exists. Putting money in consumer hands is less inflationary than QE.
+**Short Answer:** Citizen's Royalty is funded by taxes, not money printing. It shifts who spends money, not how much money exists. Putting money in consumer hands is less inflationary than QE.
 
 **Full Answer:**
-Inflation concerns confuse UBI with money printing:
+Inflation concerns confuse Citizen's Royalty with money printing:
 
 **What Causes Inflation:**
 1. More money chasing same goods (monetary expansion)
 2. Supply constraints (not enough production)
 3. Cost-push (input costs rise)
 
-**Why UBI Doesn't Cause #1:**
-- UBI is tax-funded, not printed
+**Why Citizen's Royalty Doesn't Cause #1:**
+- Citizen's Royalty is tax-funded, not printed
 - Total money supply doesn't change
 - It's redistribution, not creation
 
-**Why UBI May Reduce Inflation vs. Alternatives:**
+**Why Citizen's Royalty May Reduce Inflation vs. Alternatives:**
 - Current monetary policy (QE) primarily inflates asset prices
-- UBI puts money in hands of spenders, not savers
+- Citizen's Royalty puts money in hands of spenders, not savers
 - Increased demand spurs supply response
 - More evenly distributed demand is more stable
 
@@ -506,8 +506,8 @@ Inflation concerns confuse UBI with money printing:
 
 **Historical Evidence:**
 - Alaska PFD hasn't caused notable Alaska-specific inflation
-- COVID stimulus (far faster than UBI phase-in) caused modest, temporary inflation
-- UBI phase-in over 10 years allows supply to adjust
+- COVID stimulus (far faster than Citizen's Royalty phase-in) caused modest, temporary inflation
+- Citizen's Royalty phase-in over 10 years allows supply to adjust
 
 ---
 
@@ -529,7 +529,7 @@ The math works because automation creates real wealth:
 | **Total** | **$1.1-1.7T** |
 
 **Phased Cost:**
-| Year | Monthly UBI | Annual Cost |
+| Year | Monthly Citizen's Royalty | Annual Cost |
 |------|-------------|-------------|
 | Year 1 | $500 | $1.56T |
 | Year 5 | $1,250 | $3.9T |
@@ -537,8 +537,8 @@ The math works because automation creates real wealth:
 
 **How It Works:**
 1. Revenue sources grow as automation expands
-2. UBI phases in as revenue becomes available
-3. Economic growth from UBI spending generates tax revenue
+2. Citizen's Royalty phases in as revenue becomes available
+3. Economic growth from Citizen's Royalty spending generates tax revenue
 4. Reduced poverty reduces healthcare, criminal justice, emergency costs
 
 **The Alternative Cost:**
@@ -552,7 +552,7 @@ We can afford it. We can't afford not to.
 
 ### Q: Won't companies just pass the automation tax to consumers?
 
-**Short Answer:** Some pass-through will occur, but the tax is designed to minimize this. And consumers receive UBI, which more than offsets modest price increases.
+**Short Answer:** Some pass-through will occur, but the tax is designed to minimize this. And consumers receive Citizen's Royalty, which more than offsets modest price increases.
 
 **Full Answer:**
 Economic reality of tax incidence:
@@ -565,12 +565,12 @@ Economic reality of tax incidence:
 
 **Expected Pass-Through: 40-60%**
 - Average household impact: $500-800/year in higher prices
-- Average UBI benefit: $24,000-48,000/year per household
+- Average Citizen's Royalty benefit: $24,000-48,000/year per household
 - Net benefit: $23,000-47,000/year
 
 **Distribution Effect:**
 - Pass-through is flat (same price increase for everyone)
-- UBI is progressive (same benefit for everyone, but means more to poor)
+- Citizen's Royalty is progressive (same benefit for everyone, but means more to poor)
 - Low-income households gain dramatically
 - High-income households: slight net cost (still positive for most)
 
@@ -663,7 +663,7 @@ Valid concerns deserve honest engagement:
 - Medicare: Popular, lower overhead than private insurance
 - Direct payments: IRS sent millions of stimulus checks successfully
 
-**UBI Is Simple:**
+**Citizen's Royalty Is Simple:**
 - No complex eligibility determination
 - No case workers making judgment calls
 - Just direct deposit to verified citizens
@@ -689,7 +689,7 @@ We share skepticism of government. That's why our policies include checks agains
 
 ### Q: Don't people need to work to have dignity and purpose?
 
-**Short Answer:** People need *meaningful activity*, not necessarily *paid employment*. UBI enables purpose by freeing people to contribute beyond wage labor.
+**Short Answer:** People need *meaningful activity*, not necessarily *paid employment*. Citizen's Royalty enables purpose by freeing people to contribute beyond wage labor.
 
 **Full Answer:**
 This confuses work with jobs:
@@ -701,7 +701,7 @@ This confuses work with jobs:
 - Creating art is work, often unpaid
 - Starting a business is work, initially unpaid
 
-**What UBI Enables:**
+**What Citizen's Royalty Enables:**
 - Parenting without poverty
 - Caregiving without exploitation
 - Creativity without starvation
@@ -709,7 +709,7 @@ This confuses work with jobs:
 - Education without insurmountable debt
 
 **What About Paid Work:**
-- Most people will continue working for income above UBI
+- Most people will continue working for income above Citizen's Royalty
 - the Citizen's Royalty (up to $12,000/year under the NIT model) provides survival, not comfort
 - Work will still provide additional income and social connection
 - But people can say no to degrading or exploitative jobs
@@ -741,7 +741,7 @@ Let's think about where wealth comes from:
 
 **The Dividend Logic:**
 - Alaska gives residents a share of oil wealth (collective resource)
-- UBI gives citizens a share of automation wealth (collective heritage)
+- Citizen's Royalty gives citizens a share of automation wealth (collective heritage)
 - It's not "something for nothing"—it's your inheritance
 
 **Who's Really Getting "Something for Nothing":**
@@ -753,7 +753,7 @@ Let's think about where wealth comes from:
 
 ### Q: What about people who make bad choices? Should we fund their bad decisions?
 
-**Short Answer:** Everyone makes mistakes. The question is whether one mistake should lead to permanent destitution. UBI provides security while preserving consequences.
+**Short Answer:** Everyone makes mistakes. The question is whether one mistake should lead to permanent destitution. Citizen's Royalty provides security while preserving consequences.
 
 **Full Answer:**
 This objection assumes:
@@ -767,13 +767,13 @@ This objection assumes:
 - Suffering doesn't usually improve future choices
 - Children suffer for parents' circumstances
 
-**What UBI Does:**
+**What Citizen's Royalty Does:**
 - Ensures basic needs regardless of past
 - Preserves incentive to earn more through work
 - Allows mistakes without life destruction
 - Gives second chances
 
-**What UBI Doesn't Do:**
+**What Citizen's Royalty Doesn't Do:**
 - Fund addictions (but doesn't enable more than current poverty does)
 - Eliminate consequences (still better to work for more money)
 - Excuse harmful behavior (criminal justice still applies)
@@ -815,16 +815,16 @@ Means-testing requires judging everyone's worthiness—invasive, expensive, and 
 
 ### Q: What about immigrants/non-citizens?
 
-**Short Answer:** UBI goes to citizens. Legal residents can earn eligibility after 5 years. Undocumented immigrants don't qualify, but immigration reform is a separate issue.
+**Short Answer:** Citizen's Royalty goes to citizens. Legal residents can earn eligibility after 5 years. Undocumented immigrants don't qualify, but immigration reform is a separate issue.
 
 **Full Answer:**
 **Eligibility Categories:**
 
-| Status | UBI Eligibility |
+| Status | Citizen's Royalty Eligibility |
 |--------|-----------------|
 | U.S. Citizens (adult) | Eligible |
 | Permanent Residents (5+ years) | Eligible after residency period |
-| Permanent Residents (<5 years) | Not eligible for UBI |
+| Permanent Residents (<5 years) | Not eligible for Citizen's Royalty |
 | Temporary Visa Holders | Not eligible |
 | Undocumented | Not eligible |
 
@@ -832,13 +832,13 @@ Means-testing requires judging everyone's worthiness—invasive, expensive, and 
 - Citizenship creates mutual obligations
 - Residency requirement prevents "benefit shopping"
 - Clear rules prevent fraud
-- Immigration policy separate from UBI policy
+- Immigration policy separate from Citizen's Royalty policy
 
 **Related Considerations:**
 - Work permits unaffected—non-citizens can still work
-- Tax obligations apply to all workers (including funding UBI)
+- Tax obligations apply to all workers (including funding Citizen's Royalty)
 - Child citizens of non-citizen parents are eligible
-- Pathway to citizenship means pathway to UBI
+- Pathway to citizenship means pathway to Citizen's Royalty
 
 ---
 
@@ -869,14 +869,14 @@ The Human Standard has a plan that's funded by taxing the very automation that c
 ### Q: "Silicon Valley will never go along with this."
 
 **Response:**
-"Some of the loudest voices for UBI come from Silicon Valley. Elon Musk, Sam Altman, and many others have said UBI is inevitable because of automation. They know what's coming. The question is whether we prepare or just let them accumulate everything."
+"Some of the loudest voices for Citizen's Royalty come from Silicon Valley. Elon Musk, Sam Altman, and many others have said Citizen's Royalty is inevitable because of automation. They know what's coming. The question is whether we prepare or just let them accumulate everything."
 
 ### Q: "Why should I pay taxes so someone else can sit home?"
 
 **Response:**
 "You're already paying. You're paying for emergency rooms when the uninsured show up. You're paying for homeless services. You're paying for the criminal justice system that deals with desperate people. You're paying for the social instability that inequality creates.
 
-UBI isn't more expensive—it's less expensive than dealing with the mess we have now. And it gives everyone a stake in the economy, including buying products from your business."
+Citizen's Royalty isn't more expensive—it's less expensive than dealing with the mess we have now. And it gives everyone a stake in the economy, including buying products from your business."
 
 ### Q: "What's stopping people from spending it all on drugs and alcohol?"
 

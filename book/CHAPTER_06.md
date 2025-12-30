@@ -193,7 +193,7 @@ The autonomous vehicle transformation cannot be stopped. It can be managed.
 
 **Regional economic development**: Communities dependent on trucking need alternative economic bases. Federal investment in infrastructure, renewable energy, and other industries can provide employment for displaced workers.
 
-**Universal basic income**: As autonomous vehicles are one component of a broader automation wave, the ultimate solution is ensuring all citizens share in automation's productivity gains. UBI provides a floor beneath which no one falls.
+**Universal basic income**: As autonomous vehicles are one component of a broader automation wave, the ultimate solution is ensuring all citizens share in automation's productivity gains. Citizen's Royalty provides a floor beneath which no one falls.
 
 The policy response must be proportional to the challenge. Autonomous vehicles will displace millions of workers over the next decade. Half-measures and empty promises are not sufficient.
 

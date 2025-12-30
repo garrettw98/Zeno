@@ -3,13 +3,13 @@
 
 ---
 
-## WEEK 17: BEYOND UBI
+## WEEK 17: BEYOND Citizen's Royalty
 
 ### Day 101
 
 **Post 1 - Monday: The Full Picture**
 ```
-HOOK: "UBI is the foundation. But The Human Standard is bigger than UBI."
+HOOK: "Citizen's Royalty is the foundation. But The Human Standard is bigger than Citizen's Royalty."
 
 BODY: "Over five months, we've gone deep on:
 - Universal Basic Income
@@ -36,15 +36,15 @@ HASHTAGS: #BroaderVision #CompleteFramework #HumanStandard #MonthFive
 ```
 HOOK: "These policies aren't separate. They work together."
 
-BODY: "UBI + Land Value Tax = Housing becomes affordable.
+BODY: "Citizen's Royalty + Land Value Tax = Housing becomes affordable.
 
-UBI + Carbon Tax = Climate action that doesn't hurt workers.
+Citizen's Royalty + Carbon Tax = Climate action that doesn't hurt workers.
 
-UBI + AI Governance = Technology serves humans.
+Citizen's Royalty + AI Governance = Technology serves humans.
 
-UBI + Criminal Justice Reform = Less poverty-driven crime.
+Citizen's Royalty + Criminal Justice Reform = Less poverty-driven crime.
 
-UBI + Healthcare = Less medical bankruptcy.
+Citizen's Royalty + Healthcare = Less medical bankruptcy.
 
 Each piece reinforces the others. That's why it's a 'standard' - a
 coherent vision, not a random list of policies.
@@ -77,7 +77,7 @@ The cause:
 The Human Standard solution:
 - Land Value Tax (encourages building, discourages speculation)
 - Zoning reform incentives
-- UBI helps with rent while we fix supply
+- Citizen's Royalty helps with rent while we fix supply
 
 Attack the root cause, not just symptoms."
 
@@ -127,7 +127,7 @@ Carbon Fee and Dividend:
 - ALL revenue returned to citizens as dividends
 - Net effect: Polluters pay, most people come out ahead
 
-Combined with UBI:
+Combined with Citizen's Royalty:
 - Even bigger cushion for energy price increases
 - Workers can afford the transition
 - No one left behind
@@ -146,7 +146,7 @@ HOOK: "What happens to coal miners and oil workers?"
 BODY: "Fair question. Real people. Real livelihoods.
 
 The Human Standard answer:
-- UBI provides floor during transition
+- Citizen's Royalty provides floor during transition
 - Extended benefits for displaced workers
 - Retraining and relocation support
 - Investment in affected communities
@@ -167,25 +167,25 @@ HASHTAGS: #JustTransition #CoalMiners #Workers #Dignity
 
 **Post 1 - Criminal Justice**
 ```
-HOOK: "UBI is criminal justice reform."
+HOOK: "Citizen's Royalty is criminal justice reform."
 
 BODY: "Most crime is poverty-driven. Desperation. Lack of options.
 
 Give people economic security, crime goes down. This is documented.
 
 The Human Standard on criminal justice:
-- UBI prevents poverty-driven crime
+- Citizen's Royalty prevents poverty-driven crime
 - End cash bail (poverty trap)
 - Rehabilitation focus over punishment
 - Restore voting rights
 - Ban private prisons
 
 Prevention is cheaper than incarceration. $50K/year to imprison someone.
-$24K/year for UBI. Math is clear."
+$24K/year for Citizen's Royalty. Math is clear."
 
 CTA: "Prevention or punishment?"
 
-HASHTAGS: #CriminalJustice #Prevention #UBI #Reform
+HASHTAGS: #CriminalJustice #Prevention #Citizen's Royalty #Reform
 ```
 
 **Post 2 - End the Poverty Trap**
@@ -203,7 +203,7 @@ The system designed to reduce crime creates more crime.
 Break the cycle:
 - End cash bail
 - Ban the box on applications
-- UBI upon release
+- Citizen's Royalty upon release
 - Actual rehabilitation
 
 The goal is less crime, not more prisoners."
@@ -223,10 +223,10 @@ HOOK: "What about immigration? Let me be clear."
 
 BODY: "The Human Standard position:
 
-UBI is for citizens and long-term permanent residents. Not undocumented
+Citizen's Royalty is for citizens and long-term permanent residents. Not undocumented
 people. Not temporary workers. Not tourists.
 
-Why? UBI is a benefit of citizenship. Citizenship comes with responsibilities.
+Why? Citizen's Royalty is a benefit of citizenship. Citizenship comes with responsibilities.
 
 For immigration policy:
 - Secure borders (orderly process)
@@ -235,22 +235,22 @@ For immigration policy:
 - Humane treatment always
 
 This isn't anti-immigrant. It's practical. Work visas mean working - you
-don't need UBI. Citizenship means full participation - including UBI."
+don't need Citizen's Royalty. Citizenship means full participation - including Citizen's Royalty."
 
 CTA: "Fair approach?"
 
-HASHTAGS: #Immigration #UBI #Citizenship #Policy
+HASHTAGS: #Immigration #Citizen's Royalty #Citizenship #Policy
 ```
 
 **Post 2 - Week 17 Recap**
 ```
-HOOK: "Week 17 - beyond UBI."
+HOOK: "Week 17 - beyond Citizen's Royalty."
 
 BODY: "The broader vision:
-- Housing: Land Value Tax + UBI = affordability
-- Climate: Carbon fee + dividend + UBI = just transition
-- Criminal justice: UBI + reform = prevention over punishment
-- Immigration: UBI for citizens, clear pathways for all
+- Housing: Land Value Tax + Citizen's Royalty = affordability
+- Climate: Carbon fee + dividend + Citizen's Royalty = just transition
+- Criminal justice: Citizen's Royalty + reform = prevention over punishment
+- Immigration: Citizen's Royalty for citizens, clear pathways for all
 
 Everything connects. Each policy reinforces the others.
 
@@ -288,31 +288,31 @@ Key requirements:
 - No medical bankruptcy
 - Affordable access
 
-UBI helps too - $24K/year covers a lot of insurance premium. But
+Citizen's Royalty helps too - $24K/year covers a lot of insurance premium. But
 healthcare needs its own solution.
 
 No one should die because they can't afford care."
 
 CTA: "Do you have health insurance? Is it enough?"
 
-HASHTAGS: #Healthcare #Universal #Coverage #UBI
+HASHTAGS: #Healthcare #Universal #Coverage #Citizen's Royalty
 ```
 
 **Post 2 - Mental Health**
 ```
-HOOK: "We have a mental health crisis. UBI helps."
+HOOK: "We have a mental health crisis. Citizen's Royalty helps."
 
 BODY: "Financial stress is the leading cause of anxiety and depression.
 
 Give people security, mental health improves. This is documented in every
-UBI pilot. Stress goes down. Wellbeing goes up.
+Citizen's Royalty pilot. Stress goes down. Wellbeing goes up.
 
 But we also need:
 - Mental health parity (coverage equal to physical)
 - Accessible treatment (therapy available to all)
 - Address root causes (poverty, insecurity, isolation)
 
-UBI is prevention. Treatment is still needed. Both/and."
+Citizen's Royalty is prevention. Treatment is still needed. Both/and."
 
 CTA: "How's your mental health? Economic stress factor?"
 
@@ -337,9 +337,9 @@ Policies:
 - Equalized K-12 funding
 - Affordable higher education
 - Lifelong learning support
-- UBI enables education at any age
+- Citizen's Royalty enables education at any age
 
-With UBI, you can go back to school. Learn something new. Develop yourself.
+With Citizen's Royalty, you can go back to school. Learn something new. Develop yourself.
 Not just for a job - for life."
 
 CTA: "What would you learn if money wasn't a barrier?"
@@ -356,12 +356,12 @@ supporting disabled family members.
 
 Current system: Your work is invisible. No income. No recognition.
 
-With UBI: the Citizen's Royalty (up to $12,000/year under the NIT model) for caregiving. Finally valued.
+With Citizen's Royalty: the Citizen's Royalty (up to $12,000/year under the NIT model) for caregiving. Finally valued.
 
 This isn't about pushing any lifestyle. It's about recognizing that
 caring for humans is valuable - whether the market pays for it or not.
 
-Every caregiver would receive UBI. That's revolutionary."
+Every caregiver would receive Citizen's Royalty. That's revolutionary."
 
 CTA: "Know a caregiver whose work goes unrecognized?"
 
@@ -378,7 +378,7 @@ HOOK: "Let's talk about the money itself."
 
 BODY: "The Human Standard includes sound money principles.
 
-- UBI funded by taxes, not printing
+- Citizen's Royalty funded by taxes, not printing
 - Inflation protection through fiscal discipline
 - Strategic Bitcoin reserve (hedge against currency risk)
 - Dollar stability maintained
@@ -426,7 +426,7 @@ HOOK: "Week 18 - human capital and more."
 
 BODY: "We covered:
 - Healthcare: Universal coverage needed
-- Mental health: UBI helps prevention
+- Mental health: Citizen's Royalty helps prevention
 - Education: Lifelong human development
 - Caregiving: Finally recognized
 - Sound money: Responsible fiscal policy
@@ -435,7 +435,7 @@ BODY: "We covered:
 The Human Standard is comprehensive. Every major policy area considered.
 Everything connected.
 
-Not just UBI. Not just AI. Everything."
+Not just Citizen's Royalty. Not just AI. Everything."
 
 CTA: "See the complete picture?"
 
@@ -531,7 +531,7 @@ BODY: "The goal: Human flourishing for everyone. Non-negotiable.
 
 The means: Whatever works. Open to evidence. Willing to adjust.
 
-If UBI doesn't work as designed? We modify it.
+If Citizen's Royalty doesn't work as designed? We modify it.
 If automation tax needs tweaking? We tweak it.
 If better ideas emerge? We adopt them.
 
@@ -559,7 +559,7 @@ THE POLICIES:
 - Housing: Land Value Tax
 - Climate: Carbon Fee + Dividend
 - Criminal Justice: Prevention over punishment
-- Immigration: Clear paths, UBI for citizens
+- Immigration: Clear paths, Citizen's Royalty for citizens
 - Healthcare: Universal coverage
 - Education: Lifelong development
 - Sound Money: Fiscal responsibility

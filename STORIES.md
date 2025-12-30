@@ -547,7 +547,7 @@ Now we build it.
 - [CNN: $25 Million Deepfake Fraud](https://www.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk)
 
 ### Hope Stories
-- [NPR: Stockton UBI Results](https://www.npr.org/2021/03/04/973653719/california-program-giving-500-no-strings-attached-stipends-pays-off-study-finds)
+- [NPR: Stockton Citizen's Royalty Results](https://www.npr.org/2021/03/04/973653719/california-program-giving-500-no-strings-attached-stipends-pays-off-study-finds)
 - [World Economic Forum: Finland Basic Income](https://www.weforum.org/stories/2020/05/finlands-basic-income-trial-found-people-were-happier-but-werent-more-likely-to-get-jobs/)
 - [GiveDirectly: Kenya Cash Transfers](https://www.givedirectly.org/kenya/)
 - [Alaska Permanent Fund Dividend](https://pfd.alaska.gov/)

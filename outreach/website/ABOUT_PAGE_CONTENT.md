@@ -121,11 +121,11 @@ The author is less important than the argument. Engage with the ideas.
 **Is this left-wing or right-wing?**
 Neither. The Human Standard draws from multiple traditions and is designed to build cross-partisan coalitions. We focus on outcomes, not ideology.
 
-**How do you pay for UBI?**
+**How do you pay for Citizen's Royalty?**
 Through a diversified tax base: automation productivity tax, value-added tax, carbon fee and dividend, land value taxation, and consolidation of existing programs. The math is detailed in our policy documents.
 
-**Will people stop working if they get UBI?**
-Evidence from every pilot program shows that people continue to work. UBI separates work from survival, making work a choice - which actually makes work more meaningful.
+**Will people stop working if they get Citizen's Royalty?**
+Evidence from every pilot program shows that people continue to work. Citizen's Royalty separates work from survival, making work a choice - which actually makes work more meaningful.
 
 **Why should AI be open source?**
 Government AI systems that affect public decisions should be transparent and accountable. Open source enables auditing, prevents hidden bias, and maintains democratic oversight.

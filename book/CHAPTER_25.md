@@ -29,7 +29,7 @@ The Human Standard affirms that human dignity does not depend on economic produc
 
 ### The Question of Desert
 
-Much opposition to UBI rests on desert: the belief that people should get what they earn and earn what they get. Income should track contribution. Those who do not work do not deserve support.
+Much opposition to Citizen's Royalty rests on desert: the belief that people should get what they earn and earn what they get. Income should track contribution. Those who do not work do not deserve support.
 
 This belief has intuitive appeal. But it does not survive examination.
 
@@ -39,7 +39,7 @@ This belief has intuitive appeal. But it does not survive examination.
 
 **Desert is already violated**: Our economy already rewards many things other than effort and contribution. Inherited wealth involves no desert. Capital gains from rising asset prices reward ownership, not labor. Rent extraction from market position captures value created by others.
 
-If we accepted the desert principle strictly, we would tax inherited wealth heavily and ensure equal opportunity. We do not—suggesting that desert-based objections to UBI are selectively applied.
+If we accepted the desert principle strictly, we would tax inherited wealth heavily and ensure equal opportunity. We do not—suggesting that desert-based objections to Citizen's Royalty are selectively applied.
 
 The Human Standard does not reject desert. Earned income remains. Those who work earn more than basic income. But desert does not exhaust moral claims. People deserve basic security whether or not they "earn" it by current economic standards.
 
@@ -53,11 +53,11 @@ The traditional answer: gains flow to those who contribute. Workers receive wage
 
 But automation changes this calculus. Machines contribute productivity. Do machines deserve income? Obviously not—machines have no interests, no welfare, no moral claims. The productivity gains from automation belong not to machines but to the humans whose cooperation created them.
 
-This reframes UBI. It is not redistribution from those who earned to those who did not. It is recognition that productivity gains from automation belong to society, not just to owners of machines.
+This reframes Citizen's Royalty. It is not redistribution from those who earned to those who did not. It is recognition that productivity gains from automation belong to society, not just to owners of machines.
 
 The social contract must be updated for the automation age. The new contract says: productivity gains from technology that was developed through collective human effort, using collective human data, building on collective human knowledge, belong at least partly to all citizens.
 
-UBI implements this updated social contract.
+Citizen's Royalty implements this updated social contract.
 
 ---
 
@@ -97,7 +97,7 @@ Automation is not directly about climate. But the Human Standard addresses clima
 
 **AI for sustainability**: National AI research prioritizes climate applications—grid optimization, carbon capture, materials discovery.
 
-**Economic security enables action**: Workers afraid of losing jobs resist climate action that threatens their industries. UBI provides security that makes transition possible.
+**Economic security enables action**: Workers afraid of losing jobs resist climate action that threatens their industries. Citizen's Royalty provides security that makes transition possible.
 
 **Automation can serve sustainability**: Efficient production, optimized logistics, and reduced waste are possible through AI. The question is whether those gains serve human flourishing.
 
@@ -129,7 +129,7 @@ Automation challenges this. If machines can produce what we need, what do humans
 
 This is not primarily a policy question. It is an existential question. But policy can create conditions for good answers.
 
-**Security enables exploration**: When basic needs are met, people can pursue meaning beyond survival. UBI provides that security.
+**Security enables exploration**: When basic needs are met, people can pursue meaning beyond survival. Citizen's Royalty provides that security.
 
 **Care work is meaningful**: Caring for children, elders, and community is deeply meaningful work that automation cannot do. The care economy investment recognizes this.
 

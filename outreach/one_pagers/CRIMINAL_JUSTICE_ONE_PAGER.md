@@ -19,7 +19,7 @@
 
 ### Three-Part Approach:
 
-1. **Prevention Through UBI**: Eliminate poverty-driven crime at the source
+1. **Prevention Through Citizen's Royalty**: Eliminate poverty-driven crime at the source
 2. **Proportional Justice**: Sentences matched to actual harm, not politics
 3. **Rehabilitation Focus**: Prepare people to return as productive citizens
 
@@ -43,7 +43,7 @@
 - Voting rights restored upon release
 
 ### Reentry Support
-- UBI available immediately upon release
+- Citizen's Royalty available immediately upon release
 - Ban the box on employment applications
 - Expungement for non-violent offenses
 
@@ -54,7 +54,7 @@
 | Current Cost | Proposed Investment | Net Savings |
 |--------------|---------------------|-------------|
 | $80B/year on incarceration | $20B on prevention | $40B+ annually |
-| $50K/year per prisoner | $24K/year UBI | Reduces crime at source |
+| $50K/year per prisoner | $24K/year Citizen's Royalty | Reduces crime at source |
 
 **Every dollar in prevention saves $4-7 in incarceration costs.**
 
@@ -78,7 +78,7 @@ Actually, it's smart on crime. Current system has 76% recidivism. Rehabilitation
 **"Criminals deserve punishment"**
 They receive consequences. But punishment without rehabilitation just creates more crime.
 
-**"UBI will increase crime"**
+**"Citizen's Royalty will increase crime"**
 Studies show opposite: financial security reduces crime. Desperation drives most property crime.
 
 ---

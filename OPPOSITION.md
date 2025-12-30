@@ -36,7 +36,7 @@ This document maps the battlefield. The opposition is formidable but not invinci
 **Why they oppose us:**
 - Robot Tax directly reduces their profits
 - Data Dividend Tax captures value they currently extract free
-- UBI funded by their gains feels like theft
+- Citizen's Royalty funded by their gains feels like theft
 - Open source AI mandate threatens proprietary advantages
 - They benefit enormously from the current trajectory
 
@@ -65,7 +65,7 @@ This document maps the battlefield. The opposition is formidable but not invinci
 **Why they oppose us:**
 - AI governance threatens their gatekeeper role
 - Transparency exposes their corruption
-- Open source mandate threatens their donors
+- Transparency requirements threaten their donors
 - Post-partisan framing threatens party identity
 - They profit from the current dysfunction
 
@@ -182,17 +182,17 @@ This document maps the battlefield. The opposition is formidable but not invinci
   - Coordinated international approach prevents arbitrage
   - Companies that leave lose access to worlds largest consumer market
 
-**"UBI will cause inflation"**
+**"Citizen's Royalty will cause inflation"**
 - *Their claim:* Giving everyone money will just raise prices
 - *Our response:*
-  - UBI funded by redistribution, not money printing
+  - Citizen's Royalty funded by redistribution, not money printing
   - Automation is deflationary—prices falling
   - Supply increases with demand when capacity exists
   - Alaska Permanent Fund has not caused Alaska inflation
   - Current system of asset inflation is the real problem
 
 **"The math does not work"**
-- *Their claim:* There is not enough money to fund UBI
+- *Their claim:* There is not enough money to fund Citizen's Royalty
 - *Our response:*
   - Automation is creating trillions in value
   - Current welfare spending already substantial—consolidate
@@ -270,11 +270,11 @@ This document maps the battlefield. The opposition is formidable but not invinci
   - Liberation from drudgery enables real purpose
 
 **"This will create dependency"**
-- *Their claim:* UBI will make people lazy and dependent
+- *Their claim:* Citizen's Royalty will make people lazy and dependent
 - *Our response:*
-  - Current welfare traps create dependency; UBI does not
+  - Current welfare traps create dependency; Citizen's Royalty does not
   - No work requirements means no disincentive to work
-  - UBI experiments show increased entrepreneurship
+  - Citizen's Royalty experiments show increased entrepreneurship
   - Dependency is current system: on employers, on jobs
   - Freedom is the opposite of dependency
 
@@ -460,7 +460,7 @@ We fight for human dignity against exploitation. We fight for the many against t
 
 **Key Battles:**
 - First automation tax legislation passes
-- UBI pilots expand to state programs
+- Citizen's Royalty pilots expand to state programs
 - Open source AI in government procurement
 - Purchasing power stability options available
 - Opposition forced to negotiate
@@ -482,7 +482,7 @@ We fight for human dignity against exploitation. We fight for the many against t
 **Objective:** Prove the model works at scale.
 
 **Key Battles:**
-- UBI reaches meaningful levels
+- Citizen's Royalty reaches meaningful levels
 - AI governance delivers on promises
 - Truth infrastructure gains adoption
 - Opposition arguments empirically refuted
@@ -531,8 +531,8 @@ We fight for human dignity against exploitation. We fight for the many against t
 
 **Their Position:**
 - Generally support AI development (their business)
-- Oppose open source mandates (competitive advantage)
-- Mixed on UBI (some founders supportive)
+- Oppose transparency mandates (competitive advantage)
+- Mixed on Citizen's Royalty (some founders supportive)
 - Strongly oppose data dividend (their profit model)
 - Want to self-regulate, not be regulated
 
@@ -550,7 +550,7 @@ We fight for human dignity against exploitation. We fight for the many against t
 **Their Position:**
 - Strongly oppose sound money (threatens their model)
 - Oppose automation tax (threatens investments)
-- May support limited UBI (consumer spending)
+- May support limited Citizen's Royalty (consumer spending)
 - Oppose transparency (threatens information advantage)
 - Want current system preserved
 
@@ -598,14 +598,14 @@ We fight for human dignity against exploitation. We fight for the many against t
 ### Political Parties
 
 **Democrats:**
-- Support some policies (UBI, healthcare)
+- Support some policies (Citizen's Royalty, healthcare)
 - Oppose others (sound money, AI governance)
 - Want to capture movement for party
 - Establishment vs. progressive split
 
 **Republicans:**
 - Support some policies (sound money, deregulation)
-- Oppose others (UBI, climate)
+- Oppose others (Citizen's Royalty, climate)
 - Populist vs. establishment split
 - Some libertarian crossover
 
@@ -632,7 +632,7 @@ We fight for human dignity against exploitation. We fight for the many against t
 
 ### For Entrepreneurs
 
-**Message:** UBI means everyone can take risks. Sound money means your savings hold value. Open markets mean competition on merit. We remove the barriers.
+**Message:** Citizen's Royalty means everyone can take risks. Sound money means your savings hold value. Open markets mean competition on merit. We remove the barriers.
 
 **Key Points:**
 - Economic security enables entrepreneurship
@@ -711,7 +711,7 @@ The fight begins now. The victory comes later. But it comes.
 
 ### Key Arguments to Track
 - Automation job loss denial
-- UBI inflation claims
+- Citizen's Royalty inflation claims
 - Sound money dismissals
 - AI governance fear-mongering
 - Implementation impossibility claims

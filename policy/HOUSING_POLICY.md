@@ -890,7 +890,7 @@ AI can revolutionize housing administration—making programs more efficient, re
 
 | Zeno Pillar | Housing Integration |
 |-------------|---------------------|
-| **Economic Justice** | UBI makes rent affordable; housing stability enables employment |
+| **Economic Justice** | Citizen's Royalty makes rent affordable; housing stability enables employment |
 | **AI Governance** | AI for construction, permitting optimization |
 | **Climate & Energy** | Green building standards; housing near transit |
 | **Human Capital** | Stable housing enables education; school integration |
@@ -900,7 +900,7 @@ AI can revolutionize housing administration—making programs more efficient, re
 
 As automation reshapes work, housing policy must adapt:
 - More remote work = need for housing beyond job centers
-- UBI reduces poverty = reduces homelessness
+- Citizen's Royalty reduces poverty = reduces homelessness
 - Construction automation = more affordable building
 - ADUs and flexible housing = multigenerational living
 

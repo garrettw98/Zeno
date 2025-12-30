@@ -33,7 +33,7 @@ Every human being possesses inherent worth that does not depend on their product
 - Secular humanism: Intrinsic worth of personhood
 
 **Policy Implications:**
-- UBI as recognition of inherent worth
+- Citizen's Royalty as recognition of inherent worth
 - No means-testing (dignity, not charity)
 - Universal, not targeted (everyone is a person)
 - Unconditional (not tied to behavior)
@@ -57,7 +57,7 @@ People should be free to live their lives as they choose, so long as they don't 
 - Libertarian tradition: Self-ownership
 
 **Policy Implications:**
-- UBI enhances choice (not tied to specific behavior)
+- Citizen's Royalty enhances choice (not tied to specific behavior)
 - AI governance protects autonomy (human control)
 - Open source enables freedom (transparency)
 - Markets preserved (economic liberty)
@@ -87,7 +87,7 @@ The goal of society is not merely survival but human flourishing—the full deve
 - Positive psychology: PERMA (positive emotion, engagement, relationships, meaning, accomplishment)
 
 **Policy Implications:**
-- UBI is foundation for flourishing, not ceiling
+- Citizen's Royalty is foundation for flourishing, not ceiling
 - AI governance protects human capabilities
 - Education investment (human development)
 - Healthcare (capability to be healthy)
@@ -112,7 +112,7 @@ Benefits and burdens of society should be distributed fairly, with special atten
 - Intergenerational justice: Fair treatment of future people
 
 **Policy Implications:**
-- UBI as floor (minimum guarantee)
+- Citizen's Royalty as floor (minimum guarantee)
 - Progressive taxation (those who gain more contribute more)
 - Wealth limits (prevent domination)
 - Intergenerational investment (don't burden the future)
@@ -139,7 +139,7 @@ We don't prescribe specific lifestyles. We identify preconditions for flourishin
 - Purpose (engaged in meaningful activity)
 
 **We Provide Preconditions, Not Prescriptions:**
-- UBI provides material security (precondition)
+- Citizen's Royalty provides material security (precondition)
 - How you use that security is your choice
 - We don't say what "meaningful activity" is for you
 - We create conditions for you to find your own path
@@ -175,7 +175,7 @@ Work has value, but not all work, and not at any cost.
 **Our Position:**
 - Work as meaningful activity is good
 - Work as coerced labor for survival is bad
-- UBI separates work from survival
+- Citizen's Royalty separates work from survival
 - Makes work a choice, not a necessity
 - Preserves work's meaning, removes its compulsion
 
@@ -277,7 +277,7 @@ Markets are tools, not gods or demons.
 ### 4.1 The Anti-Social Recipient
 
 **The Case:**
-> "What about someone who takes UBI and does nothing productive—just plays video games and drinks?"
+> "What about someone who takes Citizen's Royalty and does nothing productive—just plays video games and drinks?"
 
 **Our Answer:**
 
@@ -289,7 +289,7 @@ First, the empirical response:
 Second, the principled response:
 - Dignity doesn't depend on productivity
 - Their choice to make
-- UBI is unconditional
+- Citizen's Royalty is unconditional
 - We don't police lifestyle
 
 Third, the practical response:
@@ -307,7 +307,7 @@ Fourth, the systemic response:
 ### 4.2 The Wealthy Recipient
 
 **The Case:**
-> "Why does a billionaire get UBI? Isn't that wasteful?"
+> "Why does a billionaire get Citizen's Royalty? Isn't that wasteful?"
 
 **Our Answer:**
 
@@ -323,9 +323,9 @@ Second, the political response:
 - Universal creates common stake
 
 Third, the fiscal response:
-- Billionaire pays far more in taxes than receives in UBI
+- Billionaire pays far more in taxes than receives in Citizen's Royalty
 - Net: significant contribution to system
-- UBI is partially clawed back through taxes anyway
+- Citizen's Royalty is partially clawed back through taxes anyway
 - Effectively progressive in total
 
 Fourth, the principled response:
@@ -353,21 +353,21 @@ Fourth, the principled response:
 
 **Our Answer:**
 
-- Citizens: Full UBI
+- Citizens: Full Citizen's Royalty
 - Permanent residents: After qualifying period (5 years)
-- Temporary: No (no voting, no UBI)
+- Temporary: No (no voting, no Citizen's Royalty)
 - Undocumented: No (regularize status first)
 
 Principled basis:
-- UBI is citizenship benefit
+- Citizen's Royalty is citizenship benefit
 - Citizenship involves responsibilities
-- Earning UBI through path to citizenship is fair
+- Earning Citizen's Royalty through path to citizenship is fair
 - No attraction of migration for benefits
 
 ### 4.5 Children
 
 **The Case:**
-> "Do children get UBI? How?"
+> "Do children get Citizen's Royalty? How?"
 
 **Our Answer:**
 
@@ -395,7 +395,7 @@ Principled basis:
 - We don't fetishize tradition for its own sake
 
 **Our Appeal:**
-- UBI replaces complex bureaucracy
+- Citizen's Royalty replaces complex bureaucracy
 - Supports family (caregiving valued)
 - Preserves markets better than alternative
 - Sound money is conservative value
@@ -415,7 +415,7 @@ Principled basis:
 - Corporations can also threaten liberty
 
 **Our Appeal:**
-- UBI is most libertarian welfare (cash, no conditions)
+- Citizen's Royalty is most libertarian welfare (cash, no conditions)
 - Replaces paternalistic programs
 - Sound money aligns with libertarian values
 - AI governance protects against techno-authoritarianism
@@ -435,7 +435,7 @@ Principled basis:
 - We value efficiency, not just equality
 
 **Our Appeal:**
-- UBI achieves progressive goals simply
+- Citizen's Royalty achieves progressive goals simply
 - Automation tax targets capital, not labor
 - AI governance prevents corporate abuse
 - More politically achievable than socialism
@@ -482,7 +482,7 @@ The Human Standard is a synthesis that takes the best of multiple traditions:
 **Technology Should Serve Humanity, Not the Other Way Around.**
 
 This principle unifies:
-- UBI (automation's benefits shared)
+- Citizen's Royalty (automation's benefits shared)
 - AI governance (humans control tools)
 - Sound money (currency serves people)
 - All other policies

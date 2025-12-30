@@ -196,7 +196,7 @@ Even under Scenario A, we need to start now to be ready by 2040.
 **The Reversibility Argument:**
 
 Human Standard policies are beneficial regardless of automation pace:
-- UBI helps everyone (not just displaced workers)
+- Citizen's Royalty helps everyone (not just displaced workers)
 - AI governance protects rights regardless of automation level
 - Sound money benefits all savers
 - Infrastructure investment is always needed
@@ -234,7 +234,7 @@ If automation is slower, these policies still help. They're not wasted.
 
 | Policy | Scenario A (Slow) | Scenario B (Moderate) | Scenario C (Fast) |
 |--------|-------------------|----------------------|-------------------|
-| **UBI** | Helps poor, seniors, caregivers | Essential for displaced workers | Necessary for survival |
+| **Citizen's Royalty** | Helps poor, seniors, caregivers | Essential for displaced workers | Necessary for survival |
 | **Automation Tax** | Modest revenue | Significant revenue | Massive revenue |
 | **AI Governance** | Good practice | Important protection | Critical safeguard |
 | **Retraining** | Beneficial | Essential | Insufficient alone |
@@ -249,8 +249,8 @@ Rather than guessing timing, build in automatic triggers:
 **Trigger: Unemployment Rate**
 - Above 5%: Standard unemployment insurance
 - Above 7%: Extended benefits, retraining surge
-- Above 10%: Emergency UBI supplement
-- Above 15%: Full UBI acceleration
+- Above 10%: Emergency Citizen's Royalty supplement
+- Above 15%: Full Citizen's Royalty acceleration
 
 **Trigger: Automation Deployment**
 - Under 1M robots: Monitoring, pilot programs
@@ -367,7 +367,7 @@ Create a federal entity to monitor automation deployment:
 - Better to start early than scramble later
 
 **3. Infrastructure Requirements**
-- UBI payment systems need building
+- Citizen's Royalty payment systems need building
 - AI governance structures need establishing
 - Retraining programs need scaling
 - These can't be done overnight
@@ -409,7 +409,7 @@ This is not alarmism—it's prudence.
 
 6. **Humility is warranted.** We don't have perfect foresight. We have informed analysis.
 
-**The Human Standard framework is designed to work whether automation comes in 5 years or 25 years.** The core policies—UBI, automation taxation, AI governance, sound money—are beneficial under any scenario and essential under the more aggressive ones.
+**The Human Standard framework is designed to work whether automation comes in 5 years or 25 years.** The core policies—Citizen's Royalty, automation taxation, AI governance, sound money—are beneficial under any scenario and essential under the more aggressive ones.
 
 We're not betting on a specific timeline. We're building resilience for an uncertain future.
 

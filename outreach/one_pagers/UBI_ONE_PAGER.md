@@ -48,7 +48,7 @@ We spend $1 trillion on existing programs. We lose $600B annually to tax evasion
 Phased implementation + housing reform + monetary coordination prevents inflation spiral.
 
 ### THE BOTTOM LINE
-UBI is not charity. It is your dividend on the wealth created by automation, data, and the commons we all share.
+Citizen's Royalty is not charity. It is your dividend on the wealth created by automation, data, and the commons we all share.
 
 ---
 

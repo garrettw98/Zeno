@@ -121,7 +121,7 @@ Level 5: State/Regional Leadership
 
 **Why They're Aligned:**
 - Direct stake in automation's impact on jobs
-- UBI strengthens worker bargaining power
+- Citizen's Royalty strengthens worker bargaining power
 - AI governance protects against algorithmic management
 
 **Engagement Strategy:**
@@ -141,11 +141,11 @@ Level 5: State/Regional Leadership
 
 **Why They're Aligned:**
 - Poverty elimination is core mission
-- UBI is most direct anti-poverty policy
+- Citizen's Royalty is most direct anti-poverty policy
 - Automation threatens current program beneficiaries
 
 **Engagement Strategy:**
-- Co-brand on UBI advocacy
+- Co-brand on Citizen's Royalty advocacy
 - Collaborate on economic analysis
 - Joint policy development
 - Shared base building
@@ -165,7 +165,7 @@ Level 5: State/Regional Leadership
 - Privacy concerns with surveillance capitalism
 
 **Engagement Strategy:**
-- Center racial equity in UBI framing
+- Center racial equity in Citizen's Royalty framing
 - Partner on AI accountability
 - Joint advocacy on digital rights
 
@@ -181,7 +181,7 @@ Level 5: State/Regional Leadership
 **Why They're Aligned:**
 - Many recognize automation disruption coming
 - Want ethical AI development
-- Support UBI as solution they can back
+- Support Citizen's Royalty as solution they can back
 
 **Engagement Strategy:**
 - Recruit tech leaders as validators
@@ -282,7 +282,7 @@ Level 5: State/Regional Leadership
 - Volunteer sign-up and donation stations
 
 **Issue Forums:**
-- Focused on specific policy (UBI, AI governance, etc.)
+- Focused on specific policy (Citizen's Royalty, AI governance, etc.)
 - Expert panel
 - Interactive elements
 - Smaller, more engaged audience (50-150)
@@ -494,7 +494,7 @@ Level 5: State/Regional Leadership
 **Prospect Universe:**
 - Tech leaders concerned about automation
 - Progressive philanthropists
-- UBI supporters from other organizations
+- Citizen's Royalty supporters from other organizations
 - Crypto/Bitcoin community
 - Entertainment and celebrity supporters
 

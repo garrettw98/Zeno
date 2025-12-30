@@ -181,7 +181,7 @@ Psychology, philosophy, and human experience point to consistent sources of mean
 - Problems correlate with isolation and purposelessness
 - Those with community and direction flourish
 
-**UBI Pilot Participants:**
+**Citizen's Royalty Pilot Participants:**
 - Employment does not decrease significantly
 - Entrepreneurship increases
 - Education pursuit increases
@@ -315,7 +315,7 @@ The objections to post-work meaning are not stupid. They reflect real anxieties 
 **The evidence:**
 - Sabbatical takers become more, not less, productive
 - Retirees with resources engage actively with life
-- UBI recipients do not decrease meaningful activity
+- Citizen's Royalty recipients do not decrease meaningful activity
 - The couch potato is a symptom, not a default
 
 **The truth:** We fear others will waste freedom because we have been taught to distrust ourselves. The fear says more about our conditioning than about human nature.

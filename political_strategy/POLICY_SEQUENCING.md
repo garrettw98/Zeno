@@ -25,21 +25,21 @@ LEGEND:
 
 | Policy | Prerequisites | Conflicts Without | Enables |
 |--------|--------------|-------------------|---------|
-| UBI | Tax infrastructure, Payment systems | Housing (inflation), Healthcare | Consumer demand, Risk-taking |
-| Automation Tax | Disclosure framework, International coordination | Capital flight if no coordination | UBI funding |
+| Citizen's Royalty | Tax infrastructure, Payment systems | Housing (inflation), Healthcare | Consumer demand, Risk-taking |
+| Automation Tax | Disclosure framework, International coordination | Capital flight if no coordination | Citizen's Royalty funding |
 | AI Governance | NAICO establishment, Standards development | Open source if security not ready | Trust, Adoption |
-| Housing Reform | Political capital, State adoption | UBI (inflation without supply) | UBI effectiveness |
-| Healthcare | Political capital, Funding | UBI (incomplete without it) | Worker mobility |
-| Sound Money | Reserve establishment, Infrastructure | UBI if volatility not addressed | Long-term stability |
-| Data Tax | Platform regulation, Measurement systems | Revenue if evasion not addressed | UBI funding |
-| Carbon Tax | Economic modeling, Border adjustments | Competitiveness if unilateral | Climate, UBI funding |
+| Housing Reform | Political capital, State adoption | UBI (inflation without supply) | Citizen's Royalty effectiveness |
+| Healthcare | Political capital, Funding | Citizen's Royalty (incomplete without it) | Worker mobility |
+| Sound Money | Reserve establishment, Infrastructure | Citizen's Royalty if volatility not addressed | Long-term stability |
+| Data Tax | Platform regulation, Measurement systems | Revenue if evasion not addressed | Citizen's Royalty funding |
+| Carbon Tax | Economic modeling, Border adjustments | Competitiveness if unilateral | Climate, Citizen's Royalty funding |
 
 ### 1.2 Critical Dependencies
 
-#### UBI Requires Housing Reform First (Or Simultaneously)
+#### Citizen's Royalty Requires Housing Reform First (Or Simultaneously)
 
 **The Problem:**
-- UBI puts $24,000/year into every adult's pocket
+- Citizen's Royalty puts $24,000/year into every adult's pocket
 - Without housing supply increase, landlords capture much of this
 - Rents rise to absorb new income
 - Real benefit to recipients diminishes
@@ -50,16 +50,16 @@ LEGEND:
 - Alaska Permanent Fund has seen housing inflation correlation
 
 **The Solution:**
-- Pass housing/zoning reform BEFORE or WITH UBI expansion
-- Phase UBI in gradually to allow supply response
-- Target housing supply increase in UBI ramp-up areas
+- Pass housing/zoning reform BEFORE or WITH Citizen's Royalty expansion
+- Phase Citizen's Royalty in gradually to allow supply response
+- Target housing supply increase in Citizen's Royalty ramp-up areas
 - Include rent stabilization transition measures
 
 **Sequencing:**
 1. Housing reform legislation (Year 1)
 2. Zoning changes take effect (Year 2)
 3. Construction ramp-up (Years 2-4)
-4. UBI expansion aligned with housing supply (Years 3-5)
+4. Citizen's Royalty expansion aligned with housing supply (Years 3-5)
 
 #### Automation Tax Requires International Coordination
 
@@ -90,13 +90,13 @@ LEGEND:
 #### AI Governance Requires Security Framework First
 
 **The Problem:**
-- Open source mandate without security hardening creates vulnerabilities
+- Transparency requirements without security hardening creates vulnerabilities
 - Adversaries could exploit published code
 - Trust in government AI undermined by breaches
 - Political backlash against transparency
 
 **The Solution:**
-- Establish security standards before open source mandate
+- Establish security standards before transparency requirements
 - Phase transparency by system criticality
 - Build security infrastructure in parallel
 - Demonstrate secure open source success stories
@@ -151,12 +151,12 @@ LEGEND:
 - Introduce Foundation Package (Package A)
 - Automation tax disclosure requirement
 - Data tax framework
-- UBI pilot authorization
+- Citizen's Royalty pilot authorization
 - NAICO statutory authority
 
 **Month 6-12 Implementation:**
 - Pass Foundation Package (reconciliation path)
-- Launch UBI pilot program
+- Launch Citizen's Royalty pilot program
 - NAICO fully operational
 - Automation Observatory collecting data
 - First transparency rules effective
@@ -200,7 +200,7 @@ LEGEND:
 - Housing reform in 10+ states
 - International coalition at 5+ countries
 - Full AI governance regulations
-- UBI reaching 50 million recipients
+- Citizen's Royalty reaching 50 million recipients
 - Wealth tax introduction (if viable)
 
 **Critical Checks:**
@@ -214,13 +214,13 @@ LEGEND:
 
 **Year 5-6 Priorities:**
 - Automation tax to 15%
-- UBI to $1,500/month
+- Citizen's Royalty to $1,500/month
 - Program consolidation begins
 - Constitutional amendment introduced
 - Full AI governance operational
 
 **Year 7 Priorities:**
-- UBI at the Citizen's Royalty (up to $12,000/year under the NIT model)
+- Citizen's Royalty at the Citizen's Royalty (up to $12,000/year under the NIT model)
 - Full program consolidation
 - Stabilization fund established
 - Amendment ratification campaign
@@ -232,9 +232,9 @@ LEGEND:
 
 ### 3.1 Positive Interactions (Reinforcing)
 
-**UBI + Automation Tax:**
-- Automation tax funds UBI
-- UBI maintains consumer demand
+**Citizen's Royalty + Automation Tax:**
+- Automation tax funds Citizen's Royalty
+- Citizen's Royalty maintains consumer demand
 - Consumer demand supports businesses paying automation tax
 - Virtuous cycle
 
@@ -244,10 +244,10 @@ LEGEND:
 - Digital infrastructure enables transparent governance
 - Mutual reinforcement
 
-**Housing Reform + UBI:**
+**Housing Reform + Citizen's Royalty:**
 - Housing reform increases supply
 - Increased supply controls prices
-- UBI benefit preserved for recipients
+- Citizen's Royalty benefit preserved for recipients
 - Economic mobility increases
 
 **Data Tax + AI Governance:**
@@ -258,10 +258,10 @@ LEGEND:
 
 ### 3.2 Negative Interactions (Requiring Management)
 
-**UBI + Healthcare Costs:**
-- **Risk:** UBI increases demand for healthcare, prices rise
+**Citizen's Royalty + Healthcare Costs:**
+- **Risk:** Citizen's Royalty increases demand for healthcare, prices rise
 - **Management:** Healthcare cost controls in parallel
-- **Sequencing:** Healthcare reform with or before UBI expansion
+- **Sequencing:** Healthcare reform with or before Citizen's Royalty expansion
 
 **Automation Tax + Competitiveness:**
 - **Risk:** Tax makes U.S. less competitive
@@ -282,8 +282,8 @@ LEGEND:
 
 | Policy | Potential Unintended Consequence | Early Warning Signs | Mitigation |
 |--------|----------------------------------|---------------------|------------|
-| UBI | Work disincentive | Labor force participation drops | Adjust amount, add incentives |
-| UBI | Inflation | CPI acceleration | Monetary policy, supply expansion |
+| Citizen's Royalty | Work disincentive | Labor force participation drops | Adjust amount, add incentives |
+| Citizen's Royalty | Inflation | CPI acceleration | Monetary policy, supply expansion |
 | Automation Tax | Capital flight | Investment metrics drop | Adjust rates, enforcement |
 | Automation Tax | Innovation slowdown | R&D spending drops | Targeted credits, exemptions |
 | AI Governance | Regulatory burden | Compliance costs rise | Streamline requirements |
@@ -291,7 +291,7 @@ LEGEND:
 | Data Tax | Service degradation | Free services reduced | Consumer protection |
 | Carbon Tax | Energy poverty | Low-income energy burden | Dividend distribution priority |
 | Housing Reform | Construction labor shortage | Wages spike, delays | Workforce development |
-| Sound Money | Volatility | UBI purchasing power swings | Stablecoin focus, reserves |
+| Sound Money | Volatility | Citizen's Royalty purchasing power swings | Stablecoin focus, reserves |
 
 ---
 
@@ -300,7 +300,7 @@ LEGEND:
 ### 4.1 If Automation Is Faster Than Expected
 
 **Adjusted Sequence:**
-- Accelerate UBI pilot to full program
+- Accelerate Citizen's Royalty pilot to full program
 - Emergency automation tax implementation
 - Fast-track AI governance
 - Delay housing reform if necessary (emergency override)
@@ -316,7 +316,7 @@ LEGEND:
 **Adjusted Sequence:**
 - Delay full automation tax (stay at disclosure/low rate)
 - Focus on alternative revenue sources
-- Expand pilot longer before full UBI
+- Expand pilot longer before full Citizen's Royalty
 - Use time to complete housing reform
 - Build international coalition thoroughly
 
@@ -342,7 +342,7 @@ LEGEND:
 ### 4.4 If Revenue Falls Short
 
 **Adjusted Sequence:**
-- Scale UBI to available funding
+- Scale Citizen's Royalty to available funding
 - Accelerate alternative revenue sources
 - Prioritize consumption tax and carbon tax
 - Delay wealth tax if unconstitutional
@@ -362,7 +362,7 @@ LEGEND:
 ```
 Did Foundation Package pass?
 ├── YES
-│   ├── Is UBI pilot successful?
+│   ├── Is Citizen's Royalty pilot successful?
 │   │   ├── YES → Proceed to Expansion Package
 │   │   └── NO → Analyze and adjust before expanding
 │   └── Is automation tax disclosure working?
@@ -381,13 +381,13 @@ Did Foundation Package pass?
 
 ```
 Is housing supply responding?
-├── YES → Proceed with UBI expansion
+├── YES → Proceed with Citizen's Royalty expansion
 └── NO
     ├── Is inflation controlled?
-    │   ├── YES → Proceed cautiously with UBI expansion
-    │   └── NO → Pause UBI expansion, accelerate housing
+    │   ├── YES → Proceed cautiously with Citizen's Royalty expansion
+    │   └── NO → Pause Citizen's Royalty expansion, accelerate housing
     └── Are rents stable?
-        ├── YES → UBI benefit preserved, continue
+        ├── YES → Citizen's Royalty benefit preserved, continue
         └── NO → Implement rent stabilization, boost supply
 
 Is international coalition forming?
@@ -404,7 +404,7 @@ Is international coalition forming?
 ### 5.3 Year 7 Decision Tree
 
 ```
-Is UBI at full implementation?
+Is Citizen's Royalty at full implementation?
 ├── YES
 │   ├── Are outcomes meeting targets?
 │   │   ├── YES → Begin constitutional amendment process
@@ -431,7 +431,7 @@ Is UBI at full implementation?
 |-----------|--------|-------------|
 | NAICO operational | Month 6 | Staff hired, budget allocated |
 | Automation disclosure | 80% compliance | Business reporting rates |
-| UBI pilot launch | 1M recipients | Enrollment numbers |
+| Citizen's Royalty pilot launch | 1M recipients | Enrollment numbers |
 | AI transparency | 50% of federal systems | Audit results |
 | State adoptions | 3 states | Legislation passed |
 
@@ -449,7 +449,7 @@ Is UBI at full implementation?
 
 | Milestone | Target | Measurement |
 |-----------|--------|-------------|
-| UBI at full rate | the Citizen's Royalty (up to $12,000/year under the NIT model) | Payment amounts |
+| Citizen's Royalty at full rate | the Citizen's Royalty (up to $12,000/year under the NIT model) | Payment amounts |
 | Housing supply | +20% in target areas | Construction permits |
 | Poverty reduction | 50% decrease | Census data |
 | AI governance | 100% federal compliance | Audit results |
@@ -465,7 +465,7 @@ Is UBI at full implementation?
 The Human Standard's success depends on getting the order right:
 
 1. **Foundation first:** Build infrastructure before expansion
-2. **Prerequisites before dependents:** Housing before UBI, security before transparency
+2. **Prerequisites before dependents:** Housing before Citizen's Royalty, security before transparency
 3. **International coordination before full taxation:** Prevent capital flight
 4. **Monitoring throughout:** Adjust based on real-world feedback
 5. **Contingency plans ready:** Adapt to unexpected developments
@@ -475,7 +475,7 @@ The Human Standard's success depends on getting the order right:
 **Phase 0:** Preparation (pre-office)
 **Phase 1:** Foundation (Year 1) - NAICO, disclosure, pilots
 **Phase 2:** Prerequisites (Year 2) - Housing, healthcare, international
-**Phase 3:** Expansion (Years 3-4) - Taxes, UBI growth, governance
+**Phase 3:** Expansion (Years 3-4) - Taxes, Citizen's Royalty growth, governance
 **Phase 4:** Full Implementation (Years 5-7) - Complete system
 **Phase 5:** Consolidation (Years 8+) - Constitutional protection
 

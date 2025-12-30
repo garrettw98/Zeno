@@ -149,7 +149,7 @@ These policies build on immediate measures and address deeper structural changes
 **Phase 3 (2029-2030)**:
 
 - National eligibility with income-based phase-in
-- Full UBI for incomes below median
+- Full Citizen's Royalty for incomes below median
 - Graduated reduction above median
 - Full implementation pending Phase 3 evaluation
 
@@ -159,7 +159,7 @@ These policies build on immediate measures and address deeper structural changes
 - Expansion phase: Beginning of automation tax revenue integration
 - Full implementation: Automation taxes, data dividends, and consolidated existing program funding
 
-**Why This Matters**: UBI is the centerpiece of automation response, but large-scale implementation is unprecedented in America. Pilots provide evidence for design optimization and political feasibility.
+**Why This Matters**: Citizen's Royalty is the centerpiece of automation response, but large-scale implementation is unprecedented in America. Pilots provide evidence for design optimization and political feasibility.
 
 ---
 
@@ -174,7 +174,7 @@ These policies build on immediate measures and address deeper structural changes
 - Tax base: Reduction in labor costs attributable to automation
 - Rate: 5% in year 1, increasing to 10% by year 3, and 15% by year 7
 - Calculation: Company compares baseline labor/output ratio to current ratio; automation-driven improvement is taxable
-- Revenue earmarked for UBI, transition assistance, and community investment
+- Revenue earmarked for Citizen's Royalty, transition assistance, and community investment
 
 **Exemptions**:
 
@@ -258,7 +258,7 @@ These policies build on immediate measures and address deeper structural changes
 
 **Zone Benefits**:
 
-- Enhanced UBI: Additional $250/month for zone residents
+- Enhanced Citizen's Royalty: Additional $250/month for zone residents
 - Infrastructure investment: Federal priority for roads, broadband, public facilities
 - Business incentives: Tax credits for job creation in zones
 - Education investment: Community college and training program expansion
@@ -276,16 +276,16 @@ These policies address the full-scale automation transformation.
 
 #### 10. Citizen's Royalty Expansion
 
-As automation accelerates, UBI must scale accordingly.
+As automation accelerates, Citizen's Royalty must scale accordingly.
 
 **Implementation**:
 
-- Base benefit: $1,500-2,000/month for all adult citizens
+- NIT income floor: $24,000-30,000/year for all adult citizens
 - Indexed to automation indicators (not just inflation)
 - Funding fully from automation dividend, data dividend, carbon tax, and wealth tax
 - Regional adjustment for cost of living
 
-**Why This Matters**: The pilot-scale UBI is a floor; expansion creates genuine security as automation eliminates more jobs.
+**Why This Matters**: The pilot-scale Citizen's Royalty is a floor; expansion creates genuine security as automation eliminates more jobs.
 
 ---
 
@@ -337,7 +337,7 @@ As automation accelerates, UBI must scale accordingly.
 - Internet: Broadband as public utility
 - Housing: Basic housing security (no homelessness)
 
-**Why This Matters**: UBI provides income; UBS ensures that income can meet basic needs regardless of market conditions.
+**Why This Matters**: Citizen's Royalty provides income; UBS ensures that income can meet basic needs regardless of market conditions.
 
 ---
 
@@ -348,7 +348,7 @@ These policies form a coherent framework of protection:
 - **Information**: Disclosure requirements so we know what is happening
 - **Bridges**: Emergency assistance for those already displaced
 - **Rights**: Guarantees that essential services remain human-accessible and accountable
-- **Income**: UBI providing a universal floor
+- **Income**: Citizen's Royalty providing a universal floor
 - **Revenue**: Automation and data taxes ensuring gains are shared
 - **Security**: Portable benefits and transition support
 - **Place**: Regional investment protecting communities

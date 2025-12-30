@@ -24,7 +24,7 @@ This is The Human Standard. Follow along."
 
 CTA: "First real policy video drops tomorrow."
 
-HASHTAGS: #Zeno #HumanStandard #UBI #FutureOfWork
+HASHTAGS: #Zeno #HumanStandard #Citizen's Royalty #FutureOfWork
 ```
 
 **Post 2 - Why Zeno?**
@@ -92,7 +92,7 @@ That's what The Human Standard proposes. A new deal for the automation age."
 
 CTA: "Would you take that deal?"
 
-HASHTAGS: #Automation #UBI #HumanStandard #Economics
+HASHTAGS: #Automation #Citizen's Royalty #HumanStandard #Economics
 ```
 
 ---
@@ -168,7 +168,7 @@ I'm going to make you understand all of them."
 
 CTA: "Which one do you want me to explain first? Comment below."
 
-HASHTAGS: #UBI #AIGovernance #HumanStandard #Policy
+HASHTAGS: #Citizen's Royalty #AIGovernance #HumanStandard #Policy
 ```
 
 **Post 2 - Why Now**
@@ -201,10 +201,10 @@ HASHTAGS: #Automation #AI #FutureOfWork #TimeToAct
 
 **Post 1 - What Makes This Different**
 ```
-HOOK: "You've probably heard people talk about UBI before. Here's why this is
+HOOK: "You've probably heard people talk about Citizen's Royalty before. Here's why this is
 different."
 
-BODY: "Most UBI proposals are just 'give people money.' They don't answer:
+BODY: "Most Citizen's Royalty proposals are just 'give people money.' They don't answer:
 - How do you pay for it?
 - What about inflation?
 - What about immigration?
@@ -221,7 +221,7 @@ This isn't a tweet. It's a plan."
 
 CTA: "Link in bio to read the full framework."
 
-HASHTAGS: #UBI #HumanStandard #Policy #Economics
+HASHTAGS: #Citizen's Royalty #HumanStandard #Policy #Economics
 ```
 
 **Post 2 - Friday Reflection**
@@ -236,7 +236,7 @@ Here's what I want you to take away:
 The economy is changing faster than our policies. That's dangerous. But it's
 also an opportunity. We can shape what comes next if we start now.
 
-The Human Standard is my attempt to provide a complete answer. Not just UBI.
+The Human Standard is my attempt to provide a complete answer. Not just Citizen's Royalty.
 Not just AI regulation. Everything connected, everything thought through.
 
 You don't have to agree with all of it. But I hope you'll engage with it.
@@ -312,7 +312,7 @@ BODY: "1. My name is Zeno. I'm building a movement for the automation age.
 
 2. 47% of jobs are at risk. This isn't fear-mongering - it's data.
 
-3. The Human Standard has three pillars: UBI, AI Governance, Shared Prosperity.
+3. The Human Standard has three pillars: Citizen's Royalty, AI Governance, Shared Prosperity.
 
 4. Technology should serve humanity, not the other way around.
 
@@ -330,11 +330,11 @@ HASHTAGS: #Zeno #HumanStandard #Recap #WeekOne
 
 ---
 
-## WEEK 2: UBI INTRODUCTION
+## WEEK 2: Citizen's Royalty INTRODUCTION
 
 ### Day 8
 
-**Post 1 - What Is UBI**
+**Post 1 - What Is Citizen's Royalty**
 ```
 HOOK: "Universal Basic Income in 60 seconds."
 
@@ -349,11 +349,11 @@ Income - cash, not services. You decide how to spend it.
 No means testing. No bureaucracy. No jumping through hoops. No proving
 you're poor enough. Just money in your account every month.
 
-That's it. That's UBI."
+That's it. That's Citizen's Royalty."
 
 CTA: "Sounds simple? It is. The details are where it gets interesting."
 
-HASHTAGS: #UBI #UniversalBasicIncome #HumanStandard #Explained
+HASHTAGS: #Citizen's Royalty #UniversalBasicIncome #HumanStandard #Explained
 ```
 
 **Post 2 - Why Universal**
@@ -373,12 +373,12 @@ Social Security - are untouchable.
 
 3. Dignity. No one has to prove they're poor enough. No surveillance. No shame.
 
-Plus - the wealthy pay way more in taxes than they get in UBI. It nets out.
+Plus - the wealthy pay way more in taxes than they get in Citizen's Royalty. It nets out.
 They're still funding the system, not taking from it."
 
 CTA: "Make sense?"
 
-HASHTAGS: #UBI #Universal #Welfare #Policy
+HASHTAGS: #Citizen's Royalty #Universal #Welfare #Policy
 ```
 
 ---
@@ -405,7 +405,7 @@ you are."
 
 CTA: "What would you use an extra the Citizen's Royalty (up to $12,000/year under the NIT model) for?"
 
-HASHTAGS: #UBI #Cash #Freedom #Choice
+HASHTAGS: #Citizen's Royalty #Cash #Freedom #Choice
 ```
 
 **Post 2 - Why $2,000**
@@ -429,7 +429,7 @@ We can debate the exact number. The principle is what matters."
 
 CTA: "What number would you set it at?"
 
-HASHTAGS: #UBI #2000 #PovertyLine #HumanStandard
+HASHTAGS: #Citizen's Royalty #2000 #PovertyLine #HumanStandard
 ```
 
 ---
@@ -442,7 +442,7 @@ HOOK: "If you give people money, won't they just stop working?"
 
 BODY: "This is the number one objection. And the evidence says: no.
 
-Every UBI pilot ever conducted shows that people keep working. Finland.
+Every Citizen's Royalty pilot ever conducted shows that people keep working. Finland.
 Stockton. Kenya. Alaska. Over and over - employment stays the same or
 goes UP.
 
@@ -456,7 +456,7 @@ Work doesn't stop. It gets better."
 
 CTA: "Would YOU stop working if you got the Citizen's Royalty (up to $12,000/year under the NIT model)?"
 
-HASHTAGS: #UBI #Work #Employment #MythBusted
+HASHTAGS: #Citizen's Royalty #Work #Employment #MythBusted
 ```
 
 **Post 2 - The Real Work Question**
@@ -473,12 +473,12 @@ I think work is good. I think humans want to contribute, want to build,
 want to be useful. But I think we should get to choose what that looks
 like.
 
-UBI doesn't end work. It makes work a choice instead of a threat. And
+Citizen's Royalty doesn't end work. It makes work a choice instead of a threat. And
 when work is a choice, it becomes meaningful again."
 
 CTA: "What would you do with your time if money wasn't the only concern?"
 
-HASHTAGS: #Work #Meaning #UBI #Choice
+HASHTAGS: #Work #Meaning #Citizen's Royalty #Choice
 ```
 
 ---
@@ -487,12 +487,12 @@ HASHTAGS: #Work #Meaning #UBI #Choice
 
 **Post 1 - Won't It Cause Inflation**
 ```
-HOOK: "Won't UBI just cause inflation? If everyone has more money, won't
+HOOK: "Won't Citizen's Royalty just cause inflation? If everyone has more money, won't
 prices just go up?"
 
 BODY: "This is the second biggest objection. And it's mostly wrong.
 
-Inflation happens when you print new money. UBI isn't printed - it's
+Inflation happens when you print new money. Citizen's Royalty isn't printed - it's
 funded by taxes. Money moves from one place to another. Total money
 supply doesn't change.
 
@@ -501,11 +501,11 @@ the lowest wages. That's actually a feature - it means the worst options
 become less necessary.
 
 But overall inflation? The evidence from Alaska (which has had a form of
-UBI for 40 years) and from stimulus checks says: minimal impact."
+Citizen's Royalty for 40 years) and from stimulus checks says: minimal impact."
 
 CTA: "More on funding tomorrow."
 
-HASHTAGS: #Inflation #UBI #Economics #MythBusted
+HASHTAGS: #Inflation #Citizen's Royalty #Economics #MythBusted
 ```
 
 **Post 2 - Where Does the Money Come From**
@@ -527,7 +527,7 @@ Impossible? No. It's a policy choice, not a mathematical impossibility."
 
 CTA: "I'll break down each funding source over the coming weeks."
 
-HASHTAGS: #UBI #Funding #Taxes #Math
+HASHTAGS: #Citizen's Royalty #Funding #Taxes #Math
 ```
 
 ---
@@ -540,53 +540,53 @@ HOOK: "What about immigration? Won't everyone just come here for free money?"
 
 BODY: "Valid question. Here's the answer:
 
-UBI is for citizens and long-term permanent residents. Not tourists. Not
+Citizen's Royalty is for citizens and long-term permanent residents. Not tourists. Not
 temporary workers. Not undocumented people.
 
-If you're working here on a visa, you're working - you don't need UBI.
+If you're working here on a visa, you're working - you don't need Citizen's Royalty.
 If you're undocumented, the answer is to fix your status first.
 
 For new permanent residents, there's a phase-in period. You don't get
-full UBI on day one.
+full Citizen's Royalty on day one.
 
-This isn't anti-immigrant. It's practical. UBI is a benefit of citizenship.
+This isn't anti-immigrant. It's practical. Citizen's Royalty is a benefit of citizenship.
 Citizenship comes with a path and responsibilities."
 
 CTA: "Questions about this? Drop them below."
 
-HASHTAGS: #Immigration #UBI #Policy #Citizenship
+HASHTAGS: #Immigration #Citizen's Royalty #Policy #Citizenship
 ```
 
-**Post 2 - UBI Isn't Welfare**
+**Post 2 - Citizen's Royalty Isn't Welfare**
 ```
-HOOK: "UBI is not welfare. Here's the difference."
+HOOK: "Citizen's Royalty is not welfare. Here's the difference."
 
 BODY: "Welfare is targeted at the poor. You have to prove you're poor to
 get it. If you earn too much, you lose it. This creates a poverty trap -
 earning more money can actually leave you worse off.
 
-UBI is universal. Everyone gets it regardless of income. If you earn more
+Citizen's Royalty is universal. Everyone gets it regardless of income. If you earn more
 money, you keep it. No cliff. No trap.
 
 Welfare is paternalistic - the government decides what you need. Food stamps
 for food. Housing vouchers for rent.
 
-UBI is freedom - here's cash, you decide.
+Citizen's Royalty is freedom - here's cash, you decide.
 
-Welfare stigmatizes. UBI dignifies. Big difference."
+Welfare stigmatizes. Citizen's Royalty dignifies. Big difference."
 
 CTA: "Which would you rather have?"
 
-HASHTAGS: #UBI #Welfare #Dignity #Freedom
+HASHTAGS: #Citizen's Royalty #Welfare #Dignity #Freedom
 ```
 
 ---
 
 ### Day 13
 
-**Post 1 - Who Supports UBI**
+**Post 1 - Who Supports Citizen's Royalty**
 ```
-HOOK: "UBI isn't a fringe idea. Look who supports it."
+HOOK: "Citizen's Royalty isn't a fringe idea. Look who supports it."
 
 BODY: "From the right:
 - Milton Friedman (proposed negative income tax)
@@ -608,12 +608,12 @@ The question isn't whether it can happen. It's when we'll be ready."
 
 CTA: "Who else do you know who supports this?"
 
-HASHTAGS: #UBI #Support #Bipartisan #History
+HASHTAGS: #Citizen's Royalty #Support #Bipartisan #History
 ```
 
 **Post 2 - Friday Myth Roundup**
 ```
-HOOK: "Friday myth roundup - everything people get wrong about UBI."
+HOOK: "Friday myth roundup - everything people get wrong about Citizen's Royalty."
 
 BODY: "Myth: People will stop working.
 Reality: Pilots show employment stays same or increases.
@@ -634,7 +634,7 @@ Still have objections? I'll address them. Drop your questions."
 
 CTA: "What myth did I miss?"
 
-HASHTAGS: #UBI #Myths #Facts #Friday
+HASHTAGS: #Citizen's Royalty #Myths #Facts #Friday
 ```
 
 ---
@@ -645,7 +645,7 @@ HASHTAGS: #UBI #Myths #Facts #Friday
 ```
 HOOK: "Week 2 done. Here's what we covered."
 
-BODY: "UBI: Universal Basic Income. the Citizen's Royalty (up to $12,000/year under the NIT model) for every adult.
+BODY: "Citizen's Royalty: Universal Basic Income. the Citizen's Royalty (up to $12,000/year under the NIT model) for every adult.
 
 - Universal because targeted programs fail
 - Cash because you know what you need
@@ -663,9 +663,9 @@ and technology.
 Next week: AI Governance. How do we keep humans in control as machines
 get smarter?"
 
-CTA: "Share this with someone who has UBI questions."
+CTA: "Share this with someone who has Citizen's Royalty questions."
 
-HASHTAGS: #UBI #Recap #WeekTwo #HumanStandard
+HASHTAGS: #Citizen's Royalty #Recap #WeekTwo #HumanStandard
 ```
 
 ---
@@ -769,7 +769,7 @@ This is how we make automation work FOR humanity instead of against it."
 
 CTA: "Sound fair to you?"
 
-HASHTAGS: #AutomationTax #UBI #SharedProsperity #HumanStandard
+HASHTAGS: #AutomationTax #Citizen's Royalty #SharedProsperity #HumanStandard
 ```
 
 ---
@@ -791,12 +791,12 @@ retraining while they're not earning?
 The current system assumes new jobs will appear. And maybe they will.
 Eventually. But 'eventually' doesn't pay rent.
 
-UBI is the bridge. It gives people security while the economy transforms.
+Citizen's Royalty is the bridge. It gives people security while the economy transforms.
 It gives them time to adapt without starving."
 
 CTA: "What's YOUR plan for the transition?"
 
-HASHTAGS: #Transition #Automation #Jobs #UBI
+HASHTAGS: #Transition #Automation #Jobs #Citizen's Royalty
 ```
 
 **Post 2 - The Speed Problem**
@@ -828,17 +828,17 @@ HASHTAGS: #Speed #AI #Crisis #TimeIsNow
 
 **Post 1 - AI Companies Know**
 ```
-HOOK: "Want to know something interesting? AI company CEOs support UBI."
+HOOK: "Want to know something interesting? AI company CEOs support Citizen's Royalty."
 
-BODY: "Sam Altman, CEO of OpenAI? Funded UBI research.
-Elon Musk? Says UBI will be necessary.
+BODY: "Sam Altman, CEO of OpenAI? Funded Citizen's Royalty research.
+Elon Musk? Says Citizen's Royalty will be necessary.
 Marc Benioff? Supports it.
 Andrew Yang? Ran for president on it.
 
 These are the people BUILDING the technology. They see what's coming. They
 know what it means.
 
-If the people creating the automation think we'll need UBI, maybe we should
+If the people creating the automation think we'll need Citizen's Royalty, maybe we should
 listen.
 
 Or maybe they're just preparing to sleep at night as their products displace
@@ -846,7 +846,7 @@ millions of workers. Either way - they're telling us something."
 
 CTA: "Why do you think they support it?"
 
-HASHTAGS: #TechLeaders #UBI #OpenAI #TeslaMusk
+HASHTAGS: #TechLeaders #Citizen's Royalty #OpenAI #TeslaMusk
 ```
 
 **Post 2 - Jobs That Will Remain**
@@ -861,10 +861,10 @@ BODY: "Jobs that require:
 
 But here's the thing - these jobs won't absorb everyone. Not even close.
 
-We need fewer workers total. That's not a crisis IF we have UBI. It just
+We need fewer workers total. That's not a crisis IF we have Citizen's Royalty. It just
 means less mandatory work and more freedom.
 
-Without UBI? It's mass unemployment and social collapse."
+Without Citizen's Royalty? It's mass unemployment and social collapse."
 
 CTA: "What category is your job in?"
 
@@ -906,7 +906,7 @@ HOOK: "Let me paint you a picture of where this could go."
 
 BODY: "2035. Automation has transformed the economy. But we prepared.
 
-Everyone receives UBI. No one is desperate. Work is optional but most
+Everyone receives Citizen's Royalty. No one is desperate. Work is optional but most
 people still do it - they just have choices about what.
 
 AI handles the drudgery. Humans handle connection, creativity, and what
@@ -937,7 +937,7 @@ Great questions this week. Keep them coming.
 
 Question: What about jobs that require creativity?
 Answer: AI can assist but human judgment still matters for the foreseeable
-future. And remember - fewer jobs isn't bad if we have UBI.
+future. And remember - fewer jobs isn't bad if we have Citizen's Royalty.
 
 Question: Is this really going to happen that fast?
 Answer: Look at how fast ChatGPT changed things. I'd rather prepare early
@@ -965,7 +965,7 @@ BODY: "What we covered:
 - White collar jobs are not safe
 - The good news: more productivity means more wealth
 - The bad news: current rules concentrate that wealth
-- Solution: automation tax + UBI = shared prosperity
+- Solution: automation tax + Citizen's Royalty = shared prosperity
 - Politicians aren't preparing - we need to demand it
 
 This is happening faster than previous industrial revolutions. We need
@@ -1084,26 +1084,26 @@ HASHTAGS: #HumanOverride #AI #Control #Rights
 
 **Post 1 - AI and Jobs**
 ```
-HOOK: "AI governance and UBI work together. Here's how."
+HOOK: "AI governance and Citizen's Royalty work together. Here's how."
 
 BODY: "AI governance makes sure AI is developed responsibly - transparent,
 accountable, human-controlled.
 
-UBI makes sure that when AI does take jobs, people are okay.
+Citizen's Royalty makes sure that when AI does take jobs, people are okay.
 
 You need both.
 
-Without UBI, responsible AI development just means slower job loss -
+Without Citizen's Royalty, responsible AI development just means slower job loss -
 still a crisis, just delayed.
 
-Without governance, UBI just means we're paying people while AI systems
+Without governance, Citizen's Royalty just means we're paying people while AI systems
 run wild without oversight.
 
 The Human Standard is a complete package. Every piece connects."
 
 CTA: "Get the whole picture. Link in bio."
 
-HASHTAGS: #AI #UBI #HumanStandard #CompleteFramework
+HASHTAGS: #AI #Citizen's Royalty #HumanStandard #CompleteFramework
 ```
 
 **Post 2 - Open Source Government AI**
@@ -1166,7 +1166,7 @@ BODY: "2030. AI is everywhere. But:
 - Government AI is open source
 - Bias is audited and corrected
 - Humans control lethal force
-- Benefits are widely shared through UBI
+- Benefits are widely shared through Citizen's Royalty
 
 AI is a tool that works for us. Not a black box that controls us.
 
@@ -1230,7 +1230,7 @@ Week 4: AI Governance - transparency, accountability, human control
 
 This is the foundation. The big picture.
 
-Next month we go deeper on UBI - the economics, the pilots, the
+Next month we go deeper on Citizen's Royalty - the economics, the pilots, the
 implementation. Every objection answered in detail.
 
 If you've made it this far, you're serious. I appreciate you."
@@ -1269,4 +1269,4 @@ HASHTAGS: #MonthOne #Recap #HumanStandard #JustGettingStarted
 
 ---
 
-*Month 1 complete. Proceed to MONTH_2_UBI.md*
+*Month 1 complete. Proceed to MONTH_2_Citizen's Royalty.md*

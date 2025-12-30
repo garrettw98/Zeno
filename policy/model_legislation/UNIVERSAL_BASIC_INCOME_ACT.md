@@ -129,7 +129,7 @@ Congress finds the following:
 
 (9) **DEMOCRATIC IMPERATIVE**—A democratic society requires that citizens have sufficient economic security to participate meaningfully in civic life without desperation driving political choices.
 
-(10) **PROVEN EFFECTIVENESS**—Pilot programs and studies of unconditional cash transfers, including the Alaska Permanent Fund Dividend, the Finland UBI experiment, the Stockton SEED program, and the GiveDirectly Kenya program, demonstrate positive outcomes without significant negative effects on work incentives.
+(10) **PROVEN EFFECTIVENESS**—Pilot programs and studies of unconditional cash transfers, including the Alaska Permanent Fund Dividend, the Finland Citizen's Royalty experiment, the Stockton SEED program, and the GiveDirectly Kenya program, demonstrate positive outcomes without significant negative effects on work incentives.
 
 ## SEC. 102. PURPOSES
 
@@ -914,7 +914,7 @@ The transfers required under section 306(c) shall ensure that the Social Securit
 
 ## SEC. 602. SUPPLEMENTAL SECURITY INCOME
 
-### (a) TREATMENT OF UBI
+### (a) TREATMENT OF Citizen's Royalty
 Benefits under this Act shall not be counted as income or resources for purposes of determining eligibility for or benefits under the Supplemental Security Income program.
 
 ### (b) HOLD HARMLESS
@@ -1207,13 +1207,13 @@ Amounts appropriated under this section shall remain available until expended.
 ## SUPPORTING MATERIALS
 
 ### Economic Analysis
-See: policy/economic_analysis/UBI_ECONOMIC_IMPACT.md
+See: policy/economic_analysis/Citizen's Royalty_ECONOMIC_IMPACT.md
 
 ### Implementation Guide
-See: policy/implementation_guides/UBI_IMPLEMENTATION.md
+See: policy/implementation_guides/Citizen's Royalty_IMPLEMENTATION.md
 
 ### Stakeholder Analysis
-See: policy/stakeholder_analysis/UBI_STAKEHOLDERS.md
+See: policy/stakeholder_analysis/Citizen's Royalty_STAKEHOLDERS.md
 
 ---
 

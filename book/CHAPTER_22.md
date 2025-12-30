@@ -25,7 +25,7 @@ If America implements an automation tax while other nations do not, several prob
 
 **Regulatory arbitrage**: Global companies structure operations to minimize automation tax exposure. The tax is evaded rather than paid.
 
-**Partial benefit**: American workers receive UBI; workers elsewhere do not. Global inequality persists even as domestic inequality is addressed.
+**Partial benefit**: American workers receive Citizen's Royalty; workers elsewhere do not. Global inequality persists even as domestic inequality is addressed.
 
 Similar dynamics apply to other policies:
 

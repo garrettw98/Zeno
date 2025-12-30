@@ -25,7 +25,7 @@ Traditional conservatives approach automation through free-market principles:
 
 **Deregulation**: The proper response to automation is less regulation, not more. Let companies deploy technology freely. The resulting productivity gains will create prosperity that benefits everyone through lower prices and economic growth.
 
-**Small government**: UBI and automation taxes represent massive expansion of government power and spending. This violates core conservative principles about limited government and fiscal responsibility.
+**Small government**: Citizen's Royalty and automation taxes represent massive expansion of government power and spending. This violates core conservative principles about limited government and fiscal responsibility.
 
 **Property rights**: Taxing companies for using robots or AI violates property rights. Businesses should be free to invest in whatever technology they choose without penalty.
 
@@ -61,7 +61,7 @@ These arguments also have coherence. They apply progressive principles to techno
 - Global competition limits what any one country can require of corporations
 - The automation challenge is so large it strains even ambitious progressive programs
 
-Some progressives resist UBI, fearing it could become a replacement for robust public services rather than a complement. They prefer job guarantees that preserve the dignity and structure of work. This tension within the progressive coalition affects policy design.
+Some progressives resist Citizen's Royalty, fearing it could become a replacement for robust public services rather than a complement. They prefer job guarantees that preserve the dignity and structure of work. This tension within the progressive coalition affects policy design.
 
 ---
 
@@ -71,7 +71,7 @@ Libertarians approach automation through individual freedom and skepticism of go
 
 **Technology embrace**: Technological progress is inherently good. It increases human capability, reduces drudgery, and creates prosperity. Attempts to slow or regulate technology harm innovation.
 
-**UBI appeal**: Surprisingly, many libertarians support some form of UBI—not from progressive instincts but from recognition that it could replace the bureaucratic welfare state. A simple cash transfer is more efficient and less paternalistic than dozens of overlapping programs with different rules and administrators.
+**Citizen's Royalty appeal**: Surprisingly, many libertarians support some form of Citizen's Royalty—not from progressive instincts but from recognition that it could replace the bureaucratic welfare state. A simple cash transfer is more efficient and less paternalistic than dozens of overlapping programs with different rules and administrators.
 
 **Market solutions**: If automation creates problems, markets will solve them. Entrepreneurs will create new industries, new jobs, new ways to generate value. Government does not need to plan the transition; it needs to get out of the way.
 
@@ -83,7 +83,7 @@ The libertarian perspective offers both allies and obstacles:
 
 - Their efficiency critique of existing programs is valid
 - Their embrace of technology can prevent Luddite overreaction
-- Their support for simple cash transfers aligns with UBI design
+- Their support for simple cash transfers aligns with Citizen's Royalty design
 - But their resistance to taxation and regulation limits policy options
 - And their faith in market adjustment may be misplaced for this challenge
 
@@ -123,7 +123,7 @@ Despite different starting points, the political perspectives converge on certai
 
 **Workers deserve help**: The moral intuition that displaced workers should not simply be abandoned is shared across perspectives. People disagree about what help looks like, but not about whether help is warranted.
 
-**Cash has advantages**: From different perspectives, cash transfers have appeal. Conservatives like efficiency; progressives like universality; libertarians like simplicity; populists like immediate impact. The specifics of UBI are debated, but the basic approach has cross-ideological support.
+**Cash has advantages**: From different perspectives, cash transfers have appeal. Conservatives like efficiency; progressives like universality; libertarians like simplicity; populists like immediate impact. The specifics of Citizen's Royalty are debated, but the basic approach has cross-ideological support.
 
 **Concentration is concerning**: The power being accumulated by major AI companies troubles everyone—conservatives worry about market dominance, progressives about worker exploitation, libertarians about crony capitalism, populists about elite control.
 
@@ -139,7 +139,7 @@ The Human Standard is designed to appeal across political divides:
 
 **To progressives**: We offer universal programs that leave no one behind, redistribution of automation gains from capital to workers, strong labor protections during transition, and human-centered metrics that prioritize wellbeing over GDP.
 
-**To libertarians**: We offer program simplification (UBI replacing dozens of welfare programs), individual choice (cash rather than services), technology embrace (open-source AI rather than bans), and sound money alternatives (Bitcoin legal tender).
+**To libertarians**: We offer program simplification (Citizen's Royalty replacing dozens of welfare programs), individual choice (cash rather than services), technology embrace (open-source AI rather than bans), and sound money alternatives (Bitcoin legal tender).
 
 **To populists**: We offer immediate help for displaced workers, direct payments that bypass corrupt intermediaries, policies designed by and for regular Americans rather than elites, and fundamental system change rather than marginal adjustments.
 
@@ -172,7 +172,7 @@ The Human Standard provides the ideological framework for such a coalition. Whet
 
 ### The Electoral Opportunity
 
-Andrew Yang's 2020 campaign demonstrated that automation can be a galvanizing political issue. Despite starting with zero name recognition, he built a movement around UBI and automation concerns. The "Yang Gang" included unlikely coalition members—tech workers and truckers, libertarians and progressives.
+Andrew Yang's 2020 campaign demonstrated that automation can be a galvanizing political issue. Despite starting with zero name recognition, he built a movement around Citizen's Royalty and automation concerns. The "Yang Gang" included unlikely coalition members—tech workers and truckers, libertarians and progressives.
 
 The opportunity has grown since then:
 

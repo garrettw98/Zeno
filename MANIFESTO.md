@@ -203,7 +203,7 @@ When machines generate wealth, that wealth must be shared.
 
 The Automation Productivity Tax captures a portion of value created by automated systems. This is not punishment for innovation—it is recognition that automation's gains belong partly to society. The infrastructure that makes automation possible—educated workers, legal systems, physical infrastructure, publicly funded research—was built by collective investment. The returns should be partially collective.
 
-This revenue funds a Universal Basic Income—a cash payment to every citizen, without conditions. Not welfare. Not charity. A dividend from the automated economy. Every American becomes a shareholder in technological progress.
+This revenue funds a Citizen's Royalty—a cash payment to every citizen, without conditions. Not welfare. Not charity. A dividend from the automated economy. Every American becomes a shareholder in technological progress.
 
 The Data Dividend Tax extends this principle to the digital economy. When companies extract value from citizen data, citizens deserve compensation. Your clicks, your searches, your location, your attention—these have economic value. That value should return to you.
 
@@ -333,7 +333,7 @@ Tax treatment that does not punish users. No capital gains tax on small transact
 
 Government acceptance. Pay your taxes in crypto. Receive your benefits in crypto if you choose. Full integration into the financial system without forced displacement of the dollar.
 
-The Diversified Strategic Reserve, expanded. The United States should hold significant Bitcoin as a national asset, just as we hold gold.
+The Diversified Strategic Reserve, expanded. The United States should hold the Diversified Strategic Reserve as a national asset, just as we hold gold.
 
 A twenty-year voluntary transition. The dollar remains available for those who prefer it. The market determines which money people trust. If the dollar maintains value, citizens will use it. If it continues to debase, citizens have an exit.
 
@@ -348,7 +348,7 @@ What could the world look like if we get this right?
 
 ### By 2035
 
-Automation taxes fund universal basic income pilots in the hardest-hit regions. Displaced workers have a floor—not luxury, but security. The fear of destitution no longer drives acceptance of degrading work.
+Automation taxes fund Citizen's Royalty pilots in the hardest-hit regions. Displaced workers have a floor—not luxury, but security. The fear of destitution no longer drives acceptance of degrading work.
 
 Blockchain verification is standard for government communications. Citizens can check any official statement against immutable records. Political lies are immediately falsifiable. Trust begins to rebuild.
 

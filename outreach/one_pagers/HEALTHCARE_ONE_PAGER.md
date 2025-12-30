@@ -48,8 +48,8 @@ We support pathways to universal coverage:
 - Integration with primary care
 - Address social determinants (housing, income, community)
 
-### UBI Integration
-- UBI replaces some healthcare subsidies
+### Citizen's Royalty Integration
+- Citizen's Royalty replaces some healthcare subsidies
 - Frees healthcare from employment
 - Reduces stress-related illness
 - Enables preventive care
@@ -75,7 +75,7 @@ Healthcare is part of broader human development:
 
 ### Child Development
 - Paid family leave (6 months minimum)
-- Child allowance (or child supplement to UBI)
+- Child allowance (or child supplement to Citizen's Royalty)
 - Early intervention for developmental delays
 - Nutrition programs
 

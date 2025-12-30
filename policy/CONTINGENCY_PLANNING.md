@@ -28,8 +28,8 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 
 | Assumption | Dependency | Risk Level |
 |------------|------------|------------|
-| Automation tax generates projected revenue | UBI funding | High |
-| UBI doesn't cause severe inflation | Program viability | Medium |
+| Automation tax generates projected revenue | Citizen's Royalty funding | High |
+| Citizen's Royalty doesn't cause severe inflation | Program viability | Medium |
 | Consumption behavior remains stable | Economic modeling | Medium |
 | International trade continues | Economic projections | Medium |
 | Capital doesn't flee entirely | Tax base preservation | Medium |
@@ -40,7 +40,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 |------------|------------|------------|
 | Cross-partisan coalition is possible | Political strategy | High |
 | Constitutional challenges fail | Policy survival | Medium |
-| Public supports UBI | Democratic legitimacy | Medium |
+| Public supports Citizen's Royalty | Democratic legitimacy | Medium |
 | Elite resistance can be overcome | Implementation | High |
 | International coordination is achievable | Global policy | High |
 
@@ -68,7 +68,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 2. **Adjust Revenue Sources**
    - Increase reliance on consumption tax, data tax, carbon tax
    - Reduce dependence on automation tax
-   - Scale UBI to available funding
+   - Scale Citizen's Royalty to available funding
 
 3. **Maintain Readiness**
    - Keep Automation Observatory monitoring
@@ -92,11 +92,11 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 
 **Contingency Plan:**
 
-1. **Emergency UBI Deployment**
+1. **Emergency Citizen's Royalty Deployment**
    - Pre-legislate emergency authority
    - Treasury can deploy emergency payments within 90 days
    - Funded by emergency appropriation or Fed monetization
-   - Scale: $1,000/month to all adults immediately
+   - Scale: Emergency NIT floor ($15,000/year) to all adults immediately
 
 2. **Emergency AI Governance**
    - Invoke national emergency powers
@@ -195,7 +195,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 **Scenario:** Businesses successfully lobby for exemptions, offshore operations, or game the system. Revenue is 50% or less of projections.
 
 **Consequence:**
-- UBI funding gap
+- Citizen's Royalty funding gap
 - Program cuts required
 - Political backlash
 
@@ -203,7 +203,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 
 1. **Revenue Diversification**
    - Never depend on single source
-   - UBI funding from multiple streams:
+   - Citizen's Royalty funding from multiple streams:
      - Consumption tax (base load)
      - Data tax (supplementary)
      - Carbon tax (environmental dividend)
@@ -212,7 +212,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
      - Existing income tax (restructured)
 
 2. **Progressive Scaling**
-   - UBI amount adjusts to available funding
+   - Citizen's Royalty amount adjusts to available funding
    - Minimum guarantee: $500/month
    - Target: the Citizen's Royalty (up to $12,000/year under the NIT model)
    - Scale between based on revenue
@@ -225,13 +225,13 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 
 4. **Expenditure Reduction**
    - Other programs funded from general revenue
-   - UBI replaces some existing programs
+   - Citizen's Royalty replaces some existing programs
    - Administrative costs reduced through automation
-   - Means-testing for supplementary benefits (above UBI)
+   - Means-testing for supplementary benefits (above Citizen's Royalty)
 
-### 3.2 What If UBI Causes Severe Inflation?
+### 3.2 What If Citizen's Royalty Causes Severe Inflation?
 
-**Scenario:** UBI injection of $3+ trillion annually into economy causes sustained inflation of 15%+ annually. Real value of UBI erodes.
+**Scenario:** Citizen's Royalty injection of $3+ trillion annually into economy causes sustained inflation of 15%+ annually. Real value of Citizen's Royalty erodes.
 
 **Consequence:**
 - Living standards don't improve
@@ -241,7 +241,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 **Contingency Plan:**
 
 1. **Gradual Phase-In**
-   - Start with lower UBI amount ($500/month)
+   - Start with lower Citizen's Royalty amount ($500/month)
    - Increase gradually as economy adjusts
    - Monitor inflation at each stage
    - Pause if inflation exceeds 6%
@@ -258,8 +258,8 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
    - Invest in food production (address food inflation)
    - Inflation targeted at sources, not just aggregate
 
-4. **UBI Design Modifications**
-   - Index UBI to basket of essentials (not CPI)
+4. **Citizen's Royalty Design Modifications**
+   - Index Citizen's Royalty to basket of essentials (not CPI)
    - Provide in-kind for highest-inflation categories
    - Means-tested supplement for housing costs
    - Regional adjustment for cost-of-living
@@ -267,7 +267,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 5. **Taxation Recapture**
    - If inflation from excess spending, increase consumption tax
    - Tax back inflationary gains
-   - Revenue recirculated to UBI fund
+   - Revenue recirculated to Citizen's Royalty fund
    - Self-correcting mechanism
 
 ### 3.3 What If Capital Flees?
@@ -310,7 +310,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 5. **Narrative Management**
    - "Capital that demands exploitation can leave"
    - "We're building an economy for workers, not just capital"
-   - "Investment follows consumer spending—UBI creates demand"
+   - "Investment follows consumer spending—Citizen's Royalty creates demand"
    - "Companies that want American consumers will stay"
 
 ### 3.4 What If Work Disappears Faster Than Meaning Replaces It?
@@ -321,7 +321,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 - Mental health crisis
 - Social instability
 - Political radicalization
-- UBI "successful" but society unhappy
+- Citizen's Royalty "successful" but society unhappy
 
 **Contingency Plan:**
 
@@ -372,7 +372,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 
 1. **Modular Policy Approach**
    - If full package fails, advance components separately
-   - UBI could pass with different coalition than AI governance
+   - Citizen's Royalty could pass with different coalition than AI governance
    - Sound money appeals to different coalition than automation tax
    - Build coalitions issue by issue
 
@@ -396,7 +396,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 
 ### 4.2 What If Constitutional Challenges Succeed?
 
-**Scenario:** Supreme Court strikes down automation tax as unconstitutional, or UBI as beyond federal authority, or AI governance as violating due process.
+**Scenario:** Supreme Court strikes down automation tax as unconstitutional, or Citizen's Royalty as beyond federal authority, or AI governance as violating due process.
 
 **Consequence:**
 - Core policies invalidated
@@ -407,19 +407,19 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 
 1. **Alternative Legal Structures**
    - Automation tax as income tax (already constitutional)
-   - UBI as tax credit (already constitutional)
+   - Citizen's Royalty as tax credit (already constitutional)
    - AI governance as condition of federal contracts
    - Work within constitutional constraints
 
 2. **Constitutional Amendment**
    - If policies struck down, pursue amendment
-   - Economic Security Amendment (UBI)
+   - Economic Security Amendment (Citizen's Royalty)
    - AI Rights Amendment
    - Long-term strategy, 10-20 year horizon
 
 3. **State Implementation**
    - Many policies can be done at state level
-   - State taxation, state UBI supplements
+   - State taxation, state Citizen's Royalty supplements
    - State AI governance for state systems
    - Federal grants to incentivize state action
 
@@ -465,8 +465,8 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
    - Generational change
 
 5. **Parallel Structures**
-   - Build UBI-like systems outside government
-   - Philanthropic UBI pilots
+   - Build Citizen's Royalty-like systems outside government
+   - Philanthropic Citizen's Royalty pilots
    - Mutual aid networks
    - Cooperative businesses
    - Demonstrate viability, build pressure
@@ -521,7 +521,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 
 **Combined Consequence:**
 - Mass unemployment (30%+)
-- No UBI funding
+- No Citizen's Royalty funding
 - No legal framework for governance
 - No international cooperation
 - Political paralysis
@@ -562,7 +562,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 - Elite resistance fractures
 
 **Combined Consequence:**
-- UBI fully funded at $2,000+/month
+- Citizen's Royalty fully funded at $2,000+/month
 - AI governance works as designed
 - Global coordination achieved
 - Smooth transition to post-work economy
@@ -571,7 +571,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 **Optimization Response:**
 
 1. **Expand Ambition**
-   - Increase UBI amount
+   - Increase Citizen's Royalty amount
    - Accelerate timeline
    - Broaden coverage
    - Deepen governance

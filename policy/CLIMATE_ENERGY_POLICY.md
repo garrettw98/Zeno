@@ -607,13 +607,13 @@ Current average global carbon price: ~$23/ton (far too low)
 
 ### Integration with Zeno Economic Framework
 
-Carbon dividend complements but is **separate from** Robot Tax/Data Tax funded UBI:
+Carbon dividend complements but is **separate from** Robot Tax/Data Tax funded Citizen's Royalty:
 
 | Revenue Source | Purpose | Mechanism |
 |----------------|---------|-----------|
 | Carbon Fee | Climate transition | Dividend to all citizens |
-| Automation Tax | Automation dividend | UBI supplement |
-| Data Tax | Data dividend | UBI supplement |
+| Automation Tax | Automation dividend | Citizen's Royalty supplement |
+| Data Tax | Data dividend | Citizen's Royalty supplement |
 
 The carbon dividend provides additional household income while driving decarbonization. As emissions decline, the carbon dividend decreases while automation/data dividends increase—a smooth transition to the post-carbon, post-labor economy.
 
@@ -1098,7 +1098,7 @@ Required annual report to Congress with:
 
 | Zeno Pillar | Climate/Energy Integration |
 |-------------|---------------------------|
-| **Economic Justice** | Carbon dividend supplements UBI; clean energy jobs |
+| **Economic Justice** | Carbon dividend supplements Citizen's Royalty; clean energy jobs |
 | **AI Governance** | AI-optimized grid; open-source energy AI |
 | **Sound Money** | Carbon credits on blockchain; transparent pricing |
 | **Truth Infrastructure** | Verified emissions data; no greenwashing |
@@ -1113,7 +1113,7 @@ Carbon Fee Revenue (~$200B at maturity)
     ↓
 Citizens receive: ~$3,000-5,000/family annually
     ↓
-(Complements Automation/Data Dividend UBI)
+(Complements Automation/Data Dividend Citizen's Royalty)
 ```
 
 ### AI Governance Connection

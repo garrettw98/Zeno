@@ -204,11 +204,11 @@ This book argues that:
 
 - Andrew Yang's Freedom Dividend proposal: $1,000/month for every adult
 - The Alaska Permanent Fund: A working model
-- International UBI experiments: Finland, Kenya, Stockton
+- International Citizen's Royalty experiments: Finland, Kenya, Stockton
 - The economics: How would it be funded? Would it cause inflation?
 - The politics: Left-right coalition possibilities
 - The criticisms: Work incentives, dignity, dependency
-- Beyond UBI: Universal Basic Services, Negative Income Tax, Job Guarantees
+- Beyond Citizen's Royalty: Universal Basic Services, Negative Income Tax, Job Guarantees
 
 ### Chapter 15: The Political Divide on Automation
 *How Left and Right see the challenge differently*
@@ -284,7 +284,7 @@ This book argues that:
 **Long-term Policies (2030+):**
 
 10. **Citizen's Royalty Expansion**
-    - Scale UBI to $1,500-2,000/month as automation accelerates
+    - Scale Citizen's Royalty NIT floor to $24,000-30,000/year as automation accelerates
     - Fund through automation dividend, data dividend, carbon tax, wealth tax
     - Adjust based on regional cost of living
 
@@ -396,7 +396,7 @@ This book argues that:
 16. **Gradual Dollar Transition**
     - Government accepts crypto for taxes and fees
     - Optional crypto payment for federal benefits
-    - UBI payments available in stablecoin (citizen choice)
+    - Citizen's Royalty payments available in stablecoin (citizen choice)
     - 20-year voluntary transition timeline
     - Dollar remains option—market determines winner
 
@@ -535,7 +535,7 @@ This book argues that:
 *Legislative language, funding mechanisms, administrative structures*
 
 ### Appendix C: Economic Modeling
-*Detailed projections of automation impact, UBI effects, fiscal analysis*
+*Detailed projections of automation impact, Citizen's Royalty effects, fiscal analysis*
 
 ### Appendix D: International Comparison
 *How other nations are preparing for automation*
@@ -557,15 +557,15 @@ This book argues that:
 - MIT Work of the Future Task Force reports
 
 ### Key Figures to Reference/Interview:
-- Andrew Yang (UBI advocate, Forward Party)
-- Sam Altman (OpenAI CEO, UBI proponent)
+- Andrew Yang (Citizen's Royalty advocate, Forward Party)
+- Sam Altman (OpenAI CEO, Citizen's Royalty proponent)
 - Elon Musk (Tesla/xAI, complex views on AI risk/opportunity)
 - Daron Acemoglu (MIT economist, automation research)
 - Erik Brynjolfsson (Stanford economist, technology and productivity)
 - Kate Crawford (AI ethics researcher)
 - Kai-Fu Lee (AI expert, "AI Superpowers" author)
 - Martin Ford ("Rise of the Robots" author)
-- Rutger Bregman (UBI advocate, "Utopia for Realists")
+- Rutger Bregman (Citizen's Royalty advocate, "Utopia for Realists")
 
 ### Organizations to Track:
 - OpenAI, Anthropic, Google DeepMind, Meta AI
@@ -614,7 +614,7 @@ The author's voice should be:
 - THE PRODUCTIVITY PARADOX: When Machines Work and Humans Don't
 - THE FOURTH WAVE: Preparing America for the Automation Revolution
 - SURPLUS HUMANITY: The Political Challenge of the Robot Age
-- THE FREEDOM MACHINE: Automation, UBI, and the Future of American Prosperity
+- THE FREEDOM MACHINE: Automation, Citizen's Royalty, and the Future of American Prosperity
 
 ---
 

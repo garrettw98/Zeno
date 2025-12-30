@@ -25,12 +25,12 @@ A fundamental tension exists in The Human Standard framework: we advocate for **
 **On the other hand, we require:**
 - Automation Productivity Tax collection from businesses
 - Data Dividend Tax revenue from platforms
-- Accurate income reporting for UBI means-testing (if any)
+- Accurate income reporting for Citizen's Royalty means-testing (if any)
 - Prevention of tax evasion by wealthy individuals and corporations
 
 **The Critic's Challenge:**
 
-> "If everyone uses privacy-preserving cryptocurrency, how will you collect taxes? Your UBI funding collapses the moment people can hide their income."
+> "If everyone uses privacy-preserving cryptocurrency, how will you collect taxes? Your Citizen's Royalty funding collapses the moment people can hide their income."
 
 This is a legitimate concern that demands a serious answer.
 
@@ -88,7 +88,7 @@ This is a legitimate concern that demands a serious answer.
 
 **Revenue Potential:**
 - A 15% federal consumption tax (VAT-style) would generate ~$2 trillion annually
-- This alone could fund significant UBI ($6,000/adult/year)
+- This alone could fund significant Citizen's Royalty ($6,000/adult/year)
 
 **Exemptions:**
 - Basic necessities (food, medicine, housing under threshold)
@@ -176,11 +176,11 @@ Citizens can prove:
 - Year 3-4: Optional ZK filing alongside traditional
 - Year 5+: ZK becomes default for individual filers
 
-### 2.4 The UBI Funding Stack
+### 2.4 The Citizen's Royalty Funding Stack
 
 **Resolving the Revenue Concern:**
 
-UBI funding does NOT depend on tracking individual crypto transactions:
+Citizen's Royalty funding does NOT depend on tracking individual crypto transactions:
 
 | Revenue Source | Mechanism | Crypto Impact | Annual Revenue |
 |----------------|-----------|---------------|----------------|
@@ -438,7 +438,7 @@ The Diversified Strategic Reserve is a national savings vehicle, not a replaceme
 
 **Response:**
 - Basic necessities exempted (food, medicine, housing below threshold)
-- UBI more than offsets consumption tax for lower/middle income
+- Citizen's Royalty more than offsets consumption tax for lower/middle income
 - Net effect is progressive (wealthy consume more, pay more)
 - Luxury surcharges add progressivity
 
@@ -478,7 +478,7 @@ Purchasing power stability and effective taxation are not contradictions—they 
 4. **Zero-knowledge compliance** for individuals (privacy with accountability)
 5. **Land and wealth taxes** on visible, immovable assets (no hiding allowed)
 
-**The wealthy cannot escape through crypto.** The ordinary citizen gains privacy they don't currently have. The tax base remains robust. UBI remains funded.
+**The wealthy cannot escape through crypto.** The ordinary citizen gains privacy they don't currently have. The tax base remains robust. Citizen's Royalty remains funded.
 
 This is not a compromise—it is a synthesis that improves on both status quo surveillance capitalism and naive crypto-libertarianism.
 

@@ -25,11 +25,11 @@ The Human Standard appeals to different audiences for different reasons. This gu
 **Opening:**
 > "The robots are coming for your job—but they should at least pay taxes when they take it. The Human Standard makes sure workers aren't left behind when companies automate."
 
-**On UBI:**
-> "This isn't charity. This is your share of the productivity gains your work helped create. For decades, productivity went up and wages stayed flat. The profits went to shareholders. UBI gives workers their cut of the robot economy."
+**On Citizen's Royalty:**
+> "This isn't charity. This is your share of the productivity gains your work helped create. For decades, productivity went up and wages stayed flat. The profits went to shareholders. Citizen's Royalty gives workers their cut of the robot economy."
 
 **On Bargaining Power:**
-> "When you can walk away from a bad job without worrying about homelessness, you have real bargaining power. Right now, employers know you're desperate. UBI changes that equation. You can finally say no."
+> "When you can walk away from a bad job without worrying about homelessness, you have real bargaining power. Right now, employers know you're desperate. Citizen's Royalty changes that equation. You can finally say no."
 
 **On Job Displacement:**
 > "Nobody should lose their home because a company found a cheaper way to do their job. The automation tax makes companies pay into the fund when they replace workers. Those workers deserve a bridge to the next opportunity, not a cliff."
@@ -43,7 +43,7 @@ The Human Standard appeals to different audiences for different reasons. This gu
 - Sounding anti-business
 
 ### Proof Points
-- SEIU leadership has expressed openness to UBI concepts
+- SEIU leadership has expressed openness to Citizen's Royalty concepts
 - Worker-owned cooperatives thrive with economic security
 - Scandinavian flexicurity model combines security with mobility
 
@@ -61,22 +61,22 @@ The Human Standard appeals to different audiences for different reasons. This gu
 ### Key Messages
 
 **Opening:**
-> "Imagine every customer walking in with $2,000 more in their pocket each month. That's what UBI means for Main Street. When working families have money to spend, they spend it at local businesses."
+> "Imagine every customer walking in with $2,000 more in their pocket each month. That's what Citizen's Royalty means for Main Street. When working families have money to spend, they spend it at local businesses."
 
 **On Consumer Demand:**
-> "The biggest threat to small business isn't regulation—it's lack of customers with money. When wealth concentrates at the top, rich people don't buy more haircuts or eat more meals at your restaurant. UBI puts money in the hands of people who will actually spend it in their communities."
+> "The biggest threat to small business isn't regulation—it's lack of customers with money. When wealth concentrates at the top, rich people don't buy more haircuts or eat more meals at your restaurant. Citizen's Royalty puts money in the hands of people who will actually spend it in their communities."
 
 **On Workers:**
-> "Good luck finding workers who want to work when the alternative is destitution. With UBI, people still want to earn more—$2,000 doesn't cover much—but they can afford to be choosier. That means you'll attract people who actually want to work, not just desperate people who'll quit as soon as something else comes along."
+> "Good luck finding workers who want to work when the alternative is destitution. With Citizen's Royalty, people still want to earn more—$2,000 doesn't cover much—but they can afford to be choosier. That means you'll attract people who actually want to work, not just desperate people who'll quit as soon as something else comes along."
 
 **On Competition:**
 > "Big corporations can automate and squeeze labor costs. The Human Standard small business exemption means your first 10 automated systems are tax-free. But when Amazon uses 10,000 robots, they pay their share. That levels the playing field."
 
 **On Regulatory Burden:**
-> "We're not adding red tape to small businesses. The small business exemption means most of you never deal with automation taxes at all. And UBI replaces half a dozen means-tested programs with one simple system—less bureaucracy for everyone."
+> "We're not adding red tape to small businesses. The small business exemption means most of you never deal with automation taxes at all. And Citizen's Royalty replaces half a dozen means-tested programs with one simple system—less bureaucracy for everyone."
 
 **On Health Insurance:**
-> "When workers have UBI, they're not as desperate for employer-provided benefits to survive. This gives small businesses more flexibility in structuring compensation. Many Human Standard proposals include healthcare reforms that reduce small business insurance burdens."
+> "When workers have Citizen's Royalty, they're not as desperate for employer-provided benefits to survive. This gives small businesses more flexibility in structuring compensation. Many Human Standard proposals include healthcare reforms that reduce small business insurance burdens."
 
 ### Avoid
 - Suggesting small businesses should automate less
@@ -117,7 +117,7 @@ The Human Standard appeals to different audiences for different reasons. This gu
 > "You know better than anyone how AI systems can embed bias, make opaque decisions, and harm people at scale. The Human Standard's AI governance framework isn't anti-AI—it's pro-accountability. You should want this, because it protects the legitimacy of the technology you're building."
 
 **On Job Security:**
-> "Yes, UBI applies to tech workers too. When AI can write code, you'll be glad there's a floor. But more importantly, when everyone has economic security, you can afford to work on what matters—open source projects, startups, things that might not pay at first. UBI enables the risk-taking that drives real innovation."
+> "Yes, Citizen's Royalty applies to tech workers too. When AI can write code, you'll be glad there's a floor. But more importantly, when everyone has economic security, you can afford to work on what matters—open source projects, startups, things that might not pay at first. Citizen's Royalty enables the risk-taking that drives real innovation."
 
 ### Avoid
 - Sounding anti-technology or Luddite
@@ -125,7 +125,7 @@ The Human Standard appeals to different audiences for different reasons. This gu
 - Ignoring legitimate innovation concerns
 
 ### Proof Points
-- OpenAI's Sam Altman supports UBI
+- OpenAI's Sam Altman supports Citizen's Royalty
 - Many tech leaders have called for AI regulation
 - Open source has created more value than closed source
 
@@ -146,7 +146,7 @@ The Human Standard appeals to different audiences for different reasons. This gu
 > "Self-custody rights protected by law. No surveillance currency. Economic freedom from employer dependence. The Human Standard expands liberty in the ways that actually matter."
 
 **On Freedom:**
-> "True freedom isn't just the absence of government coercion—it's having the resources to exercise meaningful choice. When you're one paycheck from homelessness, your 'freedom' to quit a bad job is theoretical. UBI makes freedom real."
+> "True freedom isn't just the absence of government coercion—it's having the resources to exercise meaningful choice. When you're one paycheck from homelessness, your 'freedom' to quit a bad job is theoretical. Citizen's Royalty makes freedom real."
 
 **On Self-Custody:**
 > "You have an absolute right to hold your own digital assets. Period. The government can't force you to use custodians. The Human Standard codifies this in law."
@@ -161,7 +161,7 @@ The Human Standard appeals to different audiences for different reasons. This gu
 > "I know—another tax. But consider: the alternative is either mass dependency on government programs (worse) or social collapse (worse). The automation tax is a targeted levy on machines that replace human labor, funding universal benefits that reduce dependency on bureaucratic means-testing. It's the least-bad option."
 
 **On Milton Friedman:**
-> "Milton Friedman proposed the Negative Income Tax—essentially UBI through the tax code. Friedrich Hayek supported guaranteed minimum income. This isn't socialism; it's completing the liberal project of ensuring everyone has the resources to be free."
+> "Milton Friedman proposed the Negative Income Tax—essentially Citizen's Royalty through the tax code. Friedrich Hayek supported guaranteed minimum income. This isn't socialism; it's completing the liberal project of ensuring everyone has the resources to be free."
 
 ### Avoid
 - Pretending we're eliminating government
@@ -171,7 +171,7 @@ The Human Standard appeals to different audiences for different reasons. This gu
 ### Proof Points
 - Friedman's Negative Income Tax proposal
 - Hayek's support for guaranteed minimum
-- Charles Murray's conservative UBI proposal
+- Charles Murray's conservative Citizen's Royalty proposal
 - Alaska PFD as successful universal payment
 
 ---
@@ -194,7 +194,7 @@ The Human Standard appeals to different audiences for different reasons. This gu
 > "Automation is turbocharging inequality. The gains flow to shareholders while workers get displaced. The Human Standard directly redistributes those gains. It's the largest wealth transfer to working people in American history—but it's our wealth that was taken in the first place."
 
 **On Poverty:**
-> "UBI doesn't just reduce poverty—it eliminates it. Every single American above the poverty line, permanently. That's not a policy goal; that's a guarantee. Housing insecurity, food insecurity, the constant stress of not knowing how you'll survive—ended."
+> "Citizen's Royalty doesn't just reduce poverty—it eliminates it. Every single American above the poverty line, permanently. That's not a policy goal; that's a guarantee. Housing insecurity, food insecurity, the constant stress of not knowing how you'll survive—ended."
 
 **On Corporate Power:**
 > "Right now, corporations externalize the costs of automation onto society and keep all the profits. The Human Standard internalizes those costs. You replace workers, you pay into the fund. It's not radical—it's basic accountability."
@@ -203,10 +203,10 @@ The Human Standard appeals to different audiences for different reasons. This gu
 > "AI systems right now are embedding discrimination into decisions about jobs, loans, bail, and benefits. Black applicants screened out. Women paid less. Disabilities penalized. The Human Standard mandates bias testing, transparency, and citizen recourse. Algorithms must be accountable."
 
 **On Labor:**
-> "UBI is the ultimate strike fund. When workers can survive without a paycheck, they can fight. They can organize. They can demand better. It's not a replacement for labor power—it's the foundation for it."
+> "Citizen's Royalty is the ultimate strike fund. When workers can survive without a paycheck, they can fight. They can organize. They can demand better. It's not a replacement for labor power—it's the foundation for it."
 
 **On Climate:**
-> "Carbon fees contribute to UBI funding. Polluters pay, everyone benefits. And when people have economic security, they can afford to think long-term about the planet. Desperation is the enemy of environmental action."
+> "Carbon fees contribute to Citizen's Royalty funding. Polluters pay, everyone benefits. And when people have economic security, they can afford to think long-term about the planet. Desperation is the enemy of environmental action."
 
 ### Avoid
 - Dismissing concerns about work as purpose
@@ -214,7 +214,7 @@ The Human Standard appeals to different audiences for different reasons. This gu
 - Suggesting markets solve everything
 
 ### Proof Points
-- UBI as reparations and racial equity measure
+- Citizen's Royalty as reparations and racial equity measure
 - Feminist economists on valuing care work
 - Green New Deal compatibility
 - Labor history of fighting for shorter hours/security
@@ -236,22 +236,22 @@ The Human Standard appeals to different audiences for different reasons. This gu
 > "Strong families need economic security. Communities need stable residents. And America needs its people ready for the economy of the future. The Human Standard delivers all three."
 
 **On Families:**
-> "When parents are working three jobs just to survive, they can't be present for their kids. When caregivers have to choose between caring and earning, families suffer. UBI lets parents parent. It lets families be families. That's not government intrusion—that's government getting out of the way."
+> "When parents are working three jobs just to survive, they can't be present for their kids. When caregivers have to choose between caring and earning, families suffer. Citizen's Royalty lets parents parent. It lets families be families. That's not government intrusion—that's government getting out of the way."
 
 **On Work Ethic:**
 > "the Citizen's Royalty (up to $12,000/year under the NIT model) doesn't buy you a comfortable life. It keeps you alive. Most people will absolutely keep working—they'll just have more options about what kind of work. And when people can afford to take risks, you get more entrepreneurs, more innovation, more of the economic dynamism that made America great."
 
 **On Government Efficiency:**
-> "Right now, we spend hundreds of billions on means-tested programs with massive bureaucracies determining who deserves help. UBI eliminates that bureaucracy. Everyone gets the same check. No social workers judging your worthiness. No poverty traps. Clean, simple, universal."
+> "Right now, we spend hundreds of billions on means-tested programs with massive bureaucracies determining who deserves help. Citizen's Royalty eliminates that bureaucracy. Everyone gets the same check. No social workers judging your worthiness. No poverty traps. Clean, simple, universal."
 
 **On Dependency:**
-> "Current welfare creates dependency because benefits cut off when you work. UBI eliminates that trap. You always gain by working. There's no cliff. That's not encouraging dependency—it's enabling independence."
+> "Current welfare creates dependency because benefits cut off when you work. Citizen's Royalty eliminates that trap. You always gain by working. There's no cliff. That's not encouraging dependency—it's enabling independence."
 
 **On National Strength:**
 > "Other countries are preparing for the automation economy. China is developing AI with no constraints. If we don't adapt, we fall behind. The Human Standard ensures America leads the 21st century economy—with technology that serves American values."
 
 **On Community:**
-> "When people have economic stability, they stay in their communities. They invest in their towns. They volunteer. They participate in civic life. Economic desperation destroys communities. UBI preserves them."
+> "When people have economic stability, they stay in their communities. They invest in their towns. They volunteer. They participate in civic life. Economic desperation destroys communities. Citizen's Royalty preserves them."
 
 ### Avoid
 - Attacking traditional values
@@ -260,7 +260,7 @@ The Human Standard appeals to different audiences for different reasons. This gu
 
 ### Proof Points
 - Conservative Alaska's successful PFD
-- Charles Murray's UBI proposal
+- Charles Murray's Citizen's Royalty proposal
 - Pro-family impact of economic security
 - Milton Friedman's NIT proposal
 
@@ -281,22 +281,22 @@ The Human Standard appeals to different audiences for different reasons. This gu
 > "Your generation got handed a rigged economy. Student debt, unaffordable housing, jobs that don't pay, and climate chaos. The Human Standard un-rigs it."
 
 **On Opportunity:**
-> "Every generation before you could expect to do better than their parents. Your generation can't—unless we change the rules. UBI is your generation's New Deal. It's economic security that lets you actually build a life."
+> "Every generation before you could expect to do better than their parents. Your generation can't—unless we change the rules. Citizen's Royalty is your generation's New Deal. It's economic security that lets you actually build a life."
 
 **On Careers:**
-> "The career ladder your parents climbed is gone. But that's not entirely bad—if you have a floor. With UBI, you can take the internship. You can launch the startup. You can try and fail and try again. Without UBI, one mistake and you're drowning."
+> "The career ladder your parents climbed is gone. But that's not entirely bad—if you have a floor. With Citizen's Royalty, you can take the internship. You can launch the startup. You can try and fail and try again. Without Citizen's Royalty, one mistake and you're drowning."
 
 **On Entrepreneurship:**
-> "You've got ideas. Maybe you want to start a company. Create content. Build something new. Right now, you need family money or luck or willing to risk homelessness. With UBI, everyone has a baseline to take risks. That's how you get the next generation of innovation."
+> "You've got ideas. Maybe you want to start a company. Create content. Build something new. Right now, you need family money or luck or willing to risk homelessness. With Citizen's Royalty, everyone has a baseline to take risks. That's how you get the next generation of innovation."
 
 **On Gig Work:**
 > "They told you gig work was 'freedom' while they stripped away benefits and stability. The Human Standard makes gig work actually work—you have income whether or not the algorithm favors you this week."
 
 **On Housing:**
-> "UBI alone doesn't fix housing—but it helps. And the Human Standard includes housing policy that increases supply. More importantly, when you're not desperate, you have more options. You can move for opportunity. You can wait for the right place."
+> "Citizen's Royalty alone doesn't fix housing—but it helps. And the Human Standard includes housing policy that increases supply. More importantly, when you're not desperate, you have more options. You can move for opportunity. You can wait for the right place."
 
 **On Climate:**
-> "You'll live with climate change your whole life. The Human Standard includes carbon fees that fund UBI. But more than that, when people have security, they can think long-term. Economic desperation is the enemy of climate action."
+> "You'll live with climate change your whole life. The Human Standard includes carbon fees that fund Citizen's Royalty. But more than that, when people have security, they can think long-term. Economic desperation is the enemy of climate action."
 
 ### Avoid
 - Being patronizing
@@ -323,16 +323,16 @@ The Human Standard appeals to different audiences for different reasons. This gu
 ### Key Messages
 
 **Opening:**
-> "You earned your Social Security—and you'll keep it. UBI stacks on top, not instead. And your grandchildren deserve the same security you worked to build."
+> "You earned your Social Security—and you'll keep it. Citizen's Royalty stacks on top, not instead. And your grandchildren deserve the same security you worked to build."
 
 **On Social Security:**
-> "Let me be absolutely clear: Social Security is untouched. You paid in your whole working life. That's your money. UBI is additional. Social Security recipients get both."
+> "Let me be absolutely clear: Social Security is untouched. You paid in your whole working life. That's your money. Citizen's Royalty is additional. Social Security recipients get both."
 
 **On Fixed Incomes:**
 > "Inflation hurts you worst because you can't go earn more. The Human Standard isn't inflationary—it's funded by taxes, not money printing. And the sound money provisions protect your savings from dollar debasement."
 
 **On Family Care:**
-> "Many of you care for spouses, parents, or disabled children. That's unpaid work that matters. With UBI, caregivers have income. They can afford to care. They don't have to choose between family and survival."
+> "Many of you care for spouses, parents, or disabled children. That's unpaid work that matters. With Citizen's Royalty, caregivers have income. They can afford to care. They don't have to choose between family and survival."
 
 **On Legacy:**
 > "Look at the economy your grandchildren are inheriting. Student debt. No job security. AI replacing work. The Human Standard fixes this. You can leave them a world where they can thrive, not just survive."
@@ -365,22 +365,22 @@ The Human Standard appeals to different audiences for different reasons. This gu
 ### Key Messages
 
 **Opening:**
-> "Washington ignores rural America until election season. The Human Standard doesn't. UBI goes to every American—not just cities. And $2,000 goes a lot further in rural America."
+> "Washington ignores rural America until election season. The Human Standard doesn't. Citizen's Royalty goes to every American—not just cities. And $2,000 goes a lot further in rural America."
 
 **On Economic Decline:**
-> "Factories closed. Young people left. Main streets are empty. Politicians promise and forget. UBI creates stable, guaranteed income in communities that haven't seen a raise in decades. That's new businesses. That's people staying. That's renewal."
+> "Factories closed. Young people left. Main streets are empty. Politicians promise and forget. Citizen's Royalty creates stable, guaranteed income in communities that haven't seen a raise in decades. That's new businesses. That's people staying. That's renewal."
 
 **On Cost of Living:**
-> "In big cities, $2,000 barely covers rent. In rural America, it's transformative. It's the difference between surviving and thriving. You get more value from UBI than coastal elites—and you deserve it."
+> "In big cities, $2,000 barely covers rent. In rural America, it's transformative. It's the difference between surviving and thriving. You get more value from Citizen's Royalty than coastal elites—and you deserve it."
 
 **On Agriculture:**
-> "Farming is harder than ever. Prices volatile, weather unpredictable, young people won't take over. With UBI, the next generation can afford to stay. They have a floor while they learn the business. Farm families survive."
+> "Farming is harder than ever. Prices volatile, weather unpredictable, young people won't take over. With Citizen's Royalty, the next generation can afford to stay. They have a floor while they learn the business. Farm families survive."
 
 **On Brain Drain:**
-> "Kids leave because there's no opportunity. With UBI, there's security everywhere. They can stay in their communities, start businesses, raise families. Or they can leave and come back when they're ready. The point is: they have choices."
+> "Kids leave because there's no opportunity. With Citizen's Royalty, there's security everywhere. They can stay in their communities, start businesses, raise families. Or they can leave and come back when they're ready. The point is: they have choices."
 
 **On Services:**
-> "When people have money, businesses open. When businesses open, services follow. UBI is economic development that actually works for small towns, not just cities that are already rich."
+> "When people have money, businesses open. When businesses open, services follow. Citizen's Royalty is economic development that actually works for small towns, not just cities that are already rich."
 
 ### Avoid
 - Coastal condescension
@@ -407,22 +407,22 @@ The Human Standard appeals to different audiences for different reasons. This gu
 ### Key Messages
 
 **Opening:**
-> "You served your country. The Human Standard serves you. Your VA benefits are protected. UBI stacks on top. And military families finally get the stability they deserve."
+> "You served your country. The Human Standard serves you. Your VA benefits are protected. Citizen's Royalty stacks on top. And military families finally get the stability they deserve."
 
 **On VA Benefits:**
-> "Veterans' benefits are earned. They're separate from UBI. You get both. Period. This isn't replacing what you've earned—it's adding to it."
+> "Veterans' benefits are earned. They're separate from Citizen's Royalty. You get both. Period. This isn't replacing what you've earned—it's adding to it."
 
 **On Transition:**
-> "Leaving the service is hard. Job training helps, but it's not enough when you can't pay rent while you train. UBI provides the floor. You can take time to find the right opportunity, not just grab the first desperate option."
+> "Leaving the service is hard. Job training helps, but it's not enough when you can't pay rent while you train. Citizen's Royalty provides the floor. You can take time to find the right opportunity, not just grab the first desperate option."
 
 **On Military Families:**
-> "Military families sacrifice too. Spouses following service members can't build careers. UBI provides stability regardless of where duty calls. Spouses have income of their own. Families can survive PCS moves."
+> "Military families sacrifice too. Spouses following service members can't build careers. Citizen's Royalty provides stability regardless of where duty calls. Spouses have income of their own. Families can survive PCS moves."
 
 **On Purpose After Service:**
-> "Service gave you mission, purpose, belonging. Civilian life often doesn't. With economic security, you can find that purpose without poverty. Start a business. Volunteer. Help other veterans. UBI gives you the freedom to serve again in new ways."
+> "Service gave you mission, purpose, belonging. Civilian life often doesn't. With economic security, you can find that purpose without poverty. Start a business. Volunteer. Help other veterans. Citizen's Royalty gives you the freedom to serve again in new ways."
 
 **On Trust:**
-> "You've heard politicians promise before. I won't insult you with guarantees. Here's what I'll say: UBI is simple. It either arrives in your account or it doesn't. No bureaucrats to petition. No claims to file. No means-testing that questions your worthiness. It's either real or it isn't. You'll know."
+> "You've heard politicians promise before. I won't insult you with guarantees. Here's what I'll say: Citizen's Royalty is simple. It either arrives in your account or it doesn't. No bureaucrats to petition. No claims to file. No means-testing that questions your worthiness. It's either real or it isn't. You'll know."
 
 ### Avoid
 - Treating veterans as victims

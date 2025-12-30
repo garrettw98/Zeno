@@ -157,7 +157,7 @@ Each policy page follows consistent structure:
 5. **Who Benefits**
    - Breakdown by demographic
    - Concrete examples
-   - Calculator tool if possible (especially for UBI)
+   - Calculator tool if possible (especially for Citizen's Royalty)
 
 6. **Addressing Concerns**
    - Common objections
@@ -369,7 +369,7 @@ Each policy page follows consistent structure:
 - Video content begins
 
 ### Month 3
-- UBI calculator tool
+- Citizen's Royalty calculator tool
 - Interactive features
 - Community features
 

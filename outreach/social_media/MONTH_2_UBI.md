@@ -1,4 +1,4 @@
-# MONTH 2: UBI DEEP DIVE
+# MONTH 2: Citizen's Royalty DEEP DIVE
 ## Weeks 5-8: Economics, Evidence, and Implementation
 
 ---
@@ -9,7 +9,7 @@
 
 **Post 1 - Monday: Evidence Based**
 ```
-HOOK: "People say UBI is an untested idea. They're wrong."
+HOOK: "People say Citizen's Royalty is an untested idea. They're wrong."
 
 BODY: "We have decades of evidence:
 
@@ -28,12 +28,12 @@ Spoiler: It works better than critics predicted."
 
 CTA: "Which pilot do you want to hear about first?"
 
-HASHTAGS: #UBI #Evidence #Pilots #Data
+HASHTAGS: #Citizen's Royalty #Evidence #Pilots #Data
 ```
 
 **Post 2 - Alaska**
 ```
-HOOK: "Alaska has had UBI for over 40 years. Here's what happened."
+HOOK: "Alaska has had Citizen's Royalty for over 40 years. Here's what happened."
 
 BODY: "Since 1982, every Alaskan resident gets an annual dividend from oil
 revenues. It's ranged from $300 to $2,000+ per person.
@@ -44,14 +44,14 @@ Results:
 - Popular across political parties
 - Recession buffer during oil price drops
 
-It's not perfect UBI - it's annual not monthly, it varies by year, it's
+It's not perfect Citizen's Royalty - it's annual not monthly, it varies by year, it's
 smaller than what we propose. But it proves the concept works.
 
 40 years. Republican state. Still going strong."
 
 CTA: "Why don't more states do this?"
 
-HASHTAGS: #Alaska #PermanentFund #UBI #Proof
+HASHTAGS: #Alaska #PermanentFund #Citizen's Royalty #Proof
 ```
 
 ---
@@ -60,7 +60,7 @@ HASHTAGS: #Alaska #PermanentFund #UBI #Proof
 
 **Post 1 - Finland**
 ```
-HOOK: "Finland tried UBI. The headlines said it failed. They lied."
+HOOK: "Finland tried Citizen's Royalty. The headlines said it failed. They lied."
 
 BODY: "What actually happened:
 
@@ -74,14 +74,14 @@ Results:
 - Health: Improved
 
 Why did headlines say 'failed'? Because employment didn't INCREASE. But
-that wasn't the goal. The goal was: does UBI hurt employment? No.
+that wasn't the goal. The goal was: does Citizen's Royalty hurt employment? No.
 
 The real finding: People are happier, healthier, and just as likely to
 work. That's success."
 
 CTA: "Media spun this wrong. Now you know the truth."
 
-HASHTAGS: #Finland #UBI #MediaLies #Truth
+HASHTAGS: #Finland #Citizen's Royalty #MediaLies #Truth
 ```
 
 **Post 2 - Stockton**
@@ -97,14 +97,14 @@ Results:
 - Financial stability increased
 - People felt dignified instead of surveilled
 
-$500 isn't even close to full UBI. And it still had major positive effects.
+$500 isn't even close to full Citizen's Royalty. And it still had major positive effects.
 
 This wasn't theory. This was Stockton. A real American city with real
 American problems."
 
-CTA: "What would YOUR city look like with UBI?"
+CTA: "What would YOUR city look like with Citizen's Royalty?"
 
-HASHTAGS: #Stockton #SEED #UBI #California
+HASHTAGS: #Stockton #SEED #Citizen's Royalty #California
 ```
 
 ---
@@ -113,10 +113,10 @@ HASHTAGS: #Stockton #SEED #UBI #California
 
 **Post 1 - Kenya**
 ```
-HOOK: "The largest UBI study in history is happening right now in Kenya."
+HOOK: "The largest Citizen's Royalty study in history is happening right now in Kenya."
 
 BODY: "GiveDirectly is giving unconditional cash to over 20,000 people for
-12 years. Largest, longest UBI study ever.
+12 years. Largest, longest Citizen's Royalty study ever.
 
 Early results:
 - Business investment increased
@@ -126,19 +126,19 @@ Early results:
 - Psychological wellbeing improved
 - No decrease in work
 
-And this is in extreme poverty conditions. If UBI works there, imagine
+And this is in extreme poverty conditions. If Citizen's Royalty works there, imagine
 what it does in a developed economy with existing infrastructure.
 
 The evidence keeps coming. And it keeps saying the same thing."
 
 CTA: "Look up GiveDirectly. Incredible organization."
 
-HASHTAGS: #Kenya #GiveDirectly #UBI #GlobalSouth
+HASHTAGS: #Kenya #GiveDirectly #Citizen's Royalty #GlobalSouth
 ```
 
 **Post 2 - What Critics Predicted vs Reality**
 ```
-HOOK: "Here's what critics said would happen with UBI. And what actually
+HOOK: "Here's what critics said would happen with Citizen's Royalty. And what actually
 happened."
 
 BODY: "Critics said: People will stop working.
@@ -158,7 +158,7 @@ the priors."
 
 CTA: "What objection do you still have? Let me address it."
 
-HASHTAGS: #UBI #Critics #Evidence #WrongPredictions
+HASHTAGS: #Citizen's Royalty #Critics #Evidence #WrongPredictions
 ```
 
 ---
@@ -169,13 +169,13 @@ HASHTAGS: #UBI #Critics #Evidence #WrongPredictions
 ```
 HOOK: "Let's really get into the work question. It deserves a deep look."
 
-BODY: "Why people think UBI reduces work:
+BODY: "Why people think Citizen's Royalty reduces work:
 - 'If I didn't HAVE to work, I wouldn't'
 - Basic economics: if the price of not working goes down, people buy more
 
 Why this is wrong:
 - the Citizen's Royalty (up to $12,000/year under the NIT model) is survival, not luxury. People want more than survival.
-- The alternative isn't leisure - it's poverty. UBI just removes poverty.
+- The alternative isn't leisure - it's poverty. Citizen's Royalty just removes poverty.
 - Work provides more than money: purpose, social connection, identity.
 - Humans are not lazy by nature. Bored humans seek activity.
 
@@ -184,7 +184,7 @@ just choose BETTER work."
 
 CTA: "Be honest - would you really do nothing?"
 
-HASHTAGS: #Work #UBI #Incentives #HumanNature
+HASHTAGS: #Work #Citizen's Royalty #Incentives #HumanNature
 ```
 
 **Post 2 - Marginal vs Average**
@@ -195,7 +195,7 @@ decisions."
 BODY: "People don't decide 'work or not work.' They decide 'work MORE or
 work LESS.'
 
-With UBI, some people might:
+With Citizen's Royalty, some people might:
 - Work fewer hours (especially overworked people)
 - Take time between jobs to find better fits
 - Reduce from two jobs to one
@@ -209,7 +209,7 @@ margins. That's fine. That's healthy."
 
 CTA: "Would you quit or just... breathe easier?"
 
-HASHTAGS: #Economics #Marginal #Work #UBI
+HASHTAGS: #Economics #Marginal #Work #Citizen's Royalty
 ```
 
 ---
@@ -218,14 +218,14 @@ HASHTAGS: #Economics #Marginal #Work #UBI
 
 **Post 1 - Mothers and Caregivers**
 ```
-HOOK: "UBI recognizes something important: Caregiving is work."
+HOOK: "Citizen's Royalty recognizes something important: Caregiving is work."
 
 BODY: "Right now, if you stay home to raise kids or care for aging parents,
 you get nothing. Your work is invisible to the economy.
 
 But it's real work. Essential work. Society depends on it.
 
-UBI pays caregivers. Not as a special program - as a recognition that their
+Citizen's Royalty pays caregivers. Not as a special program - as a recognition that their
 contribution matters.
 
 A stay-at-home parent would receive the Citizen's Royalty (up to $12,000/year under the NIT model). For the first time, the
@@ -236,14 +236,14 @@ not just paid employment."
 
 CTA: "Do you know a caregiver whose work goes unrecognized?"
 
-HASHTAGS: #Caregiving #Parents #UBI #WorkIsWork
+HASHTAGS: #Caregiving #Parents #Citizen's Royalty #WorkIsWork
 ```
 
 **Post 2 - Friday Clarity**
 ```
 HOOK: "End of week 5. Let me be crystal clear."
 
-BODY: "The evidence on UBI is not mixed. It's consistent.
+BODY: "The evidence on Citizen's Royalty is not mixed. It's consistent.
 
 Across countries, cultures, income levels, and program designs, the same
 patterns appear:
@@ -260,7 +260,7 @@ If you're still skeptical, tell me what evidence would change your mind."
 
 CTA: "Seriously - what would convince you?"
 
-HASHTAGS: #Evidence #UBI #Data #WeekFive
+HASHTAGS: #Evidence #Citizen's Royalty #Data #WeekFive
 ```
 
 ---
@@ -277,13 +277,13 @@ HASHTAGS: #Evidence #UBI #Data #WeekFive
 
 **Post 1 - Monday: Let's Talk Money**
 ```
-HOOK: "How do we pay for UBI? Let's do this properly."
+HOOK: "How do we pay for Citizen's Royalty? Let's do this properly."
 
 BODY: "The cost: the Citizen's Royalty (up to $12,000/year under the NIT model) x 260 million adults = $6.2 trillion gross.
 
 Sounds impossible. But:
 1. Much of this is recirculated through taxes
-2. We already spend trillions on programs UBI would replace
+2. We already spend trillions on programs Citizen's Royalty would replace
 3. New tax sources become available
 4. The net new cost is much smaller
 
@@ -294,7 +294,7 @@ Let's start tomorrow with what we already spend."
 
 CTA: "Ready to see how the numbers work?"
 
-HASHTAGS: #UBI #Funding #Money #Math
+HASHTAGS: #Citizen's Royalty #Funding #Money #Math
 ```
 
 **Post 2 - Current Spending**
@@ -302,7 +302,7 @@ HASHTAGS: #UBI #Funding #Money #Math
 HOOK: "The government already spends over $2 trillion on income support.
 Did you know that?"
 
-BODY: "Current programs that UBI could consolidate or replace:
+BODY: "Current programs that Citizen's Royalty could consolidate or replace:
 
 - Social Security: $1.2 trillion
 - Medicare/Medicaid (partial): $800 billion
@@ -314,12 +314,12 @@ BODY: "Current programs that UBI could consolidate or replace:
 
 Total: Over $2 trillion already.
 
-UBI doesn't add $6 trillion to spending. It reorganizes what we already spend
+Citizen's Royalty doesn't add $6 trillion to spending. It reorganizes what we already spend
 and adds new sources. Very different math."
 
 CTA: "Tomorrow: new revenue sources."
 
-HASHTAGS: #Spending #Budget #UBI #AlreadySpending
+HASHTAGS: #Spending #Budget #Citizen's Royalty #AlreadySpending
 ```
 
 ---
@@ -336,16 +336,16 @@ evade than income tax. Captures spending by the wealthy.
 
 At 10-15%, a US VAT would raise $1.5-2.5 trillion annually.
 
-'But that's regressive!' Not when paired with UBI.
+'But that's regressive!' Not when paired with Citizen's Royalty.
 
 Think about it: You pay 10% more on purchases. But you receive $24,000/year.
 Unless you spend $240,000/year, you come out ahead.
 
-For most Americans, VAT + UBI is massively progressive."
+For most Americans, VAT + Citizen's Royalty is massively progressive."
 
 CTA: "Every other developed country does this. Why not us?"
 
-HASHTAGS: #VAT #Tax #Funding #UBI
+HASHTAGS: #VAT #Tax #Funding #Citizen's Royalty
 ```
 
 **Post 2 - Automation Tax**
@@ -375,12 +375,12 @@ HASHTAGS: #AutomationTax #Robots #Funding #FairShare
 
 **Post 1 - Carbon Tax**
 ```
-HOOK: "Carbon tax: Good for the environment AND funds UBI."
+HOOK: "Carbon tax: Good for the environment AND funds Citizen's Royalty."
 
 BODY: "Put a price on carbon pollution. Start at $30/ton, rise to $100+.
 
 The revenue goes directly to citizens as dividends - or in our case, as
-part of UBI.
+part of Citizen's Royalty.
 
 At $100/ton, this raises $200-400 billion annually.
 
@@ -391,7 +391,7 @@ It's not either-or. It's both-and. Climate action AND economic security."
 
 CTA: "Climate policy that doesn't hurt working people. Novel concept."
 
-HASHTAGS: #CarbonTax #Climate #UBI #GreenDeal
+HASHTAGS: #CarbonTax #Climate #Citizen's Royalty #GreenDeal
 ```
 
 **Post 2 - Land Value Tax**
@@ -421,7 +421,7 @@ HASHTAGS: #LandValueTax #HenryGeorge #Tax #Funding
 
 **Post 1 - Tax Recapture**
 ```
-HOOK: "Here's something critics miss: UBI pays for itself partially."
+HOOK: "Here's something critics miss: Citizen's Royalty pays for itself partially."
 
 BODY: "When you give someone $24,000, they spend it. That spending generates
 economic activity. That activity generates taxes.
@@ -436,12 +436,12 @@ Dynamic scoring matters. Static analysis misses the picture."
 
 CTA: "Money moves. It doesn't disappear."
 
-HASHTAGS: #Economics #TaxRecapture #UBI #Circulation
+HASHTAGS: #Economics #TaxRecapture #Citizen's Royalty #Circulation
 ```
 
 **Post 2 - Putting It Together**
 ```
-HOOK: "Let's add it all up. Can we fund UBI or not?"
+HOOK: "Let's add it all up. Can we fund Citizen's Royalty or not?"
 
 BODY: "Gross cost: $6.2 trillion
 
@@ -462,7 +462,7 @@ reasonable new taxes on consumption, automation, carbon, and land."
 
 CTA: "The math works. Do we have the will?"
 
-HASHTAGS: #UBI #Funding #Math #PoliticalWill
+HASHTAGS: #Citizen's Royalty #Funding #Math #PoliticalWill
 ```
 
 ---
@@ -471,9 +471,9 @@ HASHTAGS: #UBI #Funding #Math #PoliticalWill
 
 **Post 1 - Deficit Neutral**
 ```
-HOOK: "UBI doesn't have to increase the deficit. Here's how."
+HOOK: "Citizen's Royalty doesn't have to increase the deficit. Here's how."
 
-BODY: "Some people worry UBI means runaway deficits. It doesn't have to.
+BODY: "Some people worry Citizen's Royalty means runaway deficits. It doesn't have to.
 
 Option 1: Fully funded by new taxes (shown earlier this week)
 Option 2: Partially funded by deficit reduction from other programs
@@ -487,14 +487,14 @@ to prosperity."
 
 CTA: "Fiscal responsibility isn't just a right-wing value."
 
-HASHTAGS: #Deficit #FiscalResponsibility #UBI #SoundMoney
+HASHTAGS: #Deficit #FiscalResponsibility #Citizen's Royalty #SoundMoney
 ```
 
 **Post 2 - Friday Funding Recap**
 ```
 HOOK: "Week 6 done. Funding summary."
 
-BODY: "The question isn't 'Can we afford UBI?' It's 'What are our priorities?'
+BODY: "The question isn't 'Can we afford Citizen's Royalty?' It's 'What are our priorities?'
 
 We can afford:
 - Trillions in tax cuts for the wealthy
@@ -505,9 +505,9 @@ But suddenly we 'can't afford' to make sure everyone can eat and have shelter?
 
 The money exists. We just choose to allocate it differently right now.
 
-UBI is a different choice. A better choice."
+Citizen's Royalty is a different choice. A better choice."
 
-CTA: "Next week: How UBI actually gets implemented."
+CTA: "Next week: How Citizen's Royalty actually gets implemented."
 
 HASHTAGS: #Priorities #Funding #Choices #WeekSix
 ```
@@ -524,7 +524,7 @@ HASHTAGS: #Priorities #Funding #Choices #WeekSix
 
 **Post 1 - Monday: How It Actually Works**
 ```
-HOOK: "Let's get practical. How would UBI actually work?"
+HOOK: "Let's get practical. How would Citizen's Royalty actually work?"
 
 BODY: "Day 1: You sign up through IRS or Social Security website.
 Bank account or prepaid debit card.
@@ -535,19 +535,19 @@ Every month after: Same thing. Automatic. No paperwork.
 
 That's it. No means testing. No recertification. No bureaucracy.
 
-Your income changes? Doesn't matter. You get UBI regardless.
-Get a raise? Still get UBI. Lose your job? Still get UBI.
+Your income changes? Doesn't matter. You get Citizen's Royalty regardless.
+Get a raise? Still get Citizen's Royalty. Lose your job? Still get Citizen's Royalty.
 
 Simple beats complicated every time."
 
 CTA: "What would you do with that first deposit?"
 
-HASHTAGS: #UBI #Implementation #Simple #HowItWorks
+HASHTAGS: #Citizen's Royalty #Implementation #Simple #HowItWorks
 ```
 
 **Post 2 - Existing Infrastructure**
 ```
-HOOK: "We already have the infrastructure for UBI. We proved it in 2020."
+HOOK: "We already have the infrastructure for Citizen's Royalty. We proved it in 2020."
 
 BODY: "Remember stimulus checks? Hundreds of millions of payments went out
 in weeks.
@@ -563,9 +563,9 @@ times. The question is whether we do it permanently.
 
 The infrastructure exists. The policy choice is all that's missing."
 
-CTA: "Did your stimulus check arrive? Then UBI can too."
+CTA: "Did your stimulus check arrive? Then Citizen's Royalty can too."
 
-HASHTAGS: #Stimulus #Infrastructure #IRS #UBI
+HASHTAGS: #Stimulus #Infrastructure #IRS #Citizen's Royalty
 ```
 
 ---
@@ -574,7 +574,7 @@ HASHTAGS: #Stimulus #Infrastructure #IRS #UBI
 
 **Post 1 - Transition Period**
 ```
-HOOK: "We wouldn't flip a switch to full UBI overnight. Here's the transition."
+HOOK: "We wouldn't flip a switch to full Citizen's Royalty overnight. Here's the transition."
 
 BODY: "Year 1: $500/month. New tax sources begin.
 Year 2: $1,000/month. Scaling up.
@@ -591,24 +591,24 @@ Thoughtful transition beats sudden revolution."
 
 CTA: "Should it be faster or slower?"
 
-HASHTAGS: #Transition #PhaseIn #Implementation #UBI
+HASHTAGS: #Transition #PhaseIn #Implementation #Citizen's Royalty
 ```
 
 **Post 2 - What About Current Benefits**
 ```
-HOOK: "Will UBI replace Social Security? SNAP? Disability?"
+HOOK: "Will Citizen's Royalty replace Social Security? SNAP? Disability?"
 
 BODY: "Short answer: It's complicated. But fair.
 
-Social Security: Current recipients can keep it or switch to UBI (whichever
-is higher). New workers move to UBI system.
+Social Security: Current recipients can keep it or switch to Citizen's Royalty (whichever
+is higher). New workers move to Citizen's Royalty system.
 
-SNAP/Food stamps: Replaced by UBI (cash is more flexible than food stamps).
+SNAP/Food stamps: Replaced by Citizen's Royalty (cash is more flexible than food stamps).
 
-Disability: Cash portion replaced by UBI. Services continue for those who
+Disability: Cash portion replaced by Citizen's Royalty. Services continue for those who
 need them.
 
-Housing assistance: Complex transition over time. UBI helps with rent but
+Housing assistance: Complex transition over time. Citizen's Royalty helps with rent but
 housing policy still needed.
 
 No one loses out in the transition. That's non-negotiable."
@@ -624,9 +624,9 @@ HASHTAGS: #SocialSecurity #SNAP #Disability #Transition
 
 **Post 1 - State and Local**
 ```
-HOOK: "UBI doesn't have to start federally. States can lead."
+HOOK: "Citizen's Royalty doesn't have to start federally. States can lead."
 
-BODY: "Nothing stops a state from implementing UBI within its borders.
+BODY: "Nothing stops a state from implementing Citizen's Royalty within its borders.
 
 California could do it. Texas could do it. Any state with political will.
 
@@ -638,23 +638,23 @@ Advantages:
 
 Alaska already does a version. What if other states followed?
 
-Federal UBI is the goal. State UBI is the path."
+Federal Citizen's Royalty is the goal. State Citizen's Royalty is the path."
 
 CTA: "What state should go first?"
 
-HASHTAGS: #States #California #Texas #StateUBI
+HASHTAGS: #States #California #Texas #StateCitizen's Royalty
 ```
 
 **Post 2 - Pilot Expansion**
 ```
-HOOK: "Before full UBI, we could run bigger pilots."
+HOOK: "Before full Citizen's Royalty, we could run bigger pilots."
 
 BODY: "The current pilots are small. Hundreds of people. Limited duration.
 
 What if we did:
 - Whole city pilots (100,000+ people)
 - Multi-year duration (5+ years)
-- Full UBI amount (the Citizen's Royalty (up to $12,000/year under the NIT model))
+- Full Citizen's Royalty amount (the Citizen's Royalty (up to $12,000/year under the NIT model))
 - Rigorous measurement
 
 This would generate definitive data. Answer remaining questions. Build
@@ -673,7 +673,7 @@ HASHTAGS: #Pilots #Cities #Expansion #Evidence
 
 **Post 1 - Political Path**
 ```
-HOOK: "How does UBI actually become law? Let's be realistic."
+HOOK: "How does Citizen's Royalty actually become law? Let's be realistic."
 
 BODY: "Path 1: Legislation
 - Introduce bill
@@ -681,13 +681,13 @@ BODY: "Path 1: Legislation
 - Pass and implement
 
 Path 2: State-first
-- States pass UBI
+- States pass Citizen's Royalty
 - Proves concept
 - Federal follows
 
 Path 3: Crisis response
 - Economic crisis hits
-- Emergency UBI passed
+- Emergency Citizen's Royalty passed
 - Becomes permanent
 
 Realistically? Probably some combination. That's why we build the
@@ -695,12 +695,12 @@ framework now - so it's ready when the moment comes."
 
 CTA: "Which path do you think is most likely?"
 
-HASHTAGS: #Politics #Legislation #Path #UBI
+HASHTAGS: #Politics #Legislation #Path #Citizen's Royalty
 ```
 
 **Post 2 - Friday: Why It Hasn't Happened Yet**
 ```
-HOOK: "If UBI is so great, why hasn't it happened?"
+HOOK: "If Citizen's Royalty is so great, why hasn't it happened?"
 
 BODY: "Honest answer:
 
@@ -716,13 +716,13 @@ BODY: "Honest answer:
 5. Timing. The crisis hasn't forced action yet.
 
 None of these are permanent. Automation changes the equation. Economic
-insecurity grows. The arguments for UBI get stronger every year.
+insecurity grows. The arguments for Citizen's Royalty get stronger every year.
 
 The question is when, not if."
 
 CTA: "What do you think is the biggest obstacle?"
 
-HASHTAGS: #Obstacles #Politics #Change #UBI
+HASHTAGS: #Obstacles #Politics #Change #Citizen's Royalty
 ```
 
 ---
@@ -731,13 +731,13 @@ HASHTAGS: #Obstacles #Politics #Change #UBI
 
 ---
 
-## WEEK 8: UBI AND YOU
+## WEEK 8: Citizen's Royalty AND YOU
 
 ### Day 52
 
 **Post 1 - Monday: Personal Impact**
 ```
-HOOK: "Let's make this personal. How would UBI change YOUR life?"
+HOOK: "Let's make this personal. How would Citizen's Royalty change YOUR life?"
 
 BODY: "Think about it:
 
@@ -751,12 +751,12 @@ Would you:
 - Take care of a family member?
 - Just... breathe easier?
 
-UBI isn't abstract policy. It's your life getting better. That's what
+Citizen's Royalty isn't abstract policy. It's your life getting better. That's what
 we're fighting for."
 
 CTA: "Tell me - what would you do?"
 
-HASHTAGS: #UBI #PersonalImpact #YourLife #Dreams
+HASHTAGS: #Citizen's Royalty #PersonalImpact #YourLife #Dreams
 ```
 
 **Post 2 - Security Changes Everything**
@@ -768,7 +768,7 @@ job loss, one crisis - and it all falls apart.
 
 That fear changes how you think. What risks you take. What you tolerate.
 
-With UBI, the floor disappears. The worst case isn't disaster anymore. It's
+With Citizen's Royalty, the floor disappears. The worst case isn't disaster anymore. It's
 just... the Citizen's Royalty (up to $12,000/year under the NIT model). You'll be okay.
 
 That psychological shift is massive. Studies show that financial security
@@ -778,7 +778,7 @@ Security isn't luxury. It's freedom."
 
 CTA: "When's the last time you felt truly secure?"
 
-HASHTAGS: #Security #Freedom #Fear #UBI
+HASHTAGS: #Security #Freedom #Fear #Citizen's Royalty
 ```
 
 ---
@@ -787,7 +787,7 @@ HASHTAGS: #Security #Freedom #Fear #UBI
 
 **Day 58 - Month 2 Wrap**
 ```
-HOOK: "Two months down. Here's what we covered on UBI."
+HOOK: "Two months down. Here's what we covered on Citizen's Royalty."
 
 BODY: "Month 2 deep dive:
 
@@ -798,14 +798,14 @@ BODY: "Month 2 deep dive:
 - The politics: Hard but possible. State-first or crisis response.
 - The personal: What would YOU do with security?
 
-UBI is the foundation of The Human Standard. It makes everything else
+Citizen's Royalty is the foundation of The Human Standard. It makes everything else
 possible.
 
 Month 3: AI and Automation - the reason we need all this."
 
 CTA: "Ready for the tech deep dive?"
 
-HASHTAGS: #MonthTwo #UBI #Complete #OnToThree
+HASHTAGS: #MonthTwo #Citizen's Royalty #Complete #OnToThree
 ```
 
 ---

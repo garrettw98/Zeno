@@ -1,6 +1,8 @@
 # H.R. XXXX / S. XXXX
-# THE DIGITAL ASSET FREEDOM ACT OF 2027
-## "The Sound Money and Authenticity Infrastructure Act"
+# THE STRATEGIC RESERVE & MONETARY STABILITY ACT OF 2027
+## "The Purchasing Power Stability and Authenticity Infrastructure Act"
+
+> **VERSION 2.0 NOTE**: This Act establishes the **Diversified Strategic Reserve** (not a Bitcoin-only reserve) to ensure purchasing power stability while maintaining the benefits of digital asset integration.
 
 ---
 
@@ -28,7 +30,7 @@ To recognize Bitcoin and approved digital assets as legal tender, establish a re
 ## SECTION 1. SHORT TITLE; TABLE OF CONTENTS
 
 ### (a) SHORT TITLE
-This Act may be cited as the "Digital Asset Freedom Act of 2027" or the "Sound Money and Authenticity Infrastructure Act."
+This Act may be cited as the "Strategic Reserve and Monetary Stability Act of 2027" or the "Purchasing Power Stability Act."
 
 ### (b) TABLE OF CONTENTS
 
@@ -45,11 +47,11 @@ TITLE II—DIGITAL ASSETS AS LEGAL TENDER
   Sec. 204. Tax Treatment
   Sec. 205. Conversion and Exchange
 
-TITLE III—STRATEGIC BITCOIN RESERVE
-  Sec. 301. Establishment
+TITLE III—DIVERSIFIED STRATEGIC RESERVE
+  Sec. 301. Establishment of Diversified Strategic Reserve
   Sec. 302. Acquisition Strategy
   Sec. 303. Custody and Security
-  Sec. 304. No Sale Policy
+  Sec. 304. Rebalancing and Stability Policy
   Sec. 305. Transparency and Reporting
 
 TITLE IV—STABLECOIN REGULATION
@@ -71,7 +73,7 @@ TITLE VI—GOVERNMENT DIGITAL ASSET OPERATIONS
   Sec. 601. Federal Acceptance of Digital Assets
   Sec. 602. Federal Payments in Digital Assets
   Sec. 603. Digital Asset Savings Accounts
-  Sec. 604. UBI Payment Options
+  Sec. 604. Citizen's Royalty Payment Options
 
 TITLE VII—AUTHENTICITY INFRASTRUCTURE
   Sec. 701. National Authenticity Infrastructure
@@ -327,7 +329,7 @@ No Federal agency may restrict or prohibit the conversion of Bitcoin or approved
 
 ---
 
-# TITLE III—STRATEGIC BITCOIN RESERVE
+# TITLE III—DIVERSIFIED STRATEGIC RESERVE
 
 ## SEC. 301. ESTABLISHMENT
 
@@ -735,20 +737,20 @@ SMSAs shall be held by qualified custodians meeting the requirements of section 
 ### (e) REPORTING
 Custodians shall report SMSA holdings and transactions to the IRS on forms prescribed by the Secretary.
 
-## SEC. 604. UBI PAYMENT OPTIONS
+## SEC. 604. Citizen's Royalty PAYMENT OPTIONS
 
 ### (a) PAYMENT OPTIONS
-As provided in the Universal Basic Income Act, recipients of UBI payments may elect to receive such payments in—
+As provided in the Universal Basic Income Act, recipients of Citizen's Royalty payments may elect to receive such payments in—
 (1) United States dollars;
 (2) approved stablecoins;
 (3) Bitcoin; or
 (4) a basket of approved digital assets.
 
 ### (b) DEFAULT
-The default payment method for UBI shall be United States dollars unless the recipient affirmatively elects otherwise.
+The default payment method for Citizen's Royalty shall be United States dollars unless the recipient affirmatively elects otherwise.
 
 ### (c) EDUCATION
-The Treasury Department shall provide educational materials to UBI recipients about digital asset payment options, including risks and benefits.
+The Treasury Department shall provide educational materials to Citizen's Royalty recipients about digital asset payment options, including risks and benefits.
 
 ---
 

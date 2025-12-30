@@ -69,7 +69,7 @@ This document provides transparency about the methodology, evidence bases, and c
 
 | Program | Cost Estimate | Confidence | Notes |
 |---------|--------------|------------|-------|
-| UBI at the Citizen's Royalty (up to $12,000/year under the NIT model) | $6.2T gross | HIGH | Simple arithmetic |
+| Citizen's Royalty at the Citizen's Royalty (up to $12,000/year under the NIT model) | $6.2T gross | HIGH | Simple arithmetic |
 | Tax recapture | $1T | MEDIUM | Depends on rate structure |
 | Program replacement | $1-1.5T | MEDIUM | Depends on policy choices |
 | Net new funding | $3-4T | MEDIUM | Sum of above with ranges |
@@ -78,9 +78,9 @@ This document provides transparency about the methodology, evidence bases, and c
 
 | Claim | Confidence | Evidence Base |
 |-------|------------|---------------|
-| UBI reduces poverty | HIGH | Pilot program evidence |
-| UBI doesn't significantly reduce work | MEDIUM-HIGH | Pilot evidence, but universal differs from pilot |
-| UBI may cause some inflation | MEDIUM | Economic theory, depends on implementation |
+| Citizen's Royalty reduces poverty | HIGH | Pilot program evidence |
+| Citizen's Royalty doesn't significantly reduce work | MEDIUM-HIGH | Pilot evidence, but universal differs from pilot |
+| Citizen's Royalty may cause some inflation | MEDIUM | Economic theory, depends on implementation |
 | Automation tax doesn't kill innovation | MEDIUM | Revenue-neutral design, no direct precedent |
 
 ### 2.4 Methodology for Economic Claims
@@ -107,7 +107,7 @@ This document provides transparency about the methodology, evidence bases, and c
 | Claim | Confidence | Notes |
 |-------|------------|-------|
 | Cross-partisan coalition possible | MEDIUM | Historical precedent exists, current polarization challenging |
-| Constitutional authority for UBI | HIGH | Spending power well-established |
+| Constitutional authority for Citizen's Royalty | HIGH | Spending power well-established |
 | Constitutional authority for automation tax | HIGH | Tax power well-established |
 | Constitutional authority for wealth tax | LOW | Direct tax clause creates uncertainty |
 | State-level implementation viable | HIGH | States can act independently |
@@ -163,7 +163,7 @@ This document provides transparency about the methodology, evidence bases, and c
 **We don't know:**
 - Exactly when AGI will arrive
 - Exactly how many jobs will be displaced
-- Exactly how people will respond to universal UBI
+- Exactly how people will respond to universal Citizen's Royalty
 - Whether our political strategy will succeed
 - What unforeseen challenges will emerge
 
@@ -251,10 +251,10 @@ Throughout The Human Standard materials, claims should be understood as follows:
 ### 7.2 Outstanding Questions
 
 **Questions we're actively researching:**
-- Optimal UBI amount for work incentives
+- Optimal Citizen's Royalty amount for work incentives
 - International coordination mechanisms
 - Constitutional questions on wealth taxation
-- Behavioral effects of universal (vs. pilot) UBI
+- Behavioral effects of universal (vs. pilot) Citizen's Royalty
 
 **Questions we acknowledge we cannot answer:**
 - AGI arrival date

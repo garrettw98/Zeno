@@ -1,4 +1,4 @@
-# UBI FUNDING RESILIENCE: Multiple Revenue Streams for Guaranteed Income
+# Citizen's Royalty FUNDING RESILIENCE: Multiple Revenue Streams for Guaranteed Income
 ## Ensuring Universal Basic Income Survives Political and Economic Shocks
 ### By Zeno
 
@@ -8,7 +8,7 @@
 
 Universal Basic Income is the cornerstone of The Human Standard. But a cornerstone must be built on bedrock, not sand. Critics ask: "What if your funding sources don't deliver?" This document provides the answer: **diversified, redundant, and resilient funding architecture.**
 
-**The Core Principle:** UBI must never depend on a single revenue source. Multiple streams ensure that political or economic shocks to any single source don't collapse the program.
+**The Core Principle:** Citizen's Royalty must never depend on a single revenue source. Multiple streams ensure that political or economic shocks to any single source don't collapse the program.
 
 ---
 
@@ -16,21 +16,21 @@ Universal Basic Income is the cornerstone of The Human Standard. But a cornersto
 
 ### 1.1 Scale of Need
 
-**Target UBI:** the Citizen's Royalty (up to $12,000/year under the NIT model) per adult ($24,000/year)
+**Target Citizen's Royalty:** the Citizen's Royalty (up to $12,000/year under the NIT model) per adult ($24,000/year)
 **Adult Population (U.S.):** ~260 million
 **Annual Funding Requirement:** $6.24 trillion gross
 
 **Offset by:**
-- Existing programs replaced by UBI: ~$1.5 trillion
+- Existing programs replaced by Citizen's Royalty: ~$1.5 trillion
 - Tax recapture from high-income recipients: ~$1 trillion
-- Economic growth from UBI spending: ~$500 billion in new revenue
+- Economic growth from Citizen's Royalty spending: ~$500 billion in new revenue
 - **Net New Funding Needed:** ~$3.2-3.5 trillion
 
 ### 1.2 Why Single-Source Funding Fails
 
 **The Automation Tax Dependency Problem:**
 
-If UBI relies solely on automation tax:
+If Citizen's Royalty relies solely on automation tax:
 - Automation slower than expected → revenue shortfall
 - Businesses successfully lobby for exemptions → revenue shortfall
 - Capital flight to tax havens → revenue shortfall
@@ -61,7 +61,7 @@ These sources are stable, hard to evade, and politically durable:
 - Already works in 170+ countries
 
 **Progressivity:**
-- UBI more than offsets VAT for lower/middle income
+- Citizen's Royalty more than offsets VAT for lower/middle income
 - Net benefit up to ~$100,000 income
 - Net tax above ~$150,000 income
 - Highly progressive in combined effect
@@ -186,7 +186,7 @@ These sources target concentrated wealth:
 **Why Important:**
 - Reduces wealth concentration
 - Ensures billionaires contribute proportionally
-- Funds UBI from those who benefit most from automation
+- Funds Citizen's Royalty from those who benefit most from automation
 - Creates stake in system for all
 
 **Vulnerability:**
@@ -249,7 +249,7 @@ These sources come from restructuring current spending:
 #### 2.4.1 Program Consolidation
 **Revenue Potential:** $800 billion - $1.2 trillion/year
 
-**Programs UBI Can Replace:**
+**Programs Citizen's Royalty Can Replace:**
 - SNAP (food stamps): $120 billion
 - SSI (Supplemental Security Income): $60 billion
 - TANF (welfare): $30 billion
@@ -296,7 +296,7 @@ These sources come from restructuring current spending:
 
 ### 3.1 The Redundancy Principle
 
-**No single source exceeds 30% of total UBI funding.**
+**No single source exceeds 30% of total Citizen's Royalty funding.**
 
 | Revenue Source | Target % | Failure Impact |
 |----------------|----------|----------------|
@@ -309,14 +309,14 @@ These sources come from restructuring current spending:
 | Wealth/Inheritance Taxes | 10-15% | Program continues at 85-90% |
 | Program Consolidation | 20-25% | Program continues at 75-80% |
 
-**Key Insight:** If ANY single source fails completely, UBI continues at reduced but functional level. No single point of failure.
+**Key Insight:** If ANY single source fails completely, Citizen's Royalty continues at reduced but functional level. No single point of failure.
 
 ### 3.2 The Stabilization Fund
 
-**Mechanism:** Build a UBI Stabilization Fund (similar to Social Security Trust Fund)
+**Mechanism:** Build a Citizen's Royalty Stabilization Fund (similar to Social Security Trust Fund)
 
 **Design:**
-- Target: 2 years of full UBI payments (~$12 trillion)
+- Target: 2 years of full Citizen's Royalty payments (~$12 trillion)
 - Funded by surplus revenue in good years
 - Drawn down during revenue shortfalls
 - Invested in safe assets (Treasury bonds, TIPS)
@@ -325,15 +325,15 @@ These sources come from restructuring current spending:
 - Revenue exceeds need → surplus to fund
 - Revenue falls short → draw from fund
 - Fund depleted → trigger automatic revenue adjustments
-- Fund excess → increase UBI or reduce taxes
+- Fund excess → increase Citizen's Royalty or reduce taxes
 
 ### 3.3 Automatic Stabilizers
 
 **Built-In Adjustments:**
 
-1. **UBI Amount Adjustment**
-   - Base amount guaranteed ($1,000/month minimum)
-   - Supplementary amount based on revenue ($0-1,000/month)
+1. **Citizen's Royalty Amount Adjustment**
+   - NIT floor guaranteed ($15,000/year Phase 1)
+   - Floor increases based on revenue (up to $30,000/year)
    - Total adjusts automatically, no Congressional action
 
 2. **Tax Rate Adjustment**
@@ -355,7 +355,7 @@ These sources come from restructuring current spending:
 **Design for Durability:**
 
 1. **Entitlement Structure**
-   - UBI as legal entitlement, not discretionary spending
+   - Citizen's Royalty as legal entitlement, not discretionary spending
    - Cannot be cut without affirmative Congressional action
    - Similar to Social Security's protected status
 
@@ -399,14 +399,14 @@ These sources come from restructuring current spending:
 - 260 million people receiving monthly checks
 - Businesses adapt to consumer spending patterns
 - Housing, healthcare, education markets adjust
-- Local economies depend on UBI spending
+- Local economies depend on Citizen's Royalty spending
 - Political suicide to eliminate
 
 **The Social Security Precedent:**
 - Called "socialism" when proposed
 - Now untouchable "third rail"
 - Politicians compete to protect it
-- UBI can achieve same status
+- Citizen's Royalty can achieve same status
 
 ---
 
@@ -420,7 +420,7 @@ These sources come from restructuring current spending:
 - Close carried interest loophole
 - Begin automation tax disclosure
 
-**UBI:**
+**Citizen's Royalty:**
 - $500/month to all adults
 - Consolidate SNAP, TANF, SSI
 - Universal, no means-testing
@@ -435,7 +435,7 @@ These sources come from restructuring current spending:
 - Begin automation tax at 5%
 - Implement data tax
 
-**UBI:**
+**Citizen's Royalty:**
 - Increase to Phase 2 ($18k floor)
 - Build stabilization fund
 - Expand program consolidation
@@ -450,8 +450,8 @@ These sources come from restructuring current spending:
 - Full data tax implementation
 - Wealth tax on ultra-high net worth
 
-**UBI:**
-- Increase to $1,500-2,000/month
+**Citizen's Royalty:**
+- Increase NIT floor to $24,000-30,000/year
 - Full stabilization fund (2 years reserve)
 - Constitutional amendment process begins
 
@@ -461,7 +461,7 @@ These sources come from restructuring current spending:
 
 **The Funding Question Is Answered:**
 
-UBI is funded through **diversified, redundant, and resilient** revenue streams:
+Citizen's Royalty is funded through **diversified, redundant, and resilient** revenue streams:
 
 1. **Tier 1 (Stable):** Consumption tax, land value tax, carbon tax
 2. **Tier 2 (Growth):** Automation tax, data tax, financial transaction tax
@@ -472,7 +472,7 @@ UBI is funded through **diversified, redundant, and resilient** revenue streams:
 
 **Political resilience** is built in through universality, simplicity, trust fund structure, and broad coalition support.
 
-**The Human Standard UBI is not a utopian dream dependent on perfect conditions. It is an engineered system designed to survive real-world political and economic stress.**
+**The Human Standard Citizen's Royalty is not a utopian dream dependent on perfect conditions. It is an engineered system designed to survive real-world political and economic stress.**
 
 ---
 

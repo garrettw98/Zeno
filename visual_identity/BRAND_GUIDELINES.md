@@ -300,7 +300,7 @@ All color combinations must meet WCAG 2.1 AA standards:
 - From brand palette only
 
 **Icon Sets Needed:**
-- Policy topics (UBI, AI, automation, etc.)
+- Policy topics (Citizen's Royalty, AI, automation, etc.)
 - Actions (donate, volunteer, share, etc.)
 - Navigation (menu, search, social, etc.)
 - Status (success, error, warning, info)
@@ -429,7 +429,7 @@ All color combinations must meet WCAG 2.1 AA standards:
 
 | Characteristic | Meaning | Example |
 |----------------|---------|---------|
-| Clear | Jargon-free, accessible | "Monthly income" not "UBI disbursement" |
+| Clear | Jargon-free, accessible | "Monthly income" not "Citizen's Royalty disbursement" |
 | Confident | Assured, not arrogant | "This will work" not "This might work" |
 | Human | Warm, personal | "You deserve security" not "Citizens will receive" |
 | Hopeful | Positive vision | "Future we can build" not "Crisis we must avert" |
