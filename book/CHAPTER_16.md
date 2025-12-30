@@ -49,7 +49,7 @@ These policies address urgent needs and establish frameworks for further action.
 
 **Provisions**:
 
-- $2,000 monthly for up to 12 months for workers displaced by automation
+- the Citizen's Royalty (up to $12,000/year under the NIT model) for up to 12 months for workers displaced by automation
 - Definition: Job eliminated due to AI, robotics, or process automation
 - Verification through employer attestation and Labor Department confirmation
 - Benefit is in addition to standard unemployment insurance, not replacement
@@ -126,7 +126,7 @@ These policies build on immediate measures and address deeper structural changes
 
 ---
 
-#### 5. Universal Basic Income Pilot Program
+#### 5. Citizen's Royalty Pilot Program
 
 **The Problem**: Traditional employment is declining as the primary means of income distribution, but no alternative system exists.
 
@@ -274,7 +274,7 @@ These policies address the full-scale automation transformation.
 
 ---
 
-#### 10. Universal Basic Income Expansion
+#### 10. Citizen's Royalty Expansion
 
 As automation accelerates, UBI must scale accordingly.
 

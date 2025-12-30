@@ -23,7 +23,7 @@
 
 ### Universal Basic Income
 
-**Opening**: "Every American adult would receive $2,000 monthly, no strings attached."
+**Opening**: "Every American adult would receive the Citizen's Royalty (up to $12,000/year under the NIT model), no strings attached."
 
 **Key points**:
 - Consolidates and replaces fragmented welfare programs

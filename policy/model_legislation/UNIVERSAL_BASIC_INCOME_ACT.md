@@ -1,13 +1,15 @@
 # H.R. XXXX / S. XXXX
-# THE UNIVERSAL BASIC INCOME ACT OF 2027
-## "The American Dividend Act"
+# THE CITIZEN'S ROYALTY ACT OF 2027
+## "The Negative Income Tax Implementation Act"
+
+> **VERSION 2.0 UPDATE**: This legislation implements a fiscally sustainable Negative Income Tax (NIT) model rather than a flat Universal Basic Income, reducing projected costs by approximately 60% while achieving the same poverty-elimination goals.
 
 ---
 
 # 118th CONGRESS
 ## 2nd Session
 
-**To establish a Universal Basic Income program providing monthly payments to all adult citizens of the United States, funded through automation productivity taxes, data dividend revenues, and carbon pricing, and for other purposes.**
+**To establish a Citizen's Royalty program providing income support through a Negative Income Tax mechanism to adult citizens of the United States, funded through the Sovereign Humanity Fund, automation productivity taxes, data dividend revenues, and carbon pricing, and for other purposes.**
 
 ---
 
@@ -19,7 +21,7 @@ Mr./Ms. _____________ (for themselves, Mr./Ms. _____________, Mr./Ms. __________
 
 # A BILL
 
-To establish a Universal Basic Income program providing monthly payments to all adult citizens of the United States, funded through automation productivity taxes, data dividend revenues, and carbon pricing, and for other purposes.
+To establish a Citizen's Royalty program providing income support through a Negative Income Tax mechanism to adult citizens of the United States, funded through the Sovereign Humanity Fund, automation productivity taxes, data dividend revenues, and carbon pricing, and for other purposes.
 
 *Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
 
@@ -28,7 +30,7 @@ To establish a Universal Basic Income program providing monthly payments to all 
 ## SECTION 1. SHORT TITLE; TABLE OF CONTENTS
 
 ### (a) SHORT TITLE
-This Act may be cited as the "Universal Basic Income Act of 2027" or the "American Dividend Act."
+This Act may be cited as the "Citizen's Royalty Act of 2027" or the "Negative Income Tax Implementation Act."
 
 ### (b) TABLE OF CONTENTS
 The table of contents for this Act is as follows:
@@ -276,16 +278,48 @@ An individual shall cease to be an eligible individual upon—
 (3) incarceration in a Federal, State, or local correctional facility following conviction; or
 (4) failure to meet the residency requirement under subsection (b) for two consecutive taxable years.
 
-## SEC. 106. BENEFIT AMOUNT AND ADJUSTMENTS
+## SEC. 106. BENEFIT AMOUNT AND ADJUSTMENTS (VERSION 2.0: NEGATIVE INCOME TAX MODEL)
 
-### (a) INITIAL BENEFIT AMOUNT
-(1) **PHASE 1**—For the period beginning on the date that is 3 years after the date of enactment of this Act and ending on the date that is 5 years after such date of enactment, the monthly benefit amount shall be $500 per eligible individual.
+### (a) NEGATIVE INCOME TAX STRUCTURE
+(1) **INCOME FLOOR**—The Citizen's Royalty program shall guarantee a minimum annual income ("Income Floor") for all eligible individuals, payable through a Negative Income Tax mechanism.
 
-(2) **PHASE 2**—For the period beginning on the date that is 5 years after the date of enactment of this Act and ending on the date that is 7 years after such date of enactment, the monthly benefit amount shall be $750 per eligible individual.
+(2) **BENEFIT CALCULATION**—For any eligible individual whose annual income falls below the Income Floor, the benefit shall be calculated as:
 
-(3) **PHASE 3**—For the period beginning on the date that is 7 years after the date of enactment of this Act and ending on the date that is 10 years after such date of enactment, the monthly benefit amount shall be $1,000 per eligible individual.
+   **Citizen's Royalty = (Income Floor - Actual Annual Income) × Taper Rate**
 
-(4) **FULL IMPLEMENTATION**—Beginning on the date that is 10 years after the date of enactment of this Act, the monthly benefit amount shall be $1,200 per eligible individual, subject to adjustment under subsection (b).
+(3) **TAPER RATE**—The taper rate shall ensure that benefits gradually decrease as private income increases, maintaining work incentives by ensuring every dollar earned increases total income.
+
+### (b) IMPLEMENTATION PHASES
+(1) **PHASE 1** (Years 1-3)—
+   - Income Floor: $15,000/year (individual), $22,500/year (couple)
+   - Taper Rate: 50%
+   - Maximum Annual Benefit: $7,500 (individual), $11,250 (couple)
+   - Estimated Annual Cost: $400 billion
+
+(2) **PHASE 2** (Years 4-6)—
+   - Income Floor: $18,000/year (individual), $27,000/year (couple)
+   - Taper Rate: 50%
+   - Maximum Annual Benefit: $9,000 (individual), $13,500 (couple)
+   - Estimated Annual Cost: $600 billion
+
+(3) **PHASE 3** (Years 7-10)—
+   - Income Floor: $24,000/year (individual), $36,000/year (couple)
+   - Taper Rate: 50%
+   - Maximum Annual Benefit: $12,000 (individual), $18,000 (couple)
+   - Estimated Annual Cost: $900 billion
+
+(4) **FULL IMPLEMENTATION** (Year 10+)—
+   - Income Floor: $30,000/year (individual), $45,000/year (couple), indexed to inflation
+   - Taper Rate: 45%
+   - Maximum Annual Benefit: $13,500 (individual), $20,250 (couple)
+   - Estimated Annual Cost: $1.2 trillion
+
+### (c) FISCAL SUSTAINABILITY RATIONALE
+The Negative Income Tax model costs approximately 60% less than a flat Universal Basic Income of equivalent poverty-elimination impact because:
+(1) Benefits are targeted to those with incomes below the floor;
+(2) Benefits taper off gradually for those with moderate incomes;
+(3) Those above the income floor receive no direct benefit; and
+(4) The system integrates with existing tax infrastructure, reducing administrative costs.
 
 ### (b) ANNUAL COST-OF-LIVING ADJUSTMENT
 (1) **IN GENERAL**—Beginning in the second calendar year following full implementation under subsection (a)(4), and in each subsequent calendar year, the Secretary shall adjust the monthly benefit amount by the percentage change in the Consumer Price Index for All Urban Consumers (CPI-U) for the 12-month period ending in September of the preceding calendar year.
@@ -380,14 +414,29 @@ Benefits under this Act shall not be considered earned income for purposes of th
 ### (a) IN GENERAL
 There is established in the Treasury of the United States a trust fund to be known as the "Automation Dividend Fund."
 
-### (b) COMPOSITION OF FUND
+### (b) COMPOSITION OF FUND (VERSION 2.0: INCLUDING SOVEREIGN HUMANITY FUND)
 The Fund shall consist of—
 (1) amounts appropriated to the Fund;
-(2) amounts credited to the Fund under Title III (Automation Productivity Tax);
-(3) amounts credited to the Fund under Title IV (Data Dividend Tax);
-(4) amounts credited to the Fund under Title V (Carbon Dividend Contribution);
-(5) interest and other earnings on investments of the Fund; and
-(6) any other amounts designated by law to be credited to the Fund.
+(2) distributions from the Sovereign Humanity Fund (equity stakes in AI/automation companies);
+(3) amounts credited to the Fund under Title III (Automation Productivity Tax);
+(4) amounts credited to the Fund under Title IV (Data Dividend Tax);
+(5) amounts credited to the Fund under Title V (Carbon Dividend Contribution);
+(6) interest and other earnings on investments of the Fund; and
+(7) any other amounts designated by law to be credited to the Fund.
+
+### (b-1) SOVEREIGN HUMANITY FUND
+(1) **ESTABLISHMENT**—There is established within the Automation Dividend Fund a component fund known as the "Sovereign Humanity Fund" consisting of equity stakes in automation and artificial intelligence companies.
+
+(2) **EQUITY CONTRIBUTIONS**—Companies meeting automation deployment thresholds shall contribute equity as follows:
+   - (A) 0.5% of market capitalization for companies with valuation exceeding $10 billion;
+   - (B) 1.0% of market capitalization for companies with valuation exceeding $100 billion;
+   - (C) Or equivalent in newly issued shares.
+
+(3) **IPO PARTICIPATION**—All AI/automation companies conducting initial public offerings shall offer the Sovereign Humanity Fund 1-3% of shares at the IPO price.
+
+(4) **DISTRIBUTION POLICY**—The Sovereign Humanity Fund shall target annual distributions of 4% of total fund value to support the Citizen's Royalty program.
+
+(5) **RATIONALE**—Equity ownership captures capital appreciation rather than just taxable profits, providing more stable long-term funding that grows with the AI economy.
 
 ### (c) LEGAL STATUS
 The Fund shall be—

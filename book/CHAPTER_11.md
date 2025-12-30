@@ -214,7 +214,7 @@ This creates a feedback loop:
 
 Breaking this loop requires democratic political action before concentration becomes overwhelming. Once a small group controls most resources, the democratic mechanisms that could redistribute those resources become harder to activate.
 
-The window for action is not unlimited. The policies proposed in this book—automation taxes, universal basic income, open source AI mandates—require political coalitions that can overcome resistance from concentrated wealth. Building those coalitions becomes harder as concentration accelerates.
+The window for action is not unlimited. The policies proposed in this book—automation taxes, universal basic income, tiered transparency AI governance—require political coalitions that can overcome resistance from concentrated wealth. Building those coalitions becomes harder as concentration accelerates.
 
 ---
 

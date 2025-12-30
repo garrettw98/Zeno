@@ -154,7 +154,7 @@ HASHTAGS: #Zeno #HumanStandard #Politics #NotLeftNotRight
 ```
 HOOK: "The Human Standard stands on three pillars. Here's the preview."
 
-BODY: "Pillar One: Universal Basic Income. $2,000 a month to every American adult.
+BODY: "Pillar One: Universal Basic Income. the Citizen's Royalty (up to $12,000/year under the NIT model) to every American adult.
 No conditions. No bureaucracy. Just cash.
 
 Pillar Two: AI Governance. Make sure humans stay in control of the machines we
@@ -338,7 +338,7 @@ HASHTAGS: #Zeno #HumanStandard #Recap #WeekOne
 ```
 HOOK: "Universal Basic Income in 60 seconds."
 
-BODY: "$2,000 a month. Every American adult. No conditions.
+BODY: "the Citizen's Royalty (up to $12,000/year under the NIT model). Every American adult. No conditions.
 
 Universal - everyone gets it. Rich or poor. Working or not.
 
@@ -403,7 +403,7 @@ childcare, transportation, education, or anything else.
 Cash treats you like an adult capable of making your own decisions. Because
 you are."
 
-CTA: "What would you use an extra $2,000/month for?"
+CTA: "What would you use an extra the Citizen's Royalty (up to $12,000/year under the NIT model) for?"
 
 HASHTAGS: #UBI #Cash #Freedom #Choice
 ```
@@ -414,7 +414,7 @@ HOOK: "Why $2,000? Where does that number come from?"
 
 BODY: "It's not arbitrary.
 
-$2,000/month is roughly the poverty line for a single adult. It's enough to
+the Citizen's Royalty (up to $12,000/year under the NIT model) is roughly the poverty line for a single adult. It's enough to
 survive on if you have to - pay rent in a modest place, buy food, keep the
 lights on.
 
@@ -446,7 +446,7 @@ Every UBI pilot ever conducted shows that people keep working. Finland.
 Stockton. Kenya. Alaska. Over and over - employment stays the same or
 goes UP.
 
-Why? Because $2,000/month isn't luxury. It's survival. People still want
+Why? Because the Citizen's Royalty (up to $12,000/year under the NIT model) isn't luxury. It's survival. People still want
 more than survival. They want to build lives, buy things, achieve goals.
 
 What changes is that people can be pickier. They can leave abusive jobs.
@@ -454,7 +454,7 @@ They can take time to find something better. They can start businesses.
 
 Work doesn't stop. It gets better."
 
-CTA: "Would YOU stop working if you got $2,000/month?"
+CTA: "Would YOU stop working if you got the Citizen's Royalty (up to $12,000/year under the NIT model)?"
 
 HASHTAGS: #UBI #Work #Employment #MythBusted
 ```
@@ -512,7 +512,7 @@ HASHTAGS: #Inflation #UBI #Economics #MythBusted
 ```
 HOOK: "Where does the money come from? Let's do the math."
 
-BODY: "$2,000/month times 260 million adults is about $6 trillion. That
+BODY: "the Citizen's Royalty (up to $12,000/year under the NIT model) times 260 million adults is about $6 trillion. That
 sounds impossible. But:
 
 - We already spend $2+ trillion on welfare, social security, and related
@@ -645,7 +645,7 @@ HASHTAGS: #UBI #Myths #Facts #Friday
 ```
 HOOK: "Week 2 done. Here's what we covered."
 
-BODY: "UBI: Universal Basic Income. $2,000/month for every adult.
+BODY: "UBI: Universal Basic Income. the Citizen's Royalty (up to $12,000/year under the NIT model) for every adult.
 
 - Universal because targeted programs fail
 - Cash because you know what you need

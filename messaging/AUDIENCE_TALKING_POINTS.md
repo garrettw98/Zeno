@@ -239,7 +239,7 @@ The Human Standard appeals to different audiences for different reasons. This gu
 > "When parents are working three jobs just to survive, they can't be present for their kids. When caregivers have to choose between caring and earning, families suffer. UBI lets parents parent. It lets families be families. That's not government intrusion—that's government getting out of the way."
 
 **On Work Ethic:**
-> "$2,000 a month doesn't buy you a comfortable life. It keeps you alive. Most people will absolutely keep working—they'll just have more options about what kind of work. And when people can afford to take risks, you get more entrepreneurs, more innovation, more of the economic dynamism that made America great."
+> "the Citizen's Royalty (up to $12,000/year under the NIT model) doesn't buy you a comfortable life. It keeps you alive. Most people will absolutely keep working—they'll just have more options about what kind of work. And when people can afford to take risks, you get more entrepreneurs, more innovation, more of the economic dynamism that made America great."
 
 **On Government Efficiency:**
 > "Right now, we spend hundreds of billions on means-tested programs with massive bureaucracies determining who deserves help. UBI eliminates that bureaucracy. Everyone gets the same check. No social workers judging your worthiness. No poverty traps. Clean, simple, universal."

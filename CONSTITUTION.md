@@ -4,6 +4,10 @@
 
 ---
 
+> **VERSION 2.0 NOTE**: This Constitution incorporates the **Resilience Update**: the *Citizen's Royalty* (Negative Income Tax) replaces flat UBI, the *Diversified Strategic Reserve* replaces single-asset backing, *Purchasing Power Stability* replaces deflationary targeting, and the *Tiered Transparency Framework* balances AI accountability with security.
+
+---
+
 > *"We hold these truths to be self-evident: that technology exists to serve humanity, not to rule it; that the gains from automation belong to all people, not just those who own the machines; and that no system—however efficient—may compromise human dignity, agency, or flourishing."*
 
 ---
@@ -154,7 +158,7 @@ The Human Standard response: Build truth infrastructure through blockchain verif
 
 Fiat currency enables hidden taxation through inflation. Since 1913, the dollar has lost 96% of its purchasing power—a slow-motion transfer from savers to debtors, from workers to asset owners. Citizens have no escape from monetary debasement.
 
-The Human Standard response: Provide sound money options that cannot be inflated away. Give citizens monetary sovereignty through voluntary access to cryptographic currencies with fixed supplies.
+The Human Standard response: Provide purchasing power stability options that cannot be inflated away. Give citizens monetary sovereignty through voluntary access to cryptographic currencies with fixed supplies.
 
 ---
 
@@ -169,7 +173,7 @@ Robot Tax, Data Dividend, Universal Basic Income, AI Training Royalties
 Open Source Mandate, Algorithmic Administration, Human Oversight, Democratic Steering
 
 **Pillar III: Monetary Freedom**
-Sound Money Options, Strategic Bitcoin Reserve, Stablecoin Standards, Anti-CBDC Position
+Purchasing Power Stability Options, Diversified Strategic Reserve, Stablecoin Standards, Anti-CBDC Position
 
 **Pillar IV: Truth Infrastructure**
 Blockchain Verification, Content Authentication, Self-Sovereign Identity, Anti-Deepfake Measures

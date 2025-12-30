@@ -280,7 +280,7 @@ Output-based evaluation:
 - AI governance for critical infrastructure
 
 **Strategic Industries:**
-- Strategic Bitcoin Reserve (public)
+- Diversified Strategic Reserve (public)
 - AI governance infrastructure (public)
 - Digital identity infrastructure (public)
 - Not everything, but key commons

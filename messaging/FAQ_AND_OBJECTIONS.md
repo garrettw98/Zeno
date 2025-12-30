@@ -21,7 +21,7 @@
 
 ### Q: Won't people just stop working if you give them free money?
 
-**Short Answer:** No. Alaska has paid dividends for 40+ years and people still work. $2,000/month is enough to survive, not enough to live well. Most people want purpose, not just subsistence.
+**Short Answer:** No. Alaska has paid dividends for 40+ years and people still work. the Citizen's Royalty (up to $12,000/year under the NIT model) is enough to survive, not enough to live well. Most people want purpose, not just subsistence.
 
 **Full Answer:**
 This concern assumes people only work for money and would prefer to do nothing. That's not how humans work. Studies of UBI pilots consistently show:
@@ -37,7 +37,7 @@ What changes is *why* people work and *what jobs* they accept:
 - Entrepreneurs take risks
 - Workers retrain for better jobs
 
-The $2,000/month amount is calibrated specifically to provide security without eliminating work incentives. It covers basic needs but doesn't fund a comfortable middle-class lifestyle. Most people will continue working—they'll just have more power to choose good jobs over bad ones.
+The the Citizen's Royalty (up to $12,000/year under the NIT model) amount is calibrated specifically to provide security without eliminating work incentives. It covers basic needs but doesn't fund a comfortable middle-class lifestyle. Most people will continue working—they'll just have more power to choose good jobs over bad ones.
 
 **Evidence to Cite:**
 - Marinescu, 2017: Meta-analysis of cash transfer programs
@@ -68,16 +68,16 @@ Additionally, the phase-out approach in the Human Standard means higher earners 
 
 ---
 
-### Q: $2,000 a month seems arbitrary. How did you arrive at that number?
+### Q: the Citizen's Royalty (up to $12,000/year under the NIT model) seems arbitrary. How did you arrive at that number?
 
 **Short Answer:** It's approximately the federal poverty line for an individual, providing basic security without replacing work income entirely.
 
 **Full Answer:**
-The $2,000/month figure is based on several considerations:
+The the Citizen's Royalty (up to $12,000/year under the NIT model) figure is based on several considerations:
 
 1. **Poverty Line Benchmark**: The 2025 federal poverty line for an individual is approximately $15,000/year. $24,000/year puts every individual above this threshold.
 
-2. **Cost of Living Analysis**: $2,000/month covers:
+2. **Cost of Living Analysis**: the Citizen's Royalty (up to $12,000/year under the NIT model) covers:
    - Modest housing in most markets (or contributes significantly in expensive ones)
    - Basic food, utilities, transportation
    - Does NOT fully cover middle-class lifestyle—work still necessary for comfortable living
@@ -89,7 +89,7 @@ The $2,000/month figure is based on several considerations:
 5. **Phase-In Approach**: The program starts at $500/month and scales up over 10 years as funding sources mature:
    - Year 1: $500/month
    - Year 5: $1,250/month
-   - Year 10: $2,000/month
+   - Year 10: the Citizen's Royalty (up to $12,000/year under the NIT model)
 
 ---
 
@@ -129,7 +129,7 @@ No one loses money during the transition. Over time, as UBI reaches full value, 
 **Full Answer:**
 The Human Standard includes:
 
-- **Adult UBI**: $2,000/month per adult citizen
+- **Adult UBI**: the Citizen's Royalty (up to $12,000/year under the NIT model) per adult citizen
 - **Child Benefit**: $300/month per child (paid to parent/guardian)
 
 So a family with two parents and two children receives:
@@ -710,7 +710,7 @@ This confuses work with jobs:
 
 **What About Paid Work:**
 - Most people will continue working for income above UBI
-- $2,000/month provides survival, not comfort
+- the Citizen's Royalty (up to $12,000/year under the NIT model) provides survival, not comfort
 - Work will still provide additional income and social connection
 - But people can say no to degrading or exploitative jobs
 
@@ -797,7 +797,7 @@ Means-testing requires judging everyone's worthiness—invasive, expensive, and 
 | Foundation | Years 1-2 | Legislation, agency setup, initial enrollment |
 | Launch | Year 3 | First payments ($500/month) |
 | Scaling | Years 3-7 | Gradual increase, system refinement |
-| Maturity | Years 8-10 | Full $2,000/month, all systems operational |
+| Maturity | Years 8-10 | Full the Citizen's Royalty (up to $12,000/year under the NIT model), all systems operational |
 
 **Why This Pace:**
 - Revenue sources need time to scale
@@ -859,7 +859,7 @@ The Human Standard has a plan that's funded by taxing the very automation that c
 ### Q: "People should work for their money, period."
 
 **Response:**
-"I agree. And here's the thing—most people will keep working because $2,000 a month doesn't buy you a comfortable life. It keeps you alive. But when a robot takes your job, shouldn't the robot at least pay some taxes? Right now, companies fire humans and hire robots and pay nothing for displacing those workers. Is that fair?"
+"I agree. And here's the thing—most people will keep working because the Citizen's Royalty (up to $12,000/year under the NIT model) doesn't buy you a comfortable life. It keeps you alive. But when a robot takes your job, shouldn't the robot at least pay some taxes? Right now, companies fire humans and hire robots and pay nothing for displacing those workers. Is that fair?"
 
 ### Q: "This is just buying votes with free money."
 

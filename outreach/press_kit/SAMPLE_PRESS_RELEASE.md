@@ -18,7 +18,7 @@ Written under the pen name Zeno, the framework includes detailed policy proposal
 "Technology is advancing faster than our institutions can adapt," said [SPOKESPERSON]. "The Human Standard provides a coherent vision for ensuring automation serves humanity rather than displaces it."
 
 Key proposals include:
-- $2,000 monthly Universal Basic Income for all American adults
+- the Citizen's Royalty (up to $12,000/year under the NIT model) Universal Basic Income for all American adults
 - Open-source AI governance with Five Laws of Ethical AI
 - Automation Productivity Tax to fund social dividends
 - Strategic Bitcoin reserve alongside dollar stability
@@ -44,7 +44,7 @@ press@thehumanstandard.org
 
 *Automation tax, VAT, and land value taxation would cover $6 trillion program cost*
 
-[CITY, STATE] - A new analysis from The Human Standard demonstrates how a $2,000 monthly Universal Basic Income could be funded through a combination of new revenue sources and existing program consolidation.
+[CITY, STATE] - A new analysis from The Human Standard demonstrates how a the Citizen's Royalty (up to $12,000/year under the NIT model) Universal Basic Income could be funded through a combination of new revenue sources and existing program consolidation.
 
 The analysis identifies funding sources including:
 - 15% Automation Productivity Tax: $200-600 billion

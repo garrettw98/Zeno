@@ -13,7 +13,7 @@
 **Give Americans a sound money option**
 
 Key policies:
-- Strategic Bitcoin Reserve (national savings in sound money)
+- Diversified Strategic Reserve (national savings in sound money)
 - Stablecoin framework (regulated digital dollars)
 - No central bank digital currency (CBDC) surveillance
 - Financial privacy protections

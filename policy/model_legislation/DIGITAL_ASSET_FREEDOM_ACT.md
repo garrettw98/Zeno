@@ -126,7 +126,7 @@ Congress finds the following:
 
 (3) **BITCOIN'S PROPERTIES**—Bitcoin, created in 2009, offers properties superior to fiat currency for certain monetary functions, including absolute scarcity (21 million maximum supply), decentralization, censorship resistance, and programmability.
 
-(4) **STRATEGIC IMPORTANCE**—The United States has established a Strategic Bitcoin Reserve, recognizing Bitcoin's value as a strategic asset and store of value.
+(4) **STRATEGIC IMPORTANCE**—The United States has established a Diversified Strategic Reserve, recognizing Bitcoin's value as a strategic asset and store of value.
 
 (5) **DEEPFAKE CRISIS**—The proliferation of AI-generated deepfakes threatens the integrity of public discourse, with 133 documented disinformation campaigns using synthetic media in 2024 alone, affecting elections in over 30 countries.
 
@@ -146,7 +146,7 @@ The purposes of this Act are—
 
 (1) to recognize Bitcoin and approved digital assets as legal tender for all debts, public and private;
 
-(2) to establish the Strategic Bitcoin Reserve as a permanent national asset;
+(2) to establish the Diversified Strategic Reserve as a permanent national asset;
 
 (3) to create a clear regulatory framework for stablecoins that protects consumers while enabling innovation;
 
@@ -217,7 +217,7 @@ The term "self-sovereign identity" means a digital identity system in which indi
 The term "stablecoin" means a digital asset designed to maintain a stable value relative to a reference asset, typically a national currency.
 
 ### (17) STRATEGIC BITCOIN RESERVE
-The term "Reserve" means the Strategic Bitcoin Reserve established under section 301.
+The term "Reserve" means the Diversified Strategic Reserve established under section 301.
 
 ---
 
@@ -332,7 +332,7 @@ No Federal agency may restrict or prohibit the conversion of Bitcoin or approved
 ## SEC. 301. ESTABLISHMENT
 
 ### (a) IN GENERAL
-The Strategic Bitcoin Reserve is hereby established as a permanent reserve asset of the United States.
+The Diversified Strategic Reserve is hereby established as a permanent reserve asset of the United States.
 
 ### (b) INITIAL HOLDINGS
 The Reserve shall consist of—
@@ -1285,7 +1285,7 @@ Beginning 5 years after the date of enactment—
 
 ### (a) TREASURY
 The Secretary of the Treasury shall—
-(1) manage the Strategic Bitcoin Reserve;
+(1) manage the Diversified Strategic Reserve;
 (2) implement Federal acceptance of digital assets;
 (3) issue tax guidance;
 (4) coordinate with other agencies; and
@@ -1336,7 +1336,7 @@ The United States shall engage in multilateral forums on digital asset standards
 ## SEC. 1204. AUTHORIZATION OF APPROPRIATIONS
 
 ### (a) STRATEGIC BITCOIN RESERVE
-There is authorized to be appropriated for the Strategic Bitcoin Reserve—
+There is authorized to be appropriated for the Diversified Strategic Reserve—
 (1) $5,000,000,000 for fiscal year 2028;
 (2) $10,000,000,000 for fiscal year 2029;
 (3) $15,000,000,000 for fiscal year 2030; and

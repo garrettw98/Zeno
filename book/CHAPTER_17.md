@@ -283,7 +283,7 @@ The automation age requires governance structures that match technological reali
 
 ### Blockchain and Monetary Freedom
 
-The truth infrastructure and sound money options described in Chapter 9 are also opportunity policies—giving citizens tools for verification and financial autonomy.
+The truth infrastructure and purchasing power stability options described in Chapter 9 are also opportunity policies—giving citizens tools for verification and financial autonomy.
 
 ---
 
@@ -337,7 +337,7 @@ The opportunity: money that cannot be debased.
 
 **Sound Money Savings Accounts**: tax-advantaged Bitcoin holdings
 
-**Strategic Bitcoin Reserve expansion**: target 1 million BTC
+**Diversified Strategic Reserve expansion**: target 1 million BTC
 
 ---
 
@@ -393,7 +393,7 @@ The yang policies form a coherent framework of opportunity:
 
 **Truth**: Infrastructure for verification in the deepfake age
 
-**Money**: Sound money options and financial autonomy
+**Money**: Purchasing power stability options and financial autonomy
 
 Together with the protective policies, these create a comprehensive framework for human flourishing in the automation age.
 
@@ -417,7 +417,7 @@ This is the full policy framework of The Human Standard:
 - Enable enterprise (entrepreneurship support)
 - Govern wisely (algorithmic standards, automation-aware budgeting)
 - Verify truth (blockchain infrastructure)
-- Offer choice (sound money options)
+- Offer choice (purchasing power stability options)
 
 This is not a complete answer to every question the automation age will raise. But it is a framework robust enough to adapt, comprehensive enough to address major challenges, and grounded enough in human values to maintain its direction.
 

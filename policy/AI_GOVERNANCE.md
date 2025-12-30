@@ -20,6 +20,12 @@ This document proposes a radical reimagining of government:
 4. **Data Sovereignty and Security**: Citizens own their data; systems are secure by design
 5. **Global Convergence**: International cooperation toward unified governance for shared challenges
 
+
+
+---
+
+> **VERSION 2.0 UPDATE - TIERED TRANSPARENCY FRAMEWORK**: This document has been updated to replace the original "Total Open Source Mandate" with a **Tiered Transparency Framework** that balances transparency with security concerns. General-purpose AI remains open source, while defense and critical infrastructure models use secure audit procedures. A new **Proof of Personhood** requirement prevents AI bot swarms from overwhelming democratic processes.
+
 ---
 
 ## PART I: THE CORRUPTION PROBLEM
@@ -161,43 +167,117 @@ All government AI systems must be programmed with these inviolable constraints:
 
 ---
 
-## PART III: THE OPEN SOURCE MANDATE
-### Why Government AI Must Be Fully Transparent
+### 2.4 Proof of Personhood (VERSION 2.0 ADDITION)
 
-### 3.1 The Case for Open Source
+**The Bot Swarm Threat:**
 
-**The O-SAIF Argument (February 2025):**
+AI can now generate unlimited synthetic personas that are indistinguishable from real humans. Without verification, democratic processes face overwhelming by:
+- AI-generated petition signatures
+- Bot-driven public comment floods
+- Synthetic voter registration attempts
+- Fake grassroots campaigns
 
-The Open-Source AI Foundation launched to advocate for transparency in government AI:
+**The Solution: Privacy-Preserving Digital ID**
 
-> "Open-source AI ensures public auditability, enhances security, and prevents wasteful spending of taxpayer dollars."
+All participation in government AI systems (public comments, appeals, voting, benefit claims) requires **Proof of Personhood** verification:
 
-**Why Proprietary AI is Unacceptable:**
+**Requirements:**
+1. **One person, one identity**: Cryptographic proof you are a unique human
+2. **Privacy-preserving**: Zero-knowledge proofs verify humanity without revealing identity
+3. **No biometrics stored**: Verification happens locally, only proof transmitted
+4. **Multiple pathways**: In-person, video verification, or trusted vouching systems
 
-1. **Accountability**: Citizens cannot audit what they cannot see
-2. **Security**: Closed source hides vulnerabilities (security through obscurity fails)
-3. **Capture**: Vendors can embed biases favorable to their interests
-4. **Lock-in**: Government becomes dependent on private contractors
-5. **Cost**: Taxpayers pay premium for black boxes
-6. **Trust**: Public cannot trust what public cannot verify
+**Implementation:**
+- Digital ID optional for general services
+- Mandatory for voting, public comments, petitions
+- Tied to existing government ID systems (passport, SSN, driver's license)
+- Cannot be bought, sold, or transferred
 
-### 3.2 The Open Source AI Governance Act
+**Why This Matters:**
+Without Proof of Personhood, a single adversary with AI tools could generate millions of fake citizens, overwhelming democratic deliberation and rendering public input meaningless.
 
-**Section 1: Mandatory Open Source**
+---
 
-All AI systems used by federal, state, and local government for administrative decisions must:
-- Release complete source code under open source license (Apache 2.0 or equivalent)
-- Release all training data (with privacy protections)
-- Release all model weights and parameters
-- Provide complete documentation of decision-making logic
-- Allow independent security audits
+## PART III: THE TIERED TRANSPARENCY FRAMEWORK (VERSION 2.0)
+### Balancing Transparency with Security
 
-**Section 2: Prohibited Proprietary Use**
+### 3.1 The Case for Tiered Transparency (VERSION 2.0)
 
-No government agency may:
-- Contract with vendors for closed-source AI administrative systems
-- Use AI systems where reasoning cannot be fully explained
-- Deploy AI systems that cannot be publicly audited
+**The Problem with "Total Open Source":**
+
+Version 1.0 advocated for mandatory open source for ALL government AI. This created a critical security vulnerability: open-sourcing defense and cyber-warfare AI models would proliferate advanced weapons to adversaries.
+
+**The Version 2.0 Solution: Tiered Transparency Framework**
+
+Different AI systems require different transparency levels:
+
+| Tier | Category | Transparency Level | Access |
+|------|----------|-------------------|--------|
+| **Tier 1** | Public Commons | Full Open Source | Anyone |
+| **Tier 2** | Secure Audit | Source Available | Vetted NAICO Auditors |
+| **Tier 3** | Classified | Congressional Oversight | Cleared Officials |
+
+**Why Tiered Transparency Works:**
+
+1. **Accountability**: 90%+ of government AI remains fully auditable by public
+2. **Security**: Defense/cyber AI protected from adversarial exploitation
+3. **Balance**: Transparency where possible, security where necessary
+4. **Precedent**: Similar to classification systems for other government functions
+
+### 3.2 The Tiered Transparency AI Governance Act (VERSION 2.0)
+
+**Section 1: Tier 1 - Public Commons (Full Open Source)**
+
+The following AI systems MUST be fully open source (Apache 2.0 or equivalent):
+- Benefits eligibility and administration
+- Tax processing and citizen services
+- Permit and license processing
+- Public records management
+- Education and healthcare administration
+- Environmental monitoring
+- General consumer-facing AI tools
+
+Requirements:
+- Complete source code released publicly
+- All training data disclosed (with privacy protections)
+- All model weights and parameters published
+- Full documentation of decision-making logic
+- Independent security audits welcomed
+
+**Section 2: Tier 2 - Secure Audit (Source Available)**
+
+The following AI systems use "Source Available" model with restricted access:
+- Defense and military planning AI
+- Cybersecurity and infrastructure protection
+- Intelligence analysis systems
+- Critical infrastructure control (power grid, water, communications)
+- Counter-terrorism and law enforcement sensitive systems
+
+Requirements:
+- Source code available ONLY to vetted NAICO (National AI Coordination Office) auditors
+- Auditors must hold appropriate security clearances
+- Annual audit reports published (with classified portions redacted)
+- Congressional oversight committees have full access
+- NOT published on open internet to prevent proliferation
+
+**Rationale**: Publishing advanced cyber-warfare or weapons-targeting AI models on GitHub would be tantamount to sharing nuclear weapons designs. Transparency must not enable adversarial exploitation.
+
+**Section 3: Tier 3 - Classified (Congressional Oversight)**
+
+Highly sensitive AI systems:
+- Active military operations
+- Covert intelligence capabilities
+- Imminent threat response systems
+
+Requirements:
+- Congressional Gang of Eight notification
+- Inspector General access with clearance
+- Subject to existing classification review timelines
+- Eventual declassification when threat environment permits
+
+**Section 4: Default to Tier 1**
+
+When in doubt, AI systems default to Tier 1 (full open source). Tier 2 or Tier 3 classification requires explicit justification and annual renewal.
 - Accept "trade secret" claims for public decision-making tools
 
 **Section 3: Transition Timeline**

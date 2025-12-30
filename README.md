@@ -8,6 +8,19 @@
 
 ---
 
+## VERSION 2.0: The Resilience Update
+
+This repository incorporates **Version 2.0: The Resilience Update**, which addresses critical policy vulnerabilities:
+
+| Original | Version 2.0 | Improvement |
+|----------|-------------|-------------|
+| Flat $2k/month UBI | **Citizen's Royalty** (NIT model) | ~60% cost reduction |
+| 100% Bitcoin Reserve | **Diversified Strategic Reserve** | Reduced volatility |
+| Total Open Source | **Tiered Transparency Framework** | Security + accountability |
+| Deflationary Sound Money | **Purchasing Power Stability** | Prevents consumption collapse |
+
+---
+
 ## What Is This?
 
 **The Human Standard** is a complete political philosophy, policy framework, and movement infrastructure for governance in the age of AI and automation.
@@ -61,7 +74,7 @@ Fiat currency has lost 96% of purchasing power since 1913. Central banks serve e
 |--------|-----------|------------|
 | Economic | Automation benefits all | UBI + Automation Tax |
 | Governance | AI administers, humans decide | Open Source AI Mandate |
-| Monetary | Money citizens control | Strategic Bitcoin Reserve |
+| Monetary | Money citizens control | Diversified Strategic Reserve |
 | Truth | Verification for all | Blockchain Infrastructure |
 
 ---

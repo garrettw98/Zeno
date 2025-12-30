@@ -6,6 +6,10 @@
 
 ## EXECUTIVE SUMMARY
 
+> **VERSION 2.0 UPDATE**: This framework has been integrated with the **Tiered Transparency Framework** from AI_GOVERNANCE.md. The tiered classification system (Tier 1 Public Commons, Tier 2 Secure Audit, Tier 3 Classified) now governs transparency levels, and **Proof of Personhood** requirements have been added for democratic participation in AI governance.
+
+---
+
 A fundamental tension exists in our AI governance proposal: we advocate for **fully open-source government AI** to ensure accountability and prevent corruption, while critics correctly note that **open source creates security vulnerabilities** and could be **weaponized by adversaries**. This document provides a comprehensive resolution.
 
 **The Core Insight:** The tension between transparency and security is real but not irreconcilable. We resolve it through **layered architecture**, **security-through-design**, and **controlled disclosure** mechanisms that achieve both goals.
@@ -17,7 +21,7 @@ A fundamental tension exists in our AI governance proposal: we advocate for **fu
 ### 1.1 The Problem Statement
 
 **Our Advocacy:**
-- All government AI systems must be open source
+- Civilian government AI systems must be open source under the Tiered Transparency Framework (defense/critical infrastructure uses secure audit process)
 - Citizens must be able to audit the code that governs their lives
 - Transparency prevents corruption and bias
 - "Security through obscurity" is rejected as fundamentally flawed
@@ -68,7 +72,7 @@ A fundamental tension exists in our AI governance proposal: we advocate for **fu
 
 Not all government AI is equal. We propose a four-tier classification system:
 
-#### Tier 1: Fully Open (70% of Government AI)
+#### Tier 1: Public Commons - Fully Open Source (VERSION 2.0 Aligned)
 
 **Applies to:**
 - Benefits eligibility determination
@@ -92,7 +96,7 @@ Not all government AI is equal. We propose a four-tier classification system:
 
 **Rationale:** These systems affect citizens directly. Gaming attempts are detectable (fraudulent applications get caught eventually). Transparency is paramount.
 
-#### Tier 2: Disclosed with Delay (20% of Government AI)
+#### Tier 2: Secure Audit - Source Available to NAICO (VERSION 2.0 Aligned)
 
 **Applies to:**
 - Fraud detection algorithms
@@ -114,7 +118,7 @@ Not all government AI is equal. We propose a four-tier classification system:
 
 **Rationale:** Immediate disclosure enables gaming. Delayed disclosure maintains accountability while preserving effectiveness.
 
-#### Tier 3: Auditor Access Only (8% of Government AI)
+#### Tier 3: Classified - Congressional Oversight (VERSION 2.0 Aligned)
 
 **Applies to:**
 - Active criminal investigations

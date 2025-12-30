@@ -10,6 +10,11 @@ Transformative policies face opposition. That opposition isn't random—it follo
 
 **The Core Insight:** We cannot wish opposition away. We must understand it, divide it, neutralize it, and ultimately defeat it.
 
+
+---
+
+> **VERSION 2.0 UPDATE - COALITION ALIGNMENT**: This document has been updated to improve political coalition-building. Key changes: (1) "UBI" rebranded as **"Citizen's Royalty"** - framed as a return on public data/infrastructure investment, not welfare; (2) Updated libertarian messaging to emphasize property rights over data; (3) Refined cross-partisan appeal focusing on shared anti-corruption, anti-monopoly values.
+
 ---
 
 ## PART I: THE INTEREST LANDSCAPE
@@ -50,7 +55,7 @@ Transformative policies face opposition. That opposition isn't random—it follo
 
 | Industry | Reason for Potential Support |
 |----------|------------------------------|
-| Small Business | UBI creates consumer demand, payroll tax reduction |
+| Small Business | Citizen's Royalty creates consumer demand, payroll tax reduction |
 | Retail | UBI creates spending power |
 | Entertainment | More leisure time, spending capacity |
 | Education/Training | Lifelong learning investment |
@@ -66,7 +71,7 @@ Transformative policies face opposition. That opposition isn't random—it follo
 | Chamber of Commerce | Low taxes, deregulation | Oppose taxation, governance |
 | Business Roundtable | Corporate interests | Mixed (some AI concerns) |
 | Heritage Foundation | Conservative ideology | Oppose UBI, taxation |
-| Cato Institute | Libertarian ideology | Mixed (like UBI concept, oppose taxes) |
+| Cato Institute | Libertarian ideology | Mixed (like Citizen's Royalty concept, oppose taxes) |
 | FreedomWorks | Anti-tax activism | Oppose taxation |
 | National Association of Manufacturers | Manufacturing costs | Oppose automation tax |
 | American Bankers Association | Financial regulation | Oppose financial transaction tax |
@@ -286,7 +291,18 @@ Transformative policies face opposition. That opposition isn't random—it follo
 - Viral content and messaging
 - Demand coverage through action
 
-### 4.4 Reframe the Debate
+### 4.4 Reframe the Debate (VERSION 2.0)
+
+**From "Welfare" to "Property Rights" (KEY LIBERTARIAN REFRAME):**
+
+The Citizen's Royalty is NOT welfare. It is a **property rights dividend**:
+- Your data has value - companies extract $1,000+/year from each citizen's data
+- Public infrastructure (roads, internet, GPS, courts) enables corporate profits
+- The Citizen's Royalty is your RETURN on these public investments
+- It's not a handout - it's what you're OWED
+
+**Frame for Libertarians:**
+> "You own your data. Companies have been stealing it. The Citizen's Royalty is reparations for data theft and your dividend from the public infrastructure that makes their profits possible."
 
 **From "Redistribution" to "Modernization":**
 - Not taking from rich, but updating system for AI age
@@ -294,7 +310,7 @@ Transformative policies face opposition. That opposition isn't random—it follo
 - Not regulation, but accountability
 
 **From "Cost" to "Investment":**
-- UBI creates demand, boosts economy
+- Citizen's Royalty creates consumer demand, boosts economy
 - AI governance prevents catastrophic failures
 - Infrastructure investment returns multiples
 
@@ -306,8 +322,8 @@ Transformative policies face opposition. That opposition isn't random—it follo
 
 **From "Government" to "People":**
 - AI governance is people controlling their tools
-- UBI is people sharing national prosperity
-- Taxes are corporations paying fair share
+- Citizen's Royalty is people sharing national prosperity
+- Sovereign Humanity Fund is citizens as shareholders
 
 ---
 
@@ -325,8 +341,8 @@ Transformative policies face opposition. That opposition isn't random—it follo
 **Persuadable Voters:**
 - Suburban moderates (quality of life)
 - Small business owners (demand benefits)
-- Libertarian-leaning (UBI simplicity)
-- Rural communities (UBI benefit, distrust of corporations)
+- Libertarian-leaning (Citizen's Royalty simplicity)
+- Rural communities (Citizen's Royalty benefit, distrust of corporations)
 - Seniors (Social Security plus)
 
 **Likely Opposition:**
@@ -363,7 +379,7 @@ Transformative policies face opposition. That opposition isn't random—it follo
 | Democrats Total | 45 | 5 | Need nearly all |
 | Independent | 3 | 0 | Already aligned |
 | Moderate Republicans | 0 | 8 | Cross-partisan appeal |
-| Libertarian Republicans | 0 | 4 | UBI concept |
+| Libertarian Republicans | 0 | 4 | Citizen's Royalty concept |
 | **Total Potential** | 48 | 17 | 60 difficult but possible |
 
 **Reconciliation Path (Budget, 51):**

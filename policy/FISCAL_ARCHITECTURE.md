@@ -1,4 +1,4 @@
-# FISCAL ARCHITECTURE: Resolving Sound Money and Tax Collection
+# FISCAL ARCHITECTURE: Resolving Purchasing Power Stability and Tax Collection
 ## Transparent Taxation in a Privacy-Preserving Digital Economy
 ### By Zeno
 
@@ -6,7 +6,7 @@
 
 ## EXECUTIVE SUMMARY
 
-A fundamental tension exists in The Human Standard framework: we advocate for **sound money and financial privacy** through decentralized cryptocurrency while simultaneously requiring **robust tax collection** to fund Universal Basic Income and social programs. This document resolves that tension through a carefully designed fiscal architecture that achieves both goals.
+A fundamental tension exists in The Human Standard framework: we advocate for **purchasing power stability and financial privacy** through decentralized cryptocurrency while simultaneously requiring **robust tax collection** to fund Universal Basic Income and social programs. This document resolves that tension through a carefully designed fiscal architecture that achieves both goals.
 
 **The Core Insight:** Privacy and taxation are not inherently opposed. The current system conflates *surveillance* with *compliance*. We can build a system where citizens maintain financial privacy from corporations and bad actors while still meeting their obligations to the commonwealth.
 
@@ -280,7 +280,7 @@ UBI funding does NOT depend on tracking individual crypto transactions:
 
 ---
 
-## PART IV: SOUND MONEY COMPATIBILITY
+## PART IV: PURCHASING POWER STABILITY COMPATIBILITY (VERSION 2.0)
 
 ### 4.1 How Bitcoin Adoption Supports Tax Collection
 
@@ -308,11 +308,11 @@ UBI funding does NOT depend on tracking individual crypto transactions:
    - Crypto (even "private" crypto) leaves more traces
    - Underground economy shrinks
 
-### 4.2 The Strategic Bitcoin Reserve and Taxation
+### 4.2 The Diversified Strategic Reserve and Taxation
 
 **The Reserve Does NOT Conflict with Taxation:**
 
-The Strategic Bitcoin Reserve is a national savings vehicle, not a replacement for taxation.
+The Diversified Strategic Reserve is a national savings vehicle, not a replacement for taxation.
 
 **Analogy:** The U.S. holds gold reserves (~$500B). This doesn't mean gold ownership eliminates tax obligations.
 
@@ -443,7 +443,7 @@ The Strategic Bitcoin Reserve is a national savings vehicle, not a replacement f
 - Luxury surcharges add progressivity
 
 **Math:**
-- $2,000/month UBI = $24,000/year
+- Citizen's Royalty NIT floor = $24,000/year
 - 15% consumption tax on $50,000 spending = $7,500/year
 - Net benefit to median household: +$16,500/year
 - Wealthy household spending $500,000/year: pays $75,000+ in consumption tax
@@ -452,9 +452,11 @@ The Strategic Bitcoin Reserve is a national savings vehicle, not a replacement f
 
 ## CONCLUSION
 
-**The Reconciliation:**
+**The Reconciliation (Version 2.0):**
 
-Sound money and effective taxation are not contradictions—they are complements when properly designed.
+**VERSION 2.0 UPDATE**: The original framework advocated "Sound Money" in the deflationary sense. This has been updated to **"Purchasing Power Stability"** which avoids both inflationary erosion AND deflationary spirals.
+
+Purchasing power stability and effective taxation are not contradictions—they are complements when properly designed.
 
 **Sound Money Provides:**
 - Stable unit of account

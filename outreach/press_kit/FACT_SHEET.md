@@ -46,7 +46,7 @@
 
 ### Basic Math
 - US adult population: ~258 million
-- $2,000/month = $24,000/year per adult
+- the Citizen's Royalty (up to $12,000/year under the NIT model) = $24,000/year per adult
 - Gross cost: ~$6.2 trillion annually
 
 ### Funding Sources (Estimates)

@@ -19,6 +19,11 @@ This document proposes a bold but graduated transition:
 - Phase 2: Cryptocurrency as parallel legal tender
 - Phase 3: Gradual migration from dollar dominance to decentralized money
 
+
+---
+
+> **VERSION 2.0 UPDATE - DIVERSIFIED STRATEGIC RESERVE**: This document has been updated to replace the original "100% Bitcoin backing" approach with a **Diversified Strategic Reserve** model that reduces volatility risk while maintaining the benefits of sound money. The goal has shifted from "deflationary sound money" to **"Purchasing Power Stability"** to prevent deflationary spirals that could harm consumption and economic growth.
+
 ---
 
 ## PART I: THE TRUST INFRASTRUCTURE
@@ -311,16 +316,29 @@ Centralized money enables government overreach:
 
 **The Trump Administration's Approach:**
 
-**Strategic Bitcoin Reserve (March 2025):**
-- Executive Order establishing Bitcoin as reserve asset
-- Initial holdings: ~207,000 BTC (~$17 billion)
-- Policy: No selling of reserve Bitcoin
-- Called "Digital Fort Knox" by White House AI/Crypto Czar David Sacks
+**VERSION 2.0: Diversified Strategic Reserve (Replaces "Strategic Bitcoin Reserve"):**
 
-**Digital Asset Stockpile:**
+The original Strategic Bitcoin Reserve (March 2025) created dangerous volatility exposure for government finances. Version 2.0 implements a **Diversified Strategic Reserve** that provides stability while capturing the benefits of multiple asset classes.
+
+**Reserve Composition:**
+| Asset Class | Allocation | Rationale |
+|-------------|------------|-----------|
+| Bitcoin (BTC) | 30% | Growth potential, digital scarcity |
+| Gold (Physical + ETF) | 20% | Historical stability, inflation hedge |
+| Foreign Currencies/Bonds | 30% | Liquidity, income generation |
+| Real Estate/Infrastructure | 20% | Utility value, inflation protection |
+
+**Why Diversification Matters:**
+- Bitcoin volatility: Can swing 30-50% in months
+- Citizen's Royalty payments require stable funding
+- Diversification reduces drawdown risk by ~60%
+- Multiple asset classes hedge different economic scenarios
+
+**Digital Asset Stockpile (Retained):**
 - Additional cryptocurrencies: ETH, XRP, SOL, ADA
 - Capitalized with assets from criminal/civil forfeitures
 - Positions U.S. as leader in government digital asset strategy
+- **Version 2.0 Addition**: Maximum 10% of reserve in volatile altcoins
 
 **GENIUS Act (July 2025):**
 - Federal regulatory framework for stablecoins
@@ -366,13 +384,48 @@ El Salvador made Bitcoin legal tender in September 2021—the first country to d
 5. **International pressure**: IMF/World Bank can force reversals
 6. **Gradual transition**: Overnight change is destabilizing
 
-### 3.5 The Zeno Monetary Transition Framework
+### 3.5 Algorithmic Central Banking (VERSION 2.0)
+
+**The New Goal: Purchasing Power Stability**
+
+Version 2.0 shifts the monetary policy goal from "deflationary sound money" to **"Purchasing Power Stability"**. Pure deflation creates problems:
+
+| Deflationary Problem | Impact |
+|---------------------|--------|
+| Consumer hoarding | People delay purchases expecting lower prices |
+| Debt spiral | Fixed debts become harder to repay over time |
+| Wage stickiness | Nominal wage cuts cause labor market friction |
+| Investment freeze | Why invest if money gains value by sitting? |
+
+**The Algorithmic Central Banking Framework:**
+
+Instead of targeting inflation (like the Fed) or deflation (pure Bitcoin maximalism), we target **stable purchasing power**:
+
+1. **Purchasing Power Index (PPI)**: Basket of essential goods and services
+2. **Target: 0% annual change** in PPI (not CPI inflation targeting)
+3. **Automatic adjustment**: Reserve composition rebalances algorithmically
+4. **Transparent rules**: No discretionary Fed-style manipulation
+
+**How It Works:**
+
+- If PPI increases (purchasing power falling): Increase Bitcoin/Gold allocation, reduce foreign currency exposure
+- If PPI decreases (purchasing power rising/deflation): Decrease Bitcoin allocation, increase foreign currency/bond allocation
+
+**Why This Is Better:**
+- Avoids inflationary theft of savings
+- Prevents deflationary consumption collapse
+- Transparent, rule-based (no political manipulation)
+- Citizens can plan with stable purchasing power
+
+---
+
+### 3.6 The Zeno Monetary Transition Framework
 
 **Philosophy:**
 
-The goal is not to mandate cryptocurrency, but to **enable choice** and **create incentives** for voluntary adoption while protecting citizens from fiat currency debasement.
+The goal is not to mandate cryptocurrency, but to **enable choice** and **create incentives** for voluntary adoption while protecting citizens from purchasing power erosion.
 
-**The key insight from El Salvador**: You cannot force monetary revolution from the top. You must create conditions where people *choose* sound money because it serves their interests.
+**The key insight from El Salvador**: You cannot force monetary revolution from the top. You must create conditions where people *choose* stable purchasing power because it serves their interests.
 
 ---
 
@@ -471,7 +524,7 @@ Default shifts to USDC unless citizen opts for dollars.
 - Congressional approval required for QE above threshold
 - Gold reserve verification and publication
 
-**3.3 Strategic Bitcoin Reserve Expansion:**
+**3.3 Diversified Strategic Reserve Management:**
 
 - Annual Bitcoin purchases using portion of:
   - Automation tax revenue
@@ -708,7 +761,7 @@ Rather than a CBDC (which enables surveillance), create a **government-endorsed 
 
 - Federal crypto payment acceptance begins
 - Blockchain identity pilot programs
-- Strategic Bitcoin Reserve expansion begins
+- Diversified Strategic Reserve expansion begins
 - Tax incentive programs launch
 
 ### Years 4-7: Parallel Systems
@@ -775,7 +828,7 @@ For government applications, blockchain must provide:
 - [Blockchain Timestamping 2025 - OriginStamp](https://originstamp.com/blog/reader/blockchain-timestamping-2025-data-integrity/en)
 
 ### U.S. Crypto Policy
-- [Strategic Bitcoin Reserve Fact Sheet - White House](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/)
+- [Diversified Strategic Reserve Fact Sheet - White House](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/)
 - [Trump Crypto Reserve Announcement - CNBC](https://www.cnbc.com/2025/03/02/trump-announces-strategic-crypto-reserve-including-bitcoin-solana-xrp-and-more.html)
 - [GENIUS Act Analysis - Brookings](https://www.brookings.edu/articles/stablecoins-issues-for-regulators-as-they-implement-genius-act/)
 

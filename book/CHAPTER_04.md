@@ -161,7 +161,7 @@ If AGI is five to ten years away—or sooner—what does that mean for the polic
 
 **Fourth, the stakes are existential.** This is not just about jobs and incomes. Misaligned AGI poses risks to human autonomy, human agency, potentially human existence. Policy must grapple with these deeper concerns, not just economic adjustment.
 
-The Human Standard is designed with these realities in mind. The automation taxes, the universal basic income, the open-source AI mandate, the algorithmic governance framework—all are built to remain relevant regardless of how quickly or how completely AGI arrives.
+The Human Standard is designed with these realities in mind. The automation taxes, the universal basic income, the tiered transparency AI governance, the algorithmic governance framework—all are built to remain relevant regardless of how quickly or how completely AGI arrives.
 
 But we are working against the clock, and the clock is moving faster than most people realize.
 

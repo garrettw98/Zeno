@@ -389,46 +389,116 @@ All revenue from these three sources flows into a single Automation Dividend Fun
 | National AI Research | 10% | $15 billion | Public AI development for public benefit |
 | Administration | 5% | $8 billion | IRS enforcement, fund management |
 
-### 3.3 The Path to Universal Basic Income
+### 3.3 The Citizen's Royalty: A Negative Income Tax Approach
 
-**How the Numbers Work:**
+**VERSION 2.0 UPDATE: From Flat UBI to Negative Income Tax (NIT)**
 
-2030 Scenario:
-- Revenue available for UBI: $60 billion
-- Adult population: ~260 million
-- Per-person payment: ~$230/year ($19/month)
+The original "flat $2,000/month UBI" proposal faced a critical fiscal reality: paying every adult the same amount regardless of income costs approximately $6.2 trillion annually—exceeding the entire federal budget. Version 2.0 adopts the **Negative Income Tax (NIT)** model—rebranded as the **"Citizen's Royalty"**—which achieves the same poverty-elimination goals at roughly **60% lower cost**.
 
-*This seems small, but it's the seed.*
+**What is the Citizen's Royalty?**
 
-2035 Scenario (Aggressive Automation):
-- Revenue available for UBI: $200 billion
-- Per-person payment: ~$770/year ($64/month)
+The NIT, originally proposed by Milton Friedman in 1962, works as a reverse tax:
+- Set an **income floor** (e.g., $24,000/year for individuals, $36,000 for couples)
+- Those earning below the floor receive a payment equal to a percentage of the gap
+- The payment **tapers off gradually** as private income rises
+- Those earning above the floor pay normal taxes
 
-**The Tipping Point:**
+**The NIT Formula:**
+```
+Citizen's Royalty = (Income Floor - Actual Income) × Taper Rate
+```
 
-When automation reaches critical mass:
-- Revenue from automation taxes: $500+ billion
-- Combined with other revenue sources
-- UBI becomes substantial: $2,000-4,000/year
+**Example with $24,000 floor and 50% taper:**
+| Private Income | Citizen's Royalty | Total Income |
+|----------------|-------------------|--------------|
+| $0 | $12,000 | $12,000 |
+| $10,000 | $7,000 | $17,000 |
+| $20,000 | $2,000 | $22,000 |
+| $24,000+ | $0 | $24,000+ |
 
-**Full UBI Funding (Long-term Vision):**
+**Why This Model Works Better:**
 
-Andrew Yang's Freedom Dividend: $1,000/month × 12 months × 260 million adults = $3.12 trillion/year
+1. **Fiscal Realism**: Cost drops from $6.2T to ~$800B-1.2T annually
+2. **Targeted Support**: Resources go to those who need them most
+3. **Work Incentives**: 50% taper means every dollar earned increases total income
+4. **Bipartisan Appeal**: Conservative economists (Friedman) originally proposed this
+5. **Administrative Simplicity**: Operates through existing IRS systems
 
-Funding sources for full UBI:
-| Source | Amount |
-|--------|--------|
-| Automation Productivity Tax | $500 billion |
-| Data Dividend Tax | $200 billion |
-| AI Training Royalties | $50 billion |
-| Carbon Tax | $300 billion |
-| Value Added Tax (10%) | $1.5 trillion |
-| Financial Transaction Tax | $200 billion |
-| Wealth Tax (2% over $50M) | $300 billion |
-| **TOTAL** | **$3.05 trillion** |
+**Implementation Timeline:**
 
-*Note: Some of these offset existing programs that UBI would partially replace.*
+| Phase | Floor Level | Taper Rate | Est. Annual Cost |
+|-------|-------------|------------|------------------|
+| Phase 1 (Years 1-3) | $15,000 | 50% | $400 billion |
+| Phase 2 (Years 4-6) | $18,000 | 50% | $600 billion |
+| Phase 3 (Years 7-10) | $24,000 | 50% | $900 billion |
+| Full (Year 10+) | $30,000 (inflation-adjusted) | 45% | $1.2 trillion |
 
+---
+
+### 3.4 The Sovereign Humanity Fund
+
+**VERSION 2.0 UPDATE: From Taxation to Ownership**
+
+The original framework relied solely on taxing automation profits ("Robot Tax"). This creates two problems:
+1. Tax revenue is volatile and depends on corporate profitability
+2. Corporations can minimize taxes through accounting strategies
+
+**The Sovereign Humanity Fund** solves this through **equity ownership**—a "Humanity Share" in every major AI company.
+
+**The Core Mechanism:**
+
+Instead of just taxing AI companies, the government acquires **equity stakes**:
+
+1. **Mandatory Equity Contribution**: Companies deploying automation above threshold must contribute equity:
+   - 0.5% of market cap for companies with >$10B valuation
+   - 1% of market cap for companies with >$100B valuation
+
+2. **IPO Participation**: All AI/automation companies must offer the Fund 1-3% of shares at IPO price
+
+3. **Government Benefits from Growth, Not Just Income**:
+   - Tax revenue: volatile, dependent on profits, minimizable
+   - Equity ownership: captures capital appreciation, voting rights, dividends
+
+**The Math Advantage:**
+
+| Scenario | Tax-Only Model | Equity Model |
+|----------|----------------|--------------|
+| AI sector grows 20%/year | Revenue stays flat | Fund value grows 20%/year |
+| Companies minimize taxes | Revenue decreases | Equity value unaffected |
+| Tech bubble bursts | Revenue collapses | Fund diversified, more stable |
+
+**Projected Fund Growth:**
+
+| Year | Contributions | Appreciation | Total Fund Value |
+|------|--------------|--------------|------------------|
+| 2027 | $200B | - | $200 billion |
+| 2030 | +$150B | +$90B | $440 billion |
+| 2035 | +$250B | +$350B | $1.0 trillion |
+| 2040 | +$300B | +$800B | $2.1 trillion |
+
+**Why Equity Beats Pure Taxation:**
+
+1. **Captures Capital Gains**: The wealth from AI is in stock appreciation, not just profits
+2. **Aligned Incentives**: Government benefits when companies succeed
+3. **No Cat-and-Mouse**: Can't offshore equity ownership like you can profits
+4. **Generational Wealth**: Fund grows forever, benefits future generations
+5. **Democratic Ownership**: Citizens become shareholders in the AI economy
+
+---
+
+### 3.5 The Combined Funding Model (Version 2.0)
+
+| Revenue Source | Annual Amount (2035 Est.) |
+|----------------|--------------------------|
+| Sovereign Humanity Fund Distributions (4% of $1T) | $40 billion |
+| Automation Productivity Tax (retained) | $150 billion |
+| Data Dividend Tax | $75 billion |
+| Carbon Dividend | $100 billion |
+| Existing Program Consolidation | $400 billion |
+| Value Added Tax (10% with exemptions) | $300 billion |
+| **Total for Citizen's Royalty** | **$1.065 trillion** |
+
+*This fully funds the $24,000 floor NIT with surplus for Lifelong Learning Accounts and transition support—at 60% lower cost than flat UBI.*
 ---
 
 ## PART IV: LEGISLATIVE FRAMEWORK

@@ -10,7 +10,7 @@
 - Workers have no leverage when survival depends on any job
 
 ### THE SOLUTION
-**$2,000/month to every American adult, no strings attached.**
+**the Citizen's Royalty (up to $12,000/year under the NIT model) to every American adult, no strings attached.**
 
 ### HOW IT WORKS
 - Monthly direct deposit to every citizen 18+

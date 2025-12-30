@@ -6,6 +6,11 @@
 
 > *"If you can't explain it simply, you don't understand it well enough."* — Albert Einstein
 
+
+---
+
+> **VERSION 2.0 UPDATE - MESSAGING ALIGNMENT**: This document has been updated to align with the Version 2.0 policy framework. Key changes: (1) "UBI" replaced with **"Citizen's Royalty"** (Negative Income Tax model); (2) "Sound Money" reframed as **"Purchasing Power Stability"**; (3) Libertarian messaging emphasizes property rights over data; (4) Fiscal math updated to reflect 60% cost reduction from NIT model.
+
 ---
 
 ## Introduction
@@ -26,7 +31,7 @@ This is the foundation. Everything else builds on it.
 
 ### The One-Sentence Summary
 
-The Human Standard ensures that AI and automation benefit everyone—not just those who own the machines—through fair taxation, universal basic income, transparent AI governance, and sound money.
+The Human Standard ensures that AI and automation benefit everyone—not just those who own the machines—through the Sovereign Humanity Fund, the Citizen's Royalty (Negative Income Tax), tiered AI governance transparency, and purchasing power stability.
 
 ### The Three-Sentence Version
 
@@ -38,7 +43,7 @@ Technology is about to automate millions of jobs. Right now, all that wealth flo
 
 ### The 30-Second Pitch
 
-"AI and robots are going to do most of the work humans do now. That could be amazing—or it could be a disaster. It depends on who gets the benefits. Right now, all that wealth goes to the people who own the technology. The Human Standard says: no. That wealth belongs to everyone. We tax automation, give everyone a share, make AI in government transparent, and let people save in money that can't be inflated away. Technology serves humanity—not the other way around."
+"AI and robots are going to do most of the work humans do now. That could be amazing—or it could be a disaster. It depends on who gets the benefits. Right now, all that wealth goes to the people who own the technology. The Human Standard says: no. That wealth belongs to everyone. Through the Sovereign Humanity Fund, citizens become shareholders in AI companies. The Citizen's Royalty—a Negative Income Tax—guarantees no one falls below $24,000/year while rewarding work. AI governance balances transparency with security. Your savings stay stable. Technology serves humanity—not the other way around."
 
 ### The 2-Minute Pitch
 
@@ -144,19 +149,23 @@ The Human Standard builds something different: a world where technology works fo
 
 This isn't about us. It's about them. We're the generation that either gets this right or leaves them a mess."
 
-### For Libertarians
+### For Libertarians (VERSION 2.0 - Property Rights Frame)
 
-**Emphasize freedom and sound money:**
+**Emphasize property rights, not welfare:**
 
-"Hear me out. I know 'universal basic income' sounds like big government. But think about what it replaces.
+"This isn't welfare. It's property rights.
 
-Right now we have a massive, intrusive welfare bureaucracy that traps people in dependency, requires armies of administrators, and controls every aspect of recipients' lives. UBI replaces all that with a simple cash transfer. No bureaucrats deciding if you deserve help. No welfare traps. No invasive oversight. Just money—spend it how you want.
+Your data has value. Every search, every purchase, every location ping—corporations extract over $1,000 per year from each American's data. You never consented. You were never compensated. That's theft.
 
-And we're not funding it by printing money or raising income taxes. We're taxing the economic rents from automation—value that's being extracted, not created. It's a Georgist approach, if you know that tradition.
+The Citizen's Royalty isn't charity. It's restitution for stolen property, plus your dividend from the public infrastructure—roads, internet backbone, GPS, court system—that makes corporate profits possible.
 
-Plus: sound money. We're the only movement seriously proposing an escape from fiat currency debasement. Strategic Bitcoin reserve. No CBDCs. Your savings, your control.
+And here's what Milton Friedman understood: the Negative Income Tax model has built-in work incentives. Every dollar you earn increases your total income. No welfare cliff. No bureaucrats deciding what you can buy. Just money—your money—returned to you.
 
-This isn't socialism. It's freedom from both corporate exploitation AND government bureaucracy."
+The Sovereign Humanity Fund takes equity stakes in AI companies, not taxes. As a citizen, you become a shareholder in the AI economy. That's not socialism—that's capitalism working for everyone.
+
+Plus: purchasing power stability. We're the only movement proposing a diversified reserve that protects your savings from BOTH inflation AND deflation. Transparent rules, no Fed manipulation.
+
+This is freedom from corporate data theft AND government bureaucracy."
 
 ### For Progressives
 
@@ -299,30 +308,33 @@ Simple version: "It's a plan for making sure AI and robots benefit everyone, not
 
 ## Part VII: Key Phrases and Language Guide
 
-### Use These Phrases
+### Use These Phrases (VERSION 2.0 UPDATED)
 
 | Phrase | Why It Works |
 |--------|--------------|
 | "Technology serves humanity" | Clear, memorable, moral |
-| "Automation dividend" | Frames UBI as earned share, not handout |
-| "Your share" | Ownership language, not charity |
-| "Transparent and auditable" | Addresses AI fear directly |
-| "Sound money" | Resonates across political spectrum |
+| "Citizen's Royalty" | Ownership language, implies what you're OWED |
+| "Your data dividend" | Makes clear it's compensation for property |
+| "Return on public investment" | Frames as earned, not given |
+| "Sovereign Humanity Fund" | Citizens as shareholders, not dependents |
+| "Purchasing power stability" | Avoids deflation concerns of "sound money" |
+| "Tiered transparency" | Balances accountability with security |
 | "Not left or right—forward" | Escapes tribal framing |
 | "The evidence shows" | Grounds claims in reality |
-| "The current system" | Makes status quo a choice, not default |
+| "60% more affordable" | Addresses fiscal concerns directly |
 
-### Avoid These Phrases
+### Avoid These Phrases (VERSION 2.0 UPDATED)
 
 | Avoid | Why | Use Instead |
 |-------|-----|-------------|
-| "Free money" | Sounds unearned | "Automation dividend" |
-| "Welfare" | Stigmatized | "Universal basic income" |
-| "Redistribute" | Triggers opposition | "Share the gains" |
-| "Government program" | Sounds bureaucratic | "Direct payment to citizens" |
-| "Utopia" | Sounds unrealistic | "Evidence-based policy" |
-| "Revolution" | Sounds violent | "Transformation" or "transition" |
-| "Demand" | Sounds aggressive | "Deserve" or "entitled to" |
+| "Free money" | Sounds unearned | "Your data dividend" or "Citizen's Royalty" |
+| "Welfare" | Stigmatized | "Citizen's Royalty" or "Negative Income Tax" |
+| "UBI" | Associated with unaffordable flat payments | "Citizen's Royalty" (targeted, affordable) |
+| "Redistribute" | Triggers opposition | "Return on your data" or "Your share" |
+| "Government program" | Sounds bureaucratic | "Direct payment through tax system" |
+| "Sound Money" | Can imply harmful deflation | "Purchasing Power Stability" |
+| "100% Bitcoin" | Sounds volatile, risky | "Diversified Strategic Reserve" |
+| "Total Open Source" | Ignores security concerns | "Tiered Transparency Framework" |
 
 ### Framing Principles
 

@@ -147,7 +147,7 @@ Build the intellectual, cultural, and institutional infrastructure for The Human
 **Proving the Model:**
 - UBI pilots generating data
 - Automation disclosure revealing true displacement rates
-- Sound money options gaining mainstream adoption
+- Purchasing power stability options gaining mainstream adoption
 - AI governance principles entering government procurement
 
 **Building Coalitions:**
@@ -223,7 +223,7 @@ The question will no longer be IF but HOW FAST and HOW DO WE RESPOND.
 **Payment Scaling:**
 - Start at $500/month
 - Increase to $750/month by 2034
-- Reach $1,000/month by 2036
+- Reach Citizen's Royalty Phase 2 ($18k floor) by 2036
 - Adjust based on automation dividend revenue
 
 #### 2033-2037: Truth Infrastructure
@@ -580,7 +580,7 @@ Build it well.
 - [ ] $1,000/month payment level achieved
 - [ ] Government AI open source mandate passed
 - [ ] Truth verification infrastructure deployed
-- [ ] Sound money options mainstream
+- [ ] Purchasing power stability options mainstream
 - [ ] 32-hour work week standard emerging
 
 ### Phase 3 (2040-2055)

@@ -1,6 +1,8 @@
 # H.R. XXXX / S. XXXX
-# THE OPEN SOURCE AI GOVERNANCE ACT OF 2027
+# THE TIERED TRANSPARENCY AI GOVERNANCE ACT OF 2027
 ## "The Algorithmic Accountability Act"
+
+> **VERSION 2.0 UPDATE**: This Act has been updated to implement a **Tiered Transparency Framework** replacing the original "Total Open Source Mandate." Tier 1 (Public Commons) AI remains fully open source. Tier 2 (Secure Audit) AI for defense/critical infrastructure is "Source Available" only to vetted NAICO auditors. This prevents proliferation of advanced AI weapons while maintaining democratic accountability.
 
 ---
 
@@ -28,7 +30,7 @@ To require transparency and open source availability of artificial intelligence 
 ## SECTION 1. SHORT TITLE; TABLE OF CONTENTS
 
 ### (a) SHORT TITLE
-This Act may be cited as the "Open Source AI Governance Act of 2027" or the "Algorithmic Accountability Act."
+This Act may be cited as the "Tiered Transparency AI Governance Act of 2027" or the "Algorithmic Accountability Act."
 
 ### (b) TABLE OF CONTENTS
 
@@ -241,12 +243,36 @@ The term "training data" means the data used to develop, calibrate, or validate 
 
 ## SEC. 201. MANDATORY OPEN SOURCE FOR FEDERAL AI SYSTEMS
 
-### (a) REQUIREMENT
-Except as provided in section 203, all algorithmic decision systems deployed by covered agencies for administrative decisions shall be—
+### (a) TIERED TRANSPARENCY REQUIREMENT (VERSION 2.0)
+All algorithmic decision systems deployed by covered agencies shall be classified under the Tiered Transparency Framework and comply with the corresponding transparency requirements:
 
-(1) **OPEN SOURCE**—The complete source code shall be released under an open source license approved by the Open Source Initiative, or a license determined equivalent by the Council.
+**(1) TIER 1: PUBLIC COMMONS (DEFAULT)**—The following systems shall be fully open source:
+   - (A) Benefits eligibility and administration systems
+   - (B) Tax processing and citizen service systems
+   - (C) Permit and license processing systems
+   - (D) Public records management systems
+   - (E) All other civilian administrative systems not classified as Tier 2 or Tier 3
 
-(2) **PUBLICLY AVAILABLE**—The source code shall be published on the National AI Repository and accessible to any member of the public without charge.
+Requirements for Tier 1:
+   - Complete source code released under OSI-approved license
+   - Published on National AI Repository accessible to public without charge
+   - Training data disclosed with appropriate privacy protections
+   - Full documentation and explainability provided
+
+**(2) TIER 2: SECURE AUDIT (SOURCE AVAILABLE)**—The following systems shall be "Source Available" to vetted NAICO auditors only:
+   - (A) Defense and military planning systems
+   - (B) Cybersecurity and critical infrastructure protection
+   - (C) Intelligence analysis systems
+   - (D) Counter-terrorism systems
+   - (E) Systems where full publication would enable adversarial exploitation
+
+Requirements for Tier 2:
+   - Source code available to NAICO-certified auditors with security clearance
+   - Annual audit reports published (classified portions redacted)
+   - Congressional oversight committee access guaranteed
+   - NOT published on public internet
+
+**(3) TIER 3: CLASSIFIED (CONGRESSIONAL OVERSIGHT)**—Reserved for highly sensitive operational systems as defined in section 203.
 
 (3) **FULLY DOCUMENTED**—Comprehensive documentation shall accompany the source code, including—
    - (A) a plain-language description of the system's purpose and function;

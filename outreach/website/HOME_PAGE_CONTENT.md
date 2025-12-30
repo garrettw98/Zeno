@@ -42,7 +42,7 @@ This is not distant science fiction. It is happening now.
 The Human Standard Framework
 
 ### Universal Basic Income
-**$2,000/month for every American adult**
+**the Citizen's Royalty (up to $12,000/year under the NIT model) for every American adult**
 
 No means-testing. No conditions. A foundation of economic security that gives everyone the freedom to adapt, retrain, and thrive in the changing economy.
 

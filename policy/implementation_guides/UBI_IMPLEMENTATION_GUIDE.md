@@ -600,7 +600,7 @@ Day +7:  Exception resolution deadline
 
 ### 6.1 Final Benefit Level
 
-**Year 9**: Increase to $1,000/month ($12,000/year)
+**Year 9**: Increase to Phase 2 ($18k floor) ($12,000/year)
 **Year 10+**: Increase to $1,200/month ($14,400/year), indexed to inflation
 
 ### 6.2 Steady-State Operations

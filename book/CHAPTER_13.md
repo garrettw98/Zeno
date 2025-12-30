@@ -158,7 +158,7 @@ Automation demands non-incremental response:
 
 **Pre-emptive**: Not reactive response after damage is done but proactive preparation before displacement occurs.
 
-The Human Standard is designed as a non-incremental response: universal basic income rather than targeted assistance, automation taxes that adjust automatically with deployment, open-source AI mandates that restructure the industry rather than regulate its edges.
+The Human Standard is designed as a non-incremental response: universal basic income rather than targeted assistance, automation taxes that adjust automatically with deployment, tiered transparency AI governances that restructure the industry rather than regulate its edges.
 
 ---
 

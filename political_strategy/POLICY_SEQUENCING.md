@@ -138,7 +138,7 @@ LEGEND:
 1. Establish NAICO (Executive Order)
 2. Federal AI transparency requirements (Executive Order)
 3. Automation impact assessment requirement (Executive Order)
-4. Strategic Bitcoin Reserve directive (Treasury)
+4. Diversified Strategic Reserve directive (Treasury)
 5. Data dignity principles (Agency guidance)
 
 **Month 1-3 Regulatory:**
@@ -192,7 +192,7 @@ LEGEND:
 **Year 3 Priorities:**
 - Automation tax at 5% (reconciliation)
 - Carbon tax at $50/ton
-- UBI expansion to $1,000/month
+- Citizen's Royalty Phase 2 expansion
 - AI governance comprehensive bill
 - First open source releases
 
@@ -220,7 +220,7 @@ LEGEND:
 - Full AI governance operational
 
 **Year 7 Priorities:**
-- UBI at $2,000/month
+- UBI at the Citizen's Royalty (up to $12,000/year under the NIT model)
 - Full program consolidation
 - Stabilization fund established
 - Amendment ratification campaign
@@ -449,7 +449,7 @@ Is UBI at full implementation?
 
 | Milestone | Target | Measurement |
 |-----------|--------|-------------|
-| UBI at full rate | $2,000/month | Payment amounts |
+| UBI at full rate | the Citizen's Royalty (up to $12,000/year under the NIT model) | Payment amounts |
 | Housing supply | +20% in target areas | Construction permits |
 | Poverty reduction | 50% decrease | Census data |
 | AI governance | 100% federal compliance | Audit results |

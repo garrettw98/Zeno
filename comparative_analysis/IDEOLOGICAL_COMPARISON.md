@@ -272,7 +272,7 @@ We share techno-pessimists' concerns about what unmanaged automation does to hum
 - Forward Party as vehicle
 
 **Human Standard differences:**
-- Higher UBI amount ($2,000/month at maturity)
+- Higher UBI amount (the Citizen's Royalty (up to $12,000/year under the NIT model) at maturity)
 - Automation-specific tax rather than VAT
 - Comprehensive AI governance framework (Yang's is less developed)
 - Sound money/crypto policy integration

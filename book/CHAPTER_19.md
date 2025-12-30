@@ -164,7 +164,7 @@ What this means in practice:
 
 **4. Maintain Transparency**
 
-All government AI systems are open source and auditable. No black boxes. Citizens can understand why decisions were made.
+Civilian government AI systems are open source under the Tiered Transparency Framework and auditable. No black boxes. Citizens can understand why decisions were made.
 
 What this means in practice:
 - Published code for all AI systems
@@ -258,4 +258,4 @@ The Human Standard makes this operational. Human-Centered Capitalism provides th
 
 ---
 
-*Next: Chapter 20 - The Open Source Mandate*
+*Next: Chapter 20 - The Tiered Transparency Framework*

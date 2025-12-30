@@ -1,5 +1,5 @@
 # Chapter 20
-## The Open Source Mandate
+## The Tiered Transparency Framework
 
 ---
 
@@ -192,7 +192,7 @@ Implementing the open-source mandate requires:
 
 **Phase 3 (2029-2031): Full Implementation**
 
-- All government AI systems open source
+- Civilian government AI under Tiered Transparency Framework
 - Repository fully operational
 - Active contributor community
 - Regular audit and improvement processes

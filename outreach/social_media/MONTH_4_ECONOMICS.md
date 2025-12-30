@@ -488,7 +488,7 @@ Phase 2 (Year 2): $1,000/month. Scale up. Work out bugs.
 
 Phase 3 (Year 3): $1,500/month. Program transitions begin.
 
-Phase 4 (Year 4): Full $2,000/month. Complete implementation.
+Phase 4 (Year 4): Full the Citizen's Royalty (up to $12,000/year under the NIT model). Complete implementation.
 
 Gradual phase-in lets us:
 - Catch problems early

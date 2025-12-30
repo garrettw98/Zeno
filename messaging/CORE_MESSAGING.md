@@ -9,7 +9,7 @@
 > "Robots should pay taxes too. The Human Standard ensures that when AI and automation create wealth, every American shares in that prosperity—not just the people who own the robots."
 
 ### 30-Second Pitch
-> "We're entering an age where AI and robots can do most jobs better and cheaper than humans. That's either a nightmare where a few tech billionaires own everything, or it's a golden age where everyone benefits. The Human Standard chooses the golden age. We tax automation, give every American $2,000 a month no strings attached, keep AI transparent and accountable, and make sure humans—not algorithms—stay in charge. It's not left or right. It's forward."
+> "We're entering an age where AI and robots can do most jobs better and cheaper than humans. That's either a nightmare where a few tech billionaires own everything, or it's a golden age where everyone benefits. The Human Standard chooses the golden age. We tax automation, give every American the Citizen's Royalty (up to $12,000/year under the NIT model) no strings attached, keep AI transparent and accountable, and make sure humans—not algorithms—stay in charge. It's not left or right. It's forward."
 
 ### 2-Minute Pitch
 > "Here's the truth nobody in Washington wants to say out loud: AI is coming for jobs. Not just factory jobs—lawyers, doctors, accountants, writers. Goldman Sachs says 300 million jobs worldwide could be automated. That's not a future problem. That's happening now.
@@ -18,7 +18,7 @@
 >
 > The Human Standard chooses option two. Here's how:
 >
-> First, Universal Basic Income. Every adult American gets $2,000 a month, no questions asked. Enough to survive, not enough to get lazy. Paid for by taxing the robots and AI systems that replace human workers.
+> First, Universal Basic Income. Every adult American gets the Citizen's Royalty (up to $12,000/year under the NIT model), no questions asked. Enough to survive, not enough to get lazy. Paid for by taxing the robots and AI systems that replace human workers.
 >
 > Second, AI accountability. Every algorithm that affects your life—whether you get a loan, a job, bail—has to be transparent. You have the right to know why a computer said no, and the right to appeal to a human.
 >
@@ -41,7 +41,7 @@
 >
 > The Human Standard is how we get to the good future. It's built on three pillars:
 >
-> **Pillar One: Economic Security Through Universal Basic Income.** Every adult citizen gets $2,000 a month. Not means-tested. Not bureaucratic hoops. Direct deposit, every month, for everyone. Funded by taxing automation—the same robots and AI systems that are replacing human workers. If a robot does a job a human used to do, the company pays a tax. Simple. Fair.
+> **Pillar One: Economic Security Through Universal Basic Income.** Every adult citizen gets the Citizen's Royalty (up to $12,000/year under the NIT model). Not means-tested. Not bureaucratic hoops. Direct deposit, every month, for everyone. Funded by taxing automation—the same robots and AI systems that are replacing human workers. If a robot does a job a human used to do, the company pays a tax. Simple. Fair.
 >
 > **Pillar Two: AI Accountability and Transparency.** Right now, algorithms control huge parts of your life. Whether you get a job. Whether you get a loan. Whether you get out on bail. Whether you see your kids. And you have no idea how those decisions are made. That's insane. Under the Human Standard, any AI system that makes important decisions about people's lives has to be transparent. You have the right to an explanation. You have the right to appeal to a human. And the code has to be open source so the public can verify it's fair.
 >
@@ -235,7 +235,7 @@
 ## Common Questions - Quick Answers
 
 **"Won't people just stop working?"**
-> "Alaska has paid dividends for 40 years and people still work. Most people want purpose, not just money. And $2,000 a month is enough to survive, not enough to get lazy. People will work—but they'll have the power to say no to bad jobs."
+> "Alaska has paid dividends for 40 years and people still work. Most people want purpose, not just money. And the Citizen's Royalty (up to $12,000/year under the NIT model) is enough to survive, not enough to get lazy. People will work—but they'll have the power to say no to bad jobs."
 
 **"How do you pay for it?"**
 > "Tax the robots. When a company replaces workers with automation, they pay into the fund. Plus data dividends from Big Tech and carbon fees. The money exists—right now it just flows to billionaires."

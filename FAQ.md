@@ -181,7 +181,7 @@ Read the proposal carefully:
 
 2. **What humans do**: Set policy, make laws, interpret edge cases, handle appeals, decide values and priorities. All actual decisions remain human.
 
-3. **The transparency requirement**: All government AI must be open source. Any citizen can examine exactly how decisions are made. This is MORE oversight than current bureaucracy, not less.
+3. **The transparency requirement**: Civilian government AI must be open source under the Tiered Transparency Framework. Any citizen can examine exactly how decisions are made. This is MORE oversight than current bureaucracy, not less.
 
 4. **The override requirement**: Every AI decision can be appealed to a human. The system cannot make a final determination that a human cannot reverse.
 
@@ -252,7 +252,7 @@ Dismissal often comes from those who have not studied the technology:
 
 3. **Institutional adoption**: BlackRock, Fidelity, nation-states, major corporations now hold Bitcoin. These are not speculators; they are making strategic allocations.
 
-4. **Strategic Bitcoin Reserve**: The U.S. government under Trump began building a Bitcoin reserve. Whatever you think of that administration, this is recognition at the highest level.
+4. **Diversified Strategic Reserve**: The U.S. government under Trump began building a Bitcoin reserve. Whatever you think of that administration, this is recognition at the highest level.
 
 5. **Separate Bitcoin from crypto casinos**: Yes, many crypto projects are scams. Bitcoin is not. Judge the technology, not its imitators.
 
@@ -409,7 +409,7 @@ The timeline is deliberately long:
 
 1. **Phase 1 (2025-2030)**: Disclosure requirements, pilot programs, build data infrastructure. No massive changes, just preparation.
 
-2. **Phase 2 (2030-2040)**: Gradual implementation of automation taxes, UBI pilots expand, sound money options become mainstream.
+2. **Phase 2 (2030-2040)**: Gradual implementation of automation taxes, UBI pilots expand, purchasing power stability options become mainstream.
 
 3. **Phase 3 (2040-2055)**: Full implementation as automation reaches peak displacement. Systems built and tested are ready when needed.
 
@@ -429,7 +429,7 @@ The timeline is deliberately long:
 
 International coordination is desirable but not required:
 
-1. **Domestic implementation first**: UBI, AI governance, sound money options can all be implemented domestically. We do not need China permission to give Americans a dividend.
+1. **Domestic implementation first**: UBI, AI governance, purchasing power stability options can all be implemented domestically. We do not need China permission to give Americans a dividend.
 
 2. **Tax coordination exists**: Corporate minimum taxes, transfer pricing rules, environmental agreements. International tax coordination is difficult but not impossible.
 
