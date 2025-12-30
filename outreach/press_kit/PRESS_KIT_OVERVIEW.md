@@ -17,7 +17,7 @@ Written under the pen name **Zeno**, invoking the Stoic tradition of ethical rea
 
 ## KEY POLICY POSITIONS
 
-### 1. Universal Basic Income (the Citizen's Royalty (up to $12,000/year under the NIT model))
+### 1. the Citizen's Royalty (up to $12,000/year under the NIT model))
 Every American adult receives the Citizen's Royalty (up to $12,000/year under the NIT model), unconditionally. Funded by a diversified tax base including automation taxes, VAT, carbon pricing, and land value taxation.
 
 ### 2. Open Source AI Governance

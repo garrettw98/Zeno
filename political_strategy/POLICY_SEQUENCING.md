@@ -28,7 +28,7 @@ LEGEND:
 | Citizen's Royalty | Tax infrastructure, Payment systems | Housing (inflation), Healthcare | Consumer demand, Risk-taking |
 | Automation Tax | Disclosure framework, International coordination | Capital flight if no coordination | Citizen's Royalty funding |
 | AI Governance | NAICO establishment, Standards development | Open source if security not ready | Trust, Adoption |
-| Housing Reform | Political capital, State adoption | UBI (inflation without supply) | Citizen's Royalty effectiveness |
+| Housing Reform | Political capital, State adoption | Citizen's Royalty (inflation without supply) | Citizen's Royalty effectiveness |
 | Healthcare | Political capital, Funding | Citizen's Royalty (incomplete without it) | Worker mobility |
 | Sound Money | Reserve establishment, Infrastructure | Citizen's Royalty if volatility not addressed | Long-term stability |
 | Data Tax | Platform regulation, Measurement systems | Revenue if evasion not addressed | Citizen's Royalty funding |

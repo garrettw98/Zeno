@@ -12,7 +12,7 @@
 HOOK: "Citizen's Royalty is the foundation. But The Human Standard is bigger than Citizen's Royalty."
 
 BODY: "Over five months, we've gone deep on:
-- Universal Basic Income
+- Citizen's Royalty
 - AI Governance
 - Automation policy
 

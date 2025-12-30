@@ -79,7 +79,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 
 ### 2.2 Constitutional Basis for Each Policy
 
-#### Universal Basic Income
+#### Citizen's Royalty (Income Floor)
 **Authority:** Article I, Section 8 (Spending Power)
 
 **Precedent:**

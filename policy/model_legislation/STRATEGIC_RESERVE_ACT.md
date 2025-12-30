@@ -692,7 +692,7 @@ Eligible payments include—
 (3) Social Security benefits;
 (4) veterans benefits;
 (5) tax refunds;
-(6) Universal Basic Income payments under the American Dividend Act; and
+(6) Citizen's Royalty payments under the American Dividend Act; and
 (7) any other Federal payment.
 
 ### (c) ELECTION
@@ -740,7 +740,7 @@ Custodians shall report SMSA holdings and transactions to the IRS on forms presc
 ## SEC. 604. Citizen's Royalty PAYMENT OPTIONS
 
 ### (a) PAYMENT OPTIONS
-As provided in the Universal Basic Income Act, recipients of Citizen's Royalty payments may elect to receive such payments in—
+As provided in the Citizen's Royalty Act, recipients of Citizen's Royalty payments may elect to receive such payments in—
 (1) United States dollars;
 (2) approved stablecoins;
 (3) Bitcoin; or

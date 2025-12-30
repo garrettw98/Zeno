@@ -17,7 +17,7 @@
 | Month | Theme | Goal |
 |-------|-------|------|
 | 1 | Foundation | Introduce Zeno, establish credibility, core message |
-| 2 | Citizen's Royalty Deep Dive | Make the case for Universal Basic Income |
+| 2 | Citizen's Royalty Deep Dive | Make the case for the Citizen's Royalty |
 | 3 | AI and Automation | Connect tech news to policy, build urgency |
 | 4 | Economics and Funding | Address objections, explain how we pay for it |
 | 5 | Broader Vision | Expand to full platform, show coherence |

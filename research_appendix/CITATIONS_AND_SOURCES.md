@@ -74,7 +74,7 @@ The Human Standard is built on evidence, not ideology. This appendix provides ci
 
 ---
 
-## Part 2: Universal Basic Income Evidence
+## Part 2: Citizen's Royalty & Income Floor Evidence
 
 ### Cash Transfer Studies
 

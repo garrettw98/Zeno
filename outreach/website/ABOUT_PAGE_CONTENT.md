@@ -11,7 +11,7 @@ About The Human Standard
 ### Introduction
 The Human Standard is a comprehensive political philosophy for the automation age. As artificial intelligence and robotics transform the economy, we need policies that ensure technology serves human flourishing rather than displacing it.
 
-This framework includes detailed proposals for Universal Basic Income, AI governance, tax reform, sound money, housing policy, climate action, and much more. It is designed to be practical, achievable, and grounded in both evidence and enduring principles.
+This framework includes detailed proposals for Citizen's Royalty, AI governance, tax reform, sound money, housing policy, climate action, and much more. It is designed to be practical, achievable, and grounded in both evidence and enduring principles.
 
 ### Our Vision
 We envision a future where:

@@ -8,9 +8,9 @@
 
 ---
 
-## VERSION 2.1: The Resilience Update (Synchronized)
+## VERSION 2.2: The Integrity Update
 
-This repository incorporates **Version 2.0: The Resilience Update**, which addresses critical policy vulnerabilities:
+This repository incorporates the **Resilience Update** (V2.0) and **Integrity Update** (V2.2), which address critical policy vulnerabilities:
 
 | Original | Version 2.0 | Improvement |
 |----------|-------------|-------------|

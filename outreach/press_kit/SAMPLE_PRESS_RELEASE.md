@@ -13,12 +13,12 @@
 
 [CITY, STATE] - A new political philosophy called "The Human Standard" has been released, offering a comprehensive framework for addressing the economic and social disruptions expected from automation and artificial intelligence.
 
-Written under the pen name Zeno, the framework includes detailed policy proposals for Universal Basic Income, AI governance, tax reform, and democratic participation in the age of intelligent machines.
+Written under the pen name Zeno, the framework includes detailed policy proposals for Citizen's Royalty, AI governance, tax reform, and democratic participation in the age of intelligent machines.
 
 "Technology is advancing faster than our institutions can adapt," said [SPOKESPERSON]. "The Human Standard provides a coherent vision for ensuring automation serves humanity rather than displaces it."
 
 Key proposals include:
-- the Citizen's Royalty (up to $12,000/year under the NIT model) Universal Basic Income for all American adults
+- the Citizen's Royalty (up to $12,000/year under the NIT model) Citizen's Royalty for all American adults
 - Open-source AI governance with Five Laws of Ethical AI
 - Automation Productivity Tax to fund social dividends
 - Strategic Bitcoin reserve alongside dollar stability
@@ -44,7 +44,7 @@ press@thehumanstandard.org
 
 *Automation tax, VAT, and land value taxation would cover $6 trillion program cost*
 
-[CITY, STATE] - A new analysis from The Human Standard demonstrates how a the Citizen's Royalty (up to $12,000/year under the NIT model) Universal Basic Income could be funded through a combination of new revenue sources and existing program consolidation.
+[CITY, STATE] - A new analysis from The Human Standard demonstrates how a the Citizen's Royalty could be funded through a combination of new revenue sources and existing program consolidation.
 
 The analysis identifies funding sources including:
 - 15% Automation Productivity Tax: $200-600 billion

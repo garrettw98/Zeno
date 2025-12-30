@@ -1,12 +1,12 @@
 # IMPLEMENTATION GUIDE
-# Universal Basic Income Program
+# Citizen's Royalty Program
 ## Operational Roadmap for the American Dividend Act
 
 ---
 
 ## EXECUTIVE OVERVIEW
 
-This guide provides a detailed operational roadmap for implementing the Universal Basic Income program established by the American Dividend Act. It covers all phases from pre-enactment preparation through full implementation, including specific responsibilities, timelines, budgets, milestones, and success metrics.
+This guide provides a detailed operational roadmap for implementing the Citizen's Royalty program established by the American Dividend Act. It covers all phases from pre-enactment preparation through full implementation, including specific responsibilities, timelines, budgets, milestones, and success metrics.
 
 **Total Implementation Timeline**: 10 years to full implementation
 **Estimated Startup Cost**: $15.5 billion (Years 1-5)

@@ -485,7 +485,7 @@ Citizens can CHOOSE to receive government payments in crypto:
 - Social Security (optional)
 - Federal employee salaries (optional)
 - Tax refunds (optional)
-- Universal Basic Income (see previous policy docs)
+- Citizen's Royalty (see previous policy docs)
 - Veterans benefits (optional)
 
 **2.3 Savings Protection:**
@@ -508,7 +508,7 @@ Citizens can CHOOSE to receive government payments in crypto:
 
 **3.1 Citizen's Royalty in Crypto:**
 
-The Universal Basic Income (from automation taxes) paid in citizen's choice:
+The Citizen's Royalty (from automation taxes) paid in citizen's choice:
 - Dollar (traditional)
 - USDC (dollar stablecoin)
 - Bitcoin
@@ -543,7 +543,7 @@ Default shifts to USDC unless citizen opts for dollars.
 ### Phase 4: New Monetary Order (Years 13-20)
 **"Sound Money Standard"**
 
-**4.1 The Bitcoin Standard Option:**
+**4.1 The Diversified Reserve Standard:**
 
 - Citizens can opt out of dollar system entirely
 - All federal transactions available in Bitcoin

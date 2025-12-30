@@ -1,12 +1,12 @@
 # ECONOMIC IMPACT ANALYSIS
-# Universal Basic Income Program
+# Citizen's Royalty Program
 ## Comprehensive Projections and Scenario Modeling
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-This analysis provides detailed economic projections for the Universal Basic Income program under the American Dividend Act. It examines costs, funding mechanisms, macroeconomic effects, distributional impacts, and long-term fiscal sustainability across multiple scenarios.
+This analysis provides detailed economic projections for the Citizen's Royalty program under the American Dividend Act. It examines costs, funding mechanisms, macroeconomic effects, distributional impacts, and long-term fiscal sustainability across multiple scenarios.
 
 **Key Findings**:
 

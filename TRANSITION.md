@@ -206,7 +206,7 @@ The question will no longer be IF but HOW FAST and HOW DO WE RESPOND.
 - Transition Fund reaching significant scale
 - First dividend payments to most-affected regions
 
-#### 2032-2035: Universal Basic Income Scaling
+#### 2032-2035: Citizen's Royalty Scaling
 
 **From Pilots to Programs:**
 - Successful state pilots expanded

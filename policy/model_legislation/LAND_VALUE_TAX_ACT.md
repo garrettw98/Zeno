@@ -144,7 +144,7 @@ In this Act:
 **(a) GENERAL FUND.** All revenue collected under this Act shall be deposited in the general fund of the Treasury.
 
 **(b) INTEGRATION.** Revenue from this Act is intended to contribute to the funding of:
-   (1) Universal Basic Income;
+   (1) Citizen's Royalty;
    (2) Infrastructure investment;
    (3) Other programs authorized by Congress.
 

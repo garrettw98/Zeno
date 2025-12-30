@@ -11,7 +11,7 @@ This analysis examines the constitutional and legal foundations for implementing
 
 ## Table of Contents
 
-1. [Universal Basic Income](#universal-basic-income)
+1. [Citizen's Royalty](#universal-basic-income)
 2. [Automation Productivity Tax](#automation-productivity-tax)
 3. [AI Governance and Transparency](#ai-governance-and-transparency)
 4. [Digital Asset Policies](#digital-asset-policies)
@@ -21,7 +21,7 @@ This analysis examines the constitutional and legal foundations for implementing
 
 ---
 
-## Universal Basic Income
+## Citizen's Royalty (Income Floor)
 
 ### Constitutional Authority
 

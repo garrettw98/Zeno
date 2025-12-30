@@ -352,7 +352,7 @@ BODY: "At town halls, in emails, on calls:
 
 'What's your plan for workers displaced by automation?'
 
-'Do you support Universal Basic Income? Why or why not?'
+'Do you support the Citizen's Royalty (income floor)? Why or why not?'
 
 'How will you ensure AI systems are transparent and accountable?'
 

@@ -1,12 +1,12 @@
 # Citizen's Royalty FUNDING RESILIENCE: Multiple Revenue Streams for Guaranteed Income
-## Ensuring Universal Basic Income Survives Political and Economic Shocks
+## Ensuring the Citizen's Royalty Survives Political and Economic Shocks
 ### By Zeno
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-Universal Basic Income is the cornerstone of The Human Standard. But a cornerstone must be built on bedrock, not sand. Critics ask: "What if your funding sources don't deliver?" This document provides the answer: **diversified, redundant, and resilient funding architecture.**
+The Citizen's Royalty is the cornerstone of The Human Standard. But a cornerstone must be built on bedrock, not sand. Critics ask: "What if your funding sources don't deliver?" This document provides the answer: **diversified, redundant, and resilient funding architecture.**
 
 **The Core Principle:** Citizen's Royalty must never depend on a single revenue source. Multiple streams ensure that political or economic shocks to any single source don't collapse the program.
 

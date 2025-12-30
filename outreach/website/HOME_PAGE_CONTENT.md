@@ -41,7 +41,7 @@ This is not distant science fiction. It is happening now.
 ### Section Headline
 The Human Standard Framework
 
-### Universal Basic Income
+### Citizen's Royalty (Income Floor)
 **the Citizen's Royalty (up to $12,000/year under the NIT model) for every American adult**
 
 No means-testing. No conditions. A foundation of economic security that gives everyone the freedom to adapt, retrain, and thrive in the changing economy.
@@ -159,7 +159,7 @@ The Human Standard is a comprehensive political philosophy for the automation ag
 The Human Standard | Technology Should Serve Humanity
 
 ### Meta Description
-A complete political philosophy for the automation age. Universal Basic Income, AI governance, and policies to ensure automation benefits everyone. Read the framework that is shaping the future.
+A complete political philosophy for the automation age. Citizen's Royalty, AI governance, and policies to ensure automation benefits everyone. Read the framework that is shaping the future.
 
 ### Open Graph
 - Title: The Human Standard

@@ -77,7 +77,7 @@ The solutions are social, not individual:
 
 **Redistribution**: Transfer income from capital (which is being accumulated) to workers (who consume). This maintains demand while allowing automation's efficiency gains.
 
-**Universal Basic Income**: Guarantee income regardless of employment. If people have money, they spend it. Demand is preserved even as employment declines.
+**Citizen's Royalty**: Guarantee income floor regardless of employment. If people have money, they spend it. Demand is preserved even as employment declines.
 
 **Shorter work weeks**: Spread remaining work across more workers. If there is only enough work for half the labor force, have everyone work half-time.
 

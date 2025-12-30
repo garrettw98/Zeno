@@ -74,7 +74,7 @@ Moreover, the relevant comparison is not "Citizen's Royalty vs. employment" but 
 
 **The math**:
 
-A flat UBI at $1,000/month for 250 million adults would cost $3 trillion. The Citizen's Royalty NIT model costs ~60% less annually. This is roughly the current federal budget. The number is daunting.
+A flat payment at $1,000/month for 250 million adults would cost $3 trillion. The Citizen's Royalty NIT model costs ~60% less annually. This is roughly the current federal budget. The number is daunting.
 
 But consider:
 

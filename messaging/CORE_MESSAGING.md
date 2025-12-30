@@ -18,7 +18,7 @@
 >
 > The Human Standard chooses option two. Here's how:
 >
-> First, Universal Basic Income. Every adult American gets the Citizen's Royalty (up to $12,000/year under the NIT model), no questions asked. Enough to survive, not enough to get lazy. Paid for by taxing the robots and AI systems that replace human workers.
+> First, the Citizen's Royalty. Every adult American gets the Citizen's Royalty (up to $12,000/year under the NIT model), no questions asked. Enough to survive, not enough to get lazy. Paid for by taxing the robots and AI systems that replace human workers.
 >
 > Second, AI accountability. Every algorithm that affects your life—whether you get a loan, a job, bail—has to be transparent. You have the right to know why a computer said no, and the right to appeal to a human.
 >
@@ -41,7 +41,7 @@
 >
 > The Human Standard is how we get to the good future. It's built on three pillars:
 >
-> **Pillar One: Economic Security Through Universal Basic Income.** Every adult citizen gets the Citizen's Royalty (up to $12,000/year under the NIT model). Not means-tested. Not bureaucratic hoops. Direct deposit, every month, for everyone. Funded by the Sovereign Humanity Fund—the same robots and AI systems that are replacing human workers. If a robot does a job a human used to do, the company pays a tax. Simple. Fair.
+> **Pillar One: Economic Security Through the Citizen's Royalty.** Every adult citizen gets the Citizen's Royalty (up to $12,000/year under the NIT model). Not means-tested. Not bureaucratic hoops. Direct deposit, every month, for everyone. Funded by the Sovereign Humanity Fund—the same robots and AI systems that are replacing human workers. If a robot does a job a human used to do, the company pays a tax. Simple. Fair.
 >
 > **Pillar Two: AI Accountability and Transparency.** Right now, algorithms control huge parts of your life. Whether you get a job. Whether you get a loan. Whether you get out on bail. Whether you see your kids. And you have no idea how those decisions are made. That's insane. Under the Human Standard, any AI system that makes important decisions about people's lives has to be transparent. You have the right to an explanation. You have the right to appeal to a human. And the code has to be open source so the public can verify it's fair.
 >
@@ -82,7 +82,7 @@
 5. Nobody in power has a plan for any of this
 
 ### The Solution (The Human Standard)
-1. Universal Basic Income funded by automation taxes
+1. Citizen's Royalty funded by automation taxes
 2. Transparent, accountable AI with human oversight
 3. Sound money with digital asset freedom
 4. Democratic control over technology's trajectory

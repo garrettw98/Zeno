@@ -14,7 +14,7 @@ HOOK: "My name is Zeno, and I have a plan to make sure AI doesn't destroy your l
 BODY: "Over the next six months, I'm going to lay out a complete vision for how we
 survive the automation age. Not fear-mongering. Not tech bro optimism. A real plan.
 
-Universal Basic Income. AI governance. An economy that works for humans, not just
+The Citizen's Royalty. AI governance. An economy that works for humans, not just
 shareholders.
 
 I've spent years thinking through every detail - the policies, the funding, the
@@ -154,7 +154,7 @@ HASHTAGS: #Zeno #HumanStandard #Politics #NotLeftNotRight
 ```
 HOOK: "The Human Standard stands on three pillars. Here's the preview."
 
-BODY: "Pillar One: Universal Basic Income. the Citizen's Royalty (up to $12,000/year under the NIT model) to every American adult.
+BODY: "Pillar One: the Citizen's Royalty (up to $12,000/year under the NIT model) to every American adult.
 No conditions. No bureaucracy. Just cash.
 
 Pillar Two: AI Governance. Make sure humans stay in control of the machines we
@@ -290,7 +290,7 @@ Would destroy the economy.
 They happened anyway. Because enough people decided they should happen and
 organized to make it so.
 
-Universal Basic Income seems impossible today. But so did everything else
+The Citizen's Royalty seems impossible today. But so did everything else
 that became normal.
 
 The question isn't whether it's possible. It's whether we have the will."
@@ -320,7 +320,7 @@ BODY: "1. My name is Zeno. I'm building a movement for the automation age.
 
 6. I have a complete framework - 100+ documents - not just talking points.
 
-Next week: We start going deep on Universal Basic Income. What it is, how it
+Next week: We start going deep on the Citizen's Royalty. What it is, how it
 works, why it doesn't cause the problems people think it does."
 
 CTA: "Save this post. Share with someone who needs to hear it."
@@ -336,7 +336,7 @@ HASHTAGS: #Zeno #HumanStandard #Recap #WeekOne
 
 **Post 1 - What Is Citizen's Royalty**
 ```
-HOOK: "Universal Basic Income in 60 seconds."
+HOOK: "Citizen's Royalty in 60 seconds."
 
 BODY: "the Citizen's Royalty (up to $12,000/year under the NIT model). Every American adult. No conditions.
 
@@ -645,7 +645,7 @@ HASHTAGS: #Citizen's Royalty #Myths #Facts #Friday
 ```
 HOOK: "Week 2 done. Here's what we covered."
 
-BODY: "Citizen's Royalty: Universal Basic Income. the Citizen's Royalty (up to $12,000/year under the NIT model) for every adult.
+BODY: "Citizen's Royalty: the Citizen's Royalty (up to $12,000/year under the NIT model) for every adult.
 
 - Universal because targeted programs fail
 - Cash because you know what you need
@@ -758,7 +758,7 @@ BODY: "That's the automation tax.
 
 When a company uses automation to become more productive - more output
 per worker hour - we tax a portion of that gain. And we redistribute it
-as Universal Basic Income.
+as the Citizen's Royalty.
 
 It's not punishing automation. It's sharing the rewards.
 
@@ -1224,7 +1224,7 @@ HOOK: "We've been at this for a month. Let's zoom out."
 BODY: "What you've learned:
 
 Week 1: Who is Zeno, what is The Human Standard, why does it matter
-Week 2: Universal Basic Income - what it is, how it works, why objections fail
+Week 2: The Citizen's Royalty - what it is, how it works, why objections fail
 Week 3: The automation reality - what's coming, how fast, why we need to prepare
 Week 4: AI Governance - transparency, accountability, human control
 

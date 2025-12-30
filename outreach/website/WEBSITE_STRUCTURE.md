@@ -75,7 +75,7 @@ thehumanstandard.org/
    - Compelling question
 
 3. **Our Solution** (3-column layout)
-   - Universal Basic Income
+   - Citizen's Royalty
    - Open Source AI Governance
    - Shared Prosperity
    - Each with icon, one-line description, "Learn more" link
@@ -378,7 +378,7 @@ Each policy page follows consistent structure:
 ## SEO STRATEGY
 
 ### Target Keywords
-- Universal Basic Income
+- Citizen's Royalty
 - Automation and jobs
 - AI governance
 - Future of work

@@ -200,7 +200,7 @@ This book argues that:
 - Regulatory capture: How companies shape their own oversight
 
 ### Chapter 14: The Yang Prescription
-*Examining Universal Basic Income*
+*Examining the Citizen's Royalty (NIT Model)*
 
 - Andrew Yang's Freedom Dividend proposal: $1,000/month for every adult
 - The Alaska Permanent Fund: A working model

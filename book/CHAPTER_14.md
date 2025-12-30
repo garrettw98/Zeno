@@ -17,9 +17,9 @@ He was early. But he was not wrong.
 
 ---
 
-### What Is Universal Basic Income?
+### What Is the Citizen's Royalty?
 
-Universal Basic Income is exactly what it sounds like:
+The Citizen's Royalty implements a Negative Income Tax. The concept originated as Universal Basic Income:
 
 **Universal**: Everyone gets it. No means testing, no eligibility requirements, no bureaucratic determination of who deserves help. Every citizen, every month.
 

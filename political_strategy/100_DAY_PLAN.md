@@ -356,7 +356,7 @@ Legislation or actions achievable within 100 days:
 
 ### Longer-Term (Set Up for Year 1)
 
-6. **Universal Basic Income Act**
+6. **Citizen's Royalty Act**
    - Major legislation
    - Extensive debate
    - Target: Introduction, hearings, build momentum

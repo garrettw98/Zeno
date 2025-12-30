@@ -137,7 +137,7 @@ In this Act:
    (2) Paper checks by mail;
    (3) Cash pickup at designated federal facilities.
 
-**(c) INTEGRATION.** Payments may be combined with other federal benefits payments, including Universal Basic Income payments under any applicable legislation.
+**(c) INTEGRATION.** Payments may be combined with other federal benefits payments, including Citizen's Royalty payments under any applicable legislation.
 
 ### Section 404. Tax Treatment
 

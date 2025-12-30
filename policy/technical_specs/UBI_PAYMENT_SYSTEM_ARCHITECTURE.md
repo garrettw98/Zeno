@@ -1,4 +1,4 @@
-# Universal Basic Income Payment System Architecture
+# Citizen's Royalty Payment System Architecture
 ## The Human Standard: Technical Specifications for National Citizen's Royalty Delivery
 
 **Version**: 1.0
@@ -27,7 +27,7 @@
 
 ## Executive Summary
 
-This document provides comprehensive technical specifications for the Universal Basic Income (UBI) payment system as outlined in The Human Standard. The system must reliably deliver monthly payments to approximately 260 million adult Americans while maintaining security, accessibility, and transparency.
+This document provides comprehensive technical specifications for the Citizen's Royalty payment system as outlined in The Human Standard. The system must reliably deliver monthly payments to approximately 260 million adult Americans while maintaining security, accessibility, and transparency.
 
 ### Key Design Principles
 
@@ -1844,4 +1844,4 @@ CREATE TABLE audit_log_2026_01 PARTITION OF audit_log
 
 ---
 
-*This technical specification provides the architectural blueprint for delivering Universal Basic Income to every eligible American. The system prioritizes reliability, security, and accessibility while maintaining the flexibility to evolve with changing requirements and technology.*
+*This technical specification provides the architectural blueprint for delivering the Citizen's Royalty to every eligible American. The system prioritizes reliability, security, and accessibility while maintaining the flexibility to evolve with changing requirements and technology.*

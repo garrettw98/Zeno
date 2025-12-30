@@ -167,7 +167,7 @@ The Human Standard response: Provide purchasing power stability options that can
 The Human Standard encompasses comprehensive policy frameworks across ten domains. These represent current best thinking, subject to revision as understanding improves. The Five Laws are permanent; specific policies evolve.
 
 **Pillar I: Economic Justice**
-Robot Tax, Data Dividend, Universal Basic Income, AI Training Royalties
+Robot Tax, Data Dividend, Citizen's Royalty (NIT), AI Training Royalties
 
 **Pillar II: AI Governance**
 Tiered Transparency Framework, Algorithmic Administration, Human Oversight, Democratic Steering

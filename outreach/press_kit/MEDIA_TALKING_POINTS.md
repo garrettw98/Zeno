@@ -5,7 +5,7 @@
 
 ## THE 30-SECOND PITCH
 
-"Automation is coming whether we prepare for it or not. The Human Standard is a comprehensive framework for ensuring that as technology transforms the economy, the benefits flow to everyone - not just those who own the machines. We propose Universal Basic Income, transparent AI governance, and a modernized tax system that captures productivity gains and shares them universally. Our core principle is simple: technology should serve humanity, not the other way around."
+"Automation is coming whether we prepare for it or not. The Human Standard is a comprehensive framework for ensuring that as technology transforms the economy, the benefits flow to everyone - not just those who own the machines. We propose Citizen's Royalty, transparent AI governance, and a modernized tax system that captures productivity gains and shares them universally. Our core principle is simple: technology should serve humanity, not the other way around."
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## BY TOPIC
 
-### Universal Basic Income
+### Citizen's Royalty (Income Floor)
 
 **Opening**: "Every American adult would receive the Citizen's Royalty (up to $12,000/year under the NIT model), no strings attached."
 

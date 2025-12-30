@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-1. [Universal Basic Income Questions](#universal-basic-income-questions)
+1. [Citizen's Royalty Questions](#citizens-royalty-questions)
 2. [Automation Tax Questions](#automation-tax-questions)
 3. [AI Governance Questions](#ai-governance-questions)
 4. [Sound Money Questions](#sound-money-questions)
@@ -17,7 +17,7 @@
 
 ---
 
-## Universal Basic Income Questions
+## Citizen's Royalty (Income Floor) Questions
 
 ### Q: Won't people just stop working if you give them free money?
 

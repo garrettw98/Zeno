@@ -348,7 +348,7 @@ Available for download at thehumanstandard.org/materials:
 
 Subject: Join Us - [City] Human Standard Chapter Meeting
 
-Are you concerned about automation and the future of work? Curious about Universal Basic Income and how we prepare for the AI economy?
+Are you concerned about automation and the future of work? Curious about Citizen's Royalty and how we prepare for the AI economy?
 
 Join [City] Human Standard for our monthly meeting!
 
@@ -374,7 +374,7 @@ FOR IMMEDIATE RELEASE
 
 The [City] Human Standard chapter will hold its first public meeting on [DATE] at [LOCATION].
 
-The Human Standard advocates for Universal Basic Income, transparent AI governance, and economic policies that ensure technology serves human flourishing.
+The Human Standard advocates for Citizen's Royalty, transparent AI governance, and economic policies that ensure technology serves human flourishing.
 
 For more information, contact [EMAIL] or visit [WEBSITE].
 

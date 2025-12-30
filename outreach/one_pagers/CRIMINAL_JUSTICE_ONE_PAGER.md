@@ -28,7 +28,7 @@
 ## KEY POLICIES
 
 ### Prevention
-- Universal Basic Income eliminates desperation crimes
+- Citizen's Royalty eliminates desperation crimes
 - Mental health and addiction treatment on demand
 - Housing First to end homelessness-to-prison pipeline
 

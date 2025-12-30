@@ -103,7 +103,7 @@ More practically, use **Labor Productivity Benchmarks:**
 **Phase 4 (Year 7+): 15% APT + 10% Payroll Tax Reduction**
 - Full implementation
 - Revenue dedicated to:
-  - 40% Universal Basic Income fund
+  - 40% Citizen's Royalty fund
   - 30% Displaced Worker Transition Fund
   - 20% Lifelong Learning Accounts
   - 10% Social Security stabilization
@@ -382,7 +382,7 @@ All revenue from these three sources flows into a single Automation Dividend Fun
 
 | Category | Percentage | 2030 Amount | Purpose |
 |----------|------------|-------------|---------|
-| Universal Basic Income | 40% | $60 billion | Direct payments to citizens |
+| Citizen's Royalty | 40% | $60 billion | Direct payments to citizens |
 | Displaced Worker Transition | 20% | $30 billion | Retraining, relocation, emergency support |
 | Lifelong Learning Accounts | 15% | $23 billion | Education credits for all citizens |
 | Social Security Stabilization | 10% | $15 billion | Shore up trust fund as payroll taxes decline |

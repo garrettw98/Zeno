@@ -6,7 +6,7 @@
 
 ## EXECUTIVE SUMMARY
 
-A fundamental tension exists in The Human Standard framework: we advocate for **purchasing power stability and financial privacy** through decentralized cryptocurrency while simultaneously requiring **robust tax collection** to fund Universal Basic Income and social programs. This document resolves that tension through a carefully designed fiscal architecture that achieves both goals.
+A fundamental tension exists in The Human Standard framework: we advocate for **purchasing power stability and financial privacy** through decentralized cryptocurrency while simultaneously requiring **robust tax collection** to fund the Citizen's Royalty and social programs. This document resolves that tension through a carefully designed fiscal architecture that achieves both goals.
 
 **The Core Insight:** Privacy and taxation are not inherently opposed. The current system conflates *surveillance* with *compliance*. We can build a system where citizens maintain financial privacy from corporations and bad actors while still meeting their obligations to the commonwealth.
 

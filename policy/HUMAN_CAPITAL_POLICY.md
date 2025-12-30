@@ -586,7 +586,7 @@ Every citizen equipped to thrive in an automated economy:
 1. **Universal Healthcare** → Healthy citizens
 2. **Personalized Education** → Skilled citizens
 3. **Lifelong Learning** → Adaptable citizens
-4. **Universal Basic Income** → Supported citizens
+4. **Citizen's Royalty** → Supported citizens
 
 **Together:** A population that benefits from automation rather than being destroyed by it.
 

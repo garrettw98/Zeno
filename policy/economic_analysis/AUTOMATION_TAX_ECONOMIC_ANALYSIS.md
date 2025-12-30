@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-This analysis examines the economic impacts of implementing an Automation Productivity Tax (APT) as proposed in The Human Standard. The tax aims to capture a portion of the productivity gains from automation and artificial intelligence to fund the Universal Basic Income program and workforce transition initiatives.
+This analysis examines the economic impacts of implementing an Automation Productivity Tax (APT) as proposed in The Human Standard. The tax aims to capture a portion of the productivity gains from automation and artificial intelligence to fund the Citizen's Royalty program and workforce transition initiatives.
 
 ### Key Findings
 
@@ -1271,7 +1271,7 @@ Trigger Points for Adjustment:
 
 ## Conclusion
 
-The Automation Productivity Tax represents a pragmatic response to the challenge of capturing the benefits of automation for broad prosperity. When combined with Universal Basic Income and workforce transition programs, the tax can help ensure that technological progress improves lives for all Americans, not just those who own the robots.
+The Automation Productivity Tax represents a pragmatic response to the challenge of capturing the benefits of automation for broad prosperity. When combined with Citizen's Royalty and workforce transition programs, the tax can help ensure that technological progress improves lives for all Americans, not just those who own the robots.
 
 ### Key Takeaways
 

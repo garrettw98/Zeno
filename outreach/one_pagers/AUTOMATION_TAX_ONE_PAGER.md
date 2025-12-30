@@ -32,7 +32,7 @@ The Automation Productivity Tax (APT):
 - Year 7+: 15% APT + 10% payroll tax cut
 
 ### REVENUE USE
-- 40% to Universal Basic Income fund
+- 40% to Citizen's Royalty fund
 - 30% to Displaced Worker Transition Fund
 - 20% to Lifelong Learning Accounts
 - 10% to Social Security stabilization
