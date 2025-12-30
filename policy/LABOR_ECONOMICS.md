@@ -521,3 +521,148 @@ What remains—and what expands massively—is vocational labor: the face-to-fac
 *"Freedom from drudgery. Freedom to care. Freedom to create. Freedom to connect."*
 
 —Zeno
+
+
+---
+
+## PART VI: DATA LABOR RIGHTS AND COLLECTIVE ACTION (VERSION 2.6)
+### From Individual Ownership to Collective Bargaining
+
+### 6.1 The Limits of Individual Action
+
+**The Problem with Individual Data Rights:**
+
+Version 2.5 established Data Labor Rights—the principle that data creation is labor deserving compensation. But individual data rights face structural limitations:
+
+| Individual Approach | Limitation |
+|---------------------|------------|
+| Opt-out rights | Platform can simply exclude you |
+| Individual licensing | Negligible bargaining power |
+| Privacy settings | Offered on take-it-or-leave-it basis |
+| Data portability | Useless without collective infrastructure |
+
+**The Power Asymmetry:**
+
+- One user's data: Worthless to platform
+- 100 million users' data: Platform's entire business model
+- Individual has no leverage; collective has total leverage
+
+**The Labor Parallel:**
+
+Individual workers couldn't negotiate with factory owners. They formed unions. Individual data workers can't negotiate with platforms. They must form **Data Unions**.
+
+### 6.2 The Right to Collective Disconnect
+
+**THE DATA STRIKE AUTHORIZATION:**
+
+**Section 1: Right to Organize**
+
+> "Citizens have the right to organize into Data Unions for the purpose of collective bargaining over the terms of data labor. No platform may retaliate against users for Data Union membership, participation in collective action, or exercise of collective disconnect rights."
+
+**Section 2: The Collective Disconnect**
+
+> "Data Unions with membership exceeding 100,000 citizens have the legal authority to execute 'Data Strikes'—coordinated actions to encrypt, withhold, or corrupt aggregate data streams to negotiate licensing terms. A Data Strike is a protected concerted activity under this Act."
+
+**Section 3: Strike Mechanisms**
+
+Data Unions may deploy the following collective actions:
+
+| Action | Description | Impact |
+|--------|-------------|--------|
+| **Data Blackout** | Members cease providing any new data | Training data supply interrupted |
+| **Encryption Strike** | Members encrypt data before platform receipt | Data becomes unusable for training |
+| **Noise Injection** | Members submit deliberately corrupted data | Poisons training datasets |
+| **Coordinated Deletion** | Members simultaneously request data deletion | Historical training data lost |
+| **Platform Boycott** | Members migrate to alternative platforms | Network effects reversed |
+
+### 6.3 Data Union Structure
+
+**Formation Requirements:**
+
+- Minimum 10,000 members for recognition
+- Democratic governance (one member, one vote)
+- Transparent financial accounting
+- Registered with Department of Labor
+
+**Negotiating Authority:**
+
+Once recognized, a Data Union may negotiate on behalf of members for:
+
+1. **Compensation Rates**: Per-data-point royalties
+2. **Usage Restrictions**: Limits on how data may be used
+3. **Transparency Rights**: Access to training methodologies
+4. **Deletion Rights**: Collective right to withdraw data
+5. **Future Use**: Terms for AI systems trained on member data
+
+**Collective Bargaining Agreement (CBA):**
+
+Data Unions and platforms may enter into CBAs that:
+- Set industry-standard compensation rates
+- Establish usage limitations
+- Create dispute resolution mechanisms
+- Bind all represented members
+- Survive platform sales/mergers
+
+### 6.4 Strike Protocols
+
+**Pre-Strike Requirements:**
+
+1. **Notice Period**: 30-day notice to platform
+2. **Good Faith Negotiation**: Documented attempt to negotiate
+3. **Member Vote**: 60% supermajority to authorize strike
+4. **Public Declaration**: Strike rationale published
+
+**During Strike:**
+
+- Platform may not lock out union members
+- Platform may not discriminate against strikers
+- Platform may not hire replacement data providers (scabs)
+- Government remains neutral (no injunctions)
+
+**Strike Resolution:**
+
+- Mediation available through Federal Mediation Service
+- Binding arbitration if both parties agree
+- No "cooling off" period—data workers choose timeline
+
+### 6.5 Platform Obligations
+
+**Recognition Requirements:**
+
+- Platforms must recognize Data Unions meeting formation requirements
+- Refusal to recognize: Unfair data labor practice
+- Retaliation against organizers: Civil and criminal penalties
+
+**Bargaining Requirements:**
+
+- Platforms must bargain in good faith
+- Must provide relevant data usage information
+- Must respond to proposals within reasonable time
+- Must not implement unilateral changes during negotiation
+
+**Anti-Retaliation:**
+
+- No account suspension for union activity
+- No algorithmic demotion for organizers
+- No data collection changes targeting members
+- Whistleblower protection for reporting violations
+
+### 6.6 The Federal Data Labor Relations Board
+
+**Establishment:**
+
+A Federal Data Labor Relations Board (FDLRB) shall oversee Data Union relations:
+
+- 5 members appointed by President, confirmed by Senate
+- Staggered 5-year terms
+- Independent agency status
+- Jurisdiction over data labor disputes
+
+**Powers:**
+
+1. Certify Data Union elections
+2. Investigate unfair data labor practices
+3. Issue cease-and-desist orders
+4. Adjudicate representation disputes
+5. Enforce collective bargaining requirements
+

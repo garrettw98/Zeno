@@ -325,6 +325,52 @@ The Citizen's Royalty addresses biological vulnerability. AI systems, however so
 #### (6) FUTURE CONSIDERATIONS
 If technological developments create entities that blur the boundary between metabolic and non-metabolic existence (e.g., biological-digital hybrids, uploaded consciousness), Congress may revisit this definition. The principle remains: support flows to entities that need it for the reasons the support was designed to address.
 
+
+
+---
+
+## SEC. 105A. ZERO-KNOWLEDGE PROOF OF HUMANITY REQUIREMENT (VERSION 2.6)
+
+### (a) VERIFICATION PROTOCOL
+
+(1) **EXCLUSIVE METHOD**—Eligibility verification under Section 105(f) (Metabolic Eligibility) shall be conducted exclusively through Zero-Knowledge Proof of Humanity (zk-PoH) protocols that cryptographically confirm eligibility without revealing personally identifiable information.
+
+(2) **PROHIBITION ON CENTRAL DATABASE**—The Treasury Department, Internal Revenue Service, Social Security Administration, and all other federal agencies are strictly prohibited from—
+   (A) creating any central database containing biometric data of Citizen's Royalty recipients;
+   (B) maintaining records linking specific citizens to specific eligibility proofs;
+   (C) requiring surrender of cryptographic credentials as a condition of receiving benefits; or
+   (D) sharing eligibility verification data with law enforcement except pursuant to specific court order for specific individuals.
+
+### (b) TECHNICAL REQUIREMENTS
+
+(1) **CRYPTOGRAPHIC STANDARD**—The zk-PoH protocol shall utilize—
+   (A) zero-knowledge proof systems (zk-SNARKs, zk-STARKs, or successor technologies) certified by the National Institute of Standards and Technology;
+   (B) nullifier mechanisms that prevent duplicate claims while preserving anonymity; and
+   (C) citizen-controlled credential storage with distributed recovery options.
+
+(2) **DECENTRALIZED ENROLLMENT**—Initial credential issuance shall occur through a decentralized network of authorized verifiers including—
+   (A) United States Postal Service facilities;
+   (B) State motor vehicle departments;
+   (C) Federally Qualified Health Centers;
+   (D) Licensed notaries public; and
+   (E) Other entities designated by the Secretary.
+
+### (c) PRIVACY PROTECTIONS
+
+(1) **DATA MINIMIZATION**—Authorized verifiers may collect only the minimum biometric data necessary to confirm biological humanity and must delete such data immediately upon credential generation.
+
+(2) **NO TRACKING**—The government may verify that a valid proof exists but may not determine which citizen generated which proof, when they generated it, or from what location.
+
+(3) **CITIZEN OWNERSHIP**—The cryptographic credential remains the exclusive property of the citizen. Attempted government seizure of credentials constitutes a violation of the Fourth Amendment.
+
+### (d) PENALTIES
+
+Any federal employee who knowingly violates the prohibitions in subsection (b) shall be subject to—
+   (1) criminal penalties of not more than 10 years imprisonment;
+   (2) civil penalties of not less than $100,000; and
+   (3) permanent disqualification from federal employment.
+
+
 ## SEC. 106. BENEFIT AMOUNT AND ADJUSTMENTS (VERSION 2.0: NEGATIVE INCOME TAX MODEL)
 
 ### (a) NEGATIVE INCOME TAX STRUCTURE

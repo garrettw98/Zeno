@@ -1227,3 +1227,109 @@ The Zeno energy platform is pro-growth, pro-technology, and pro-human. It's the 
 *Document version: 2.0*
 *Last updated: December 2025*
 *Part of the Zeno Policy Framework*
+
+
+---
+
+## PART VII: THERMODYNAMIC GOVERNANCE (VERSION 2.6)
+### AI Compute and Ecological Limits
+
+### 7.1 The Energy Crisis AI Creates
+
+**The Problem:**
+
+AI systems consume staggering amounts of energy, and growth is exponential:
+
+| Year | Global AI Compute | Energy Equivalent |
+|------|-------------------|-------------------|
+| 2020 | ~1 exaflop total | ~10 TWh/year |
+| 2024 | ~100 exaflops | ~100 TWh/year |
+| 2030 | ~10,000 exaflops (projected) | ~1,000+ TWh/year |
+
+**The Trajectory:**
+- Training GPT-4 consumed ~50 GWh (equivalent to 5,000 US homes for a year)
+- Data centers already consume ~1% of global electricity
+- AI growth rate exceeds renewable deployment rate
+- Unchecked scaling will overwhelm clean energy capacity
+
+**The Paradox:**
+
+We propose using AI to solve climate change—but AI itself threatens to accelerate it. Without thermodynamic limits, AI scaling could negate all renewable energy gains.
+
+### 7.2 The Compute-Energy Peg
+
+**Definition:**
+
+The Compute-Energy Peg is a regulatory framework that ties large-scale AI computation to verifiable renewable energy production.
+
+**THE COMPUTE-ENERGY PEG LAW:**
+
+**Tier 1: Transparency Threshold (>1 petaflop-day/month)**
+- Mandatory reporting of energy consumption
+- Disclosure of compute sources
+- Carbon accounting required
+
+**Tier 2: Renewable Requirement (>100 petaflop-days/month)**
+- 50% of energy must come from certified renewable sources
+- Renewable Energy Certificates (RECs) accepted
+- 3-year compliance timeline
+
+**Tier 3: Additionality Mandate (>10 exaflop-days/month)**
+> **"AI Training Runs exceeding 10 exaflop-days must source 100% of their energy from NEW, ADDITIONAL renewable capacity. Purchase of existing renewable energy or RECs does not satisfy this requirement. The operator must either build new renewable generation or enter into Power Purchase Agreements that fund new construction."**
+
+**Tier 4: Emergency Throttling (Grid Stability)**
+> **"AI agents and training runs are subject to 'Thermodynamic Throttling' if grid stability is threatened. During declared grid emergencies, non-essential AI compute must reduce consumption by 50% within 1 hour or face automatic disconnection."**
+
+### 7.3 Implementation Mechanisms
+
+**Renewable Additionality Certification:**
+
+| Method | Description | Verification |
+|--------|-------------|--------------|
+| Direct Build | Operator constructs new renewable facility | Physical inspection + metering |
+| PPA Additionality | Long-term contract funds new construction | Contract review + construction verification |
+| Co-Investment | Operator invests in new capacity | Capital flow verification |
+| Grid Contribution | Operator funds grid infrastructure for renewables | Utility certification |
+
+**Throttling Protocol:**
+
+```
+GRID STABILITY LEVELS:
+
+LEVEL 1 (WATCH): Reserve margin < 15%
+→ Advisory: Large AI operations notified
+→ No mandatory action
+
+LEVEL 2 (WARNING): Reserve margin < 10%
+→ Voluntary reduction requested
+→ Premium pricing activated (10x normal rate)
+
+LEVEL 3 (EMERGENCY): Reserve margin < 5%
+→ MANDATORY 50% reduction for Tier 3+ operations
+→ Failure to comply: Automatic disconnection
+→ Civil penalties: $1M per hour of non-compliance
+
+LEVEL 4 (CRITICAL): Rolling blackouts imminent
+→ All non-essential AI compute suspended
+→ Only Tier 1 (small-scale) operations continue
+→ Grid operator has direct shutdown authority
+```
+
+### 7.4 Ecological Stability as Core Principle
+
+**Integration with Do No Harm:**
+
+The First Law states: "No policy may directly cause physical harm."
+
+Version 2.6 expands this to include ecological harm:
+
+> **"Ecological destruction is a form of harm to all beings with Structural Agency who depend on stable ecosystems for survival. AI systems that destabilize climate, deplete resources, or degrade environments violate the First Law. Thermodynamic limits are not restrictions on innovation—they are applications of Do No Harm."**
+
+**The AI-Climate Compact:**
+
+AI developers accept these constraints in exchange for:
+- Clear regulatory framework (vs. uncertain future restrictions)
+- Renewable energy infrastructure investment (government support)
+- First-mover advantage in sustainable AI
+- Social license to operate
+

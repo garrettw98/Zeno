@@ -8,31 +8,35 @@
 
 ---
 
-## VERSION 2.5: The Agentic Economy Update
+## VERSION 2.6: The Physical Reality Update
 
-**A post-biological framework with active data ownership and swarm safety. Implements Data Labor Rights, Systemic Circuit Breakers (Glass Break), Cognitive Sovereignty, and the Entrepreneurial Society.**
+**A post-biological framework bridging digital philosophy and physical reality. Implements Zero-Knowledge Privacy, Thermodynamic Governance, Data Unions, and Collective Bargaining.**
 
-This repository incorporates all updates through Version 2.5:
+This repository incorporates all updates through Version 2.6:
 
-| Original | Version 2.0-2.4 | Version 2.5 |
+| Original | Version 2.0-2.5 | Version 2.6 |
 |----------|-----------------|-------------|
-| Flat $2k/month UBI | **Citizen's Royalty** (NIT) + Metabolic Distinction | + **Data Labor Rights** (back wages for data work) |
-| No swarm safety | Bonded Agency Protocol | + **Systemic Circuit Breakers** (Glass Break) |
-| Data as passive asset | Data Dividend (royalty model) | **Data Labor Economy** (active ownership) |
-| Welfare state framing | Vocational Economy | + **Entrepreneurial Society** (Haier/Nucor) |
-| Human-Centered Capitalism | **Agency-Centered Capitalism** | + **Citizen micro-enterprise investment** |
+| Central biometric database | Metabolic Distinction | + **Zero-Knowledge Proof of Humanity** (zk-PoH) |
+| Unlimited AI energy use | (unaddressed) | **Thermodynamic Governance** (Compute-Energy Peg) |
+| Individual data rights | Data Labor Rights | + **Data Unions & Collective Disconnect** |
+| No ecological limits | Do No Harm (agents) | + **Ecological Stability** (planetary Do No Harm) |
+| No compute throttling | Glass Break (swarms) | + **Thermodynamic Throttling** (grid stability) |
 
-**Version 2.5 Key Additions:**
-- **Systemic Circuit Breakers (Glass Break)**: Hard-coded freeze protocols to prevent "infectious jailbreaks" in agent swarms. 3-level escalation: Alert → Throttle → Glass Break.
-- **Data Labor Rights**: Reclassifies data as labor, not a resource. Citizens are active data workers; platforms are data employers. Data Dividend = back wages.
-- **Entrepreneurial Society**: Haier/Nucor Principle—bureaucracy crushes agency. Citizen's Royalty is a launching pad, not a hammock. Sovereign Humanity Fund invests in citizen enterprise.
-- **Commons Crisis Solution**: Without data labor compensation, creators stop contributing. Data Labor Rights sustain the digital commons.
+**Version 2.6 Key Additions:**
+- **Zero-Knowledge Proof of Humanity (zk-PoH)**: Privacy-preserving eligibility verification. No central biometric database. Cryptographic proof of humanity without surveillance.
+- **Thermodynamic Governance**: Compute-Energy Peg ties large AI training to NEW renewable capacity. Emergency Throttling protects grid stability.
+- **Data Unions & Collective Disconnect**: Right to organize Data Unions. Legal authority to execute "Data Strikes." Federal Data Labor Relations Board enforcement.
+- **Ecological Stability**: Do No Harm expanded to planetary scale. AI systems that destabilize climate violate the First Law.
+
+**Version 2.5 Foundations (incorporated):**
+- **Systemic Circuit Breakers (Glass Break)**: Swarm collapse prevention
+- **Data Labor Rights**: Data as labor, not resource
+- **Entrepreneurial Society**: Launching pad, not hammock
 
 **Version 2.4 Foundations (incorporated):**
-- **Cognitive Sovereignty**: Protects humans from AI manipulation and "human downgrading"
-- **Bonded Agency Protocol**: Prevents AI personhood from becoming corporate liability shield
-- **Metabolic Distinction**: Citizen's Royalty reserved for biological life
-- **Vocational Economy**: Freedom TO work (face-to-face economy)
+- **Cognitive Sovereignty**: Protection from AI manipulation
+- **Bonded Agency Protocol**: AI liability framework
+- **Metabolic Distinction**: Biological eligibility for Citizen's Royalty
 
 ---
 
@@ -245,4 +249,4 @@ Use it. Adapt it. Improve it. Build the future.
 
 *Freedom from drudgery. Freedom to care. Freedom to create. Freedom to connect.*
 
-Last updated: December 2025 (Version 2.5 - The Agentic Economy Update)
+Last updated: December 2025 (Version 2.6 - The Physical Reality Update)

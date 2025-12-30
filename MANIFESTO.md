@@ -205,6 +205,16 @@ No policy may directly cause physical or psychological harm to any being with St
 
 This seems obvious. It is not practiced. Current systems regularly cause harm through bureaucratic indifference, through algorithmic bias, through policies that treat statistics as more important than agents. We reject this. Every policy must be evaluated first by whether it harms beings capable of experiencing that harm.
 
+
+
+**Version 2.6 Addition - Ecological Stability:**
+
+This principle extends beyond immediate harm to agents. It encompasses **ecological stability**—the preservation of the planetary systems that sustain all life. AI systems that consume energy recklessly, accelerate climate change, or deplete finite resources harm every being that depends on a stable biosphere.
+
+Thermodynamic limits are not restrictions on innovation. They are applications of Do No Harm at planetary scale. Any AI system that threatens ecological stability violates the First Law, regardless of its other benefits.
+
+
+
 ### Second Law: Maximize Flourishing
 
 The purpose of government is not to maximize GDP. The purpose of government is not to maximize corporate profits. The purpose of government is not to maximize military power or international prestige.

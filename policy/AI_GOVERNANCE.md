@@ -1057,3 +1057,43 @@ This is the revolution.
 *"The best way to predict the future is to create it."* — Peter Drucker
 
 *"We build the systems that build the world. Let us build them to serve all humanity."* — Zeno
+
+
+---
+
+## PART VIII: THERMODYNAMIC GOVERNANCE INTEGRATION (VERSION 2.6)
+
+### 8.1 Ecological Constraints on AI Deployment
+
+**The Principle:**
+
+AI systems exist within physical reality. They consume energy, generate heat, and compete for resources. Governance frameworks that ignore thermodynamics are incomplete.
+
+**Integration with Existing Framework:**
+
+| Framework Component | Thermodynamic Addition |
+|---------------------|------------------------|
+| Tiered Transparency | + Energy consumption disclosure |
+| Glass Break Protocol | + Thermodynamic Throttling triggers |
+| NAICO Oversight | + Compute-Energy Peg enforcement |
+| Lantern Protocol | + Ecological impact assessment |
+
+### 8.2 NAICO Thermodynamic Authority
+
+The National AI Oversight Commission (NAICO) shall have authority to:
+
+1. **Monitor Compute**: Track AI energy consumption across regulated entities
+2. **Certify Renewables**: Verify additionality claims for large training runs
+3. **Trigger Throttling**: Coordinate with grid operators during emergencies
+4. **Penalize Violations**: Enforce Compute-Energy Peg compliance
+5. **Report Trends**: Annual public report on AI energy trajectory
+
+### 8.3 Emergency Powers
+
+During declared climate or grid emergencies:
+
+- NAICO may suspend training runs above Tier 2 threshold
+- AI inference services classified as "essential" continue with priority
+- Non-essential AI applications (gaming, entertainment, advertising optimization) throttled first
+- Critical infrastructure AI (grid management, emergency response, healthcare) exempt from throttling
+
