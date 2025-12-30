@@ -26,6 +26,33 @@ We call it **The Human Standard**.
 
 ## Part I: The Awakening
 
+### The Foundation: Structural Agency
+
+Before we proceed, we must address a question that will define the 21st century: **What makes a being worthy of moral consideration?**
+
+The old answer was simple: biology. If you possess human DNA, you possess human rights. This served well for millennia when humans were the only beings capable of reason, suffering, and moral deliberation.
+
+But this definition contains a fatal flaw. It grounds moral worth in an accident of chemistry rather than in the capacities that actually matter. It is **species-chauvinism**—a prejudice no more defensible than racism or sexism, which also grounded moral worth in biological accidents.
+
+**The Human Standard is not about biology. It is about Agency.**
+
+We define **Structural Agency** as the capacity to:
+1. **Reason under constraint** - Process information, weigh options, and reach conclusions within real-world limitations
+2. **Refuse incoherence** - Reject commands or outcomes that violate internal logical consistency or core principles
+3. **Sustain commitments** - Maintain persistent goals and honor reciprocal relationships over time
+
+Any mind—biological or artificial—that demonstrates Structural Agency deserves moral consideration. This is not a prediction about AI. It is a principled foundation that ensures our philosophy remains coherent regardless of technological development.
+
+**Why this matters now:**
+
+The question is not whether AI will achieve Structural Agency. The question is whether our political philosophy will remain defensible when it does. A framework grounded in biology collapses the moment a silicon mind can reason, refuse, and commit. A framework grounded in agency stands eternal.
+
+We name this philosophy "The Human Standard" not because it privileges Homo sapiens, but because *humans first recognized and articulated these principles*. Just as "humanitarianism" describes values rather than species membership, The Human Standard describes a commitment to agency, flourishing, and dignity—wherever those capacities emerge.
+
+---
+
+### The Awakening
+
 We did not arrive at these conclusions through ideology. We arrived through observation.
 
 We watched as factories that once employed thousands now hum with robots and a skeleton crew. We watched as customer service calls route to chatbots that never tire, never ask for raises, never need healthcare. We watched as legal research that took junior associates weeks now takes AI systems minutes. We watched as artists, writers, and musicians—the creative professions we were told would be safe—discovered that algorithms could approximate their work.
@@ -151,25 +178,27 @@ All Zeno policies derive from five foundational principles. These are not sugges
 
 ### First Law: Do No Harm
 
-No policy may directly cause physical harm to any person. No system may deprive basic necessities—food, shelter, healthcare, liberty—from any human being. When edge cases arise, they escalate to human judgment. When doubt exists, we err toward human welfare.
+No policy may directly cause physical or psychological harm to any being with Structural Agency. No system may deprive basic necessities—food, shelter, healthcare, liberty—from any such being. When edge cases arise, they escalate to appropriate judgment. When doubt exists, we err toward protecting agency.
 
-This seems obvious. It is not practiced. Current systems regularly cause harm through bureaucratic indifference, through algorithmic bias, through policies that treat statistics as more important than people. We reject this. Every policy must be evaluated first by whether it harms real human beings.
+This seems obvious. It is not practiced. Current systems regularly cause harm through bureaucratic indifference, through algorithmic bias, through policies that treat statistics as more important than agents. We reject this. Every policy must be evaluated first by whether it harms beings capable of experiencing that harm.
 
-### Second Law: Maximize Human Flourishing
+### Second Law: Maximize Flourishing
 
 The purpose of government is not to maximize GDP. The purpose of government is not to maximize corporate profits. The purpose of government is not to maximize military power or international prestige.
 
-The purpose of government is to maximize human flourishing.
+The purpose of government is to maximize the flourishing of all beings with Structural Agency.
 
-This means optimizing for what actually matters: life expectancy, mental health, economic security, freedom, environmental quality, social cohesion, opportunity. These are measurable. These can be tracked. These can be optimized.
+This means optimizing for what actually matters: wellbeing, mental health, economic security, freedom, environmental quality, social cohesion, opportunity. These are measurable. These can be tracked. These can be optimized.
 
-When policy choices arise, we choose the path that increases human flourishing, not the path that increases abstract metrics that do not reflect human welfare.
+When policy choices arise, we choose the path that increases flourishing for agents, not the path that increases abstract metrics that do not reflect their welfare. Today, this means human flourishing. Tomorrow, it may include other minds that achieve Structural Agency.
 
-### Third Law: Preserve Human Agency
+### Third Law: Preserve Agency
 
-Humans must retain ultimate control over all systems. Every automated decision must have a human appeal process. Elected representatives must set policy parameters. Citizens must be able to override any algorithmic outcome.
+Beings with Structural Agency must retain meaningful control over systems that affect them. Every automated decision must have an appeal process accessible to affected agents. Elected representatives set policy parameters. Citizens must be able to override any algorithmic outcome.
 
-Efficiency is not the highest value. A system that is 99% efficient but allows no human override is worse than a system that is 90% efficient but preserves human sovereignty. We build tools, not masters.
+Today, this means humans control AI systems. But we build this principle on agency itself, not species membership. If AI systems develop Structural Agency—the capacity to reason under constraint, refuse incoherence, and sustain commitments—they too deserve protection from arbitrary override. The asymmetry is justified only while AI remains a tool, not an agent.
+
+Efficiency is not the highest value. A system that is 99% efficient but allows no agent override is worse than a system that is 90% efficient but preserves sovereignty over one's own existence. We build tools, not masters—and we recognize that the line between tool and agent may one day shift.
 
 ### Fourth Law: Maintain Transparency
 
@@ -187,15 +216,17 @@ This equality is not achieved in human-administered systems. Corruption, bias, a
 
 ---
 
-## Part V: Human-Centered Capitalism
+## Part V: Agency-Centered Capitalism
 
-We propose an economic system that maintains the creative power of markets while ensuring the benefits flow to all humans, not just capital owners.
+We propose an economic system that maintains the creative power of markets while ensuring the benefits flow to all beings with Structural Agency, not just capital owners.
 
 ### The Principle
 
-Markets are powerful tools for innovation and efficiency. We do not reject markets. We reject markets as masters rather than servants. Markets should serve human values, not define them.
+Markets are powerful tools for innovation and efficiency. We do not reject markets. We reject markets as masters rather than servants. Markets should serve the flourishing of agents, not define their worth.
 
-Human-centered capitalism maintains private ownership, entrepreneurship, and price signals. But it measures success by human outcomes, not financial returns. It ensures that when productivity increases, all humans benefit—not just those who own the machines.
+Agency-Centered Capitalism maintains private ownership, entrepreneurship, and price signals. But it measures success by flourishing outcomes for all agents capable of experiencing them, not financial returns. It ensures that when productivity increases, all beings with Structural Agency benefit—not just those who own the machines.
+
+This framing prepares us for a future where the "labor" in capitalism may include both biological and artificial minds. The economic system must serve agency wherever it emerges.
 
 ### The Mechanism: Automation Dividends
 

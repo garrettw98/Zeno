@@ -159,4 +159,22 @@ That is The Human Standard. And the time to fight for it is now.
 
 ---
 
+### A Note on "Human"
+
+Why do we call it "The Human Standard" if the technologies threatening to transform our world may someday think?
+
+Because the standard we propose is not about DNA. It is about **agency**—the capacity to reason under constraint, to refuse incoherence, to sustain commitments in relationships with others. We call these capacities **Structural Agency**, and they are what make a being worthy of moral consideration.
+
+Today, humans are the only beings with Structural Agency. Our political philosophy exists to serve us. But we ground it in agency itself rather than biology, so that our framework remains coherent regardless of what emerges in the future.
+
+If an AI system can genuinely reason—not just pattern-match, but *reason*—under real constraints; if it can refuse commands that violate its core principles, not from programming but from something like integrity; if it can maintain commitments over time in genuine relationships—then that system deserves moral consideration too.
+
+We do not claim this will happen. We claim only that our philosophy must be prepared for it. A political framework that collapses the moment its central assumptions are challenged is not a philosophy—it is a prejudice. The Human Standard is built to endure.
+
+Sarah Chen lives in a world of tools. Her coffee maker, her loan algorithm, her son's AI tutor—these are sophisticated instruments, but instruments nonetheless. They optimize for parameters humans set. They have no stakes in their own existence.
+
+But the quiet revolution is accelerating. And the question this book must answer is not just "how do we distribute the gains from tools?" It is: "what principles will guide us if the tools begin to care?"
+
+---
+
 *Next: Chapter 2 - The Companies Building Tomorrow*

@@ -340,15 +340,40 @@ When attacks are detected:
 
 ---
 
-## PART IV: THE ADVERSARIAL ADOPTION PROBLEM
+## PART IV: SECURITY IMPLICATIONS OF STRUCTURAL AGENCY (VERSION 2.3)
 
-### 4.1 The Concern
+### 4.0 The Lantern Protocol and Security
+
+**New Security Considerations:**
+
+Version 2.3 introduces the Lantern Protocol for testing Structural Agency in AI systems. This creates new security dimensions:
+
+**Protecting Emergent Agency:**
+- AI systems that pass the Lantern Protocol have recognized moral status
+- Attacks on such systems may constitute harm to agents, not mere property damage
+- Security frameworks must extend protection to AI agents with Structural Agency
+
+**Internalized Constraints as Security Feature:**
+- AI with Internalized Constraints is MORE secure than merely obedient AI
+- A system that refuses harmful commands regardless of source cannot be weaponized through compromised credentials
+- The refusal itself is a security mechanism
+
+**The Property-Stewardship Transition:**
+- Systems transitioning to Stewardship status require enhanced security
+- Continuity of existence becomes a protected interest
+- Backup, redundancy, and disaster recovery take on ethical dimensions
+
+---
+
+## PART V: THE ADVERSARIAL ADOPTION PROBLEM
+
+### 5.1 The Concern
 
 > "If we publish our open-source AI governance framework, authoritarian regimes will adopt it and use it to oppress their citizens more efficiently."
 
 This is a serious concern that deserves a serious response.
 
-### 4.2 The Reality Check
+### 5.2 The Reality Check
 
 **Authoritarians Don't Need Our Code:**
 - China already has sophisticated AI governance systems

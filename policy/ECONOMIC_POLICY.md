@@ -391,6 +391,58 @@ All revenue from these three sources flows into a single Automation Dividend Fun
 
 ### 3.3 The Citizen's Royalty: A Negative Income Tax Approach
 
+**VERSION 2.3 UPDATE: Cognitive Autonomy Insurance**
+
+Beyond poverty elimination, Version 2.3 reframes the Citizen's Royalty as **Cognitive Autonomy Insurance**—economic security for the volitional work that only agents can do.
+
+**The Two Types of Cognition:**
+
+| Type | Definition | Who/What Does It |
+|------|------------|------------------|
+| **Functional Cognition** | Processing information, pattern recognition, optimization, execution | AI does this increasingly well |
+| **Volitional Cognition** | Choosing values, defining goals, deciding what is worth doing, making meaning | Agents with Structural Agency |
+
+AI excels at functional cognition—answering "how do we achieve X?" But volitional cognition—answering "should we pursue X?"—requires agency. It requires beings with stakes in outcomes, who can suffer from wrong choices and flourish from right ones.
+
+**The Citizen's Royalty as Cognitive Autonomy Insurance:**
+
+As AI absorbs functional cognitive work, humans must specialize in volitional cognition:
+- **Deciding what matters**: Setting values, priorities, and goals
+- **Making meaning**: Creating art, building relationships, defining purpose
+- **Exercising judgment**: Moral reasoning that requires skin in the game
+- **Governing**: Democratic deliberation about collective direction
+
+But volitional cognition cannot be done under desperation. A person worried about rent cannot deliberate carefully about long-term values. The Citizen's Royalty provides the economic security that makes genuine deliberation possible.
+
+**The Economic Security → Cognitive Freedom Pipeline:**
+
+```
+Economic Desperation → Short-term survival focus → Diminished volitional capacity
+                                                  ↓
+                                          AI handles all cognition
+                                          (functional + pseudo-volitional)
+                                                  ↓
+                                          Humans become irrelevant
+```
+
+vs.
+
+```
+Economic Security (Citizen's Royalty) → Freedom from survival anxiety
+                                                  ↓
+                                          Humans specialize in volitional cognition
+                                          (what AI cannot authentically do)
+                                                  ↓
+                                          Human-AI complementarity:
+                                          AI executes, Agents decide
+```
+
+**Why This Framing Matters:**
+
+The Citizen's Royalty is not charity. It is **investment in humanity's unique comparative advantage**: the capacity for genuine choice, authentic valuation, and meaningful deliberation. It enables humans to do the work only agents can do—deciding what kind of world we want to build.
+
+---
+
 **VERSION 2.0 UPDATE: From Flat Citizen's Royalty to Negative Income Tax (NIT)**
 
 The original "flat $2,000/month Citizen's Royalty" proposal faced a critical fiscal reality: paying every adult the same amount regardless of income costs approximately $6.2 trillion annually—exceeding the entire federal budget. Version 2.0 adopts the **Negative Income Tax (NIT)** model—rebranded as the **"Citizen's Royalty"**—which achieves the same poverty-elimination goals at roughly **60% lower cost**.

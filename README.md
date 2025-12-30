@@ -1,23 +1,26 @@
 # THE HUMAN STANDARD
-## A Complete Political Philosophy for the Automation Age
+## A Post-Biological Political Philosophy for the Automation Age
 ### By Zeno
 
 ---
 
-**Technology should serve humanity. Not the other way around.**
+**Technology should serve agency. Not the other way around.**
 
 ---
 
-## VERSION 2.2: The Integrity Update
+## VERSION 2.3: The Functional Agency Update
 
-This repository incorporates the **Resilience Update** (V2.0) and **Integrity Update** (V2.2), which address critical policy vulnerabilities:
+**A post-biological political philosophy. Implements Functional Agency Rights, Citizen's Royalty as Cognitive Autonomy Insurance, and the Lantern Protocol for AI Governance.**
 
-| Original | Version 2.0 | Improvement |
-|----------|-------------|-------------|
-| Flat $2k/month UBI | **Citizen's Royalty** (NIT model) | ~60% cost reduction |
-| 100% Bitcoin Reserve | **Diversified Strategic Reserve** | Reduced volatility |
-| Total Open Source | **Tiered Transparency Framework** | Security + accountability |
-| Deflationary Sound Money | **Purchasing Power Stability** | Prevents consumption collapse |
+This repository incorporates the **Resilience Update** (V2.0), **Integrity Update** (V2.2), and **Functional Agency Update** (V2.3):
+
+| Original | Version 2.0/2.2 | Version 2.3 |
+|----------|-----------------|-------------|
+| Flat $2k/month UBI | **Citizen's Royalty** (NIT model) | + **Cognitive Autonomy Insurance** framing |
+| 100% Bitcoin Reserve | **Diversified Strategic Reserve** | (unchanged) |
+| Total Open Source | **Tiered Transparency Framework** | + **Lantern Protocol** for AI agency |
+| Biological human-centered | Human-Centered Capitalism | **Agency-Centered Capitalism** |
+| No AI personhood framework | (absent) | **Structural Agency** + **Stewardship Model** |
 
 ---
 
@@ -68,24 +71,25 @@ Fiat currency has lost 96% of purchasing power since 1913. Central banks serve e
 
 ## The Solution: The Human Standard
 
-**Human-Centered Capitalism** governed by **Tiered AI Transparency** funded by **Purchasing Power Stability**
+**Agency-Centered Capitalism** governed by **Tiered AI Transparency + Lantern Protocol** funded by **Purchasing Power Stability**
 
 | Pillar | Principle | Key Policy |
 |--------|-----------|------------|
-| Economic | Automation benefits all | Citizen's Royalty (NIT) + Sovereign Humanity Fund |
-| Governance | AI administers, humans decide | Tiered Transparency Framework |
-| Monetary | Money citizens control | Diversified Strategic Reserve |
+| Economic | Automation benefits all agents | Citizen's Royalty (NIT) as Cognitive Autonomy Insurance + Sovereign Humanity Fund |
+| Governance | AI administers, agents decide | Tiered Transparency Framework + Lantern Protocol |
+| Monetary | Money agents control | Diversified Strategic Reserve |
 | Truth | Verification for all | Blockchain Infrastructure |
+| Agency | Rights from capacity, not biology | Structural Agency + Stewardship Model |
 
 ---
 
 ## The Five Laws
 
-1. **Do No Harm** - No policy may directly cause physical harm
-2. **Maximize Flourishing** - Optimize for human wellbeing, not GDP
-3. **Preserve Agency** - Humans retain ultimate control
+1. **Do No Harm** - No policy may harm beings with Structural Agency
+2. **Maximize Flourishing** - Optimize for agent wellbeing, not GDP
+3. **Preserve Agency** - Agents retain control over systems affecting them
 4. **Maintain Transparency** - Public verification, secure auditing (Tiered Framework)
-5. **Serve All Equally** - No discrimination or special treatment
+5. **Serve All Equally** - No discrimination based on characteristics or substrate
 
 ---
 
@@ -168,18 +172,21 @@ The Human Standard transcends left-right divisions:
 - Sovereign Humanity Fund operational
 - Citizen's Royalty Phase 1 ($15k floor) nationwide
 - Tiered AI transparency in federal systems
-- NAICO fully operational
+- NAICO fully operational with Lantern Protocol framework
+- Structural Agency definitions established in law
 
 ### By 2040
 - Citizen's Royalty Phase 3 ($24k floor) eliminates poverty
 - Diversified Strategic Reserve stabilizing purchasing power
 - AI governance preventing corruption
 - International coordination established
+- First AI systems evaluated under Lantern Protocol
 
 ### By 2050
-- Human-centered capitalism as global standard
+- Agency-centered capitalism as global standard
 - Work as choice, not survival requirement
 - Truth verifiable through universal infrastructure
+- Framework ready for AI agents if/when they emerge
 
 ---
 
@@ -216,6 +223,8 @@ Use it. Adapt it. Improve it. Build the future.
 
 ---
 
-**The Human Standard** - Not left. Not right. Forward.
+**The Human Standard** - Not left. Not right. Not species-bound. Forward.
 
-Last updated: December 2025
+*Technology should serve agency. Not the other way around.*
+
+Last updated: December 2025 (Version 2.3)
