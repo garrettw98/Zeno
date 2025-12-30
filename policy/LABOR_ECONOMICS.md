@@ -666,3 +666,94 @@ A Federal Data Labor Relations Board (FDLRB) shall oversee Data Union relations:
 4. Adjudicate representation disputes
 5. Enforce collective bargaining requirements
 
+
+---
+
+## PART VI-A: DATA LABOR VS. VOCATION CLARIFICATION (VERSION 2.6.1)
+
+### The Two-Layer Economic Model
+
+**The Apparent Tension:**
+
+Version 2.4 promotes the "Vocational Economy"—meaningful human work in care, creativity, and connection. Version 2.5 promotes "Data Labor"—passive data generation that funds the Citizen's Royalty. These seem contradictory: are we workers or data cows?
+
+**The Resolution: Base Layer and High Layer**
+
+These are not competing visions. They are **complementary layers** of the human economic role in the automation age:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  HIGH LAYER: THE VOCATION                                   │
+│  Active pursuit of care, art, community, meaning            │
+│  This is what humans DO                                     │
+│  This provides PURPOSE                                      │
+└─────────────────────────────────────────────────────────────┘
+                              ▲
+                              │ Enables
+                              │
+┌─────────────────────────────────────────────────────────────┐
+│  BASE LAYER: DATA LABOR                                     │
+│  Passive generation of behavioral/biometric data            │
+│  This is what humans ARE COMPENSATED FOR                    │
+│  This pays the BILLS                                        │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### The Base Layer: Data Labor
+
+**What It Is:**
+
+- Passive generation of data through daily life
+- Behavioral data: clicks, purchases, movements
+- Biometric data: health metrics, voice, images
+- Generated automatically, not through conscious effort
+
+**Economic Function:**
+
+- Funds the Citizen's Royalty through Data Dividend taxation
+- Provides "base income" that ensures survival
+- Operates in background—requires no active work
+- Compensates citizens for value already being extracted
+
+**Critical Clarification:**
+
+> **Data Labor is compensation for value extraction that is ALREADY HAPPENING. It does not require citizens to become "data cows" deliberately generating data for platforms. The data exists regardless—Data Labor Rights simply ensure citizens are paid for it.**
+
+### The High Layer: The Vocation
+
+**What It Is:**
+
+- Active pursuit of meaningful work
+- Care: childcare, eldercare, community support
+- Creativity: art, music, writing, craft
+- Connection: teaching, mentoring, counseling, ministry
+- Service: hospitality, personal services, human-facing roles
+
+**Economic Function:**
+
+- Provides purpose and meaning (not just income)
+- Creates the "face-to-face economy" that AI cannot replicate
+- Requires subjective experience (qualia) that machines lack
+- Paid through wages, fees, or Vocational Credits
+
+**Critical Clarification:**
+
+> **The Vocation is not about generating income (that's what Data Labor does). The Vocation is about generating MEANING. The Citizen's Royalty + Data Dividend provides the economic floor; the Vocation provides the human purpose.**
+
+### The Integration
+
+| Question | Answer |
+|----------|--------|
+| What pays my rent? | Base Layer (Data Labor → Citizen's Royalty) |
+| What gives my life meaning? | High Layer (The Vocation) |
+| Am I forced to generate data? | No—it happens passively through normal life |
+| Am I forced to work? | No—but humans need purpose, and Vocation provides it |
+| Can I just collect Data Dividend and do nothing? | Yes, but research shows this leads to depression |
+| What's the ideal? | Data Labor covers basics; Vocation provides fulfillment |
+
+### The Aspiration
+
+> **"We do not aspire to be 'Data Cows' merely grazing for algorithms. Data Labor buys us the freedom to pursue the Human Vocation. The Base Layer handles survival; the High Layer enables flourishing."**
+
+This is not a contradiction—it is a **division of economic function** that liberates humans from drudgery (automated away) and extraction (compensated through Data Labor) to pursue what only humans can do (the Vocation).
+

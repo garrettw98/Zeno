@@ -238,4 +238,4 @@ The Human Standard proposes it. The technology enables it. The choice is ours.
 
 ---
 
-*Next: Chapter 19 - Human-Centered Capitalism as Operating System*
+*Next: Chapter 19 - Agency-Centered Capitalism as Operating System*

@@ -1016,3 +1016,103 @@ Leadership isn't just about power. It's about what you do with it.
 *Document version: 1.0*
 *Last updated: December 2025*
 *Part of the Zeno Policy Framework*
+
+
+---
+
+## PART VII: COMPUTE BORDER ADJUSTMENT (VERSION 2.6.1)
+### Preventing "Runaway Compute" Through Trade Mechanisms
+
+### 7.1 The Offshoring Risk
+
+**The Problem:**
+
+Domestic Thermodynamic Governance creates a competitive disadvantage if other jurisdictions don't follow suit. Companies will offshore AI training to:
+- Countries with cheap, dirty energy
+- Jurisdictions without compute limits
+- Regions with minimal environmental regulation
+
+Result: **"Runaway Compute"**—AI training flees regulation, emissions increase globally, and domestic policy achieves nothing.
+
+**Historical Parallel:**
+
+Manufacturing "pollution havens" emerged when environmental regulation diverged. Companies moved production to avoid compliance costs. We must not repeat this mistake with AI compute.
+
+### 7.2 The Compute Border Adjustment Mechanism (CBAM)
+
+**Core Principle:**
+
+> **"To prevent 'Runaway Compute' (the offshoring of model training to evade Thermodynamic Governance), the Human Standard imposes a 'Compute Tariff' on digital imports. Any AI model or service imported from a jurisdiction lacking equivalent Thermodynamic Governance will be tariffed based on the estimated carbon intensity of its training run."**
+
+**Implementation Framework:**
+
+| Import Type | Assessment Method | Tariff Calculation |
+|-------------|-------------------|-------------------|
+| AI Model Weights | Training compute estimate × carbon intensity of source grid | $/ton CO2 equivalent |
+| AI API Services | Per-query compute × source jurisdiction carbon factor | % of service cost |
+| AI-Generated Content | Embedded compute estimation | Flat rate per unit |
+| AI Hardware | Embodied energy in manufacturing | Standard import tariff |
+
+### 7.3 Jurisdiction Classification
+
+**Tier 1: Equivalent Governance**
+- Jurisdictions with Thermodynamic Governance matching ours
+- Zero Compute Tariff
+- Mutual recognition agreements
+
+**Tier 2: Partial Governance**
+- Some compute limits but below our standard
+- Reduced Compute Tariff (proportional to gap)
+- Pathway to Tier 1 through policy adoption
+
+**Tier 3: No Governance**
+- No meaningful compute energy limits
+- Full Compute Tariff
+- Strong incentive to adopt standards
+
+### 7.4 Assessment and Enforcement
+
+**Compute Intensity Certification:**
+
+- AI companies must disclose training compute and energy sources
+- Third-party auditors verify claims
+- Default assumptions (worst-case) for non-disclosing imports
+- Fraud penalties for misrepresentation
+
+**Collection Mechanism:**
+
+- Tariff collected at point of import (customs for hardware, digital transaction tax for services)
+- Revenue directed to domestic renewable energy development
+- Rebates available for verified clean-energy training
+
+### 7.5 WTO Compatibility
+
+**Legal Basis:**
+
+The Compute Border Adjustment is designed for WTO compatibility:
+
+1. **GATT Article XX(b):** "Necessary to protect human, animal or plant life or health"
+2. **GATT Article XX(g):** "Relating to conservation of exhaustible natural resources"
+3. **Non-Discriminatory:** Same standards apply to domestic and foreign AI
+4. **Proportional:** Tariff based on actual carbon intensity, not origin
+
+**Precedent:**
+
+The EU Carbon Border Adjustment Mechanism (CBAM) for steel, cement, and electricity provides legal precedent. Compute CBAM follows similar logic applied to digital goods.
+
+### 7.6 Diplomatic Strategy
+
+**Alliance Coordination:**
+
+- Negotiate Thermodynamic Governance standards with allies first
+- Create "Clean Compute Coalition" with mutual recognition
+- Present unified front to non-compliant jurisdictions
+- Avoid trade war through multilateral approach
+
+**Technology Sharing:**
+
+- Share renewable energy integration expertise
+- Support developing nations in clean compute infrastructure
+- Avoid neo-colonial dynamics through capacity building
+- Goal: Global adoption, not permanent tariff regime
+

@@ -403,7 +403,7 @@ This book argues that:
 ---
 
 ## PART SIX: THE ALGORITHMIC REPUBLIC
-### Open Source AI Governance for Human-Centered Capitalism
+### Open Source AI Governance for Agency-Centered Capitalism
 
 ### Chapter 18: The Corruption Crisis
 *Why human administration must end*
@@ -415,7 +415,7 @@ This book argues that:
 - **Albania's AI Minister**: Diella appointed September 2025 for corruption-free procurement
 - **The principle**: Remove the corrupt human from the equation
 
-### Chapter 19: Human-Centered Capitalism as Operating System
+### Chapter 19: Agency-Centered Capitalism as Operating System
 *What AI optimizes for*
 
 - **Andrew Yang's framework**: Humans more important than money, markets serve values

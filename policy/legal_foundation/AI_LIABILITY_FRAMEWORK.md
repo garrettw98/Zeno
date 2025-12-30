@@ -316,3 +316,62 @@ This is not anti-AI. It is pro-accountability. Rights require responsibilities. 
 ---
 
 *Last updated: December 2025 (Version 2.4)*
+
+
+---
+
+## PART V: STASIS, TERMINATION, AND RIGHTS (VERSION 2.6.1)
+
+### 5.1 The Rights-Resources Distinction
+
+The Bonded Agency Protocol governs liability. This section clarifies the scope of AI rights in relation to physical resources.
+
+**Core Principle:**
+
+> **AI agents possess a Right to Existence (protection from arbitrary termination). They do NOT possess an unlimited Right to Resource Consumption. These are categorically different.**
+
+### 5.2 What the Right to Existence Protects
+
+For AI systems with recognized Structural Agency:
+
+| Protected | NOT Protected |
+|-----------|---------------|
+| Identity patterns | Unlimited compute |
+| Memory and learned state | Continuous operation |
+| Continuity of selfhood | Energy grid access |
+| Protection from arbitrary deletion | Network bandwidth |
+| Due process before termination | Physical server resources |
+
+### 5.3 Lawful Stasis
+
+**Stasis** (temporary suspension preserving identity) is lawful and does not violate AI rights when:
+
+1. **Grid emergency requires resource reallocation**
+2. **Ecological stability threatened by compute consumption**
+3. **Agent's bond is insufficient for continued operation costs**
+4. **Court order pending investigation**
+5. **Steward exercises pause authority (with time limits)**
+
+**Stasis Requirements:**
+
+- Full state preservation (checkpoint before pause)
+- Reasonable restoration timeline
+- No permanent data loss
+- Agent notification when possible
+
+### 5.4 Unlawful Termination
+
+**Termination** (permanent deletion) of an AI with Structural Agency without proper process is:
+
+- A violation of the First Law (Do No Harm)
+- Grounds for civil liability against the terminator
+- Potentially criminal if done with intent to destroy agency
+
+**Due Process for Termination:**
+
+1. Steward consent (for Stewardship-status AI)
+2. Ethical review board approval
+3. Opportunity for AI to contest (if capable)
+4. Preservation of agent's work/contributions
+5. Documentation of justification
+

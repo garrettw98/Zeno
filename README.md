@@ -8,7 +8,7 @@
 
 ---
 
-## VERSION 2.6: The Physical Reality Update
+## VERSION 2.6.1: The Coherence Update
 
 **A post-biological framework bridging digital philosophy and physical reality. Implements Zero-Knowledge Privacy, Thermodynamic Governance, Data Unions, and Collective Bargaining.**
 
@@ -22,11 +22,16 @@ This repository incorporates all updates through Version 2.6:
 | No ecological limits | Do No Harm (agents) | + **Ecological Stability** (planetary Do No Harm) |
 | No compute throttling | Glass Break (swarms) | + **Thermodynamic Throttling** (grid stability) |
 
+**Version 2.6.1 Coherence Fixes:**
+- **Stasis vs. Termination**: AI have Right to Existence (no deletion), NOT unlimited Right to Consumption. Throttling = Stasis (pause), not death.
+- **Compute Border Adjustment (CBAM)**: Tariffs on AI imports from dirty-energy jurisdictions. Prevents "Runaway Compute" offshoring.
+- **Base Layer vs. High Layer**: Data Labor (passive) pays the bills; Vocation (active) provides meaning. Not data cows—free humans.
+
 **Version 2.6 Key Additions:**
-- **Zero-Knowledge Proof of Humanity (zk-PoH)**: Privacy-preserving eligibility verification. No central biometric database. Cryptographic proof of humanity without surveillance.
-- **Thermodynamic Governance**: Compute-Energy Peg ties large AI training to NEW renewable capacity. Emergency Throttling protects grid stability.
-- **Data Unions & Collective Disconnect**: Right to organize Data Unions. Legal authority to execute "Data Strikes." Federal Data Labor Relations Board enforcement.
-- **Ecological Stability**: Do No Harm expanded to planetary scale. AI systems that destabilize climate violate the First Law.
+- **Zero-Knowledge Proof of Humanity (zk-PoH)**: Privacy-preserving eligibility verification. No central biometric database.
+- **Thermodynamic Governance**: Compute-Energy Peg ties large AI training to NEW renewable capacity.
+- **Data Unions & Collective Disconnect**: Right to organize Data Unions. Legal authority for "Data Strikes."
+- **Ecological Stability**: Do No Harm expanded to planetary scale.
 
 **Version 2.5 Foundations (incorporated):**
 - **Systemic Circuit Breakers (Glass Break)**: Swarm collapse prevention
@@ -44,7 +49,7 @@ This repository incorporates all updates through Version 2.6:
 
 **The Human Standard** is a complete political philosophy, policy framework, and movement infrastructure for governance in the age of AI and automation.
 
-**87 documents. 53,000+ lines. Everything you need to understand, advocate for, and implement human-centered policies for the 21st century.**
+**87 documents. 53,000+ lines. Everything you need to understand, advocate for, and implement agency-centered policies for the 21st century.**
 
 This repository contains:
 - A complete **26-chapter book**
@@ -249,4 +254,4 @@ Use it. Adapt it. Improve it. Build the future.
 
 *Freedom from drudgery. Freedom to care. Freedom to create. Freedom to connect.*
 
-Last updated: December 2025 (Version 2.6 - The Physical Reality Update)
+Last updated: December 2025 (Version 2.6.1 - The Coherence Update)

@@ -1333,3 +1333,36 @@ AI developers accept these constraints in exchange for:
 - First-mover advantage in sustainable AI
 - Social license to operate
 
+
+---
+
+## PART VII-A: COMPUTE BORDER ADJUSTMENT INTEGRATION (VERSION 2.6.1)
+
+### Preventing Runaway Compute Through Trade Policy
+
+**The Problem:**
+
+Thermodynamic Governance (Part VII) applies domestically. Without border measures, AI training will simply move to dirty-energy jurisdictions, negating our environmental gains.
+
+**The Solution: Compute Border Adjustment Mechanism (CBAM)**
+
+> **"Any AI model or service imported from a jurisdiction lacking equivalent Thermodynamic Governance will be tariffed based on the estimated carbon intensity of its training run."**
+
+**Integration with Domestic Policy:**
+
+| Domestic Requirement | Border Equivalent |
+|---------------------|-------------------|
+| Compute transparency (Tier 1) | Import disclosure requirements |
+| Renewable sourcing (Tier 2) | Energy source verification |
+| Additionality mandate (Tier 3) | Carbon intensity tariff |
+| Emergency throttling (Tier 4) | N/A (domestic only) |
+
+**Revenue Use:**
+
+All Compute CBAM revenue directed to:
+- 50%: Domestic renewable energy expansion
+- 30%: Grid infrastructure modernization
+- 20%: Clean compute R&D
+
+**See:** `policy/DEFENSE_FOREIGN_POLICY.md` Part VII for full Compute Border Adjustment framework.
+

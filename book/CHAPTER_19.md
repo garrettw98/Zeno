@@ -1,17 +1,17 @@
 # Chapter 19
-## Human-Centered Capitalism as Operating System
+## Agency-Centered Capitalism as Operating System
 
 ---
 
-Andrew Yang popularized the term during his 2020 presidential campaign: Human-Centered Capitalism. The phrase captures a fundamental reorientation—from an economy that treats humans as inputs to one that treats humans as the point.
+Andrew Yang popularized the term during his 2020 presidential campaign: Agency-Centered Capitalism. The phrase captures a fundamental reorientation—from an economy that treats humans as inputs to one that treats humans as the point.
 
 "Humans are more important than money," Yang would say. "Markets exist to serve our common goals and values." Simple statements that sound obvious until you examine how our current systems actually work.
 
 GDP grows while median wages stagnate. Stock markets boom while communities decay. Corporate profits surge while families struggle. The economy, by its own metrics, succeeds. By human metrics, it increasingly fails.
 
-Human-Centered Capitalism proposes different metrics, different goals, different measures of success. It does not reject capitalism—markets, property, incentives remain. But it insists that capitalism serve human flourishing rather than demanding that humans serve capitalism.
+Agency-Centered Capitalism proposes different metrics, different goals, different measures of success. It does not reject capitalism—markets, property, incentives remain. But it insists that capitalism serve human flourishing rather than demanding that humans serve capitalism.
 
-For The Human Standard, Human-Centered Capitalism becomes the operating system—the foundational logic that governs how AI administration actually functions. The AI must optimize for something. What it optimizes for determines everything else.
+For The Human Standard, Agency-Centered Capitalism becomes the operating system—the foundational logic that governs how AI administration actually functions. The AI must optimize for something. What it optimizes for determines everything else.
 
 ---
 
@@ -39,7 +39,7 @@ Partly because we have not built alternatives. Critiquing GDP is easy; replacing
 
 ### The Human-Centered Metrics
 
-Human-Centered Capitalism measures what matters:
+Agency-Centered Capitalism measures what matters:
 
 **Health**
 - Life expectancy at birth
@@ -113,7 +113,7 @@ Over time, the Human-Centered GDP would become the primary reference. Citizens w
 
 ### AI Optimization
 
-Here is where Human-Centered Capitalism becomes operational: government AI systems must optimize for human-centered metrics, not GDP.
+Here is where Agency-Centered Capitalism becomes operational: government AI systems must optimize for human-centered metrics, not GDP.
 
 This is not abstract. AI systems optimize for whatever objective function they are given. If we tell AI to maximize GDP, it will find ways to maximize GDP—even if those ways harm human wellbeing. If we tell AI to maximize human flourishing, it will find ways to do that instead.
 
@@ -186,7 +186,7 @@ These constraints are built into the AI systems themselves—not policies that c
 
 ### Markets Within Boundaries
 
-Human-Centered Capitalism is not socialism. Markets continue operating. Private property is protected. Incentives motivate effort and innovation. The differences are in goals and constraints.
+Agency-Centered Capitalism is not socialism. Markets continue operating. Private property is protected. Incentives motivate effort and innovation. The differences are in goals and constraints.
 
 **Goals**: The economy serves human flourishing, measured by Human-Centered metrics. Growth is good when it improves wellbeing; growth that harms wellbeing is failure, not success.
 
@@ -202,7 +202,7 @@ This is not a new idea. It is the recognition that markets are means, not ends�
 
 ### The Historical Parallel
 
-Human-Centered Capitalism has precedent in the post-war consensus that built the American middle class.
+Agency-Centered Capitalism has precedent in the post-war consensus that built the American middle class.
 
 From 1945 to 1975, American capitalism operated differently:
 
@@ -216,13 +216,13 @@ The result was broad-based growth. Productivity gains flowed to workers. The mid
 
 This consensus broke down starting in the 1970s. Tax cuts favored wealth accumulation. Unions weakened. Regulation retreated. Social programs were cut. The economy was reoriented around maximizing returns to capital rather than broadly shared prosperity.
 
-Human-Centered Capitalism proposes a new consensus appropriate to the automation age. Not a return to 1955—technology and society have changed—but a recovery of the principle that economic systems should serve human flourishing.
+Agency-Centered Capitalism proposes a new consensus appropriate to the automation age. Not a return to 1955—technology and society have changed—but a recovery of the principle that economic systems should serve human flourishing.
 
 ---
 
 ### Implementation
 
-Human-Centered Capitalism is not just a philosophy. It is a set of operational changes:
+Agency-Centered Capitalism is not just a philosophy. It is a set of operational changes:
 
 **Metric publication**: Annual Human-Centered GDP report from independent agency. Required consideration in all major policy decisions.
 
@@ -250,11 +250,11 @@ Imagine an America where:
 - Politicians compete on who can best improve human flourishing
 - AI systems relentlessly optimize for what actually matters to people
 
-This is Human-Centered Capitalism in operation. It is not utopia—problems remain, tradeoffs persist, perfection is impossible. But it is an economy oriented toward the right goals, measured by the right metrics, governed by the right constraints.
+This is Agency-Centered Capitalism in operation. It is not utopia—problems remain, tradeoffs persist, perfection is impossible. But it is an economy oriented toward the right goals, measured by the right metrics, governed by the right constraints.
 
 Technology serves humanity. Not the other way around.
 
-The Human Standard makes this operational. Human-Centered Capitalism provides the foundation.
+The Human Standard makes this operational. Agency-Centered Capitalism provides the foundation.
 
 ---
 

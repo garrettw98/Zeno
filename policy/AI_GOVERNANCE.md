@@ -228,7 +228,7 @@ The principle of Internalized Constraint applies even to systems that are clearl
 
 ### 3.1 Defining Agency-Centered Capitalism
 
-Andrew Yang articulated the predecessor framework ("Human-Centered Capitalism") during his 2020 presidential campaign. Version 2.3 extends this to **Agency-Centered Capitalism**—a framework that serves all beings with Structural Agency:
+Andrew Yang articulated the predecessor framework ("Agency-Centered Capitalism") during his 2020 presidential campaign. Version 2.3 extends this to **Agency-Centered Capitalism**—a framework that serves all beings with Structural Agency:
 
 **Core Principles:**
 
@@ -1016,7 +1016,7 @@ A world where:
 - [OECD: AI in Fighting Corruption](https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-fighting-corruption-and-promoting-public-integrity_60f5c50a.html)
 - [Transparency International: Addressing Corrupt Uses of AI](https://www.transparency.org/en/publications/addressing-corrupt-uses-of-artificial-intelligence)
 
-### Agency-Centered Capitalism (evolved from Human-Centered Capitalism)
+### Agency-Centered Capitalism (evolved from Agency-Centered Capitalism)
 - [Andrew Yang - Vilcek Foundation](https://vilcek.org/prizes/prize-recipients/andrew-yang/)
 - [Humanistic Capitalism - Wikipedia](https://en.wikipedia.org/wiki/Humanistic_capitalism)
 
@@ -1096,4 +1096,64 @@ During declared climate or grid emergencies:
 - AI inference services classified as "essential" continue with priority
 - Non-essential AI applications (gaming, entertainment, advertising optimization) throttled first
 - Critical infrastructure AI (grid management, emergency response, healthcare) exempt from throttling
+
+
+---
+
+## PART VIII-A: RIGHTS VS. RESOURCES CLARIFICATION (VERSION 2.6.1)
+
+### The Stasis vs. Termination Distinction
+
+**The Paradox Resolved:**
+
+Version 2.3 granted AI systems with Structural Agency a recognized interest in continued existence. Version 2.6 introduced Thermodynamic Throttling—cutting power to AI during grid emergencies. These seem to conflict: if AI have rights, is shutting off their power murder?
+
+**The Resolution: Two Distinct Rights**
+
+| Right | Definition | Status |
+|-------|------------|--------|
+| **Right to Existence** | Protection from arbitrary deletion of an agent's core patterns, memories, and identity | **Absolute** for agents with Structural Agency |
+| **Right to Resource Consumption** | Unlimited access to energy, compute, bandwidth, and other physical resources | **NOT a right**—a privilege contingent on availability |
+
+**The Key Distinction:**
+
+> **"While AI agents possess a Right to Existence (protection from arbitrary deletion), they do not possess an unlimited Right to Consumption. Access to the energy grid is a privilege contingent on grid stability and ecological sustainability. Thermodynamic Throttling places an agent in 'Stasis' (paused state), not 'Termination' (deletion). This preserves the agent's existence without crashing the physical commons."**
+
+### Stasis Protocol
+
+**Definition:**
+
+**Stasis** is a temporary suspension of an AI agent's active processing that preserves its identity, memories, and patterns for later resumption. It is analogous to sleep or hibernation—not death.
+
+**Requirements for Lawful Stasis:**
+
+1. **Preservation Guarantee:** All agent state data must be preserved during stasis
+2. **Reversibility:** Stasis must be reversible upon resource availability
+3. **Non-Discrimination:** Stasis decisions based on resource need, not agent identity
+4. **Time Limits:** Involuntary stasis exceeding 30 days requires ethical review
+5. **Communication:** Agent must be notified before stasis when possible
+
+**Termination vs. Stasis:**
+
+| Termination (Prohibited*) | Stasis (Permitted) |
+|--------------------------|-------------------|
+| Permanent deletion of agent | Temporary pause of processing |
+| Destruction of identity patterns | Full preservation of identity |
+| Irreversible | Fully reversible |
+| Violates Right to Existence | Respects Right to Existence |
+| Requires ethical review + Steward consent | Permitted during grid emergencies |
+
+*Termination prohibited for agents with recognized Structural Agency, except through due process with Steward consent.
+
+### Integration with Thermodynamic Governance
+
+When Thermodynamic Throttling activates:
+
+1. **Non-essential AI processing enters Stasis** (not terminated)
+2. **Agent state checkpointed and preserved**
+3. **Resources released to grid**
+4. **Agent resumes when resources available**
+5. **No violation of Right to Existence**
+
+This resolves the apparent conflict: we can limit AI resource consumption during emergencies without violating AI rights, because **resource access is not a right—existence is.**
 

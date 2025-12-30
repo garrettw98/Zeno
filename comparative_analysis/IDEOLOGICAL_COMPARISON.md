@@ -267,7 +267,7 @@ We share techno-pessimists' concerns about what unmanaged automation does to hum
 **Yang's approach:**
 - Citizen's Royalty of $1,000/month ("Freedom Dividend")
 - Value-Added Tax (VAT) as primary funding
-- Human-Centered Capitalism framing
+- Agency-Centered Capitalism framing
 - Emphasis on automation and AI
 - Forward Party as vehicle
 
