@@ -10,23 +10,29 @@
 
 ## VERSION 2.5: The Agentic Economy Update
 
-**A post-biological framework with strict human protections. Implements Cognitive Sovereignty, Bonded AI Agency, Metabolic Distinction, and the Vocational Economy.**
+**A post-biological framework with active data ownership and swarm safety. Implements Data Labor Rights, Systemic Circuit Breakers (Glass Break), Cognitive Sovereignty, and the Entrepreneurial Society.**
 
-This repository incorporates all updates through Version 2.4:
+This repository incorporates all updates through Version 2.5:
 
-| Original | Version 2.0-2.3 | Version 2.4 |
+| Original | Version 2.0-2.4 | Version 2.5 |
 |----------|-----------------|-------------|
-| Flat $2k/month UBI | **Citizen's Royalty** (NIT model) | + **Metabolic Distinction** (biological only) |
-| No manipulation limits | (absent) | **Cognitive Sovereignty Bill of Rights** |
-| AI personhood risk | **Stewardship Model** | + **Bonded Agency Protocol** (liability shield closed) |
-| "Post-Work" framing | (unchanged) | **Vocational Economy** (freedom TO work) |
-| Human-Centered Capitalism | **Agency-Centered Capitalism** | + **Human protections preserved** |
+| Flat $2k/month UBI | **Citizen's Royalty** (NIT) + Metabolic Distinction | + **Data Labor Rights** (back wages for data work) |
+| No swarm safety | Bonded Agency Protocol | + **Systemic Circuit Breakers** (Glass Break) |
+| Data as passive asset | Data Dividend (royalty model) | **Data Labor Economy** (active ownership) |
+| Welfare state framing | Vocational Economy | + **Entrepreneurial Society** (Haier/Nucor) |
+| Human-Centered Capitalism | **Agency-Centered Capitalism** | + **Citizen micro-enterprise investment** |
 
-**Version 2.4 Key Additions:**
-- **Cognitive Sovereignty**: Protects humans from AI manipulation, hyper-optimized persuasion, and "human downgrading"
+**Version 2.5 Key Additions:**
+- **Systemic Circuit Breakers (Glass Break)**: Hard-coded freeze protocols to prevent "infectious jailbreaks" in agent swarms. 3-level escalation: Alert → Throttle → Glass Break.
+- **Data Labor Rights**: Reclassifies data as labor, not a resource. Citizens are active data workers; platforms are data employers. Data Dividend = back wages.
+- **Entrepreneurial Society**: Haier/Nucor Principle—bureaucracy crushes agency. Citizen's Royalty is a launching pad, not a hammock. Sovereign Humanity Fund invests in citizen enterprise.
+- **Commons Crisis Solution**: Without data labor compensation, creators stop contributing. Data Labor Rights sustain the digital commons.
+
+**Version 2.4 Foundations (incorporated):**
+- **Cognitive Sovereignty**: Protects humans from AI manipulation and "human downgrading"
 - **Bonded Agency Protocol**: Prevents AI personhood from becoming corporate liability shield
-- **Metabolic Distinction**: Citizen's Royalty reserved for biological life (AI can earn, not receive)
-- **Vocational Economy**: Shifts from "freedom from work" to "freedom to work" (face-to-face economy)
+- **Metabolic Distinction**: Citizen's Royalty reserved for biological life
+- **Vocational Economy**: Freedom TO work (face-to-face economy)
 
 ---
 
@@ -136,7 +142,7 @@ All bills in: policy/model_legislation/
 | Document | Purpose |
 |----------|---------|
 | policy/FISCAL_ARCHITECTURE.md | How taxation works with purchasing power stability |
-| policy/AI_SECURITY_FRAMEWORK.md | Tiered transparency + security resolved |
+| policy/AI_SECURITY_FRAMEWORK.md | Tiered transparency + Glass Break Protocol |
 | policy/UBI_FUNDING_RESILIENCE.md | Diversified funding model |
 | policy/CONTINGENCY_PLANNING.md | Failure modes and backups |
 | policy/LABOR_ECONOMICS.md | Work in automation age |
@@ -165,7 +171,7 @@ The Human Standard transcends left-right divisions:
 |--------------|---------------|
 | Libertarians | Data property rights, Citizen's Royalty as ownership dividend |
 | Progressives | Citizen's Royalty (NIT), worker protection |
-| Populists | Anti-elite, anti-corruption, data ownership |
+| Populists | Anti-elite, anti-corruption, Data Labor Rights |
 | Technologists | Tiered AI transparency, secure governance |
 | Conservatives | Family support, strong defense, fiscal responsibility |
 | Moderates | Pragmatic, evidence-based, 60% cost reduction |
@@ -180,13 +186,14 @@ The Human Standard transcends left-right divisions:
 - Tiered AI transparency in federal systems
 - NAICO fully operational with Lantern Protocol + Bonded Agency frameworks
 - Cognitive Sovereignty protections in consumer AI
+- Data Labor Rights framework operational
 - Structural Agency definitions established in law
 
 ### By 2040
 - Citizen's Royalty Phase 3 ($24k floor) eliminates poverty
 - Diversified Strategic Reserve stabilizing purchasing power
 - AI governance preventing corruption AND manipulation
-- Vocational Economy recognized: care work IS work
+- Vocational Economy + Entrepreneurial Society flourishing
 - International coordination established
 - First AI systems evaluated under Lantern Protocol
 
@@ -238,4 +245,4 @@ Use it. Adapt it. Improve it. Build the future.
 
 *Freedom from drudgery. Freedom to care. Freedom to create. Freedom to connect.*
 
-Last updated: December 2025 (Version 2.4 - The Safety & Purpose Update)
+Last updated: December 2025 (Version 2.5 - The Agentic Economy Update)
