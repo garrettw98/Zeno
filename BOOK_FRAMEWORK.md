@@ -147,7 +147,7 @@ This book argues that:
 - **Supply chain authenticity**: Pharmaceuticals, food safety, counterfeit prevention
 - **Blockchain voting**: Estonia's success, security and transparency
 - **Sound money**: Bitcoin as hedge against monetary debasement
-- **The Strategic Bitcoin Reserve**: Trump's March 2025 Executive Order
+- **The Diversified Strategic Reserve**: Trump's March 2025 Executive Order
 - **Lessons from El Salvador**: Why mandates fail, how incentives succeed
 
 ---
@@ -251,7 +251,7 @@ This book argues that:
 
 **Medium-term Policies (2027-2030):**
 
-5. **Universal Basic Income Pilot Program**
+5. **Citizen's Royalty Pilot Program**
    - Begin with hardest-hit regions and demographics
    - Start at $500/month, scale based on automation metrics
    - Study effects on work, wellbeing, economic activity
@@ -283,7 +283,7 @@ This book argues that:
 
 **Long-term Policies (2030+):**
 
-10. **Universal Basic Income Expansion**
+10. **Citizen's Royalty Expansion**
     - Scale UBI to $1,500-2,000/month as automation accelerates
     - Fund through automation dividend, data dividend, carbon tax, wealth tax
     - Adjust based on regional cost of living
@@ -385,7 +385,7 @@ This book argues that:
     - Bitcoin and approved crypto as legal tender (voluntary acceptance)
     - No capital gains tax on crypto purchases under $10,000
     - Sound Money Savings Accounts (tax-advantaged Bitcoin holdings)
-    - Strategic Bitcoin Reserve expansion (target: 1 million BTC)
+    - Diversified Strategic Reserve expansion (target: 1 million BTC)
 
 15. **Stablecoin Standards**
     - 100% reserve requirements for approved stablecoins
@@ -424,7 +424,7 @@ This book argues that:
 - **Inviolable constraints**: Do no harm, maximize flourishing, preserve agency, maintain transparency, serve all equally
 - **The measurement**: Annual Human-Centered GDP alongside traditional metrics
 
-### Chapter 20: The Open Source Mandate
+### Chapter 20: The Tiered Transparency Framework
 *Why government AI must be fully transparent*
 
 - **O-SAIF's argument** (February 2025): Open source ensures auditability, security, no capture
@@ -492,7 +492,7 @@ This book argues that:
 *The future we could build*
 
 **The Optimistic Scenario:**
-- Universal basic income provides security for all
+- The Citizen's Royalty provides security for all
 - Automation has eliminated drudgery and dangerous work
 - Humans focus on creativity, care, connection, and meaning
 - Environmental restoration through efficient, automated systems

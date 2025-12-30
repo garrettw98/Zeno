@@ -462,7 +462,7 @@ We fight for human dignity against exploitation. We fight for the many against t
 - First automation tax legislation passes
 - UBI pilots expand to state programs
 - Open source AI in government procurement
-- Sound money options available
+- Purchasing power stability options available
 - Opposition forced to negotiate
 
 **Opposition Response:**

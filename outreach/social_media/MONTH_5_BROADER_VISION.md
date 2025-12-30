@@ -356,7 +356,7 @@ supporting disabled family members.
 
 Current system: Your work is invisible. No income. No recognition.
 
-With UBI: $2,000/month for caregiving. Finally valued.
+With UBI: the Citizen's Royalty (up to $12,000/year under the NIT model) for caregiving. Finally valued.
 
 This isn't about pushing any lifestyle. It's about recognizing that
 caring for humans is valuable - whether the market pays for it or not.

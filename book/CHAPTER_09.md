@@ -186,7 +186,7 @@ The Human Standard does not propose replacing the dollar with Bitcoin. It propos
 
 **Sound Money Savings Accounts**: Tax-advantaged accounts for holding Bitcoin, similar to retirement accounts. Allow citizens to save in sound money without tax penalty.
 
-**Strategic Bitcoin Reserve**: The United States should hold Bitcoin as a reserve asset, alongside gold and foreign currencies. The executive order signed in March 2025 began this process.
+**Diversified Strategic Reserve**: The United States should hold Bitcoin as a reserve asset, alongside gold and foreign currencies. The executive order signed in March 2025 began this process.
 
 This is not crypto maximalism. It is monetary pluralism. Let the dollar compete with alternatives. Let citizens choose what they trust. If the dollar is sound, it will prevail. If it is not, citizens should have options.
 
@@ -248,7 +248,7 @@ Consider the infrastructure we build:
 
 **Electoral integrity**: Voting systems that are both secure and verifiable, auditable by anyone while protecting ballot secrecy.
 
-**Monetary freedom**: Sound money options that cannot be debased, alongside regulated stablecoins that provide dollar stability without surveillance.
+**Monetary freedom**: Purchasing power stability options that cannot be debased, alongside regulated stablecoins that provide dollar stability without surveillance.
 
 This is the truth infrastructure—the technological foundation for maintaining trust in an age when AI makes forgery trivial.
 

@@ -218,7 +218,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 **Contents:**
 - Automation Productivity Tax (5% rate)
 - Carbon tax ($50/ton)
-- UBI expansion ($1,000/month)
+- Citizen's Royalty Phase 2 ($18k floor)
 - AI governance regulations
 - Blockchain infrastructure pilots
 
@@ -250,7 +250,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 **Contents:**
 - Automation Tax at full rate (15%)
 - Data tax at full rate
-- UBI at full amount ($2,000/month)
+- UBI at full amount (the Citizen's Royalty (up to $12,000/year under the NIT model))
 - Comprehensive AI governance
 - Wealth tax (if constitutional)
 - Program consolidation
@@ -301,7 +301,7 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
    - Establish review process
    - Create public database
 
-4. **Strategic Bitcoin Reserve** (Treasury authority)
+4. **Diversified Strategic Reserve** (Treasury authority)
    - Begin acquisition program
    - Establish custody protocols
    - Transparency reporting
@@ -507,14 +507,14 @@ Ideas don't become law by themselves. The Human Standard's policies must navigat
 
 - Automation tax at 5% (if midterms successful)
 - Carbon tax passes
-- UBI expands to $1,000/month
+- Citizen's Royalty expands to Phase 2 ($18k floor)
 - AI governance comprehensive legislation
 - Additional state adoptions
 
 ### Year 5-7 (2029-2032): Full Implementation
 
 - Full automation tax (15%)
-- UBI at $2,000/month
+- UBI at the Citizen's Royalty (up to $12,000/year under the NIT model)
 - Program consolidation complete
 - Constitutional amendment introduced
 - Wealth tax attempted (litigation likely)

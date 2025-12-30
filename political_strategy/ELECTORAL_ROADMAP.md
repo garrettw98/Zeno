@@ -412,7 +412,7 @@ If major parties resist:
 
 **Year 1 of Administration:**
 - Executive orders on AI governance for federal systems
-- Begin Strategic Bitcoin Reserve accumulation
+- Begin Diversified Strategic Reserve accumulation
 - Establish UBI Administration within Treasury
 - Launch enrollment for initial UBI phase
 - Appoint Human Standard leaders to key positions
@@ -424,13 +424,13 @@ If major parties resist:
 - Digital asset regulatory framework operational
 
 **Years 3-4:**
-- UBI increases to $1,000/month
+- Citizen's Royalty increases to Phase 2 ($18k floor)
 - Full AI governance framework operational
 - International coordination on automation economy
 - State adoption of model legislation accelerates
 
 **Years 5-8:**
-- UBI reaches full $2,000/month
+- UBI reaches full the Citizen's Royalty (up to $12,000/year under the NIT model)
 - Economic effects visible and popular
 - Opposition party forced to accept or expand programs
 - Policies become "third rail" like Social Security
@@ -459,7 +459,7 @@ Making policies stick against future reversal:
 - International coordination makes unilateral reversal costly
 
 ### Metrics for Success (Years 8-12)
-- Full UBI operational ($2,000/month to all adults)
+- Full UBI operational (the Citizen's Royalty (up to $12,000/year under the NIT model) to all adults)
 - Poverty rate below 4%
 - AI governance framework globally influential
 - Opposition party accepts program legitimacy

@@ -69,7 +69,7 @@ This document provides transparency about the methodology, evidence bases, and c
 
 | Program | Cost Estimate | Confidence | Notes |
 |---------|--------------|------------|-------|
-| UBI at $2000/month | $6.2T gross | HIGH | Simple arithmetic |
+| UBI at the Citizen's Royalty (up to $12,000/year under the NIT model) | $6.2T gross | HIGH | Simple arithmetic |
 | Tax recapture | $1T | MEDIUM | Depends on rate structure |
 | Program replacement | $1-1.5T | MEDIUM | Depends on policy choices |
 | Net new funding | $3-4T | MEDIUM | Sum of above with ranges |

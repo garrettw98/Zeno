@@ -158,7 +158,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 - Trust infrastructure collapses
 - Digital verification unreliable
 - Cryptocurrency value crashes
-- Strategic Bitcoin Reserve loses value
+- Diversified Strategic Reserve loses value
 
 **Contingency Plan:**
 
@@ -214,7 +214,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 2. **Progressive Scaling**
    - UBI amount adjusts to available funding
    - Minimum guarantee: $500/month
-   - Target: $2,000/month
+   - Target: the Citizen's Royalty (up to $12,000/year under the NIT model)
    - Scale between based on revenue
 
 3. **Enforcement Enhancement**

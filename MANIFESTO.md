@@ -333,7 +333,7 @@ Tax treatment that does not punish users. No capital gains tax on small transact
 
 Government acceptance. Pay your taxes in crypto. Receive your benefits in crypto if you choose. Full integration into the financial system without forced displacement of the dollar.
 
-The Strategic Bitcoin Reserve, expanded. The United States should hold significant Bitcoin as a national asset, just as we hold gold.
+The Diversified Strategic Reserve, expanded. The United States should hold significant Bitcoin as a national asset, just as we hold gold.
 
 A twenty-year voluntary transition. The dollar remains available for those who prefer it. The market determines which money people trust. If the dollar maintains value, citizens will use it. If it continues to debase, citizens have an exit.
 
@@ -354,7 +354,7 @@ Blockchain verification is standard for government communications. Citizens can 
 
 Open source AI handles routine government functions—permit processing, benefits administration, tax filing. Corruption in these functions drops toward zero. Citizens receive consistent, fair treatment regardless of connections.
 
-Sound money options are available. Those who wish to save in assets that cannot be debased can do so without penalty. The quiet theft of inflation is optional rather than mandatory.
+Purchasing power stability options are available. Those who wish to save in assets that cannot be debased can do so without penalty. The quiet theft of inflation is optional rather than mandatory.
 
 ### By 2045
 
@@ -419,7 +419,7 @@ Embrace transparency in your dealings. Build trust through honesty rather than m
 
 Support human-centered enterprises. Choose businesses that treat workers well, that use technology to augment rather than replace, that share gains broadly.
 
-Prepare for the transition. Learn skills that machines cannot replicate. Build communities of mutual support. Diversify your savings to include sound money options.
+Prepare for the transition. Learn skills that machines cannot replicate. Build communities of mutual support. Diversify your savings to include purchasing power stability options.
 
 The political transformation we seek requires personal transformation as well. The world we want must be built by people who already embody its values.
 

@@ -161,7 +161,7 @@ The principle is clear: AI administers; humans govern. Humans set goals and make
 
 Algorithmic government requires safeguards against its own risks:
 
-**The Open Source Mandate**: All government AI must be fully open source. Citizens and researchers can examine the code, identify biases, and propose improvements. No black boxes.
+**The Tiered Transparency Framework**: All civilian government AI must be open source under the Tiered Transparency Framework. Citizens and researchers can examine the code, identify biases, and propose improvements. No black boxes.
 
 **The Override Requirement**: Human review must be available for any AI decision. Citizens can request human consideration of their case. The AI does not have final authority over humans.
 

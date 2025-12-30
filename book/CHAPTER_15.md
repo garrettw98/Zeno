@@ -135,7 +135,7 @@ These areas of agreement provide foundation for coalition building.
 
 The Human Standard is designed to appeal across political divides:
 
-**To conservatives**: We offer market-based mechanisms (automation taxes that adjust incentives rather than mandates), efficiency gains from replacing bureaucratic programs with simple cash transfers, sound money options that protect against currency debasement, and open-source requirements that prevent government from controlling AI.
+**To conservatives**: We offer market-based mechanisms (automation taxes that adjust incentives rather than mandates), efficiency gains from replacing bureaucratic programs with simple cash transfers, purchasing power stability options that protect against currency debasement, and open-source requirements that prevent government from controlling AI.
 
 **To progressives**: We offer universal programs that leave no one behind, redistribution of automation gains from capital to workers, strong labor protections during transition, and human-centered metrics that prioritize wellbeing over GDP.
 

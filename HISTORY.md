@@ -204,7 +204,7 @@ Bitcoin created the first decentralized digital currency. Fixed supply, transpar
 - Energy concerns (for proof-of-work)
 
 **The key point:**
-For the first time, citizens have an alternative to fiat currency. The genie cannot be put back in the bottle. Sound money options now exist.
+For the first time, citizens have an alternative to fiat currency. The genie cannot be put back in the bottle. Purchasing power stability options now exist.
 
 ---
 

@@ -16,7 +16,7 @@ Universal Basic Income is the cornerstone of The Human Standard. But a cornersto
 
 ### 1.1 Scale of Need
 
-**Target UBI:** $2,000/month per adult ($24,000/year)
+**Target UBI:** the Citizen's Royalty (up to $12,000/year under the NIT model) per adult ($24,000/year)
 **Adult Population (U.S.):** ~260 million
 **Annual Funding Requirement:** $6.24 trillion gross
 
@@ -436,7 +436,7 @@ These sources come from restructuring current spending:
 - Implement data tax
 
 **UBI:**
-- Increase to $1,000/month
+- Increase to Phase 2 ($18k floor)
 - Build stabilization fund
 - Expand program consolidation
 

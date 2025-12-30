@@ -21,7 +21,7 @@ A fundamental tension exists in our AI governance proposal: we advocate for **fu
 ### 1.1 The Problem Statement
 
 **Our Advocacy:**
-- All government AI systems must be open source
+- Civilian government AI systems must be open source under the Tiered Transparency Framework (defense/critical infrastructure uses secure audit process)
 - Citizens must be able to audit the code that governs their lives
 - Transparency prevents corruption and bias
 - "Security through obscurity" is rejected as fundamentally flawed

@@ -387,18 +387,18 @@ It is the policy of the United States that:
 
 (f) The United States should lead international efforts to develop sensible digital asset governance.
 
-**Section 2. Strategic Bitcoin Reserve.**
+**Section 2. Diversified Strategic Reserve.**
 
-(a) The Secretary of the Treasury is directed to establish a Strategic Bitcoin Reserve.
+(a) The Secretary of the Treasury is directed to establish a Diversified Strategic Reserve.
 
-(b) Effective immediately, Bitcoin and other digital assets seized by Federal law enforcement and forfeited to the United States shall not be sold at public auction but shall be transferred to the Strategic Bitcoin Reserve, unless:
+(b) Effective immediately, Bitcoin and other digital assets seized by Federal law enforcement and forfeited to the United States shall not be sold at public auction but shall be transferred to the Diversified Strategic Reserve, unless:
 
 (i) Return to a victim is required by law or court order; or
 (ii) The Secretary determines that sale is necessary for other compelling reasons.
 
 (c) The Secretary, in consultation with the Federal Reserve, shall develop a plan for the strategic accumulation of Bitcoin through market purchases, to be submitted to the President within 90 days.
 
-(d) The Strategic Bitcoin Reserve shall be:
+(d) The Diversified Strategic Reserve shall be:
 
 (i) Maintained in secure custody using industry best practices;
 (ii) Subject to regular audit by independent auditors;
