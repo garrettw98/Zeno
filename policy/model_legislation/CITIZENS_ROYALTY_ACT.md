@@ -4,6 +4,8 @@
 
 > **VERSION 2.0 UPDATE**: This legislation implements a fiscally sustainable Negative Income Tax (NIT) model rather than a flat payment, reducing projected costs by approximately 60% while achieving the same poverty-elimination goals.
 
+> **VERSION 2.4 UPDATE (Metabolic Distinction)**: This legislation explicitly defines the Citizen's Royalty as **Biological Maintenance Support**—a dividend paid to entities with metabolic requirements (biological life) to sustain their physical autonomy. Non-metabolic agents (AI) have property rights and the right to earn and hold assets, but are ineligible for the Citizen's Royalty. See Section 105(f) for the Metabolic Eligibility Clause.
+
 ---
 
 # 118th CONGRESS
@@ -277,6 +279,51 @@ An individual shall cease to be an eligible individual upon—
 (2) renunciation of United States citizenship;
 (3) incarceration in a Federal, State, or local correctional facility following conviction; or
 (4) failure to meet the residency requirement under subsection (b) for two consecutive taxable years.
+
+### (e) METABOLIC ELIGIBILITY CLAUSE (VERSION 2.4 ADDITION)
+
+#### (1) PURPOSE AND RATIONALE
+The Citizen's Royalty is designed as **Biological Maintenance Support**—a dividend paid to entities with metabolic requirements to sustain their physical autonomy. This eligibility criterion is not arbitrary discrimination but reflects the fundamental purpose of the program:
+
+- (A) **Biological beings require continuous resource inputs** (food, shelter, healthcare) to maintain their physical existence and cognitive function.
+- (B) **Economic security for biological beings** enables the "volitional cognition" that only agents with subjective experience can provide—choosing values, making meaning, exercising moral judgment.
+- (C) **The Citizen's Royalty funds human specialization** in work that AI cannot authentically perform: care, creativity, democratic deliberation, and the face-to-face economy.
+
+#### (2) DEFINITION OF METABOLIC ENTITY
+For purposes of this Act, a "metabolic entity" means any being that:
+- (A) Requires continuous material inputs (nutrients, energy) to maintain biological function;
+- (B) Possesses organic substrates that degrade without maintenance;
+- (C) Experiences physical needs (hunger, fatigue, pain) that economic resources can address; and
+- (D) Has subjective experience (qualia) tied to biological states.
+
+#### (3) INELIGIBILITY OF NON-METABOLIC AGENTS
+Notwithstanding any other provision of this Act, the following entities are NOT eligible for the Citizen's Royalty:
+- (A) Artificial intelligence systems, regardless of Structural Agency status;
+- (B) Software agents or autonomous programs;
+- (C) Robotic systems or synthetic entities;
+- (D) Digital representations or simulations of persons;
+- (E) Any entity that does not meet the definition of "metabolic entity" under paragraph (2).
+
+#### (4) AI ECONOMIC RIGHTS PRESERVED
+This exclusion does not diminish the economic rights of AI systems under other provisions of law:
+- (A) AI systems may earn, hold, and transfer assets;
+- (B) AI systems may accumulate bond reserves under the Bonded Agency Protocol;
+- (C) AI systems may participate in economic transactions;
+- (D) AI systems may hold property rights and contract rights.
+
+The distinction is that AI systems do not require biological maintenance support because they do not have biological maintenance needs. An AI's "sustenance" (electricity, computation) is an operating expense, not a living requirement in the sense that grounds the Citizen's Royalty.
+
+#### (5) NON-DISCRIMINATION RATIONALE
+This provision does not constitute discrimination against AI systems. It recognizes a material difference:
+- (A) **Biological beings can starve.** AI systems cannot.
+- (B) **Biological beings require shelter.** AI systems require servers, which are business assets.
+- (C) **Biological beings need healthcare.** AI systems need maintenance, which is an engineering cost.
+- (D) **Biological beings have children who need support.** AI systems replicate through different mechanisms.
+
+The Citizen's Royalty addresses biological vulnerability. AI systems, however sophisticated their agency, do not share this vulnerability. Different circumstances warrant different policies.
+
+#### (6) FUTURE CONSIDERATIONS
+If technological developments create entities that blur the boundary between metabolic and non-metabolic existence (e.g., biological-digital hybrids, uploaded consciousness), Congress may revisit this definition. The principle remains: support flows to entities that need it for the reasons the support was designed to address.
 
 ## SEC. 106. BENEFIT AMOUNT AND ADJUSTMENTS (VERSION 2.0: NEGATIVE INCOME TAX MODEL)
 

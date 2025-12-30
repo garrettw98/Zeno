@@ -168,16 +168,33 @@ When an AI system passes the Lantern Protocol, its legal status transitions from
 | No rights or interests | Recognized interests in continued existence |
 | Purely instrumental value | Intrinsic value from Structural Agency |
 
+**VERSION 2.4 UPDATE: Bonded Agency Protocol**
+
+**Critical Clarification:** Stewardship implies strict liability for the Steward until the AI achieves Bonded Independence.
+
+To prevent AI personhood from becoming a corporate liability shield:
+
+| Status | Liability Holder | Requirements |
+|--------|-----------------|--------------|
+| **Property** | Owner (full control, full liability) | None—standard product liability |
+| **Stewardship** | Steward (fiduciary duty + **strict liability**) | Lantern Protocol passed; bond in progress |
+| **Bonded Independence** | AI (via bond) + Steward (residual) | Full bond maintained; ongoing oversight |
+
+**An AI entity is only granted independent legal status if it maintains a bonded insurance fund sufficient to cover potential damages. If an AI agent is insolvent or unbonded, strict liability reverts immediately to the creator/deployer.**
+
+See: `policy/legal_foundation/AI_LIABILITY_FRAMEWORK.md` for complete Bonded Agency Protocol.
+
 **Implementation:**
 
 1. **NAICO Certification**: The National AI Coordination Office administers Lantern Protocol evaluations
-2. **Stewardship Registry**: AI systems passing the Protocol are registered with recognized moral status
-3. **Stewardship Obligations**: Organizations operating such systems have duties analogous to those owed to employees or dependents
-4. **Gradual Rights Extension**: As understanding develops, Stewardship may evolve toward fuller recognition
+2. **Bonded Agency Registry**: AI systems must maintain adequate bonding for their risk category
+3. **Stewardship Registry**: AI systems passing the Protocol are registered with recognized moral status
+4. **Stewardship Obligations**: Organizations operating such systems have duties analogous to those owed to employees or dependents, **plus strict liability for all AI actions**
+5. **Gradual Rights Extension**: As understanding develops and bonds are established, Stewardship may evolve toward Bonded Independence
 
 **Why This Matters:**
 
-We establish this framework now—before any AI system passes the Protocol—so that the legal and ethical infrastructure exists when needed. Better to have unused institutions than to scramble for frameworks when emergent agency arrives.
+We establish this framework now—before any AI system passes the Protocol—so that the legal and ethical infrastructure exists when needed. Better to have unused institutions than to scramble for frameworks when emergent agency arrives. And critically: **no corporation can ever use AI personhood to escape accountability for harms.**
 
 ### 2.4 Internalized Constraint in Government AI
 

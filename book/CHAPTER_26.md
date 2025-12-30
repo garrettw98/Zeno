@@ -21,7 +21,9 @@ Now the town thrives. The automation transition was hard, but policy cushioned t
 
 Maria, 32, works three days a week as a designer for a local manufacturing collective. The factory floor is staffed by robots—humanoid machines that handle the physical work with precision humans never matched. The humans design, coordinate, and make decisions the robots cannot.
 
-Three days is the standard work week now. When automation could produce enough for everyone, society chose to distribute work rather than concentrate it. Maria earns enough for comfortable living between her wages and the automation dividend that every citizen receives.
+Three days is the standard work week now. But the transformation wasn't about working less—it was about working *differently*. When automation absorbed what we called "functional labor" (processing, optimizing, executing), humans shifted to what we now call **Vocational Work**: the face-to-face economy of care, creativity, and connection that requires subjective experience.
+
+Maria earns enough for comfortable living between her wages and the Citizen's Royalty—what earlier generations called "universal basic income" before we understood its true purpose. The Royalty isn't freedom *from* work. It's freedom *to* work—to choose labor that matters rather than labor that survives.
 
 Her children attend school where AI tutors provide personalized attention that no teacher could give thirty students simultaneously. The teachers—there are still teachers—focus on what AI cannot do: inspiring curiosity, modeling citizenship, providing the human connection that children need.
 
@@ -33,9 +35,11 @@ The content she consumes is verified. News articles carry blockchain attestation
 
 Her money is her choice. Maria keeps savings in Bitcoin, spends in stablecoin, and receives her automation dividend in whichever currency she prefers. The dollar still exists; so do alternatives. Markets decided, not mandates.
 
-In the evening, Maria volunteers at the community center. Civic engagement is high—when people have time and security, they participate. The center hosts art classes, discussion groups, and skills workshops. Human connection flourishes when survival no longer consumes all energy.
+In the evening, Maria works at the community center—and yes, it's *work*, even though she calls it "volunteering" from old habit. She facilitates a grief support group (a human-only space, by design) and teaches watercolor to teenagers. The Vocational Economy recognized what earlier eras missed: that care, presence, and creative mentorship are labor as real as any factory shift—labor that requires qualia, subjective experience, the irreplaceable fact of one consciousness meeting another.
 
-This is not utopia. Problems remain. Some people struggle. Debates continue about policy direction. But the basic conditions for human flourishing are in place: security, opportunity, community, meaning.
+This is not utopia. Problems remain. Some people struggle. Debates continue about policy direction. But the basic conditions for human flourishing are in place: security, opportunity, community, meaning. And crucially: **purpose**.
+
+The early critics of automation worried that humans without toil would find no meaning. They were half right. Humans without *any* productive contribution do despair. But the Vocational Economy solved this not by creating make-work but by recognizing that the work humans most need to do—the work of care, connection, creation, and community—was always the most important work. Automation just freed us to do it.
 
 Technology serves humanity. That was the choice made in the 2020s and 2030s, when the Human Standard became policy. The choice paid off.
 
@@ -62,6 +66,51 @@ Looking back from 2050, historians identify the key turning points:
 Each step built on previous ones. Each step faced opposition that was overcome through coalition and evidence. The Human Standard was not implemented all at once—it evolved through decades of incremental progress.
 
 But the direction was set in the 2020s, when the vision was articulated and the movement began. Everything that followed built on that foundation.
+
+---
+
+### The Vocational Economy (VERSION 2.4 ADDITION)
+
+The historians of 2050 call it **The Vocational Economy**, and they mark its emergence as the crucial insight that saved the automation transition from despair.
+
+**What Earlier Generations Got Wrong:**
+
+The 2020s debated "post-work"—a world where humans no longer needed to labor. But this framing contained a fatal flaw. It assumed that automation would free humans *from* work, and that this freedom would be an unalloyed good.
+
+It wasn't. Pilot programs showed troubling signs. Guaranteed income without productive contribution led some to flourishing—but others to depression, isolation, addiction. The research was clear: humans need more than security. They need purpose.
+
+**The Insight:**
+
+The Vocational Economy recognized that automation didn't eliminate the need for human work—it *clarified* it. By absorbing "functional labor" (tasks that could be specified, optimized, and executed by algorithm), automation revealed what only humans could do:
+
+| Functional Labor (AI) | Vocational Labor (Human) |
+|----------------------|--------------------------|
+| Processing information | Choosing what matters |
+| Executing tasks | Deciding what's worth doing |
+| Optimizing for metrics | Defining which metrics matter |
+| Providing services | Providing presence |
+| Generating content | Creating meaning |
+
+**The Face-to-Face Economy:**
+
+What humans uniquely provide is *qualia-dependent work*—labor that requires subjective experience:
+
+- **Care**: A robot can monitor vital signs; a human can *be with* someone who is dying
+- **Mentorship**: An AI can provide information; a human can model what it means to become an adult
+- **Art**: An algorithm can generate images; a human can express what it feels like to be alive
+- **Community**: Software can connect nodes; humans can create belonging
+- **Deliberation**: AI can model outcomes; humans must decide which outcomes we want
+
+**Freedom TO Work:**
+
+The Citizen's Royalty wasn't freedom from work—it was freedom *to* work. It removed the desperation that forced people into functional labor, freeing them to pursue vocational labor. The result:
+
+- Explosion of care work (eldercare, childcare, mentorship)
+- Renaissance in arts and crafts
+- Civic engagement at levels not seen since early democracy
+- Community institutions rebuilt from the ground up
+
+Maria Chen doesn't "volunteer" at the community center despite working three days at the factory. Her facilitation of the grief support group and her watercolor teaching *are* work—vocational work that requires her presence, her experience, her humanity. The Vocational Economy simply recognizes this and compensates it.
 
 ---
 

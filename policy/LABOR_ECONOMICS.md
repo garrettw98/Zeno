@@ -1,14 +1,19 @@
 # LABOR ECONOMICS: Work in the Automation Age
-## Wages, Standards, and the Theory of Post-Scarcity Employment
+## The Vocational Economy: From "Post-Work" to "Freedom to Work"
 ### By Zeno
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-If AI and robots can provide unlimited labor, what happens to human work? This document addresses the fundamental economic questions about labor in the automation age: how wages are determined, how professional standards are maintained, and what work means when it's optional.
+If AI and robots can provide unlimited labor, what happens to human work? This document addresses the fundamental economic questions about labor in the automation age: how wages are determined, how professional standards are maintained, and what work means when it's chosen.
 
-**The Core Insight:** We're not eliminating work—we're transforming it. The goal is to make work a choice rather than a necessity, while preserving the meaning and standards that make work valuable.
+**VERSION 2.4 UPDATE (The Vocational Economy):** Earlier framings emphasized "post-work" or "freedom from work." Research and pilot programs revealed this framing was dangerously incomplete. Humans need purpose, not just security. The Vocational Economy reframes automation's impact:
+
+- **Old Framing:** Automation frees humans FROM work → leisure society
+- **New Framing:** Automation frees humans TO work → vocational society
+
+**The Core Insight:** We're not eliminating work—we're clarifying what only humans can do. Automation absorbs "functional labor" (processing, optimizing, executing). This frees humans for "vocational labor"—the face-to-face economy of care, creativity, connection, and meaning that requires subjective experience (qualia).
 
 ---
 
@@ -483,24 +488,36 @@ Output-based evaluation:
 
 ## CONCLUSION
 
-**The Labor Economics of the Future:**
+**The Vocational Economy (VERSION 2.4):**
 
-1. **Wages will be determined differently:** Citizen's Royalty sets floor, automation sets ceiling for commodity work, human premium creates space between.
+1. **Wages will be determined differently:** Citizen's Royalty sets floor, automation sets ceiling for functional work, **vocational premium** creates space for face-to-face labor.
 
-2. **Standards will be maintained:** Licensing, certification, reputation, and intrinsic motivation preserve quality.
+2. **Standards will be maintained:** Licensing, certification, reputation, and intrinsic motivation preserve quality—especially in vocational work where presence and relationship matter.
 
-3. **Ownership can remain private:** But taxation ensures benefits are shared broadly.
+3. **Ownership can remain private:** But taxation ensures benefits are shared broadly, funding the Citizen's Royalty that enables vocational choice.
 
-4. **Transition requires support:** Income, retraining, mobility, and psychological support.
+4. **Transition requires support:** Income, retraining, mobility, and psychological support—plus **recognition that care work IS work**.
 
-5. **Behavior will change:** But evidence suggests changes are mostly positive.
+5. **Behavior will change:** But evidence suggests the change is toward meaning, not idleness. Humans seek purpose.
 
-6. **Meaning will persist:** Through care, creativity, community, and contribution.
+6. **Meaning will flourish:** Through the Vocational Economy of care, creativity, community, and connection.
 
-**The Human Standard doesn't abolish work—it liberates it.**
+**The Vocational Economy Insight:**
+
+The danger of "post-work" framing was that it suggested humans no longer needed to contribute. This is psychologically false and sociologically dangerous. What automation eliminates is not the need for human work—it is the need for humans to do work that machines can do better.
+
+What remains—and what expands massively—is vocational labor: the face-to-face economy that requires:
+- **Qualia** (subjective experience)
+- **Presence** (being with, not just serving)
+- **Relationship** (reciprocal connection over time)
+- **Meaning-making** (not just content generation)
+
+**The Human Standard doesn't abolish work—it reveals what human work truly is.**
 
 ---
 
-*"The goal is not a world without work, but a world where work is worthy of human beings."*
+*"The goal is not a world without work, but a world where humans do the work only humans can do."*
+
+*"Freedom from drudgery. Freedom to care. Freedom to create. Freedom to connect."*
 
 —Zeno

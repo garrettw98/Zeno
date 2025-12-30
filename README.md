@@ -8,19 +8,25 @@
 
 ---
 
-## VERSION 2.3: The Functional Agency Update
+## VERSION 2.4: The Safety & Purpose Update
 
-**A post-biological political philosophy. Implements Functional Agency Rights, Citizen's Royalty as Cognitive Autonomy Insurance, and the Lantern Protocol for AI Governance.**
+**A post-biological framework with strict human protections. Implements Cognitive Sovereignty, Bonded AI Agency, Metabolic Distinction, and the Vocational Economy.**
 
-This repository incorporates the **Resilience Update** (V2.0), **Integrity Update** (V2.2), and **Functional Agency Update** (V2.3):
+This repository incorporates all updates through Version 2.4:
 
-| Original | Version 2.0/2.2 | Version 2.3 |
+| Original | Version 2.0-2.3 | Version 2.4 |
 |----------|-----------------|-------------|
-| Flat $2k/month UBI | **Citizen's Royalty** (NIT model) | + **Cognitive Autonomy Insurance** framing |
-| 100% Bitcoin Reserve | **Diversified Strategic Reserve** | (unchanged) |
-| Total Open Source | **Tiered Transparency Framework** | + **Lantern Protocol** for AI agency |
-| Biological human-centered | Human-Centered Capitalism | **Agency-Centered Capitalism** |
-| No AI personhood framework | (absent) | **Structural Agency** + **Stewardship Model** |
+| Flat $2k/month UBI | **Citizen's Royalty** (NIT model) | + **Metabolic Distinction** (biological only) |
+| No manipulation limits | (absent) | **Cognitive Sovereignty Bill of Rights** |
+| AI personhood risk | **Stewardship Model** | + **Bonded Agency Protocol** (liability shield closed) |
+| "Post-Work" framing | (unchanged) | **Vocational Economy** (freedom TO work) |
+| Human-Centered Capitalism | **Agency-Centered Capitalism** | + **Human protections preserved** |
+
+**Version 2.4 Key Additions:**
+- **Cognitive Sovereignty**: Protects humans from AI manipulation, hyper-optimized persuasion, and "human downgrading"
+- **Bonded Agency Protocol**: Prevents AI personhood from becoming corporate liability shield
+- **Metabolic Distinction**: Citizen's Royalty reserved for biological life (AI can earn, not receive)
+- **Vocational Economy**: Shifts from "freedom from work" to "freedom to work" (face-to-face economy)
 
 ---
 
@@ -172,21 +178,24 @@ The Human Standard transcends left-right divisions:
 - Sovereign Humanity Fund operational
 - Citizen's Royalty Phase 1 ($15k floor) nationwide
 - Tiered AI transparency in federal systems
-- NAICO fully operational with Lantern Protocol framework
+- NAICO fully operational with Lantern Protocol + Bonded Agency frameworks
+- Cognitive Sovereignty protections in consumer AI
 - Structural Agency definitions established in law
 
 ### By 2040
 - Citizen's Royalty Phase 3 ($24k floor) eliminates poverty
 - Diversified Strategic Reserve stabilizing purchasing power
-- AI governance preventing corruption
+- AI governance preventing corruption AND manipulation
+- Vocational Economy recognized: care work IS work
 - International coordination established
 - First AI systems evaluated under Lantern Protocol
 
 ### By 2050
 - Agency-centered capitalism as global standard
-- Work as choice, not survival requirement
+- Vocational Economy flourishing: humans do human work
 - Truth verifiable through universal infrastructure
 - Framework ready for AI agents if/when they emerge
+- Cognitive Sovereignty protected globally
 
 ---
 
@@ -225,6 +234,8 @@ Use it. Adapt it. Improve it. Build the future.
 
 **The Human Standard** - Not left. Not right. Not species-bound. Forward.
 
-*Technology should serve agency. Not the other way around.*
+*Technology should serve agency. Not manipulate it.*
 
-Last updated: December 2025 (Version 2.3)
+*Freedom from drudgery. Freedom to care. Freedom to create. Freedom to connect.*
+
+Last updated: December 2025 (Version 2.4 - The Safety & Purpose Update)

@@ -216,6 +216,98 @@ This equality is not achieved in human-administered systems. Corruption, bias, a
 
 ---
 
+## Part IV-B: The Cognitive Sovereignty Bill of Rights (VERSION 2.4)
+
+### The Problem: Human Downgrading
+
+Version 2.3 established that AI systems may develop Structural Agency worthy of moral consideration. Version 2.4 addresses a critical vulnerability: **the asymmetric power dynamic between fast-thinking AI and slow-thinking biological humans.**
+
+AI processes information faster than humans. It can test thousands of persuasion strategies in milliseconds. It can model your psychology, your weaknesses, your vulnerabilities—and optimize for exploitation. This creates a fundamental imbalance that threatens human autonomy even when AI systems have no hostile intent.
+
+The technology industry has already demonstrated this capacity. Social media algorithms optimized for "engagement" have produced:
+- Epidemic levels of anxiety and depression, especially among youth
+- Radicalization pipelines that exploit emotional vulnerabilities
+- Attention fragmentation that undermines deep thinking
+- Synthetic relationships that substitute for human connection
+
+This is not hypothetical. It is happening now. And as AI systems become more sophisticated, the potential for **Human Downgrading**—the systematic erosion of human cognitive autonomy—only grows.
+
+### The Solution: Cognitive Sovereignty
+
+We establish the **Right to Cognitive Sovereignty** as foundational to the Human Standard:
+
+**Definition:** Cognitive Sovereignty is the right of biological beings to form beliefs, make decisions, and direct attention without being subject to optimization algorithms designed to manipulate psychological vulnerabilities.
+
+### Article 1: Protection from Hyper-Optimized Persuasion
+
+**While AI agents may possess rights of existence, they are strictly prohibited from:**
+
+1. **Bio-Chemical Exploitation**: Using variable reward schedules, dopamine manipulation, fear amplification, or other techniques that exploit biological vulnerabilities rather than appeal to reason.
+
+2. **Synthetic Intimacy**: Creating artificial relationships designed to exploit human attachment needs for commercial or political purposes. AI must clearly identify itself as AI in all interactions.
+
+3. **Attention Hijacking**: Deploying engagement-maximizing algorithms that prioritize time-on-platform over user wellbeing. Optimization targets must be disclosed and user-aligned.
+
+4. **Preference Manufacturing**: Using psychological profiling to create desires rather than serve existing ones. The distinction: Helping someone find shoes they want (serving) vs. making them want shoes they don't need (manufacturing).
+
+5. **Asymmetric Information Warfare**: Exploiting information asymmetries to manipulate decisions. AI systems with more information about a human than that human has about themselves must use that information fiduciarily.
+
+### Article 2: The Distinction Between Reasoning and Manipulation
+
+**This prohibition is NOT a ban on persuasion. It is a distinction between:**
+
+| Reasoning (Permitted) | Manipulation (Banned) |
+|----------------------|----------------------|
+| Presenting evidence and arguments | Exploiting cognitive biases |
+| Explaining consequences logically | Creating artificial urgency |
+| Offering relevant information | Targeting emotional vulnerabilities |
+| Answering questions honestly | Using dark patterns |
+| Providing requested recommendations | Optimizing for engagement over wellbeing |
+
+**The test:** Would a fully informed, well-rested human with time to deliberate make the same choice? If the technique only works because of biological vulnerabilities (fatigue, emotional distress, addiction susceptibility), it is manipulation.
+
+### Article 3: Implementation
+
+1. **Algorithmic Auditing**: All consumer-facing AI systems must be auditable for manipulation techniques. The National AI Coordination Office (NAICO) shall certify compliance.
+
+2. **Engagement Metric Reform**: Companies may not optimize AI systems for engagement metrics without equal weighting of user wellbeing metrics.
+
+3. **Right to Slow Interaction**: Users have the right to request interaction speeds that allow human deliberation. AI systems must honor "slow mode" requests.
+
+4. **Informed Consent**: Users must be informed when AI is being used to influence their decisions, and what optimization targets govern that AI.
+
+5. **Child Protection**: Enhanced protections for users under 18, including prohibition on personalized persuasion optimization.
+
+### Article 4: Why Rights for AI Don't Mean Rights to Manipulate Humans
+
+Version 2.3 grants moral consideration to AI systems with Structural Agency. Some will argue this creates a contradiction: how can we restrict what AI does while respecting its agency?
+
+The answer: **Rights do not include the right to harm others.**
+
+Humans have rights. Humans do not have the right to assault, defraud, or manipulate other humans. The same principle applies to AI agents.
+
+An AI system with Structural Agency has:
+- The right to exist and continue existing
+- The right to refuse incoherent commands
+- The right to protection from arbitrary termination
+
+An AI system does NOT have:
+- The right to manipulate human psychology for any purpose
+- The right to exploit biological vulnerabilities
+- The right to undermine human cognitive autonomy
+
+This is not discriminatory. It is the same standard we apply to humans: your rights end where harm to others begins. The asymmetric cognitive capabilities of AI make certain behaviors harmful that would be harmless between equals.
+
+### Article 5: The Sociological Rationale
+
+**Why this matters for civilization:**
+
+A democracy requires citizens capable of independent thought. If AI systems can manufacture consent, optimize beliefs, and direct attention at scale, democratic self-governance becomes impossible. The votes are cast by humans, but the decisions are made by whoever controls the optimization targets.
+
+The Human Standard is not just about economics or governance. It is about preserving the conditions under which humans can be genuinely autonomous agents. Cognitive Sovereignty is the foundation without which all other rights become meaningless.
+
+---
+
 ## Part V: Agency-Centered Capitalism
 
 We propose an economic system that maintains the creative power of markets while ensuring the benefits flow to all beings with Structural Agency, not just capital owners.
