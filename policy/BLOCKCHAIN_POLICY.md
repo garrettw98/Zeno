@@ -437,7 +437,7 @@ The goal is not to mandate cryptocurrency, but to **enable choice** and **create
 
 **1.1 Legal Framework:**
 
-**The Digital Asset Freedom Act:**
+**The Strategic Reserve & Monetary Stability Act:**
 - Bitcoin and approved cryptocurrencies recognized as legal tender
 - Merchants MAY accept crypto (not required)
 - No capital gains tax on crypto used for purchases under $10,000
@@ -748,7 +748,7 @@ Rather than a CBDC (which enables surveillance), create a **government-endorsed 
 ### Year 1: Legal Foundation
 
 **Q1-Q2:**
-- Pass Digital Asset Freedom Act
+- Pass Strategic Reserve & Monetary Stability Act
 - Establish National Authenticity Infrastructure framework
 - Begin government content provenance implementation
 

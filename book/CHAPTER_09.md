@@ -184,7 +184,7 @@ The Human Standard does not propose replacing the dollar with Bitcoin. It propos
 
 **Tax treatment**: Small crypto purchases (under $10,000) should not trigger capital gains taxes. Using crypto for coffee should not require calculating basis and gain.
 
-**Sound Money Savings Accounts**: Tax-advantaged accounts for holding Bitcoin, similar to retirement accounts. Allow citizens to save in sound money without tax penalty.
+**Purchasing Power Savings Accounts**: Tax-advantaged accounts for holding Bitcoin, similar to retirement accounts. Allow citizens to save with purchasing power stability without tax penalty.
 
 **Diversified Strategic Reserve**: The United States should hold Bitcoin as a reserve asset, alongside gold and foreign currencies. The executive order signed in March 2025 began this process.
 

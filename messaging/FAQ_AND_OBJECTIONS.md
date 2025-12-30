@@ -133,7 +133,7 @@ The Human Standard includes:
 - **Child Benefit**: $300/month per child (paid to parent/guardian)
 
 So a family with two parents and two children receives:
-- $2,000 + $2,000 + $300 + $300 = $4,600/month = $55,200/year
+- Citizen's Royalty floor + earned income = household total above poverty
 
 This ensures families with children have additional resources without creating incentives for having children for the money (the child benefit is modest relative to actual child-rearing costs).
 
@@ -883,7 +883,7 @@ Citizen's Royalty isn't more expensive—it's less expensive than dealing with t
 **Response:**
 "Alaska has given residents money for 40 years. Are Alaskans all drug addicts? No. The overwhelming evidence from cash transfer programs worldwide is that people spend it on food, housing, education, and starting businesses.
 
-And here's the thing—if someone does spend it poorly, they still only have $2,000 next month. They can't blow it all forever. It's not a windfall; it's a floor."
+And here's the thing—if someone does spend it poorly, they still only have the same floor next month. They can't blow it all forever. It's not a windfall; it's a floor."
 
 ---
 

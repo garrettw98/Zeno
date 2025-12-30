@@ -8,13 +8,13 @@
 
 ---
 
-## VERSION 2.0: The Resilience Update
+## VERSION 2.1: The Resilience Update (Synchronized)
 
 This repository incorporates **Version 2.0: The Resilience Update**, which addresses critical policy vulnerabilities:
 
 | Original | Version 2.0 | Improvement |
 |----------|-------------|-------------|
-| Flat $2k/month Citizen's Royalty | **Citizen's Royalty** (NIT model) | ~60% cost reduction |
+| Flat $2k/month UBI | **Citizen's Royalty** (NIT model) | ~60% cost reduction |
 | 100% Bitcoin Reserve | **Diversified Strategic Reserve** | Reduced volatility |
 | Total Open Source | **Tiered Transparency Framework** | Security + accountability |
 | Deflationary Sound Money | **Purchasing Power Stability** | Prevents consumption collapse |
@@ -125,9 +125,9 @@ All bills in: policy/model_legislation/
 
 | Document | Purpose |
 |----------|---------|
-| policy/FISCAL_ARCHITECTURE.md | How taxation works with sound money |
+| policy/FISCAL_ARCHITECTURE.md | How taxation works with purchasing power stability |
 | policy/AI_SECURITY_FRAMEWORK.md | Tiered transparency + security resolved |
-| policy/Citizen's Royalty_FUNDING_RESILIENCE.md | Diversified funding model |
+| policy/UBI_FUNDING_RESILIENCE.md | Diversified funding model |
 | policy/CONTINGENCY_PLANNING.md | Failure modes and backups |
 | policy/LABOR_ECONOMICS.md | Work in automation age |
 | policy/DISTRIBUTIONAL_ANALYSIS.md | Gender, geography, equity |

@@ -201,7 +201,7 @@ Success of The Human Standard requires building a broad coalition while neutrali
 - Aligns with progressive values
 
 **Potential Concerns**:
-- Not going far enough (want $2,000+/month)
+- Not going far enough (want higher NIT floor)
 - Concerned about VAT regressivity
 - Want stronger labor protections
 - May prefer government jobs programs

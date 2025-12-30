@@ -61,7 +61,7 @@ The Human Standard appeals to different audiences for different reasons. This gu
 ### Key Messages
 
 **Opening:**
-> "Imagine every customer walking in with $2,000 more in their pocket each month. That's what Citizen's Royalty means for Main Street. When working families have money to spend, they spend it at local businesses."
+> "Imagine every customer walking in with the Citizen's Royalty income floor. That's what Citizen's Royalty means for Main Street. When working families have money to spend, they spend it at local businesses."
 
 **On Consumer Demand:**
 > "The biggest threat to small business isn't regulation—it's lack of customers with money. When wealth concentrates at the top, rich people don't buy more haircuts or eat more meals at your restaurant. Citizen's Royalty puts money in the hands of people who will actually spend it in their communities."

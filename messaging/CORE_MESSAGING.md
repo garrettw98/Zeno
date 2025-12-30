@@ -33,7 +33,7 @@
 >
 > In the first future, it's 2040. Self-driving trucks have eliminated 3 million trucking jobs. AI handles customer service, legal research, medical diagnosis, financial analysis. Unemployment is 25%, but the stock market is at all-time highs. A few hundred billionaires own the robot fleets and AI systems. Everyone else is scrambling for the jobs that are left, competing against each other to work for less and less. The American Dream isn't just dead—it's a cruel joke.
 >
-> In the second future, it's also 2040. The same technology exists. Self-driving trucks, AI systems, automation everywhere. But something's different. Those robot trucks pay taxes. Those AI systems pay into a fund. And every American adult—working or not—receives $2,000 every month. Not welfare. Not charity. A dividend. Your share of the productivity your country created together.
+> In the second future, it's also 2040. The same technology exists. Self-driving trucks, AI systems, automation everywhere. But something's different. Those robot trucks pay taxes. Those AI systems pay into a fund. And every American adult—working or not—receives a guaranteed income floor. Not welfare. Not charity. Your share of national prosperity. Your share of the productivity your country created together.
 >
 > In this future, a single mom in Ohio can afford to take night classes without worrying about how she'll pay rent. A small-town entrepreneur can take a risk on a new business without fearing homelessness if it fails. An artist can create without starving. A caregiver can care for their aging parents without going broke. People work because they want to, not because they're terrified of what happens if they don't.
 >

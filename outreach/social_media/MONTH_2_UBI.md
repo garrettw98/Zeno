@@ -741,7 +741,7 @@ HOOK: "Let's make this personal. How would Citizen's Royalty change YOUR life?"
 
 BODY: "Think about it:
 
-An extra $2,000 every month. No matter what.
+A guaranteed income floor. No matter what.
 
 Would you:
 - Finally have an emergency fund?

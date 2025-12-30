@@ -335,7 +335,7 @@ The opportunity: money that cannot be debased.
 
 **No capital gains tax** on crypto purchases under $10,000
 
-**Sound Money Savings Accounts**: tax-advantaged Bitcoin holdings
+**Purchasing Power Savings Accounts**: tax-advantaged Bitcoin holdings
 
 **Diversified Strategic Reserve expansion**: target 1 million BTC
 

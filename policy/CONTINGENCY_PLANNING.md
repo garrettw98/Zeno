@@ -562,7 +562,7 @@ No plan survives contact with reality unchanged. The Human Standard framework ma
 - Elite resistance fractures
 
 **Combined Consequence:**
-- Citizen's Royalty fully funded at $2,000+/month
+- Citizen's Royalty fully funded at $24k+ floor/year
 - AI governance works as designed
 - Global coordination achieved
 - Smooth transition to post-work economy

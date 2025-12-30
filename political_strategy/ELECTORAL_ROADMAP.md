@@ -389,7 +389,7 @@ If major parties resist:
 1. Universal Basic Income Act (full program)
 2. Open Source AI Governance Act
 3. Automation Productivity Tax Act
-4. Digital Asset Freedom Act
+4. Strategic Reserve & Monetary Stability Act
 
 ### Metrics for Success (Years 6-8)
 - 50+ House members in caucus

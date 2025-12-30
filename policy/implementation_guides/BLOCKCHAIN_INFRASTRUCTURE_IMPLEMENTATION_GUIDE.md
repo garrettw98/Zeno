@@ -28,7 +28,7 @@
 
 ## Executive Summary
 
-This implementation guide details the practical steps required to establish the United States as a leader in digital asset adoption while maintaining financial stability and consumer protection. The guide operationalizes the Digital Asset Freedom Act and related provisions of The Human Standard economic framework.
+This implementation guide details the practical steps required to establish the United States as a leader in digital asset adoption while maintaining financial stability and consumer protection. The guide operationalizes the Strategic Reserve & Monetary Stability Act and related provisions of The Human Standard economic framework.
 
 ### Core Objectives
 
